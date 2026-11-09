@@ -1,0 +1,127 @@
+{
+  "_comment": "Search terms per category for tools/fetch_commons.py (one OR-query per category; first among Commons 'Quality images', then in general). 'art' supplements tools/fetch_museums.py with public-domain / CC0 museum reproductions hosted on Commons.",
+  "nature": [
+    "forest",
+    "waterfall",
+    "meadow",
+    "valley",
+    "moss",
+    "lake",
+    "river"
+  ],
+  "animals": [
+    "fox",
+    "deer",
+    "owl",
+    "butterfly",
+    "kingfisher",
+    "squirrel",
+    "tiger",
+    "parrot",
+    "zebra",
+    "heron"
+  ],
+  "cities": [
+    "skyline",
+    "cityscape",
+    "downtown",
+    "rooftops",
+    "metropolis"
+  ],
+  "travel": [
+    "landmark",
+    "village",
+    "harbour",
+    "canal",
+    "terraces",
+    "monastery"
+  ],
+  "sea": [
+    "beach",
+    "coast",
+    "lighthouse",
+    "seascape",
+    "cliffs",
+    "bay"
+  ],
+  "mountains": [
+    "mountains",
+    "alps",
+    "glacier",
+    "volcano",
+    "peak",
+    "dolomites"
+  ],
+  "flowers": [
+    "flower",
+    "tulips",
+    "roses",
+    "lavender",
+    "poppies",
+    "orchid",
+    "sunflower"
+  ],
+  "food": [
+    "fruits",
+    "berries",
+    "vegetables",
+    "bread",
+    "spices",
+    "apples",
+    "citrus",
+    "pastry"
+  ],
+  "architecture": [
+    "cathedral",
+    "bridge",
+    "castle",
+    "mosque",
+    "staircase",
+    "dome",
+    "palace"
+  ],
+  "night": [
+    "milkyway",
+    "aurora",
+    "stars",
+    "startrails",
+    "moon",
+    "nebula",
+    "galaxy"
+  ],
+  "seasons": [
+    "autumn",
+    "foliage",
+    "snow",
+    "frost",
+    "blossom",
+    "springtime",
+    "wheat"
+  ],
+  "patterns": [
+    "mosaic",
+    "stained",
+    "pattern",
+    "tiles",
+    "colorful",
+    "fractal",
+    "kaleidoscope"
+  ],
+  "vehicles": [
+    "locomotive",
+    "sailboat",
+    "balloon",
+    "tram",
+    "viaduct",
+    "schooner",
+    "bicycle"
+  ],
+  "art": [
+    "landscape",
+    "seascape",
+    "stilllife",
+    "flowers",
+    "Rijksmuseum",
+    "impressionism"
+  ]
+}
