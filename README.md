@@ -58,12 +58,15 @@ Unknown fields are ignored by the app, so fields can be added without a schema b
 
 ## Delivery & caching
 
-* **Content is immutable per release tag.** Every publish creates a new tag `vN`; the
-  catalog and all images are read from that tag:
-  `https://cdn.jsdelivr.net/gh/gemixlabss/jiglume-content@vN/<path>` with
-  `https://raw.githubusercontent.com/gemixlabss/jiglume-content/vN/<path>` as fallback
-  (`bases` in `manifest.json`, tried in order by the app). Tag URLs never change, so
-  jsDelivr may cache them forever — no stale images, no purges needed.
+* **Content is immutable per release.** Every publish makes a content commit tagged `vN`
+  (human-readable) and the manifest points at that commit's **SHA**:
+  `https://cdn.jsdelivr.net/gh/gemixlabss/jiglume-content@<sha>/<path>` with
+  `https://raw.githubusercontent.com/gemixlabss/jiglume-content/<sha>/<path>` as fallback
+  (`bases` in `manifest.json`, tried in order by the app). A SHA is as immutable as a tag,
+  so jsDelivr may cache it forever — no stale images, no purges needed — and it keeps
+  working even in environments that refuse tag pushes.
+* jsDelivr serves GitHub repositories up to a size limit; when a release is too large for
+  it, the app silently falls back to raw.githubusercontent.com (second base).
 * **Only `manifest.json` is read from a moving ref (`main`)**, and it is tiny. Method chosen
   to keep it fresh:
   1. The app reads it first from **raw.githubusercontent.com**, which caches for ~5 minutes
@@ -85,7 +88,7 @@ tools/publish.sh              # publish whatever is in inbox/
 
 `publish.sh` runs: `add_images.py` (resize without cropping, WebP, thumbnail, dominant colour,
 pHash duplicate check, rejects < 2000 px) → `build_licenses.py` → `validate_catalog.py` →
-`write_manifest.py vN` → commit, tag `vN`, push → purge the jsDelivr manifest.
+content commit + tag `vN` → `manifest.json` pointing at that commit's SHA → push → purge the jsDelivr manifest.
 
 Individual tools:
 
