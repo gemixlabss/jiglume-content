@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "latest": "v1",
+  "publishedAt": "2026-11-09",
+  "catalog": "catalog.json",
+  "catalogSha256": "53f91871a88b054c1bb06b7bf968c809ce309ea684682e7644decd0f347b6698",
+  "puzzleCount": 24,
+  "bases": [
+    "https://cdn.jsdelivr.net/gh/gemixlabss/jiglume-content@v1/",
+    "https://raw.githubusercontent.com/gemixlabss/jiglume-content/v1/"
+  ]
+}

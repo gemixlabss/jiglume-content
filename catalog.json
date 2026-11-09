@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "v1",
+  "generatedAt": "2026-11-09",
+  "categories": [
+    {
+      "id": "nature",
+      "order": 1,
+      "icon": "forest",
+      "names": {
+        "en": "Nature",
+        "tr": "Doğa"
+      },
+      "l10nKey": "category_nature"
+    },
+    {
+      "id": "animals",
+      "order": 2,
+      "icon": "pets",
+      "names": {
+        "en": "Animals",
+        "tr": "Hayvanlar"
+      },
+      "l10nKey": "category_animals"
+    },
+    {
+      "id": "cities",
+      "order": 3,
+      "icon": "location_city",
+      "names": {
+        "en": "Cities",
+        "tr": "Şehirler"
+      },
+      "l10nKey": "category_cities"
+    },
+    {
+      "id": "travel",
+      "order": 4,
+      "icon": "flight_takeoff",
+      "names": {
+        "en": "Travel",
+        "tr": "Seyahat"
+      },
+      "l10nKey": "category_travel"
+    },
+    {
+      "id": "sea",
+      "order": 5,
+      "icon": "beach_access",
+      "names": {
+        "en": "Sea & Beach",
+        "tr": "Deniz & Sahil"
+      },
+      "l10nKey": "category_sea"
+    },
+    {
+      "id": "mountains",
+      "order": 6,
+      "icon": "landscape",
+      "names": {
+        "en": "Mountains",
+        "tr": "Dağlar"
+      },
+      "l10nKey": "category_mountains"
+    },
+    {
+      "id": "flowers",
+      "order": 7,
+      "icon": "local_florist",
+      "names": {
+        "en": "Flowers",
+        "tr": "Çiçekler"
+      },
+      "l10nKey": "category_flowers"
+    },
+    {
+      "id": "food",
+      "order": 8,
+      "icon": "restaurant",
+      "names": {
+        "en": "Food",
+        "tr": "Yemek"
+      },
+      "l10nKey": "category_food"
+    },
+    {
+      "id": "art",
+      "order": 9,
+      "icon": "palette",
+      "names": {
+        "en": "Art",
+        "tr": "Sanat"
+      },
+      "l10nKey": "category_art"
+    },
+    {
+      "id": "architecture",
+      "order": 10,
+      "icon": "account_balance",
+      "names": {
+        "en": "Architecture",
+        "tr": "Mimari"
+      },
+      "l10nKey": "category_architecture"
+    },
+    {
+      "id": "night",
+      "order": 11,
+      "icon": "nights_stay",
+      "names": {
+        "en": "Night & Sky",
+        "tr": "Gece & Gökyüzü"
+      },
+      "l10nKey": "category_night"
+    },
+    {
+      "id": "seasons",
+      "order": 12,
+      "icon": "eco",
+      "names": {
+        "en": "Seasons",
+        "tr": "Mevsimler"
+      },
+      "l10nKey": "category_seasons"
+    },
+    {
+      "id": "patterns",
+      "order": 13,
+      "icon": "texture",
+      "names": {
+        "en": "Colorful & Patterns",
+        "tr": "Renkli & Desenler"
+      },
+      "l10nKey": "category_patterns"
+    },
+    {
+      "id": "vehicles",
+      "order": 14,
+      "icon": "directions_railway",
+      "names": {
+        "en": "Vehicles",
+        "tr": "Araçlar"
+      },
+      "l10nKey": "category_vehicles"
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "nature-0dbd7833",
+      "categoryId": "nature",
+      "title": "Beech and ferns in Gullmarsskogen",
+      "imagePath": "images/nature/nature-0dbd7833.webp",
+      "thumbPath": "thumbs/nature-0dbd7833.webp",
+      "width": 3000,
+      "height": 2000,
+      "dominantColor": "#315024",
+      "photographer": "W.carter",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-19584dbc",
+      "categoryId": "nature",
+      "title": "Spruce forest at Holma",
+      "imagePath": "images/nature/nature-19584dbc.webp",
+      "thumbPath": "thumbs/nature-19584dbc.webp",
+      "width": 3000,
+      "height": 2250,
+      "dominantColor": "#352b1c",
+      "photographer": "W.carter",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spruce_forest_at_Holma.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-2a234bda",
+      "categoryId": "nature",
+      "title": "Forest in Kurdzhips River Canyon, Mezmay, Russia",
+      "imagePath": "images/nature/nature-2a234bda.webp",
+      "thumbPath": "thumbs/nature-2a234bda.webp",
+      "width": 3000,
+      "height": 1994,
+      "dominantColor": "#5f5d53",
+      "photographer": "Vyacheslav Argenberg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forest_in_Kurdzhips_River_Canyon,_Mezmay,_Russia.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-2a651659",
+      "categoryId": "nature",
+      "title": "Bois Raquet, in the High Fens – Eifel Nature Park (DSCF6655)",
+      "imagePath": "images/nature/nature-2a651659.webp",
+      "thumbPath": "thumbs/nature-2a651659.webp",
+      "width": 3000,
+      "height": 1941,
+      "dominantColor": "#272a29",
+      "photographer": "Trougnouf (Benoit Brummer)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bois_Raquet,_in_the_High_Fens_%E2%80%93_Eifel_Nature_Park_(DSCF6655).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-31f326de",
+      "categoryId": "nature",
+      "title": "Mezmay, Forest, Trees, Russia",
+      "imagePath": "images/nature/nature-31f326de.webp",
+      "thumbPath": "thumbs/nature-31f326de.webp",
+      "width": 3000,
+      "height": 1994,
+      "dominantColor": "#68625c",
+      "photographer": "Vyacheslav Argenberg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezmay,_Forest,_Trees,_Russia.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-3c632adb",
+      "categoryId": "nature",
+      "title": "Roquebrun and Orb River cf02",
+      "imagePath": "images/nature/nature-3c632adb.webp",
+      "thumbPath": "thumbs/nature-3c632adb.webp",
+      "width": 3000,
+      "height": 1594,
+      "dominantColor": "#636053",
+      "photographer": "Christian Ferrer",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roquebrun_and_Orb_River_cf02.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-51f1d62b",
+      "categoryId": "nature",
+      "title": "Hestavaðsfoss Waterfall, Iceland, 20240720 1334 3003",
+      "imagePath": "images/nature/nature-51f1d62b.webp",
+      "thumbPath": "thumbs/nature-51f1d62b.webp",
+      "width": 3000,
+      "height": 2002,
+      "dominantColor": "#8d8a54",
+      "photographer": "Jakub Hałun",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hestava%C3%B0sfoss_Waterfall,_Iceland,_20240720_1334_3003.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-7c6c4dd3",
+      "categoryId": "nature",
+      "title": "Crepuscular rays in the forest near Przeginia Duchowna, Lesser Poland Voivodeship, 20240225 0830 6640",
+      "imagePath": "images/nature/nature-7c6c4dd3.webp",
+      "thumbPath": "thumbs/nature-7c6c4dd3.webp",
+      "width": 3000,
+      "height": 2003,
+      "dominantColor": "#28221c",
+      "photographer": "Jakub Hałun",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crepuscular_rays_in_the_forest_near_Przeginia_Duchowna,_Lesser_Poland_Voivodeship,_20240225_0830_6640.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-94029a8f",
+      "categoryId": "nature",
+      "title": "Ergaki, Siberian pine forest, Spruce forest, Taiga wilderness, Sayan Mountains, Siberia, Russia",
+      "imagePath": "images/nature/nature-94029a8f.webp",
+      "thumbPath": "thumbs/nature-94029a8f.webp",
+      "width": 3000,
+      "height": 2000,
+      "dominantColor": "#20260d",
+      "photographer": "Vyacheslav Argenberg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ergaki,_Siberian_pine_forest,_Spruce_forest,_Taiga_wilderness,_Sayan_Mountains,_Siberia,_Russia.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-e050365c",
+      "categoryId": "nature",
+      "title": "Pont du Vialais",
+      "imagePath": "images/nature/nature-e050365c.webp",
+      "thumbPath": "thumbs/nature-e050365c.webp",
+      "width": 3000,
+      "height": 2002,
+      "dominantColor": "#656158",
+      "photographer": "Christian Ferrer",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_du_Vialais.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "nature-e81e6b95",
+      "categoryId": "nature",
+      "title": "Fosstorfufoss Waterfall, Iceland, 20240720 1402 3072",
+      "imagePath": "images/nature/nature-e81e6b95.webp",
+      "thumbPath": "thumbs/nature-e81e6b95.webp",
+      "width": 3000,
+      "height": 2002,
+      "dominantColor": "#6a6654",
+      "photographer": "Jakub Hałun",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fosstorfufoss_Waterfall,_Iceland,_20240720_1402_3072.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "travel-05aa9555",
+      "categoryId": "travel",
+      "title": "Geghard Monastery, Armenia",
+      "imagePath": "images/travel/travel-05aa9555.webp",
+      "thumbPath": "thumbs/travel-05aa9555.webp",
+      "width": 3000,
+      "height": 1994,
+      "dominantColor": "#929564",
+      "photographer": "Vyacheslav Argenberg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geghard_Monastery,_Armenia.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attributionRequired": true,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-17b1b754",
+      "categoryId": "art",
+      "title": "Imaginary Landscape (The Met)",
+      "imagePath": "images/art/art-17b1b754.webp",
+      "thumbPath": "thumbs/art-17b1b754.webp",
+      "width": 3000,
+      "height": 1888,
+      "dominantColor": "#221e12",
+      "photographer": "Gaspard Dughet",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436229",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-29a9c786",
+      "categoryId": "art",
+      "title": "Landscape on a River (The Met)",
+      "imagePath": "images/art/art-29a9c786.webp",
+      "thumbPath": "thumbs/art-29a9c786.webp",
+      "width": 3000,
+      "height": 1670,
+      "dominantColor": "#989375",
+      "photographer": "Charles-François Daubigny",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436081",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-2f389f1a",
+      "categoryId": "art",
+      "title": "Harbor Scene with a Grotto and Fishermen Hauling in Nets (The Met)",
+      "imagePath": "images/art/art-2f389f1a.webp",
+      "thumbPath": "thumbs/art-2f389f1a.webp",
+      "width": 3000,
+      "height": 1634,
+      "dominantColor": "#2d2a24",
+      "photographer": "Joseph Vernet",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437886",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-306617c3",
+      "categoryId": "art",
+      "title": "A Storm off the Normandy Coast (The Met)",
+      "imagePath": "images/art/art-306617c3.webp",
+      "thumbPath": "thumbs/art-306617c3.webp",
+      "width": 3000,
+      "height": 1978,
+      "dominantColor": "#2b2219",
+      "photographer": "Eugène Isabey",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/438950",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-558225e1",
+      "categoryId": "art",
+      "title": "Summer Flowers (The Met)",
+      "imagePath": "images/art/art-558225e1.webp",
+      "thumbPath": "thumbs/art-558225e1.webp",
+      "width": 3000,
+      "height": 2458,
+      "dominantColor": "#8a7349",
+      "photographer": "Henri Fantin-Latour",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/438031",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-88601416",
+      "categoryId": "art",
+      "title": "Landscape (The Met)",
+      "imagePath": "images/art/art-88601416.webp",
+      "thumbPath": "thumbs/art-88601416.webp",
+      "width": 3000,
+      "height": 2517,
+      "dominantColor": "#d8b69c",
+      "photographer": "Carl Rottmann",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/438849",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-90734ce3",
+      "categoryId": "art",
+      "title": "River and Rocks (The Met)",
+      "imagePath": "images/art/art-90734ce3.webp",
+      "thumbPath": "thumbs/art-90734ce3.webp",
+      "width": 3000,
+      "height": 2452,
+      "dominantColor": "#2a291f",
+      "photographer": "Gustave Courbet",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436020",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-9ce6b5dd",
+      "categoryId": "art",
+      "title": "Wide River Landscape (The Met)",
+      "imagePath": "images/art/art-9ce6b5dd.webp",
+      "thumbPath": "thumbs/art-9ce6b5dd.webp",
+      "width": 3000,
+      "height": 2152,
+      "dominantColor": "#302b21",
+      "photographer": "Philips Koninck",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436832",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-be190d83",
+      "categoryId": "art",
+      "title": "A River Landscape with Storks (The Met)",
+      "imagePath": "images/art/art-be190d83.webp",
+      "thumbPath": "thumbs/art-be190d83.webp",
+      "width": 3000,
+      "height": 1620,
+      "dominantColor": "#231f0e",
+      "photographer": "Charles-François Daubigny",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436083",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-c0fb32a8",
+      "categoryId": "art",
+      "title": "Fishing Boats on a River (The Met)",
+      "imagePath": "images/art/art-c0fb32a8.webp",
+      "thumbPath": "thumbs/art-c0fb32a8.webp",
+      "width": 3000,
+      "height": 2030,
+      "dominantColor": "#655f50",
+      "photographer": "Salomon van Ruysdael",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/438380",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-c48e3d78",
+      "categoryId": "art",
+      "title": "Ship by Moonlight (The Met)",
+      "imagePath": "images/art/art-c48e3d78.webp",
+      "thumbPath": "thumbs/art-c48e3d78.webp",
+      "width": 3000,
+      "height": 1946,
+      "dominantColor": "#55605a",
+      "photographer": "Ivan Konstantinovich Aivazovsky (Hovhannes Aivazian)",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437979",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    },
+    {
+      "id": "art-da99a8de",
+      "categoryId": "art",
+      "title": "Basket of Flowers (The Met)",
+      "imagePath": "images/art/art-da99a8de.webp",
+      "thumbPath": "thumbs/art-da99a8de.webp",
+      "width": 3000,
+      "height": 2254,
+      "dominantColor": "#2a2d1e",
+      "photographer": "Eugène Delacroix",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436175",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "addedAt": "2026-11-09",
+      "isNew": true
+    }
+  ]
+}

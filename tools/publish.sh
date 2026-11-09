@@ -25,7 +25,8 @@ next="v$(( ${last:-0} + 1 ))"
 python3 tools/write_manifest.py "$next"
 
 git add -A
-git commit -m "Content $next" --quiet
+# Optional extra commit-message paragraph (e.g. trailers): PUBLISH_COMMIT_EXTRA="..."
+git commit -m "Content $next" ${PUBLISH_COMMIT_EXTRA:+-m "$PUBLISH_COMMIT_EXTRA"} --quiet
 git tag "$next"
 git push origin HEAD:main "$next"
 
