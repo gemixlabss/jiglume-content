@@ -49,12 +49,27 @@ Only licences that allow **commercial use and modification** (a jigsaw is a cut-
       "width": 3000, "height": 2000, "dominantColor": "#3a5f2b",
       "photographer": "Jane Doe", "sourceUrl": "https://commons.wikimedia.org/wiki/File:…",
       "license": "CC BY 4.0", "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "attributionRequired": true, "addedAt": "2026-11-09", "isNew": true }
+      "attributionRequired": true, "addedAt": "2026-11-09", "isNew": true,
+      "tier": "free" }                                     // "free" | "premium" (since v3)
   ]
 }
 ```
 
-Unknown fields are ignored by the app, so fields can be added without a schema bump.
+Unknown fields are ignored by the app, so fields can be added without a schema bump
+(app versions before the tier feature simply treat every puzzle as free).
+
+### Tiers (`free` / `premium`)
+
+In every category the most striking ~35 % of the images are `premium` (opened in the app
+with Lume ✨, later also with a subscription); the rest are `free`. `tools/assign_tiers.py`
+scores each thumbnail (colourfulness, contrast, detail, vivid mid-tones; z-scores within the
+category) and fills each category's premium quota from the top. Rules:
+
+* `tools/tiers_pinned.json` pins images to a tier. The 12 images of the app's offline starter
+  pack are pinned `free`, so new players always have them, even offline.
+* An image keeps its tier once assigned (players may have unlocked it); new images top up the
+  category's quota. `--reassign` recomputes everything that is not pinned; `--report` prints
+  the scores without changing anything. To hand-pick, add ids to the pin file.
 
 ## Delivery & caching
 
@@ -108,7 +123,7 @@ tools/publish.sh              # publish whatever is in inbox/
 ```
 
 `publish.sh` runs: `add_images.py` (resize without cropping, WebP, thumbnail, dominant colour,
-pHash duplicate check, rejects < 2000 px) → `build_licenses.py` → `validate_catalog.py` →
+pHash duplicate check, rejects < 2000 px) → `assign_tiers.py` → `build_licenses.py` → `validate_catalog.py` →
 content commit + tag `vN` → `manifest.json` pointing at that commit's SHA → push → purge the jsDelivr manifest.
 
 Individual tools:
@@ -124,6 +139,7 @@ Individual tools:
 | `contact_sheet.py` | id-labelled review sheets (`--inbox`) for the manual quality check |
 | `add_images.py` | process `inbox/` into the archive |
 | `remove_image.py <id>…` | remove images (their hash stays known, so they are not re-added) |
+| `assign_tiers.py` | free / premium tier per image (see Tiers) |
 | `build_licenses.py`, `validate_catalog.py`, `write_manifest.py` | used by `publish.sh` |
 
 Sources that are **not** used: the Art Institute of Chicago image server and the Met API sit

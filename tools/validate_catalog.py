@@ -10,7 +10,8 @@ from common import (CATEGORY_IDS, LICENSE_URLS, MIN_LONG_SIDE, ROOT, SCHEMA_VERS
 
 FIELDS = {"id": str, "categoryId": str, "title": str, "imagePath": str, "thumbPath": str, "width": int,
           "height": int, "dominantColor": str, "photographer": str, "sourceUrl": str, "license": str,
-          "licenseUrl": str, "attributionRequired": bool, "addedAt": str, "isNew": bool}
+          "licenseUrl": str, "attributionRequired": bool, "addedAt": str, "isNew": bool, "tier": str}
+TIERS = {"free", "premium"}
 
 
 def main() -> int:
@@ -34,6 +35,8 @@ def main() -> int:
         if p.get("license") in ATTRIBUTION_LICENSES and (not p.get("attributionRequired")
                                                         or p.get("photographer") in ("", "Unknown")):
             errors.append(f"{pid}: CC BY needs attribution data")
+        if p.get("tier") not in TIERS:
+            errors.append(f"{pid}: tier must be free or premium")
         if not re.fullmatch(r"#[0-9a-f]{6}", p.get("dominantColor", "")):
             errors.append(f"{pid}: bad dominantColor")
         if max(p.get("width", 0), p.get("height", 0)) < MIN_LONG_SIDE:

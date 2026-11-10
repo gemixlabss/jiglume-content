@@ -4,7 +4,7 @@
 #   tools/publish.sh            # process inbox/, then release
 #   tools/publish.sh --fetch    # also fetch new images first (NASA, Smithsonian, Rijksmuseum, Met, Commons)
 #
-# Steps: [fetch] → add_images → LICENSES.md → validate → content commit + tag vN →
+# Steps: [fetch] → add_images → tiers → LICENSES.md → validate → content commit + tag vN →
 # manifest.json (→ that commit's SHA) commit → push → purge jsDelivr's cached @main manifest.
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -32,6 +32,7 @@ if [[ "${1:-}" == "--fetch" ]]; then
 fi
 
 python3 tools/add_images.py
+python3 tools/assign_tiers.py
 python3 tools/build_licenses.py
 python3 tools/validate_catalog.py
 

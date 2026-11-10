@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "v2",
+  "contentVersion": "v3",
   "generatedAt": "2026-11-10",
   "categories": [
     {
@@ -160,7 +160,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-19584dbc",
@@ -177,7 +178,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "nature-2859ae0d",
@@ -194,7 +196,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-2a234bda",
@@ -211,7 +214,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-2a651659",
@@ -228,7 +232,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-2c4a7278",
@@ -245,7 +250,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-31f326de",
@@ -262,7 +268,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "nature-3c632adb",
@@ -279,7 +286,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-51f1d62b",
@@ -296,7 +304,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-7c6c4dd3",
@@ -313,7 +322,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-94029a8f",
@@ -330,7 +340,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "nature-e050365c",
@@ -347,7 +358,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-e81e6b95",
@@ -364,7 +376,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "nature-nivee000507",
@@ -381,7 +394,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-nivee002161",
@@ -398,7 +412,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "nature-ns054152189",
@@ -415,7 +430,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-ns40151126",
@@ -432,7 +448,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "nature-ns4479046",
@@ -449,7 +466,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "animals-s4183208370",
@@ -466,7 +484,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183408010",
@@ -483,7 +502,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "animals-s4183419860",
@@ -500,7 +520,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183460810",
@@ -517,7 +538,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183489760",
@@ -534,7 +556,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "animals-s4183498730",
@@ -551,7 +574,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183509210",
@@ -568,7 +592,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183525970",
@@ -585,7 +610,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183535950",
@@ -602,7 +628,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "animals-s4183557980",
@@ -619,7 +646,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "animals-s4183563930",
@@ -636,7 +664,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "animals-s4183620630",
@@ -653,7 +682,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "animals-s4183756720",
@@ -670,7 +700,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183785360",
@@ -687,7 +718,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183889790",
@@ -704,7 +736,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s4183892250",
@@ -721,7 +754,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "animals-s6538509840",
@@ -738,7 +772,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-n053e239527",
@@ -755,7 +790,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-n064e016772",
@@ -772,7 +808,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-r05e8e349",
@@ -789,7 +826,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-r3ff0bc08",
@@ -806,7 +844,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-r5a0b260d",
@@ -823,7 +862,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "cities-r5fe7710a",
@@ -840,7 +880,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "cities-r6e2de2fc",
@@ -857,7 +898,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-r705f414f",
@@ -874,7 +916,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-r71f1c08f",
@@ -891,7 +934,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-r7c9fd276",
@@ -908,7 +952,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "cities-r8bfa4e7f",
@@ -925,7 +970,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-r9a694e3e",
@@ -942,7 +988,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-ra559ba5b",
@@ -959,7 +1006,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "cities-re2c21089",
@@ -976,7 +1024,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "cities-re4a8e12f",
@@ -993,7 +1042,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "cities-rf77ad977",
@@ -1010,7 +1060,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "travel-05aa9555",
@@ -1027,7 +1078,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attributionRequired": true,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-45b279b4",
@@ -1044,7 +1096,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-4d8a0f16",
@@ -1061,7 +1114,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "travel-4df326d3",
@@ -1078,7 +1132,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-50c7e31b",
@@ -1095,7 +1150,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-80d3e224",
@@ -1112,7 +1168,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-87ac2fe5",
@@ -1129,7 +1186,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "travel-9468618a",
@@ -1146,7 +1204,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "travel-9ea59a09",
@@ -1163,7 +1222,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-b7834aff",
@@ -1180,7 +1240,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-f4ae6f7b",
@@ -1197,7 +1258,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "travel-r18fdecee",
@@ -1214,7 +1276,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "travel-r3e4c844d",
@@ -1231,7 +1294,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "travel-r67c8d34f",
@@ -1248,7 +1312,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-r67c906ea",
@@ -1265,7 +1330,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "travel-rf06357a8",
@@ -1282,7 +1348,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-d6beba3a",
@@ -1299,7 +1366,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-f2d0e718",
@@ -1316,7 +1384,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "sea-n047e115879",
@@ -1333,7 +1402,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-n063e084654",
@@ -1350,7 +1420,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-n064e002482",
@@ -1367,7 +1438,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "sea-n066e108216",
@@ -1384,7 +1456,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "sea-n069e022551",
@@ -1401,7 +1474,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "sea-n069e060925",
@@ -1418,7 +1492,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-n071e009021",
@@ -1435,7 +1510,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-n071e449837",
@@ -1452,7 +1528,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "sea-ns043151073",
@@ -1469,7 +1546,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "sea-ns0645097",
@@ -1486,7 +1564,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-ns081711009",
@@ -1503,7 +1582,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-ns08320748",
@@ -1520,7 +1600,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-ns8130396",
@@ -1537,7 +1618,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "sea-nts06688056",
@@ -1554,7 +1636,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-14de0a16",
@@ -1571,7 +1654,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-6d3beb79",
@@ -1588,7 +1672,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "mountains-n058e006004",
@@ -1605,7 +1690,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-n067e355983",
@@ -1622,7 +1708,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-n068e025399",
@@ -1639,7 +1726,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "mountains-n068e025502",
@@ -1656,7 +1744,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-n068e033632",
@@ -1673,7 +1762,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "mountains-n068e040597",
@@ -1690,7 +1780,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-n072e398041",
@@ -1707,7 +1798,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-n73e0384067",
@@ -1724,7 +1816,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-ns054151150",
@@ -1741,7 +1834,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "mountains-ns066152022",
@@ -1758,7 +1852,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-ns4379097",
@@ -1775,7 +1870,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "mountains-ns6306445",
@@ -1792,7 +1888,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "mountains-nsl205359",
@@ -1809,7 +1906,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "mountains-nts04690029",
@@ -1826,7 +1924,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-551390a1",
@@ -1843,7 +1942,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-fa530e20",
@@ -1860,7 +1960,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-r27e4f7ee",
@@ -1877,7 +1978,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "flowers-r2b80a37a",
@@ -1894,7 +1996,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-r2b9d0cb2",
@@ -1911,7 +2014,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "flowers-r3d3209f7",
@@ -1928,7 +2032,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "flowers-r4e8d07b3",
@@ -1945,7 +2050,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-r5f799cc8",
@@ -1962,7 +2068,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-r8b5782ad",
@@ -1979,7 +2086,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-ra4be756c",
@@ -1996,7 +2104,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "flowers-rc2c235be",
@@ -2013,7 +2122,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-rc335dd3b",
@@ -2030,7 +2140,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "flowers-rce818ffc",
@@ -2047,7 +2158,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-rcfef7582",
@@ -2064,7 +2176,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-rd57bad61",
@@ -2081,7 +2194,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-rec7b0449",
@@ -2098,7 +2212,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "flowers-s3810567520",
@@ -2115,7 +2230,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "food-r0a61dea6",
@@ -2132,7 +2248,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-r31a0d304",
@@ -2149,7 +2266,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-rdb448372",
@@ -2166,7 +2284,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "food-re62e5d28",
@@ -2183,7 +2302,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "food-s3810408160",
@@ -2200,7 +2320,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "food-s3810443531",
@@ -2217,7 +2338,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-s3810456610",
@@ -2234,7 +2356,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-s3810470080",
@@ -2251,7 +2374,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-s3810470630",
@@ -2268,7 +2392,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "food-s3810488640",
@@ -2285,7 +2410,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-s3810488650",
@@ -2302,7 +2428,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-s3810538370",
@@ -2319,7 +2446,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "food-s3810543921",
@@ -2336,7 +2464,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "food-s3810571461",
@@ -2353,7 +2482,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-s3810596361",
@@ -2370,7 +2500,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-s3810701230",
@@ -2387,7 +2518,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "food-s4807431290",
@@ -2404,7 +2536,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-17b1b754",
@@ -2421,7 +2554,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-29a9c786",
@@ -2438,7 +2572,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-2f389f1a",
@@ -2455,7 +2590,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-306617c3",
@@ -2472,7 +2608,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-558225e1",
@@ -2489,7 +2626,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "art-90734ce3",
@@ -2506,7 +2644,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-9ce6b5dd",
@@ -2523,7 +2662,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-be190d83",
@@ -2540,7 +2680,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-c0fb32a8",
@@ -2557,7 +2698,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-c48e3d78",
@@ -2574,7 +2716,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-da99a8de",
@@ -2591,7 +2734,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-09",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "art-r04d111d3",
@@ -2608,7 +2752,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "art-r1f3b3ae8",
@@ -2625,7 +2770,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "art-r221ada58",
@@ -2642,7 +2788,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "art-rb7652968",
@@ -2659,7 +2806,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "art-rc4870237",
@@ -2676,7 +2824,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "art-rfd45dd7d",
@@ -2693,7 +2842,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-r0e6037f8",
@@ -2710,7 +2860,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-r2814f018",
@@ -2727,7 +2878,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-r3f431926",
@@ -2744,7 +2896,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-r55be168a",
@@ -2761,7 +2914,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-r5b9cbefc",
@@ -2778,7 +2932,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "architecture-r5e088724",
@@ -2795,7 +2950,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "architecture-r65dddcd5",
@@ -2812,7 +2968,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "architecture-r69bc54b5",
@@ -2829,7 +2986,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "architecture-r81156c73",
@@ -2846,7 +3004,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "architecture-r87d7a019",
@@ -2863,7 +3022,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-r9efca4de",
@@ -2880,7 +3040,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-rbe52a2fd",
@@ -2897,7 +3058,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-rcdfc6772",
@@ -2914,7 +3076,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-rd00d9877",
@@ -2931,7 +3094,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "architecture-rf027eb8a",
@@ -2948,7 +3112,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "architecture-s3810639451",
@@ -2965,7 +3130,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia03653",
@@ -2982,7 +3148,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia04200",
@@ -2999,7 +3166,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "night-npia04921",
@@ -3016,7 +3184,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia07343",
@@ -3033,7 +3202,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia07902",
@@ -3050,7 +3220,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia07906",
@@ -3067,7 +3238,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia09178",
@@ -3084,7 +3256,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia10748",
@@ -3101,7 +3274,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia13014",
@@ -3118,7 +3292,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "night-npia13123",
@@ -3135,7 +3310,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia13335",
@@ -3152,7 +3328,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia14096",
@@ -3169,7 +3346,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "night-npia14415",
@@ -3186,7 +3364,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "night-npia14417",
@@ -3203,7 +3382,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "night-npia25433",
@@ -3220,7 +3400,8 @@
       "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "seasons-cdfc6b41",
@@ -3237,7 +3418,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-e0e50871",
@@ -3254,7 +3436,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "seasons-r156ee345",
@@ -3271,7 +3454,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "seasons-r1a5c6caa",
@@ -3288,7 +3472,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-r1eccecdc",
@@ -3305,7 +3490,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "seasons-r2c967a50",
@@ -3322,7 +3508,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-r2c9b251f",
@@ -3339,7 +3526,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-r42f175b5",
@@ -3356,7 +3544,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "seasons-r5e0d3ac0",
@@ -3373,7 +3562,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "seasons-r5ffadb6b",
@@ -3390,7 +3580,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-r78624d62",
@@ -3407,7 +3598,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-r961052a6",
@@ -3424,7 +3616,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-rb82098db",
@@ -3441,7 +3634,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-rdf5a6b17",
@@ -3458,7 +3652,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-red66a5a0",
@@ -3475,7 +3670,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "seasons-rf79af357",
@@ -3492,7 +3688,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "seasons-rf7b13d5b",
@@ -3509,7 +3706,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3998935461",
@@ -3526,7 +3724,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3998935491",
@@ -3543,7 +3742,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "patterns-s3998935500",
@@ -3560,7 +3760,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999025401",
@@ -3577,7 +3778,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999125971",
@@ -3594,7 +3796,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "patterns-s3999132030",
@@ -3611,7 +3814,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "patterns-s3999132580",
@@ -3628,7 +3832,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "patterns-s3999161351",
@@ -3645,7 +3850,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999187081",
@@ -3662,7 +3868,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999326520",
@@ -3679,7 +3886,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999429131",
@@ -3696,7 +3904,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999470300",
@@ -3713,7 +3922,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999544000",
@@ -3730,7 +3940,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "patterns-s3999647660",
@@ -3747,7 +3958,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999748270",
@@ -3764,7 +3976,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "patterns-s3999869841",
@@ -3781,7 +3994,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "patterns-s3999869961",
@@ -3798,7 +4012,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-r0ee3bfe2",
@@ -3815,7 +4030,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-r6173d3f6",
@@ -3832,7 +4048,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-r9e91b859",
@@ -3849,7 +4066,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-rb2b23387",
@@ -3866,7 +4084,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-re75e566a",
@@ -3883,7 +4102,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "vehicles-rf97a52da",
@@ -3900,7 +4120,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "vehicles-s3810543530",
@@ -3917,7 +4138,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "vehicles-s3995040770",
@@ -3934,7 +4156,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "vehicles-s3999241250",
@@ -3951,7 +4174,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-s4000223500",
@@ -3968,7 +4192,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-s4000336110",
@@ -3985,7 +4210,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "vehicles-s4000343140",
@@ -4002,7 +4228,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-s4000347130",
@@ -4019,7 +4246,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "premium"
     },
     {
       "id": "vehicles-s4000354450",
@@ -4036,7 +4264,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-s4000407770",
@@ -4053,7 +4282,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     },
     {
       "id": "vehicles-s4000422400",
@@ -4070,7 +4300,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "attributionRequired": false,
       "addedAt": "2026-11-10",
-      "isNew": true
+      "isNew": true,
+      "tier": "free"
     }
   ]
 }
