@@ -1,0 +1,9 @@
+{
+  "_comment": "Terms for US-government public-domain photos (National Park Service, US Fish & Wildlife Service) on Commons. Use with --terms sources_usgov.json --extra-query 'hastemplate:\"PD-USGov-NPS\"' (or PD-USGov-FWS).",
+  "nature": ["forest", "waterfall", "meadow", "canyon", "lake"],
+  "mountains": ["mountains", "peak", "glacier", "summit"],
+  "animals": ["bison", "elk", "bear", "eagle", "fox", "owl", "moose", "heron"],
+  "sea": ["beach", "coast", "lighthouse", "shoreline"],
+  "seasons": ["autumn", "snow", "foliage", "wildflowers"],
+  "travel": ["arch", "geyser", "overlook", "trail"]
+}

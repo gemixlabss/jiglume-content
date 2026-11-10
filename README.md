@@ -76,6 +76,27 @@ Unknown fields are ignored by the app, so fields can be added without a schema b
      after every push.
 * The app downloads `catalog.json` only when `manifest.latest` differs from its cached copy.
 
+## Quality rules
+
+`add_images.py` rejects automatically: long side < 2000 px, perceptual duplicates, near-monochrome
+(colourfulness < 6) and flat/blurry images (edge density < 0.05). Every batch is then reviewed on
+contact sheets; weak images (text, diagrams, archival B/W, logos/insignia, people, wrong category,
+spacecraft parts in Earth photos…) go into `tools/review_rejected.json` with a reason and are never
+fetched again.
+
+## Completing the archive (target: ≥ 15 per category, ≥ 220 total)
+
+The cloud session that built v2 shares an IP that Wikimedia rate-limits hard, so some categories are
+still short (see LICENSES.md for current counts). From any normal connection:
+
+```bash
+pip install -r tools/requirements.txt
+export SI_API_KEY=...            # free key from https://api.data.gov/signup/ (optional)
+tools/publish.sh --fetch --fetch-only   # fill inbox/ up to 18 per category
+python3 tools/contact_sheet.py --inbox  # review review/sheet_*.jpg; reject with tools/review_rejected.json
+tools/publish.sh                        # process, validate, release vN, purge CDN
+```
+
 ## Adding content (one command)
 
 ```bash
@@ -94,9 +115,13 @@ Individual tools:
 
 | tool | purpose |
 |---|---|
-| `fetch_commons.py` | Wikimedia Commons, strict licence filter (see above) |
-| `fetch_museums.py` | The Met Open Access (CC0, `isPublicDomain` checked per object) |
-| `fetch_pexels.py` | Pexels; needs `PEXELS_API_KEY` in the environment — never stored. Skipped without it |
+| `fetch_nasa.py` | NASA Image and Video Library — public domain; items crediting third parties (ESA, ©, courtesy, agencies…) or showing logos/insignia/people are rejected |
+| `fetch_smithsonian.py` | Smithsonian Open Access — only when record **and** media file say `CC0`; needs a free api.data.gov key in `SI_API_KEY` (never stored) |
+| `fetch_rijksmuseum.py` | Rijksmuseum Linked Art — only records carrying the CC0 statement; `--category/--terms` |
+| `fetch_museums.py` | The Met Open Access (CC0, `isPublicDomain` checked per object); `--category/--terms` |
+| `fetch_commons.py` | Wikimedia Commons, strict licence filter (see above); `--extra-query 'hastemplate:"PD-USGov-NPS"'` / `PD-USGov-FWS` for US National Park Service and Fish & Wildlife photos |
+| `fetch_pexels.py` | not used any more (Pexels stopped issuing API keys); kept for reference |
+| `contact_sheet.py` | id-labelled review sheets (`--inbox`) for the manual quality check |
 | `add_images.py` | process `inbox/` into the archive |
 | `remove_image.py <id>…` | remove images (their hash stays known, so they are not re-added) |
 | `build_licenses.py`, `validate_catalog.py`, `write_manifest.py` | used by `publish.sh` |

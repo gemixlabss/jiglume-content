@@ -10,9 +10,25 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 if [[ "${1:-}" == "--fetch" ]]; then
-  python3 tools/fetch_commons.py --per-category "${PER_CATEGORY:-20}"
-  python3 tools/fetch_museums.py --count "${PER_CATEGORY:-20}"
-  python3 tools/fetch_pexels.py   # no-op without PEXELS_API_KEY
+  # Fills every category up to PER_CATEGORY (published + inbox), cheapest
+  # sources first. Rejected ids (tools/review_rejected.json) are never re-fetched.
+  # Run tools/contact_sheet.py --inbox afterwards and review before publishing!
+  n="${PER_CATEGORY:-18}"
+  python3 tools/fetch_nasa.py --per-category "$n"
+  if [[ -n "${SI_API_KEY:-}" ]]; then
+    python3 tools/fetch_smithsonian.py --per-category "$n"
+  else
+    echo "SI_API_KEY not set — skipping Smithsonian (free key: https://api.data.gov/signup/)"
+  fi
+  python3 tools/fetch_rijksmuseum.py --count 8
+  python3 tools/fetch_museums.py --count "$n"
+  python3 tools/fetch_commons.py --per-category "$n" --terms sources_usgov.json \
+    --extra-query 'hastemplate:"PD-USGov-NPS"' --no-quality-pass
+  python3 tools/fetch_commons.py --per-category "$n" --terms sources_usgov.json \
+    --extra-query 'hastemplate:"PD-USGov-FWS"' --no-quality-pass --only animals,nature,sea
+  python3 tools/fetch_commons.py --per-category "$n"
+  # Pexels is no longer used (new API keys are not issued); fetch_pexels.py is kept for reference.
+  if [[ "${2:-}" == "--fetch-only" ]]; then exit 0; fi
 fi
 
 python3 tools/add_images.py

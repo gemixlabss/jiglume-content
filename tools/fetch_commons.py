@@ -28,7 +28,7 @@ import time
 import urllib.parse
 from pathlib import Path
 
-from common import (CATEGORY_IDS, INBOX, LICENSE_URLS, ATTRIBUTION_LICENSES, ROOT, http_get, http_json,
+from common import (category_count, review_rejected_ids, CATEGORY_IDS, INBOX, LICENSE_URLS, ATTRIBUTION_LICENSES, ROOT, http_get, http_json,
                     load_catalog, log, looks_excluded, normalize_license, strip_html)
 
 API = "https://commons.wikimedia.org/w/api.php"
@@ -38,8 +38,12 @@ DOWNLOAD_WIDTH = 3840  # a standard Wikimedia thumbnail step; originals are ofte
 MIN_SOURCE_LONG_SIDE = 2400
 
 
+EXTRA_QUERY = ""  # e.g. 'hastemplate:"PD-USGov-NPS"' (set by --extra-query)
+
+
 def search(term: str, quality_only: bool, limit: int = 50) -> list[dict]:
-    q = f"{term} filetype:bitmap filew:>{MIN_SOURCE_LONG_SIDE - 1} {LICENSE_FILTER}"
+    lic = EXTRA_QUERY or LICENSE_FILTER
+    q = f"{term} filetype:bitmap filew:>{MIN_SOURCE_LONG_SIDE - 1} {lic}"
     if quality_only:
         q += ' incategory:"Quality images"'
     for attempt in range(8):
@@ -120,10 +124,18 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--per-category", type=int, default=20)
     ap.add_argument("--only", default="")
+    ap.add_argument("--terms", default="sources.json", help="terms file in tools/")
+    ap.add_argument("--extra-query", default="",
+                    help='replaces the licence pre-filter, e.g. hastemplate:"PD-USGov-NPS" '
+                         '(the licence is still verified from extmetadata)')
+    ap.add_argument("--no-quality-pass", action="store_true")
     args = ap.parse_args()
-    terms = json.loads((ROOT / "tools" / "sources.json").read_text())
+    global EXTRA_QUERY
+    EXTRA_QUERY = args.extra_query
+    terms = json.loads((ROOT / "tools" / args.terms).read_text())
     only = {c for c in args.only.split(",") if c}
     seen = existing_sources()
+    rejected = review_rejected_ids()
     report: dict[str, dict] = {}
 
     for cat_id, cat_terms in terms.items():
@@ -132,7 +144,7 @@ def main() -> None:
         assert cat_id in CATEGORY_IDS, cat_id
         out = INBOX / cat_id
         out.mkdir(parents=True, exist_ok=True)
-        have = len(list(out.glob("*.json")))
+        have = category_count(cat_id)
         per_artist: dict[str, int] = {}
         for side in out.glob("*.json"):
             a = json.loads(side.read_text())["photographer"]
@@ -142,7 +154,7 @@ def main() -> None:
         # first among Commons "Quality images", then in general.
         # Single words only: quoted phrases inside an OR group return nothing.
         query = " OR ".join(t for t in cat_terms if " " not in t)
-        for quality_only in (True, False):
+        for quality_only in ((False,) if args.no_quality_pass else (True, False)):
             if have >= args.per_category:
                 break
             log(f"[{cat_id}] search ({query}) quality_only={quality_only}")
@@ -167,6 +179,8 @@ def main() -> None:
                 if per_artist.get(meta["photographer"], 0) >= 3:
                     continue
                 pid = f"{cat_id}-{hashlib.sha1(meta['sourceUrl'].encode()).hexdigest()[:8]}"
+                if pid in rejected:
+                    continue
                 url = meta.pop("_download")
                 ext = Path(urllib.parse.urlparse(url).path).suffix.lstrip(".").lower() or "jpg"
                 try:

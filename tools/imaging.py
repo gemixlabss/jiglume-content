@@ -4,7 +4,7 @@ from __future__ import annotations
 import io
 
 import numpy as np
-from PIL import Image, ImageOps
+from PIL import Image, ImageFilter, ImageOps
 
 Image.MAX_IMAGE_PIXELS = 200_000_000
 
@@ -99,3 +99,25 @@ def trim_flat_border(img: Image.Image, max_fraction: float = 0.08, tolerance: fl
     if top + bottom + left + right == 0:
         return img
     return img.crop((left, top, w - right, h - bottom))
+
+
+# Calibrated on the v1 archive: every accepted image scores well above these.
+MIN_COLORFULNESS = 6.0    # Hasler–Süsstrunk; below ≈ grey / single-tone
+MIN_EDGE_DENSITY = 0.05   # share of edge pixels; below ≈ flat sky, blur, empty
+
+
+def quality_problem(img: Image.Image) -> str | None:
+    """Rejects images that make dull puzzles: near-monochrome, or so flat /
+    blurry that most pieces would look the same."""
+    small = img.copy()
+    small.thumbnail((480, 480))
+    a = np.asarray(small.convert("RGB"), dtype=np.float32)
+    rg = a[..., 0] - a[..., 1]
+    yb = 0.5 * (a[..., 0] + a[..., 1]) - a[..., 2]
+    colorful = np.sqrt(rg.std() ** 2 + yb.std() ** 2) + 0.3 * np.sqrt(rg.mean() ** 2 + yb.mean() ** 2)
+    edges = (np.asarray(small.convert("L").filter(ImageFilter.FIND_EDGES), dtype=np.float32) > 24).mean()
+    if colorful < MIN_COLORFULNESS:
+        return f"near-monochrome (colourfulness {colorful:.1f})"
+    if edges < MIN_EDGE_DENSITY:
+        return f"flat or blurry (edge density {edges:.3f})"
+    return None

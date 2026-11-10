@@ -28,7 +28,7 @@ from pathlib import Path
 from common import (CATEGORY_IDS, DUPLICATE_HAMMING, FULL_LONG_SIDE, INBOX, LICENSE_URLS, MIN_LONG_SIDE,
                     ROOT, THUMB_LONG_SIDE, THUMB_QUALITY, WEBP_QUALITY, ATTRIBUTION_LICENSES,
                     load_catalog, load_phash_index, log, normalize_license, save_catalog, save_phash_index)
-from imaging import dominant_color, encode_webp, fit_long_side, hamming, open_upright, phash, trim_flat_border
+from imaging import dominant_color, encode_webp, fit_long_side, hamming, open_upright, phash, quality_problem, trim_flat_border
 
 EXTS = {".jpg", ".jpeg", ".png", ".webp", ".tif", ".tiff"}
 REQUIRED = ("title", "photographer", "sourceUrl", "license")
@@ -97,6 +97,10 @@ def main() -> int:
             continue
         if max(img.size) < MIN_LONG_SIDE:
             rejected.append((src.name, f"too small {img.size[0]}x{img.size[1]} (< {MIN_LONG_SIDE})"))
+            continue
+        problem = quality_problem(img)
+        if problem:
+            rejected.append((src.name, problem))
             continue
         h = phash(img)
         dup = next((k for k, v in index.items() if hamming(h, v) <= DUPLICATE_HAMMING), None)

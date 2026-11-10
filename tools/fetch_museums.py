@@ -20,7 +20,7 @@ import hashlib
 import json
 import time
 
-from common import INBOX, LICENSE_URLS, http_get, http_json, load_catalog, log, looks_excluded
+from common import review_rejected_ids, INBOX, LICENSE_URLS, http_get, http_json, load_catalog, log, looks_excluded
 
 TERMS = ["landscape", "seascape", "still life", "flowers", "river", "garden", "harbor",
          "mountains", "forest", "snow", "sunset", "boats"]
@@ -51,18 +51,21 @@ def met(term: str, department: str) -> list[dict]:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--count", type=int, default=20)
+    ap.add_argument("--category", default="art")
+    ap.add_argument("--terms", default=",".join(TERMS))
     args = ap.parse_args()
-    out_dir = INBOX / "art"
+    terms = [t for t in args.terms.split(",") if t]
+    out_dir = INBOX / args.category
     out_dir.mkdir(parents=True, exist_ok=True)
     seen = {p["sourceUrl"] for p in load_catalog()["puzzles"]}
     seen |= {json.loads(s.read_text())["sourceUrl"] for s in out_dir.glob("*.json")}
     have = len(list(out_dir.glob("*.json")))
     per_artist: dict[str, int] = {}
-    for term in TERMS:
+    for term in terms:
         for dep in DEPARTMENTS:
             if have >= args.count:
                 break
-            log(f"[art] met {term!r} dept {dep}")
+            log(f"[{args.category}] met {term!r} dept {dep}")
             try:
                 items = met(term, dep)
             except Exception as e:  # noqa: BLE001
@@ -82,7 +85,9 @@ def main() -> None:
                 except Exception as e:  # noqa: BLE001
                     log(f"  download failed: {e}")
                     continue
-                pid = f"art-{hashlib.sha1(it['sourceUrl'].encode()).hexdigest()[:8]}"
+                pid = f"{args.category}-{hashlib.sha1(it['sourceUrl'].encode()).hexdigest()[:8]}"
+                if pid in review_rejected_ids():
+                    continue
                 meta = {**it, "title": f"{it['title']} (The Met)", "license": "CC0 1.0",
                         "licenseUrl": LICENSE_URLS["CC0 1.0"], "attributionRequired": False,
                         "origin": "met-open-access"}
@@ -93,7 +98,7 @@ def main() -> None:
                 have += 1
                 taken += 1
                 log(f"  + {pid} {meta['title'][:70]} — {meta['photographer']}")
-    log(f"[art] {have} in inbox")
+    log(f"[{args.category}] {have} in inbox")
 
 
 if __name__ == "__main__":

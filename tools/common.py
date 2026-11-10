@@ -152,6 +152,18 @@ def save_catalog(cat: dict) -> None:
     CATALOG.write_text(json.dumps(cat, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def review_rejected_ids() -> set[str]:
+    """Ids rejected in manual review (tools/review_rejected.json): never re-fetched."""
+    p = ROOT / "tools" / "review_rejected.json"
+    return set(json.loads(p.read_text())) if p.exists() else set()
+
+
+def category_count(category: str) -> int:
+    """Images a category already has: published in the catalog + waiting in inbox/."""
+    published = sum(1 for p in load_catalog()["puzzles"] if p["categoryId"] == category)
+    return published + len(list((INBOX / category).glob("*.json")))
+
+
 def load_phash_index() -> dict:
     return json.loads(PHASH_INDEX.read_text()) if PHASH_INDEX.exists() else {}
 
