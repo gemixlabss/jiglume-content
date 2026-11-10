@@ -30,6 +30,9 @@ FIGURE_WORDS = ["portrait", "woman", "man ", "girl", "boy", "lady", "madame", "m
                 "monsieur", "dancer", "nymph", "venus", "mother", "self-"]
 
 
+CLASSES = ("Paintings",)
+
+
 def met(term: str, department: str) -> list[dict]:
     d = http_json("https://collectionapi.metmuseum.org/public/collection/v1.1/search", params={
         "q": term, "isPublicDomain": "true", "hasImages": "true", "departmentId": department, "limit": "40"})
@@ -37,7 +40,8 @@ def met(term: str, department: str) -> list[dict]:
     for oid in (d.get("objectIDs") or [])[:30]:
         o = http_json(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{oid}")
         time.sleep(1.5)  # gentle: the Met API sits behind a bot-protection rate limiter
-        if not (o.get("isPublicDomain") is True and o.get("primaryImage") and o.get("classification") == "Paintings"):
+        cls = o.get("classification") or ""
+        if not (o.get("isPublicDomain") is True and o.get("primaryImage") and any(cls.startswith(c) for c in CLASSES)):
             continue
         out.append({
             "title": o.get("title") or "Untitled",
@@ -53,7 +57,13 @@ def main() -> None:
     ap.add_argument("--count", type=int, default=20)
     ap.add_argument("--category", default="art")
     ap.add_argument("--terms", default=",".join(TERMS))
+    ap.add_argument("--departments", default=",".join(DEPARTMENTS))
+    ap.add_argument("--classes", default="Paintings", help="classification prefixes, e.g. Paintings,Prints,Textiles")
+    ap.add_argument("--vivid", action="store_true", help="reject dull images (tools/vividness.py)")
     args = ap.parse_args()
+    global CLASSES
+    CLASSES = tuple(c for c in args.classes.split(",") if c)
+    departments = [d for d in args.departments.split(",") if d]
     terms = [t for t in args.terms.split(",") if t]
     out_dir = INBOX / args.category
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -62,7 +72,7 @@ def main() -> None:
     have = len(list(out_dir.glob("*.json")))
     per_artist: dict[str, int] = {}
     for term in terms:
-        for dep in DEPARTMENTS:
+        for dep in departments:
             if have >= args.count:
                 break
             log(f"[{args.category}] met {term!r} dept {dep}")
@@ -86,6 +96,19 @@ def main() -> None:
                     log(f"  download failed: {e}")
                     continue
                 pid = f"{args.category}-{hashlib.sha1(it['sourceUrl'].encode()).hexdigest()[:8]}"
+                if args.vivid:
+                    from io import BytesIO
+
+                    from PIL import Image
+                    from vividness import dull_reason, metrics
+                    try:
+                        m = metrics(Image.open(BytesIO(data)))
+                    except Exception:  # noqa: BLE001
+                        continue
+                    if dull_reason(m, category=args.category) or max(Image.open(BytesIO(data)).size) < 2000:
+                        log(f"  - dull/small {pid}: {m}")
+                        seen.add(it["sourceUrl"])
+                        continue
                 if pid in review_rejected_ids():
                     continue
                 meta = {**it, "title": f"{it['title']} (The Met)", "license": "CC0 1.0",

@@ -7,8 +7,10 @@ category, each image with a JSON sidecar written by the fetch_* tools):
   * applies EXIF orientation, rejects images whose long side < 2000 px
   * rejects perceptual duplicates (pHash Hamming distance <= 8) of anything
     already in the archive or added earlier in this run
+  * gentle enhancement (tools/enhance.py: levels, contrast, vibrance)
   * resizes WITHOUT cropping to a 3000 px long side → images/<cat>/<id>.webp (q85)
-  * 480 px thumbnail → thumbs/<id>.webp
+  * 640 px sharpened thumbnail → thumbs/<id>.webp
+  * vividness metrics + appeal score (tools/vividness.py, tools/enhance.py)
   * computes the dominant colour, appends the entry to catalog.json and
     removes the processed source files from the inbox
 
@@ -28,6 +30,8 @@ from pathlib import Path
 from common import (CATEGORY_IDS, DUPLICATE_HAMMING, FULL_LONG_SIDE, INBOX, LICENSE_URLS, MIN_LONG_SIDE,
                     ROOT, THUMB_LONG_SIDE, THUMB_QUALITY, WEBP_QUALITY, ATTRIBUTION_LICENSES,
                     load_catalog, load_phash_index, log, normalize_license, save_catalog, save_phash_index)
+from enhance import MODIFICATION, appeal, enhance, sharpen_thumb
+from vividness import metrics as vivid_metrics
 from imaging import dominant_color, encode_webp, fit_long_side, hamming, open_upright, phash, quality_problem, trim_flat_border
 
 EXTS = {".jpg", ".jpeg", ".png", ".webp", ".tif", ".tiff"}
@@ -108,8 +112,11 @@ def main() -> int:
             rejected.append((src.name, f"duplicate of {dup}"))
             continue
 
+        # v4: gentle levels / contrast / vibrance, sharp 640 px thumbnails.
+        img = enhance(img)
         full = fit_long_side(img, FULL_LONG_SIDE)
-        thumb = fit_long_side(img, THUMB_LONG_SIDE)
+        thumb = sharpen_thumb(fit_long_side(img, THUMB_LONG_SIDE))
+        quality = vivid_metrics(full)
         image_path = f"images/{category}/{pid}.webp"
         thumb_path = f"thumbs/{pid}.webp"
         (ROOT / image_path).parent.mkdir(parents=True, exist_ok=True)
@@ -134,6 +141,10 @@ def main() -> int:
             "attributionRequired": bool(meta.get("attributionRequired", lic in ATTRIBUTION_LICENSES)),
             "addedAt": today,
             "isNew": True,
+            "quality": quality,
+            "appeal": appeal(quality),
+            "modified": True,
+            "modification": MODIFICATION,
         })
         index[pid] = h
         known.add(pid)

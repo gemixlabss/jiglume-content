@@ -28,8 +28,8 @@ USER_AGENT = f"JiglumeContentTools/1.0 (https://github.com/{REPO})"
 
 # Image processing rules.
 FULL_LONG_SIDE = 3000
-THUMB_LONG_SIDE = 480
-MIN_LONG_SIDE = 2000
+THUMB_LONG_SIDE = 640  # 2-column grids on 3× phones stay sharp
+MIN_LONG_SIDE = 1900  # Commons 1920 px thumbnails (larger steps are throttled for shared IPs)
 WEBP_QUALITY = 85
 THUMB_QUALITY = 80
 DUPLICATE_HAMMING = 8  # pHash distance at or below which two images are "the same"

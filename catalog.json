@@ -153,7 +153,7 @@
       "thumbPath": "thumbs/nature-0dbd7833.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#315024",
+      "dominantColor": "#305221",
       "photographer": "W.carter",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg",
       "license": "CC0 1.0",
@@ -161,7 +161,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 52.5,
+        "contrast": 0.235,
+        "sharpness": 8.66
+      },
+      "appeal": 77.7
     },
     {
       "id": "nature-19584dbc",
@@ -171,7 +179,7 @@
       "thumbPath": "thumbs/nature-19584dbc.webp",
       "width": 3000,
       "height": 2250,
-      "dominantColor": "#352b1c",
+      "dominantColor": "#302616",
       "photographer": "W.carter",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spruce_forest_at_Holma.jpg",
       "license": "CC0 1.0",
@@ -179,7 +187,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 43.7,
+        "contrast": 0.196,
+        "sharpness": 8.65
+      },
+      "appeal": 65.6
     },
     {
       "id": "nature-2859ae0d",
@@ -189,7 +205,7 @@
       "thumbPath": "thumbs/nature-2859ae0d.webp",
       "width": 3000,
       "height": 1841,
-      "dominantColor": "#1c1d21",
+      "dominantColor": "#191a1e",
       "photographer": "GrandTetonNPS",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jenny_Lake_Spring_Thaw_Cascade_Canyon_(52112892283).jpg",
       "license": "Public domain",
@@ -197,7 +213,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 55.1,
+        "contrast": 0.242,
+        "sharpness": 8.21
+      },
+      "appeal": 80.7
     },
     {
       "id": "nature-2a234bda",
@@ -207,7 +231,7 @@
       "thumbPath": "thumbs/nature-2a234bda.webp",
       "width": 3000,
       "height": 1994,
-      "dominantColor": "#5f5d53",
+      "dominantColor": "#252b21",
       "photographer": "Vyacheslav Argenberg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forest_in_Kurdzhips_River_Canyon,_Mezmay,_Russia.jpg",
       "license": "CC BY 4.0",
@@ -215,25 +239,15 @@
       "attributionRequired": true,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "nature-2a651659",
-      "categoryId": "nature",
-      "title": "Bois Raquet, in the High Fens – Eifel Nature Park (DSCF6655)",
-      "imagePath": "images/nature/nature-2a651659.webp",
-      "thumbPath": "thumbs/nature-2a651659.webp",
-      "width": 3000,
-      "height": 1941,
-      "dominantColor": "#272a29",
-      "photographer": "Trougnouf (Benoit Brummer)",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bois_Raquet,_in_the_High_Fens_%E2%80%93_Eifel_Nature_Park_(DSCF6655).jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "attributionRequired": true,
-      "addedAt": "2026-11-09",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 32.1,
+        "contrast": 0.238,
+        "sharpness": 8.72
+      },
+      "appeal": 63.6
     },
     {
       "id": "nature-2c4a7278",
@@ -243,7 +257,7 @@
       "thumbPath": "thumbs/nature-2c4a7278.webp",
       "width": 3000,
       "height": 1999,
-      "dominantColor": "#5a5a5d",
+      "dominantColor": "#252529",
       "photographer": "GrandTetonNPS",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jenny_Lake_Spring_Thaw_Cascade_Canyon_(52113102374).jpg",
       "license": "Public domain",
@@ -251,7 +265,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 26.4,
+        "contrast": 0.24,
+        "sharpness": 8.41
+      },
+      "appeal": 59.9
     },
     {
       "id": "nature-31f326de",
@@ -261,7 +283,7 @@
       "thumbPath": "thumbs/nature-31f326de.webp",
       "width": 3000,
       "height": 1994,
-      "dominantColor": "#68625c",
+      "dominantColor": "#65615c",
       "photographer": "Vyacheslav Argenberg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezmay,_Forest,_Trees,_Russia.jpg",
       "license": "CC BY 4.0",
@@ -269,7 +291,15 @@
       "attributionRequired": true,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 41.6,
+        "contrast": 0.242,
+        "sharpness": 9.49
+      },
+      "appeal": 71.0
     },
     {
       "id": "nature-3c632adb",
@@ -279,7 +309,7 @@
       "thumbPath": "thumbs/nature-3c632adb.webp",
       "width": 3000,
       "height": 1594,
-      "dominantColor": "#636053",
+      "dominantColor": "#e2dee5",
       "photographer": "Christian Ferrer",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roquebrun_and_Orb_River_cf02.jpg",
       "license": "CC BY 4.0",
@@ -287,7 +317,15 @@
       "attributionRequired": true,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 31.8,
+        "contrast": 0.299,
+        "sharpness": 8.2
+      },
+      "appeal": 72.6
     },
     {
       "id": "nature-51f1d62b",
@@ -297,7 +335,7 @@
       "thumbPath": "thumbs/nature-51f1d62b.webp",
       "width": 3000,
       "height": 2002,
-      "dominantColor": "#8d8a54",
+      "dominantColor": "#928e4f",
       "photographer": "Jakub Hałun",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hestava%C3%B0sfoss_Waterfall,_Iceland,_20240720_1334_3003.jpg",
       "license": "CC BY 4.0",
@@ -305,25 +343,15 @@
       "attributionRequired": true,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "nature-7c6c4dd3",
-      "categoryId": "nature",
-      "title": "Crepuscular rays in the forest near Przeginia Duchowna, Lesser Poland Voivodeship, 20240225 0830 6640",
-      "imagePath": "images/nature/nature-7c6c4dd3.webp",
-      "thumbPath": "thumbs/nature-7c6c4dd3.webp",
-      "width": 3000,
-      "height": 2003,
-      "dominantColor": "#28221c",
-      "photographer": "Jakub Hałun",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crepuscular_rays_in_the_forest_near_Przeginia_Duchowna,_Lesser_Poland_Voivodeship,_20240225_0830_6640.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "attributionRequired": true,
-      "addedAt": "2026-11-09",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 45.2,
+        "contrast": 0.234,
+        "sharpness": 8.26
+      },
+      "appeal": 72.4
     },
     {
       "id": "nature-94029a8f",
@@ -333,7 +361,7 @@
       "thumbPath": "thumbs/nature-94029a8f.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#20260d",
+      "dominantColor": "#1f240d",
       "photographer": "Vyacheslav Argenberg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ergaki,_Siberian_pine_forest,_Spruce_forest,_Taiga_wilderness,_Sayan_Mountains,_Siberia,_Russia.jpg",
       "license": "CC BY 4.0",
@@ -341,7 +369,15 @@
       "attributionRequired": true,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 36.3,
+        "contrast": 0.312,
+        "sharpness": 8.39
+      },
+      "appeal": 75.9
     },
     {
       "id": "nature-e050365c",
@@ -359,7 +395,15 @@
       "attributionRequired": true,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.5,
+        "contrast": 0.212,
+        "sharpness": 9.07
+      },
+      "appeal": 61.4
     },
     {
       "id": "nature-e81e6b95",
@@ -377,97 +421,15 @@
       "attributionRequired": true,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "nature-nivee000507",
-      "categoryId": "nature",
-      "title": "Malaspina Glacier, Alaska",
-      "imagePath": "images/nature/nature-nivee000507.webp",
-      "thumbPath": "thumbs/nature-nivee000507.webp",
-      "width": 3000,
-      "height": 3000,
-      "dominantColor": "#dedfe0",
-      "photographer": "NASA (GSFC)",
-      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000507",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "nature-nivee002161",
-      "categoryId": "nature",
-      "title": "Icefall, Lambert Glacier, Antarctica",
-      "imagePath": "images/nature/nature-nivee002161.webp",
-      "thumbPath": "thumbs/nature-nivee002161.webp",
-      "width": 2994,
-      "height": 3000,
-      "dominantColor": "#669fa1",
-      "photographer": "NASA (GSFC)",
-      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002161",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "nature-ns054152189",
-      "categoryId": "nature",
-      "title": "Murzuk Sand Sea, Sahara Desert, Libya, Africa",
-      "imagePath": "images/nature/nature-ns054152189.webp",
-      "thumbPath": "thumbs/nature-ns054152189.webp",
-      "width": 2343,
-      "height": 3000,
-      "dominantColor": "#656262",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/sts054-152-189",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "nature-ns40151126",
-      "categoryId": "nature",
-      "title": "Great Sand Dune National Monument, CO, USA",
-      "imagePath": "images/nature/nature-ns40151126.webp",
-      "thumbPath": "thumbs/nature-ns40151126.webp",
-      "width": 2416,
-      "height": 3000,
-      "dominantColor": "#5a5c65",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/s40-151-126",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "nature-ns4479046",
-      "categoryId": "nature",
-      "title": "Fog Bank, Namib Desert, Namibia, Africa",
-      "imagePath": "images/nature/nature-ns4479046.webp",
-      "thumbPath": "thumbs/nature-ns4479046.webp",
-      "width": 3000,
-      "height": 2969,
-      "dominantColor": "#956e5c",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/s44-79-046",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 35.0,
+        "contrast": 0.242,
+        "sharpness": 8.73
+      },
+      "appeal": 66.3
     },
     {
       "id": "animals-s4183208370",
@@ -477,7 +439,7 @@
       "thumbPath": "thumbs/animals-s4183208370.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#25222d",
+      "dominantColor": "#1d1926",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418320837-0",
       "license": "CC0 1.0",
@@ -485,7 +447,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 55.5,
+        "contrast": 0.3,
+        "sharpness": 7.24
+      },
+      "appeal": 86.3
     },
     {
       "id": "animals-s4183408010",
@@ -495,7 +465,7 @@
       "thumbPath": "thumbs/animals-s4183408010.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#a3ab91",
+      "dominantColor": "#d6e19a",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418340801-0",
       "license": "CC0 1.0",
@@ -503,43 +473,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "animals-s4183419860",
-      "categoryId": "animals",
-      "title": "Porcupette (Smithsonian NZP)",
-      "imagePath": "images/animals/animals-s4183419860.webp",
-      "thumbPath": "thumbs/animals-s4183419860.webp",
-      "width": 2520,
-      "height": 1940,
-      "dominantColor": "#0a0502",
-      "photographer": "Smithsonian Institution (NZP)",
-      "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418341986-0",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "animals-s4183460810",
-      "categoryId": "animals",
-      "title": "Crocodile Monitor (Smithsonian NZP)",
-      "imagePath": "images/animals/animals-s4183460810.webp",
-      "thumbPath": "thumbs/animals-s4183460810.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#1f1c17",
-      "photographer": "Smithsonian Institution (NZP)",
-      "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418346081-0",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 72.3,
+        "contrast": 0.243,
+        "sharpness": 7.27
+      },
+      "appeal": 88.2
     },
     {
       "id": "animals-s4183489760",
@@ -549,7 +491,7 @@
       "thumbPath": "thumbs/animals-s4183489760.webp",
       "width": 3000,
       "height": 2198,
-      "dominantColor": "#24180e",
+      "dominantColor": "#23170d",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418348976-0",
       "license": "CC0 1.0",
@@ -557,7 +499,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 40.6,
+        "contrast": 0.313,
+        "sharpness": 6.26
+      },
+      "appeal": 71.3
     },
     {
       "id": "animals-s4183498730",
@@ -567,7 +517,7 @@
       "thumbPath": "thumbs/animals-s4183498730.webp",
       "width": 3000,
       "height": 2227,
-      "dominantColor": "#211f1a",
+      "dominantColor": "#201d18",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418349873-0",
       "license": "CC0 1.0",
@@ -575,7 +525,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 39.0,
+        "contrast": 0.237,
+        "sharpness": 6.1
+      },
+      "appeal": 60.0
     },
     {
       "id": "animals-s4183509210",
@@ -585,7 +543,7 @@
       "thumbPath": "thumbs/animals-s4183509210.webp",
       "width": 2250,
       "height": 3000,
-      "dominantColor": "#545e5f",
+      "dominantColor": "#555e5e",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418350921-0",
       "license": "CC0 1.0",
@@ -593,7 +551,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 48.0,
+        "contrast": 0.231,
+        "sharpness": 6.62
+      },
+      "appeal": 67.8
     },
     {
       "id": "animals-s4183525970",
@@ -603,7 +569,7 @@
       "thumbPath": "thumbs/animals-s4183525970.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#5c665c",
+      "dominantColor": "#58675b",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418352597-0",
       "license": "CC0 1.0",
@@ -611,7 +577,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 49.3,
+        "contrast": 0.221,
+        "sharpness": 7.13
+      },
+      "appeal": 69.5
     },
     {
       "id": "animals-s4183535950",
@@ -621,7 +595,7 @@
       "thumbPath": "thumbs/animals-s4183535950.webp",
       "width": 2000,
       "height": 3000,
-      "dominantColor": "#99a499",
+      "dominantColor": "#69975e",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418353595-0",
       "license": "CC0 1.0",
@@ -629,7 +603,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 59.4,
+        "contrast": 0.245,
+        "sharpness": 7.77
+      },
+      "appeal": 83.2
     },
     {
       "id": "animals-s4183557980",
@@ -639,7 +621,7 @@
       "thumbPath": "thumbs/animals-s4183557980.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#5f6258",
+      "dominantColor": "#5f6157",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418355798-0",
       "license": "CC0 1.0",
@@ -647,7 +629,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 58.0,
+        "contrast": 0.27,
+        "sharpness": 6.8
+      },
+      "appeal": 81.6
     },
     {
       "id": "animals-s4183563930",
@@ -657,7 +647,7 @@
       "thumbPath": "thumbs/animals-s4183563930.webp",
       "width": 2000,
       "height": 3000,
-      "dominantColor": "#9ca598",
+      "dominantColor": "#141d27",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418356393-0",
       "license": "CC0 1.0",
@@ -665,7 +655,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 42.4,
+        "contrast": 0.269,
+        "sharpness": 7.62
+      },
+      "appeal": 73.9
     },
     {
       "id": "animals-s4183620630",
@@ -675,7 +673,7 @@
       "thumbPath": "thumbs/animals-s4183620630.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#9ba35d",
+      "dominantColor": "#96a827",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418362063-0",
       "license": "CC0 1.0",
@@ -683,7 +681,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 99.1,
+        "contrast": 0.249,
+        "sharpness": 8.34
+      },
+      "appeal": 92.3
     },
     {
       "id": "animals-s4183756720",
@@ -693,7 +699,7 @@
       "thumbPath": "thumbs/animals-s4183756720.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#252217",
+      "dominantColor": "#201d12",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418375672-0",
       "license": "CC0 1.0",
@@ -701,7 +707,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 38.4,
+        "contrast": 0.251,
+        "sharpness": 6.92
+      },
+      "appeal": 65.3
     },
     {
       "id": "animals-s4183785360",
@@ -711,7 +725,7 @@
       "thumbPath": "thumbs/animals-s4183785360.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#5d6263",
+      "dominantColor": "#5b6162",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418378536-0",
       "license": "CC0 1.0",
@@ -719,25 +733,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "animals-s4183889790",
-      "categoryId": "animals",
-      "title": "NZP-20190912_076SB (Smithsonian NZP)",
-      "imagePath": "images/animals/animals-s4183889790.webp",
-      "thumbPath": "thumbs/animals-s4183889790.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#aba59b",
-      "photographer": "Smithsonian Institution (NZP)",
-      "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418388979-0",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 39.8,
+        "contrast": 0.252,
+        "sharpness": 8.16
+      },
+      "appeal": 71.2
     },
     {
       "id": "animals-s4183892250",
@@ -747,7 +751,7 @@
       "thumbPath": "thumbs/animals-s4183892250.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#a7a095",
+      "dominantColor": "#221e1b",
       "photographer": "Smithsonian Institution (NZP)",
       "sourceUrl": "https://collections.si.edu/search/detail/zoo-1601418305219-1601418389225-0",
       "license": "CC0 1.0",
@@ -755,79 +759,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "animals-s6538509840",
-      "categoryId": "animals",
-      "title": "American Bison (Smithsonian NZP)",
-      "imagePath": "images/animals/animals-s6538509840.webp",
-      "thumbPath": "thumbs/animals-s6538509840.webp",
-      "width": 3000,
-      "height": 2400,
-      "dominantColor": "#6b5f4c",
-      "photographer": "Smithsonian Institution (NZP)",
-      "sourceUrl": "https://nationalzoo.si.edu/object/nzp_NZP-AmericanBison-04JA-000001",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "cities-n053e239527",
-      "categoryId": "cities",
-      "title": "iss053e239527",
-      "imagePath": "images/cities/cities-n053e239527.webp",
-      "thumbPath": "thumbs/cities-n053e239527.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#1b1520",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss053e239527",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "cities-n064e016772",
-      "categoryId": "cities",
-      "title": "iss064e016772",
-      "imagePath": "images/cities/cities-n064e016772.webp",
-      "thumbPath": "thumbs/cities-n064e016772.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#222122",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss064e016772",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "cities-r05e8e349",
-      "categoryId": "cities",
-      "title": "Winter in Amsterdam (Rijksmuseum)",
-      "imagePath": "images/cities/cities-r05e8e349.webp",
-      "thumbPath": "thumbs/cities-r05e8e349.webp",
-      "width": 3000,
-      "height": 1573,
-      "dominantColor": "#271d0b",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108310",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 30.3,
+        "contrast": 0.269,
+        "sharpness": 6.93
+      },
+      "appeal": 62.2
     },
     {
       "id": "cities-r3ff0bc08",
@@ -837,7 +777,7 @@
       "thumbPath": "thumbs/cities-r3ff0bc08.webp",
       "width": 3000,
       "height": 2469,
-      "dominantColor": "#a6b0a3",
+      "dominantColor": "#271a0b",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108888",
       "license": "CC0 1.0",
@@ -845,7 +785,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 39.4,
+        "contrast": 0.305,
+        "sharpness": 6.05
+      },
+      "appeal": 69.5
     },
     {
       "id": "cities-r5a0b260d",
@@ -855,7 +803,7 @@
       "thumbPath": "thumbs/cities-r5a0b260d.webp",
       "width": 3000,
       "height": 2006,
-      "dominantColor": "#252219",
+      "dominantColor": "#201c11",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20026774",
       "license": "CC0 1.0",
@@ -863,7 +811,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 31.2,
+        "contrast": 0.318,
+        "sharpness": 7.17
+      },
+      "appeal": 68.6
     },
     {
       "id": "cities-r5fe7710a",
@@ -873,7 +829,7 @@
       "thumbPath": "thumbs/cities-r5fe7710a.webp",
       "width": 3000,
       "height": 2310,
-      "dominantColor": "#4c2f12",
+      "dominantColor": "#291403",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20026370",
       "license": "CC0 1.0",
@@ -881,7 +837,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 51.7,
+        "contrast": 0.207,
+        "sharpness": 6.64
+      },
+      "appeal": 66.9
     },
     {
       "id": "cities-r6e2de2fc",
@@ -891,7 +855,7 @@
       "thumbPath": "thumbs/cities-r6e2de2fc.webp",
       "width": 3000,
       "height": 2449,
-      "dominantColor": "#32281e",
+      "dominantColor": "#26190c",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108145",
       "license": "CC0 1.0",
@@ -899,7 +863,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 37.9,
+        "contrast": 0.216,
+        "sharpness": 5.43
+      },
+      "appeal": 53.0
     },
     {
       "id": "cities-r705f414f",
@@ -909,7 +881,7 @@
       "thumbPath": "thumbs/cities-r705f414f.webp",
       "width": 3000,
       "height": 2107,
-      "dominantColor": "#4e3522",
+      "dominantColor": "#2c1403",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108688",
       "license": "CC0 1.0",
@@ -917,25 +889,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "cities-r71f1c08f",
-      "categoryId": "cities",
-      "title": "De kleine vismarkt op de hoek van de Brouwersgracht en het Singel te Amsterdam (Rijksmuseum)",
-      "imagePath": "images/cities/cities-r71f1c08f.webp",
-      "thumbPath": "thumbs/cities-r71f1c08f.webp",
-      "width": 3000,
-      "height": 2401,
-      "dominantColor": "#a3a193",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108656",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 33.8,
+        "contrast": 0.222,
+        "sharpness": 6.02
+      },
+      "appeal": 53.6
     },
     {
       "id": "cities-r7c9fd276",
@@ -945,7 +907,7 @@
       "thumbPath": "thumbs/cities-r7c9fd276.webp",
       "width": 3000,
       "height": 1938,
-      "dominantColor": "#e1d8c7",
+      "dominantColor": "#f7efd7",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20013048",
       "license": "CC0 1.0",
@@ -953,25 +915,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "cities-r8bfa4e7f",
-      "categoryId": "cities",
-      "title": "Stadswal van Haarlem in de winter (Rijksmuseum)",
-      "imagePath": "images/cities/cities-r8bfa4e7f.webp",
-      "thumbPath": "thumbs/cities-r8bfa4e7f.webp",
-      "width": 3000,
-      "height": 2354,
-      "dominantColor": "#5d5d52",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108208",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 27.6,
+        "contrast": 0.391,
+        "sharpness": 6.78
+      },
+      "appeal": 64.3
     },
     {
       "id": "cities-r9a694e3e",
@@ -981,7 +933,7 @@
       "thumbPath": "thumbs/cities-r9a694e3e.webp",
       "width": 3000,
       "height": 1794,
-      "dominantColor": "#676350",
+      "dominantColor": "#eee6cc",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108743",
       "license": "CC0 1.0",
@@ -989,7 +941,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.3,
+        "contrast": 0.287,
+        "sharpness": 7.48
+      },
+      "appeal": 70.2
     },
     {
       "id": "cities-ra559ba5b",
@@ -999,7 +959,7 @@
       "thumbPath": "thumbs/cities-ra559ba5b.webp",
       "width": 3000,
       "height": 2189,
-      "dominantColor": "#32291e",
+      "dominantColor": "#221709",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20013086",
       "license": "CC0 1.0",
@@ -1007,7 +967,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 79.7,
+        "contrast": 0.261,
+        "sharpness": 6.21
+      },
+      "appeal": 86.2
     },
     {
       "id": "cities-re2c21089",
@@ -1017,7 +985,7 @@
       "thumbPath": "thumbs/cities-re2c21089.webp",
       "width": 3000,
       "height": 2478,
-      "dominantColor": "#956f4f",
+      "dominantColor": "#582e10",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200109411",
       "license": "CC0 1.0",
@@ -1025,25 +993,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "cities-re4a8e12f",
-      "categoryId": "cities",
-      "title": "Het oude stadhuis in Amsterdam (Rijksmuseum)",
-      "imagePath": "images/cities/cities-re4a8e12f.webp",
-      "thumbPath": "thumbs/cities-re4a8e12f.webp",
-      "width": 3000,
-      "height": 2228,
-      "dominantColor": "#ab916a",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200107966",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 49.9,
+        "contrast": 0.195,
+        "sharpness": 6.84
+      },
+      "appeal": 64.7
     },
     {
       "id": "cities-rf77ad977",
@@ -1053,7 +1011,7 @@
       "thumbPath": "thumbs/cities-rf77ad977.webp",
       "width": 3000,
       "height": 2445,
-      "dominantColor": "#94a2a2",
+      "dominantColor": "#9ca9a4",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108214",
       "license": "CC0 1.0",
@@ -1061,7 +1019,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 63.9,
+        "contrast": 0.214,
+        "sharpness": 6.97
+      },
+      "appeal": 78.2
     },
     {
       "id": "travel-05aa9555",
@@ -1071,7 +1037,7 @@
       "thumbPath": "thumbs/travel-05aa9555.webp",
       "width": 3000,
       "height": 1994,
-      "dominantColor": "#929564",
+      "dominantColor": "#959a5f",
       "photographer": "Vyacheslav Argenberg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geghard_Monastery,_Armenia.jpg",
       "license": "CC BY 4.0",
@@ -1079,7 +1045,15 @@
       "attributionRequired": true,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 42.5,
+        "contrast": 0.219,
+        "sharpness": 9.12
+      },
+      "appeal": 68.2
     },
     {
       "id": "travel-45b279b4",
@@ -1089,7 +1063,7 @@
       "thumbPath": "thumbs/travel-45b279b4.webp",
       "width": 3000,
       "height": 2411,
-      "dominantColor": "#a3ab9b",
+      "dominantColor": "#56562f",
       "photographer": "Richard Wilson",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/437941",
       "license": "CC0 1.0",
@@ -1097,7 +1071,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 44.4,
+        "contrast": 0.25,
+        "sharpness": 6.2
+      },
+      "appeal": 66.2
     },
     {
       "id": "travel-4d8a0f16",
@@ -1107,7 +1089,7 @@
       "thumbPath": "thumbs/travel-4d8a0f16.webp",
       "width": 3000,
       "height": 2510,
-      "dominantColor": "#605929",
+      "dominantColor": "#605b24",
       "photographer": "Richard Parkes Bonington",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/438449",
       "license": "CC0 1.0",
@@ -1115,7 +1097,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 62.7,
+        "contrast": 0.244,
+        "sharpness": 7.87
+      },
+      "appeal": 85.8
     },
     {
       "id": "travel-4df326d3",
@@ -1125,7 +1115,7 @@
       "thumbPath": "thumbs/travel-4df326d3.webp",
       "width": 3000,
       "height": 2293,
-      "dominantColor": "#b0afa9",
+      "dominantColor": "#f1ecd6",
       "photographer": "Johan Thomas Lundbye",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/438951",
       "license": "CC0 1.0",
@@ -1133,43 +1123,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "travel-50c7e31b",
-      "categoryId": "travel",
-      "title": "Modern Rome (The Met)",
-      "imagePath": "images/travel/travel-50c7e31b.webp",
-      "thumbPath": "thumbs/travel-50c7e31b.webp",
-      "width": 3000,
-      "height": 2317,
-      "dominantColor": "#6d6751",
-      "photographer": "Giovanni Paolo Panini",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437245",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "travel-80d3e224",
-      "categoryId": "travel",
-      "title": "Ancient Rome (The Met)",
-      "imagePath": "images/travel/travel-80d3e224.webp",
-      "thumbPath": "thumbs/travel-80d3e224.webp",
-      "width": 3000,
-      "height": 2318,
-      "dominantColor": "#6a674f",
-      "photographer": "Giovanni Paolo Panini",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437244",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 47.1,
+        "contrast": 0.281,
+        "sharpness": 6.88
+      },
+      "appeal": 75.8
     },
     {
       "id": "travel-87ac2fe5",
@@ -1179,7 +1141,7 @@
       "thumbPath": "thumbs/travel-87ac2fe5.webp",
       "width": 3000,
       "height": 1804,
-      "dominantColor": "#728d93",
+      "dominantColor": "#91aeae",
       "photographer": "Canaletto (Giovanni Antonio Canal)",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/438101",
       "license": "CC0 1.0",
@@ -1187,7 +1149,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 62.8,
+        "contrast": 0.232,
+        "sharpness": 7.83
+      },
+      "appeal": 83.9
     },
     {
       "id": "travel-9468618a",
@@ -1197,7 +1167,7 @@
       "thumbPath": "thumbs/travel-9468618a.webp",
       "width": 3000,
       "height": 1691,
-      "dominantColor": "#665227",
+      "dominantColor": "#e9d296",
       "photographer": "Francesco Guardi",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/436601",
       "license": "CC0 1.0",
@@ -1205,7 +1175,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 48.5,
+        "contrast": 0.251,
+        "sharpness": 7.95
+      },
+      "appeal": 77.1
     },
     {
       "id": "travel-9ea59a09",
@@ -1215,7 +1193,7 @@
       "thumbPath": "thumbs/travel-9ea59a09.webp",
       "width": 3000,
       "height": 2236,
-      "dominantColor": "#a39f92",
+      "dominantColor": "#e1d0b0",
       "photographer": "Jacob van Strij",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/437760",
       "license": "CC0 1.0",
@@ -1223,25 +1201,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "travel-b7834aff",
-      "categoryId": "travel",
-      "title": "Venice from the Bacino di San Marco (The Met)",
-      "imagePath": "images/travel/travel-b7834aff.webp",
-      "thumbPath": "thumbs/travel-b7834aff.webp",
-      "width": 3000,
-      "height": 2342,
-      "dominantColor": "#58685d",
-      "photographer": "Francesco Guardi",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436596",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 33.8,
+        "contrast": 0.298,
+        "sharpness": 6.3
+      },
+      "appeal": 66.3
     },
     {
       "id": "travel-f4ae6f7b",
@@ -1251,7 +1219,7 @@
       "thumbPath": "thumbs/travel-f4ae6f7b.webp",
       "width": 3000,
       "height": 1813,
-      "dominantColor": "#645130",
+      "dominantColor": "#67532f",
       "photographer": "Canaletto (Giovanni Antonio Canal)",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/438103",
       "license": "CC0 1.0",
@@ -1259,7 +1227,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 53.3,
+        "contrast": 0.242,
+        "sharpness": 7.3
+      },
+      "appeal": 76.3
     },
     {
       "id": "travel-r18fdecee",
@@ -1269,7 +1245,7 @@
       "thumbPath": "thumbs/travel-r18fdecee.webp",
       "width": 3000,
       "height": 2117,
-      "dominantColor": "#644c2e",
+      "dominantColor": "#2b1d0a",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108008",
       "license": "CC0 1.0",
@@ -1277,7 +1253,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 43.5,
+        "contrast": 0.245,
+        "sharpness": 7.27
+      },
+      "appeal": 69.6
     },
     {
       "id": "travel-r3e4c844d",
@@ -1287,7 +1271,7 @@
       "thumbPath": "thumbs/travel-r3e4c844d.webp",
       "width": 3000,
       "height": 2278,
-      "dominantColor": "#624e30",
+      "dominantColor": "#271a0b",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108292",
       "license": "CC0 1.0",
@@ -1295,7 +1279,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 49.2,
+        "contrast": 0.311,
+        "sharpness": 6.94
+      },
+      "appeal": 80.4
     },
     {
       "id": "travel-r67c8d34f",
@@ -1305,7 +1297,7 @@
       "thumbPath": "thumbs/travel-r67c8d34f.webp",
       "width": 3000,
       "height": 2193,
-      "dominantColor": "#26251f",
+      "dominantColor": "#1e1c13",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108135",
       "license": "CC0 1.0",
@@ -1313,7 +1305,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 38.3,
+        "contrast": 0.376,
+        "sharpness": 6.09
+      },
+      "appeal": 68.9
     },
     {
       "id": "travel-r67c906ea",
@@ -1323,7 +1323,7 @@
       "thumbPath": "thumbs/travel-r67c906ea.webp",
       "width": 3000,
       "height": 2105,
-      "dominantColor": "#5a4d2b",
+      "dominantColor": "#2d2007",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108686",
       "license": "CC0 1.0",
@@ -1331,7 +1331,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 33.6,
+        "contrast": 0.245,
+        "sharpness": 7.07
+      },
+      "appeal": 61.6
     },
     {
       "id": "travel-rf06357a8",
@@ -1341,7 +1349,7 @@
       "thumbPath": "thumbs/travel-rf06357a8.webp",
       "width": 3000,
       "height": 1427,
-      "dominantColor": "#dbe9e3",
+      "dominantColor": "#dcefe6",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20028222",
       "license": "CC0 1.0",
@@ -1349,7 +1357,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 31.0,
+        "contrast": 0.314,
+        "sharpness": 6.86
+      },
+      "appeal": 67.1
     },
     {
       "id": "sea-d6beba3a",
@@ -1359,7 +1375,7 @@
       "thumbPath": "thumbs/sea-d6beba3a.webp",
       "width": 3000,
       "height": 2070,
-      "dominantColor": "#635e59",
+      "dominantColor": "#58a0e7",
       "photographer": "NPS",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shoreline_between_Hurricane_Beach_and_Au_Sable_Light_Station_(2540c663-ef87-4a60-b0df-92f361d2c82c).JPG",
       "license": "Public domain",
@@ -1367,7 +1383,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 76.5,
+        "contrast": 0.236,
+        "sharpness": 7.95
+      },
+      "appeal": 90.2
     },
     {
       "id": "sea-f2d0e718",
@@ -1377,7 +1401,7 @@
       "thumbPath": "thumbs/sea-f2d0e718.webp",
       "width": 3000,
       "height": 2250,
-      "dominantColor": "#609adc",
+      "dominantColor": "#549fea",
       "photographer": "NPS",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hurricane_Beach_towards_Au_Sable_Lighthouse_(3b912f49-98b2-4bdf-8611-22255f230caf).JPG",
       "license": "Public domain",
@@ -1385,259 +1409,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "sea-n047e115879",
-      "categoryId": "sea",
-      "title": "iss047e115879",
-      "imagePath": "images/sea/sea-n047e115879.webp",
-      "thumbPath": "thumbs/sea-n047e115879.webp",
-      "width": 3000,
-      "height": 1997,
-      "dominantColor": "#284462",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss047e115879",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "sea-n063e084654",
-      "categoryId": "sea",
-      "title": "Earth Observations",
-      "imagePath": "images/sea/sea-n063e084654.webp",
-      "thumbPath": "thumbs/sea-n063e084654.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#949397",
-      "photographer": "Chris Cassidy",
-      "sourceUrl": "https://images.nasa.gov/details/iss063e084654",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "sea-n064e002482",
-      "categoryId": "sea",
-      "title": "iss064e002482",
-      "imagePath": "images/sea/sea-n064e002482.webp",
-      "thumbPath": "thumbs/sea-n064e002482.webp",
-      "width": 3000,
-      "height": 1685,
-      "dominantColor": "#2397ae",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss064e002482",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "sea-n066e108216",
-      "categoryId": "sea",
-      "title": "iss066e108216",
-      "imagePath": "images/sea/sea-n066e108216.webp",
-      "thumbPath": "thumbs/sea-n066e108216.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#185172",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss066e108216",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "sea-n069e022551",
-      "categoryId": "sea",
-      "title": "EHDC7",
-      "imagePath": "images/sea/sea-n069e022551.webp",
-      "thumbPath": "thumbs/sea-n069e022551.webp",
-      "width": 3000,
-      "height": 1685,
-      "dominantColor": "#196071",
-      "photographer": "Communications RF Onboard Networks Utilization Specialists (CRONUS)",
-      "sourceUrl": "https://images.nasa.gov/details/iss069e022551",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "sea-n069e060925",
-      "categoryId": "sea",
-      "title": "iss069e060925",
-      "imagePath": "images/sea/sea-n069e060925.webp",
-      "thumbPath": "thumbs/sea-n069e060925.webp",
-      "width": 3000,
-      "height": 2134,
-      "dominantColor": "#527171",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss069e060925",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "sea-n071e009021",
-      "categoryId": "sea",
-      "title": "The Zapata Peninsula",
-      "imagePath": "images/sea/sea-n071e009021.webp",
-      "thumbPath": "thumbs/sea-n071e009021.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#5d6c7b",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss071e009021",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "sea-n071e449837",
-      "categoryId": "sea",
-      "title": "The clear blue waters surrounding The Bahamas",
-      "imagePath": "images/sea/sea-n071e449837.webp",
-      "thumbPath": "thumbs/sea-n071e449837.webp",
-      "width": 3000,
-      "height": 1879,
-      "dominantColor": "#6a99cc",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss071e449837",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "sea-ns043151073",
-      "categoryId": "sea",
-      "title": "Cairns and Townsville area, Queensland, Australia",
-      "imagePath": "images/sea/sea-ns043151073.webp",
-      "thumbPath": "thumbs/sea-ns043151073.webp",
-      "width": 2416,
-      "height": 3000,
-      "dominantColor": "#656062",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/sts043-151-073",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "sea-ns0645097",
-      "categoryId": "sea",
-      "title": "Bahama Islands",
-      "imagePath": "images/sea/sea-ns0645097.webp",
-      "thumbPath": "thumbs/sea-ns0645097.webp",
-      "width": 3000,
-      "height": 2760,
-      "dominantColor": "#0a1832",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/s06-45-097",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "sea-ns081711009",
-      "categoryId": "sea",
-      "title": "Earth observations taken during STS-81 mission",
-      "imagePath": "images/sea/sea-ns081711009.webp",
-      "thumbPath": "thumbs/sea-ns081711009.webp",
-      "width": 2997,
-      "height": 3000,
-      "dominantColor": "#12151c",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/sts081-711-009",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "sea-ns08320748",
-      "categoryId": "sea",
-      "title": "Earth observations taken during STS-8",
-      "imagePath": "images/sea/sea-ns08320748.webp",
-      "thumbPath": "thumbs/sea-ns08320748.webp",
-      "width": 3000,
-      "height": 3000,
-      "dominantColor": "#172a57",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/s08-32-0748",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "sea-ns8130396",
-      "categoryId": "sea",
-      "title": "Press Pelease Image - STS-1 - Earth View",
-      "imagePath": "images/sea/sea-ns8130396.webp",
-      "thumbPath": "thumbs/sea-ns8130396.webp",
-      "width": 3000,
-      "height": 2975,
-      "dominantColor": "#0c1523",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/S81-30396",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "sea-nts06688056",
-      "categoryId": "sea",
-      "title": "Eleuthera Island, Bahamas seen from STS-66",
-      "imagePath": "images/sea/sea-nts06688056.webp",
-      "thumbPath": "thumbs/sea-nts06688056.webp",
-      "width": 3000,
-      "height": 2996,
-      "dominantColor": "#182d4f",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/sts066-88-056",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 85.4,
+        "contrast": 0.236,
+        "sharpness": 8.61
+      },
+      "appeal": 90.4
     },
     {
       "id": "mountains-14de0a16",
@@ -1647,7 +1427,7 @@
       "thumbPath": "thumbs/mountains-14de0a16.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#d9dae2",
+      "dominantColor": "#262218",
       "photographer": "Yellowstone National Park",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sepulcher_Mountain_summit_views_of_Electric_Peak_(48080242136).jpg",
       "license": "Public domain",
@@ -1655,7 +1435,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 39.6,
+        "contrast": 0.312,
+        "sharpness": 7.32
+      },
+      "appeal": 75.3
     },
     {
       "id": "mountains-6d3beb79",
@@ -1665,7 +1453,7 @@
       "thumbPath": "thumbs/mountains-6d3beb79.webp",
       "width": 3000,
       "height": 1513,
-      "dominantColor": "#a5a197",
+      "dominantColor": "#a7a296",
       "photographer": "GlacierNPS",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piegan_Mountain_and_the_Piegan_Glacier.jpg",
       "license": "Public domain",
@@ -1673,367 +1461,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "mountains-n058e006004",
-      "categoryId": "mountains",
-      "title": "Argentina, Chile and the Andes mountains",
-      "imagePath": "images/mountains/mountains-n058e006004.webp",
-      "thumbPath": "thumbs/mountains-n058e006004.webp",
-      "width": 3000,
-      "height": 1841,
-      "dominantColor": "#a5a6ae",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss058e006004",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "mountains-n067e355983",
-      "categoryId": "mountains",
-      "title": "iss067e355983",
-      "imagePath": "images/mountains/mountains-n067e355983.webp",
-      "thumbPath": "thumbs/mountains-n067e355983.webp",
-      "width": 3000,
-      "height": 1551,
-      "dominantColor": "#606474",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss067e355983",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "mountains-n068e025399",
-      "categoryId": "mountains",
-      "title": "iss068e025399",
-      "imagePath": "images/mountains/mountains-n068e025399.webp",
-      "thumbPath": "thumbs/mountains-n068e025399.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#9fa19f",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss068e025399",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "mountains-n068e025502",
-      "categoryId": "mountains",
-      "title": "iss068e025502",
-      "imagePath": "images/mountains/mountains-n068e025502.webp",
-      "thumbPath": "thumbs/mountains-n068e025502.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#9a8f90",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss068e025502",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "mountains-n068e033632",
-      "categoryId": "mountains",
-      "title": "iss068e033632",
-      "imagePath": "images/mountains/mountains-n068e033632.webp",
-      "thumbPath": "thumbs/mountains-n068e033632.webp",
-      "width": 3000,
-      "height": 1685,
-      "dominantColor": "#3574b1",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss068e033632",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "mountains-n068e040597",
-      "categoryId": "mountains",
-      "title": "iss068e040597",
-      "imagePath": "images/mountains/mountains-n068e040597.webp",
-      "thumbPath": "thumbs/mountains-n068e040597.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#19323b",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss068e040597",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "mountains-n072e398041",
-      "categoryId": "mountains",
-      "title": "The snow-tipped Andes mountain range and its many lakes",
-      "imagePath": "images/mountains/mountains-n072e398041.webp",
-      "thumbPath": "thumbs/mountains-n072e398041.webp",
-      "width": 3000,
-      "height": 1685,
-      "dominantColor": "#545e6a",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss072e398041",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "mountains-n73e0384067",
-      "categoryId": "mountains",
-      "title": "The Andes Mountains run through Chile and Bolivia",
-      "imagePath": "images/mountains/mountains-n73e0384067.webp",
-      "thumbPath": "thumbs/mountains-n73e0384067.webp",
-      "width": 3000,
-      "height": 2000,
-      "dominantColor": "#58605f",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/iss073e0384067",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "mountains-ns054151150",
-      "categoryId": "mountains",
-      "title": "Thunderstorms, Andean Mountains Ridgeline, Argentina",
-      "imagePath": "images/mountains/mountains-ns054151150.webp",
-      "thumbPath": "thumbs/mountains-ns054151150.webp",
-      "width": 3000,
-      "height": 2168,
-      "dominantColor": "#080f14",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/sts054-151-150",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "mountains-ns066152022",
-      "categoryId": "mountains",
-      "title": "Altiplano of the Central Andes as seen from STS-66 shuttle Atlantis",
-      "imagePath": "images/mountains/mountains-ns066152022.webp",
-      "thumbPath": "thumbs/mountains-ns066152022.webp",
-      "width": 3000,
-      "height": 2343,
-      "dominantColor": "#6a5a4e",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/sts066-152-022",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "mountains-ns4379097",
-      "categoryId": "mountains",
-      "title": "Tenarife Island, Canary Island Archipelago, Atlantic Ocean",
-      "imagePath": "images/mountains/mountains-ns4379097.webp",
-      "thumbPath": "thumbs/mountains-ns4379097.webp",
-      "width": 2976,
-      "height": 3000,
-      "dominantColor": "#1c1e23",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/s43-79-097",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "mountains-ns6306445",
-      "categoryId": "mountains",
-      "title": "MERCURY-ATLAS (MA)-9 - ASTRONAUT COOPER - EARTH-SKY VIEW - INDIA",
-      "imagePath": "images/mountains/mountains-ns6306445.webp",
-      "thumbPath": "thumbs/mountains-ns6306445.webp",
-      "width": 3000,
-      "height": 2635,
-      "dominantColor": "#131a1f",
-      "photographer": "1996-98 AccuSoft Inc., All right",
-      "sourceUrl": "https://images.nasa.gov/details/s63-06445",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "mountains-nsl205359",
-      "categoryId": "mountains",
-      "title": "Southern Italy",
-      "imagePath": "images/mountains/mountains-nsl205359.webp",
-      "thumbPath": "thumbs/mountains-nsl205359.webp",
-      "width": 3000,
-      "height": 2981,
-      "dominantColor": "#1b2354",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/sl2-05-359",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "mountains-nts04690029",
-      "categoryId": "mountains",
-      "title": "Volcanoes, Central Java, Indonesia",
-      "imagePath": "images/mountains/mountains-nts04690029.webp",
-      "thumbPath": "thumbs/mountains-nts04690029.webp",
-      "width": 2987,
-      "height": 3000,
-      "dominantColor": "#4f5862",
-      "photographer": "NASA (JSC)",
-      "sourceUrl": "https://images.nasa.gov/details/sts046-90-029",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "flowers-551390a1",
-      "categoryId": "flowers",
-      "title": "A Vase of Flowers (The Met)",
-      "imagePath": "images/flowers/flowers-551390a1.webp",
-      "thumbPath": "thumbs/flowers-551390a1.webp",
-      "width": 2269,
-      "height": 3000,
-      "dominantColor": "#202122",
-      "photographer": "Margareta Haverman",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436634",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "flowers-fa530e20",
-      "categoryId": "flowers",
-      "title": "Fruit and Flowers (The Met)",
-      "imagePath": "images/flowers/flowers-fa530e20.webp",
-      "thumbPath": "thumbs/flowers-fa530e20.webp",
-      "width": 3000,
-      "height": 2414,
-      "dominantColor": "#2a1f14",
-      "photographer": "Orsola Maddalena Caccia",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/816523",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "flowers-r27e4f7ee",
-      "categoryId": "flowers",
-      "title": "Still Life with Flowers (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-r27e4f7ee.webp",
-      "thumbPath": "thumbs/flowers-r27e4f7ee.webp",
-      "width": 2408,
-      "height": 3000,
-      "dominantColor": "#955d17",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20025946",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "flowers-r2b80a37a",
-      "categoryId": "flowers",
-      "title": "Still Life with Flowers (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-r2b80a37a.webp",
-      "thumbPath": "thumbs/flowers-r2b80a37a.webp",
-      "width": 2478,
-      "height": 3000,
-      "dominantColor": "#1e1f1c",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20029317",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "flowers-r2b9d0cb2",
-      "categoryId": "flowers",
-      "title": "Still Life with Flowers in a Greek Vase: Allegory of Spring (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-r2b9d0cb2.webp",
-      "thumbPath": "thumbs/flowers-r2b9d0cb2.webp",
-      "width": 2323,
-      "height": 3000,
-      "dominantColor": "#2f281d",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108674",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "flowers-r3d3209f7",
-      "categoryId": "flowers",
-      "title": "Still Life with Flowers (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-r3d3209f7.webp",
-      "thumbPath": "thumbs/flowers-r3d3209f7.webp",
-      "width": 2440,
-      "height": 3000,
-      "dominantColor": "#2b210f",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20026435",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 81.1,
+        "contrast": 0.181,
+        "sharpness": 8.7
+      },
+      "appeal": 82.1
     },
     {
       "id": "flowers-r4e8d07b3",
@@ -2043,7 +1479,7 @@
       "thumbPath": "thumbs/flowers-r4e8d07b3.webp",
       "width": 3000,
       "height": 1591,
-      "dominantColor": "#242017",
+      "dominantColor": "#1a150c",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108147",
       "license": "CC0 1.0",
@@ -2051,43 +1487,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "flowers-r5f799cc8",
-      "categoryId": "flowers",
-      "title": "Vanitas stilleven (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-r5f799cc8.webp",
-      "thumbPath": "thumbs/flowers-r5f799cc8.webp",
-      "width": 2999,
-      "height": 2276,
-      "dominantColor": "#1f1912",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200164103",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "flowers-r8b5782ad",
-      "categoryId": "flowers",
-      "title": "Still Life with Flowers (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-r8b5782ad.webp",
-      "thumbPath": "thumbs/flowers-r8b5782ad.webp",
-      "width": 2180,
-      "height": 2964,
-      "dominantColor": "#1f1d19",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108741",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 36.2,
+        "contrast": 0.193,
+        "sharpness": 6.84
+      },
+      "appeal": 54.7
     },
     {
       "id": "flowers-ra4be756c",
@@ -2097,7 +1505,7 @@
       "thumbPath": "thumbs/flowers-ra4be756c.webp",
       "width": 2285,
       "height": 2974,
-      "dominantColor": "#22221a",
+      "dominantColor": "#16170d",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20029078",
       "license": "CC0 1.0",
@@ -2105,25 +1513,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "flowers-rc2c235be",
-      "categoryId": "flowers",
-      "title": "Floral Still Life (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-rc2c235be.webp",
-      "thumbPath": "thumbs/flowers-rc2c235be.webp",
-      "width": 2358,
-      "height": 3000,
-      "dominantColor": "#352716",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108261",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 41.9,
+        "contrast": 0.198,
+        "sharpness": 6.81
+      },
+      "appeal": 59.3
     },
     {
       "id": "flowers-rc335dd3b",
@@ -2133,7 +1531,7 @@
       "thumbPath": "thumbs/flowers-rc335dd3b.webp",
       "width": 2288,
       "height": 3000,
-      "dominantColor": "#585032",
+      "dominantColor": "#282412",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108444",
       "license": "CC0 1.0",
@@ -2141,61 +1539,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "flowers-rce818ffc",
-      "categoryId": "flowers",
-      "title": "Still Life with Flowers (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-rce818ffc.webp",
-      "thumbPath": "thumbs/flowers-rce818ffc.webp",
-      "width": 2111,
-      "height": 3000,
-      "dominantColor": "#241d11",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108224",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "flowers-rcfef7582",
-      "categoryId": "flowers",
-      "title": "Still Life with Flowers (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-rcfef7582.webp",
-      "thumbPath": "thumbs/flowers-rcfef7582.webp",
-      "width": 2389,
-      "height": 2945,
-      "dominantColor": "#1c1b14",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200110737",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "flowers-rd57bad61",
-      "categoryId": "flowers",
-      "title": "Still Life with Flowers (Rijksmuseum)",
-      "imagePath": "images/flowers/flowers-rd57bad61.webp",
-      "thumbPath": "thumbs/flowers-rd57bad61.webp",
-      "width": 2335,
-      "height": 3000,
-      "dominantColor": "#26231a",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20026235",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 52.3,
+        "contrast": 0.192,
+        "sharpness": 6.97
+      },
+      "appeal": 66.6
     },
     {
       "id": "flowers-rec7b0449",
@@ -2205,7 +1557,7 @@
       "thumbPath": "thumbs/flowers-rec7b0449.webp",
       "width": 2476,
       "height": 3000,
-      "dominantColor": "#796c4b",
+      "dominantColor": "#271e0a",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200109683",
       "license": "CC0 1.0",
@@ -2213,7 +1565,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.1,
+        "contrast": 0.186,
+        "sharpness": 7.42
+      },
+      "appeal": 54.7
     },
     {
       "id": "flowers-s3810567520",
@@ -2223,7 +1583,7 @@
       "thumbPath": "thumbs/flowers-s3810567520.webp",
       "width": 3000,
       "height": 2923,
-      "dominantColor": "#d8caac",
+      "dominantColor": "#e6d3aa",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=26472",
       "license": "CC0 1.0",
@@ -2231,43 +1591,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "food-r0a61dea6",
-      "categoryId": "food",
-      "title": "Festoen van vruchten en bloemen (Rijksmuseum)",
-      "imagePath": "images/food/food-r0a61dea6.webp",
-      "thumbPath": "thumbs/food-r0a61dea6.webp",
-      "width": 2405,
-      "height": 3000,
-      "dominantColor": "#1f1d18",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108431",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "food-r31a0d304",
-      "categoryId": "food",
-      "title": "Still Life with Fruit and a Goldfinch (Rijksmuseum)",
-      "imagePath": "images/food/food-r31a0d304.webp",
-      "thumbPath": "thumbs/food-r31a0d304.webp",
-      "width": 2448,
-      "height": 3000,
-      "dominantColor": "#323128",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108474",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 52.3,
+        "contrast": 0.243,
+        "sharpness": 6.21
+      },
+      "appeal": 70.9
     },
     {
       "id": "food-rdb448372",
@@ -2277,7 +1609,7 @@
       "thumbPath": "thumbs/food-rdb448372.webp",
       "width": 2408,
       "height": 3000,
-      "dominantColor": "#24211f",
+      "dominantColor": "#201d1b",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108670",
       "license": "CC0 1.0",
@@ -2285,7 +1617,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 50.0,
+        "contrast": 0.264,
+        "sharpness": 7.56
+      },
+      "appeal": 78.4
     },
     {
       "id": "food-re62e5d28",
@@ -2295,7 +1635,7 @@
       "thumbPath": "thumbs/food-re62e5d28.webp",
       "width": 3000,
       "height": 1887,
-      "dominantColor": "#32291a",
+      "dominantColor": "#221506",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107990",
       "license": "CC0 1.0",
@@ -2303,7 +1643,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 51.3,
+        "contrast": 0.192,
+        "sharpness": 6.98
+      },
+      "appeal": 65.9
     },
     {
       "id": "food-s3810408160",
@@ -2313,7 +1661,7 @@
       "thumbPath": "thumbs/food-s3810408160.webp",
       "width": 2320,
       "height": 2732,
-      "dominantColor": "#5f542e",
+      "dominantColor": "#60552c",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=985",
       "license": "CC0 1.0",
@@ -2321,25 +1669,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "food-s3810443531",
-      "categoryId": "food",
-      "title": "Still Life with Fruit and Flowers (Smithsonian SAAM)",
-      "imagePath": "images/food/food-s3810443531.webp",
-      "thumbPath": "thumbs/food-s3810443531.webp",
-      "width": 2418,
-      "height": 1853,
-      "dominantColor": "#26201c",
-      "photographer": "Smithsonian Institution (SAAM)",
-      "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=6394",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 60.0,
+        "contrast": 0.192,
+        "sharpness": 8.58
+      },
+      "appeal": 76.7
     },
     {
       "id": "food-s3810456610",
@@ -2349,7 +1687,7 @@
       "thumbPath": "thumbs/food-s3810456610.webp",
       "width": 3000,
       "height": 2483,
-      "dominantColor": "#24231e",
+      "dominantColor": "#17140c",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=8536",
       "license": "CC0 1.0",
@@ -2357,25 +1695,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "food-s3810470080",
-      "categoryId": "food",
-      "title": "Still Life--Apples and Bottle (Smithsonian SAAM)",
-      "imagePath": "images/food/food-s3810470080.webp",
-      "thumbPath": "thumbs/food-s3810470080.webp",
-      "width": 2298,
-      "height": 2940,
-      "dominantColor": "#2c2528",
-      "photographer": "Smithsonian Institution (SAAM)",
-      "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=10693",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 39.8,
+        "contrast": 0.235,
+        "sharpness": 6.7
+      },
+      "appeal": 62.9
     },
     {
       "id": "food-s3810470630",
@@ -2385,7 +1713,7 @@
       "thumbPath": "thumbs/food-s3810470630.webp",
       "width": 2820,
       "height": 2256,
-      "dominantColor": "#5e6654",
+      "dominantColor": "#5f6952",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=10799",
       "license": "CC0 1.0",
@@ -2393,7 +1721,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 45.3,
+        "contrast": 0.258,
+        "sharpness": 8.39
+      },
+      "appeal": 76.1
     },
     {
       "id": "food-s3810488640",
@@ -2403,7 +1739,7 @@
       "thumbPath": "thumbs/food-s3810488640.webp",
       "width": 3000,
       "height": 2518,
-      "dominantColor": "#211b16",
+      "dominantColor": "#16100a",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=14041",
       "license": "CC0 1.0",
@@ -2411,7 +1747,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 35.5,
+        "contrast": 0.19,
+        "sharpness": 6.51
+      },
+      "appeal": 52.2
     },
     {
       "id": "food-s3810488650",
@@ -2421,7 +1765,7 @@
       "thumbPath": "thumbs/food-s3810488650.webp",
       "width": 3000,
       "height": 2588,
-      "dominantColor": "#251f1a",
+      "dominantColor": "#1a1510",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=14042",
       "license": "CC0 1.0",
@@ -2429,7 +1773,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 40.0,
+        "contrast": 0.219,
+        "sharpness": 6.93
+      },
+      "appeal": 61.7
     },
     {
       "id": "food-s3810538370",
@@ -2439,7 +1791,7 @@
       "thumbPath": "thumbs/food-s3810538370.webp",
       "width": 3000,
       "height": 2308,
-      "dominantColor": "#24201a",
+      "dominantColor": "#151009",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=21132",
       "license": "CC0 1.0",
@@ -2447,7 +1799,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 42.3,
+        "contrast": 0.194,
+        "sharpness": 6.59
+      },
+      "appeal": 58.0
     },
     {
       "id": "food-s3810543921",
@@ -2457,7 +1817,7 @@
       "thumbPath": "thumbs/food-s3810543921.webp",
       "width": 3000,
       "height": 2392,
-      "dominantColor": "#261e1a",
+      "dominantColor": "#19100a",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=22098",
       "license": "CC0 1.0",
@@ -2465,7 +1825,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 41.5,
+        "contrast": 0.28,
+        "sharpness": 6.37
+      },
+      "appeal": 69.4
     },
     {
       "id": "food-s3810571461",
@@ -2475,7 +1843,7 @@
       "thumbPath": "thumbs/food-s3810571461.webp",
       "width": 2315,
       "height": 3000,
-      "dominantColor": "#1f1d1f",
+      "dominantColor": "#0d0b09",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=26876",
       "license": "CC0 1.0",
@@ -2483,43 +1851,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "food-s3810596361",
-      "categoryId": "food",
-      "title": "Still Life with Grapes (Smithsonian SAAM)",
-      "imagePath": "images/food/food-s3810596361.webp",
-      "thumbPath": "thumbs/food-s3810596361.webp",
-      "width": 1991,
-      "height": 3000,
-      "dominantColor": "#d2c3b6",
-      "photographer": "Smithsonian Institution (SAAM)",
-      "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=31980",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "food-s3810701230",
-      "categoryId": "food",
-      "title": "Fruit Pieces (Smithsonian SAAM)",
-      "imagePath": "images/food/food-s3810701230.webp",
-      "thumbPath": "thumbs/food-s3810701230.webp",
-      "width": 2487,
-      "height": 3000,
-      "dominantColor": "#2a1a10",
-      "photographer": "Smithsonian Institution (SAAM)",
-      "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=114220",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 41.3,
+        "contrast": 0.219,
+        "sharpness": 6.32
+      },
+      "appeal": 59.9
     },
     {
       "id": "food-s4807431290",
@@ -2529,7 +1869,7 @@
       "thumbPath": "thumbs/food-s4807431290.webp",
       "width": 3000,
       "height": 2961,
-      "dominantColor": "#dededd",
+      "dominantColor": "#d6d6d6",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/296476",
       "license": "CC0 1.0",
@@ -2537,25 +1877,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "art-17b1b754",
-      "categoryId": "art",
-      "title": "Imaginary Landscape (The Met)",
-      "imagePath": "images/art/art-17b1b754.webp",
-      "thumbPath": "thumbs/art-17b1b754.webp",
-      "width": 3000,
-      "height": 1888,
-      "dominantColor": "#221e12",
-      "photographer": "Gaspard Dughet",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436229",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-09",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.6,
+        "contrast": 0.229,
+        "sharpness": 6.84
+      },
+      "appeal": 58.9
     },
     {
       "id": "art-29a9c786",
@@ -2565,7 +1895,7 @@
       "thumbPath": "thumbs/art-29a9c786.webp",
       "width": 3000,
       "height": 1670,
-      "dominantColor": "#989375",
+      "dominantColor": "#d4cb9a",
       "photographer": "Charles-François Daubigny",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/436081",
       "license": "CC0 1.0",
@@ -2573,7 +1903,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 32.4,
+        "contrast": 0.229,
+        "sharpness": 6.39
+      },
+      "appeal": 55.3
     },
     {
       "id": "art-2f389f1a",
@@ -2583,7 +1921,7 @@
       "thumbPath": "thumbs/art-2f389f1a.webp",
       "width": 3000,
       "height": 1634,
-      "dominantColor": "#2d2a24",
+      "dominantColor": "#2f2b25",
       "photographer": "Joseph Vernet",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/437886",
       "license": "CC0 1.0",
@@ -2591,25 +1929,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "art-306617c3",
-      "categoryId": "art",
-      "title": "A Storm off the Normandy Coast (The Met)",
-      "imagePath": "images/art/art-306617c3.webp",
-      "thumbPath": "thumbs/art-306617c3.webp",
-      "width": 3000,
-      "height": 1978,
-      "dominantColor": "#2b2219",
-      "photographer": "Eugène Isabey",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/438950",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-09",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 26.1,
+        "contrast": 0.169,
+        "sharpness": 5.59
+      },
+      "appeal": 38.3
     },
     {
       "id": "art-558225e1",
@@ -2619,7 +1947,7 @@
       "thumbPath": "thumbs/art-558225e1.webp",
       "width": 3000,
       "height": 2458,
-      "dominantColor": "#8a7349",
+      "dominantColor": "#927848",
       "photographer": "Henri Fantin-Latour",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/438031",
       "license": "CC0 1.0",
@@ -2627,25 +1955,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "art-90734ce3",
-      "categoryId": "art",
-      "title": "River and Rocks (The Met)",
-      "imagePath": "images/art/art-90734ce3.webp",
-      "thumbPath": "thumbs/art-90734ce3.webp",
-      "width": 3000,
-      "height": 2452,
-      "dominantColor": "#2a291f",
-      "photographer": "Gustave Courbet",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436020",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-09",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 46.9,
+        "contrast": 0.206,
+        "sharpness": 7.79
+      },
+      "appeal": 68.5
     },
     {
       "id": "art-9ce6b5dd",
@@ -2655,7 +1973,7 @@
       "thumbPath": "thumbs/art-9ce6b5dd.webp",
       "width": 3000,
       "height": 2152,
-      "dominantColor": "#302b21",
+      "dominantColor": "#302b20",
       "photographer": "Philips Koninck",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/436832",
       "license": "CC0 1.0",
@@ -2663,7 +1981,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.8,
+        "contrast": 0.223,
+        "sharpness": 7.08
+      },
+      "appeal": 59.2
     },
     {
       "id": "art-be190d83",
@@ -2673,7 +1999,7 @@
       "thumbPath": "thumbs/art-be190d83.webp",
       "width": 3000,
       "height": 1620,
-      "dominantColor": "#231f0e",
+      "dominantColor": "#211e0b",
       "photographer": "Charles-François Daubigny",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/436083",
       "license": "CC0 1.0",
@@ -2681,7 +2007,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 26.3,
+        "contrast": 0.263,
+        "sharpness": 6.01
+      },
+      "appeal": 54.4
     },
     {
       "id": "art-c0fb32a8",
@@ -2691,7 +2025,7 @@
       "thumbPath": "thumbs/art-c0fb32a8.webp",
       "width": 3000,
       "height": 2030,
-      "dominantColor": "#655f50",
+      "dominantColor": "#6c6757",
       "photographer": "Salomon van Ruysdael",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/438380",
       "license": "CC0 1.0",
@@ -2699,61 +2033,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-09",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "art-c48e3d78",
-      "categoryId": "art",
-      "title": "Ship by Moonlight (The Met)",
-      "imagePath": "images/art/art-c48e3d78.webp",
-      "thumbPath": "thumbs/art-c48e3d78.webp",
-      "width": 3000,
-      "height": 1946,
-      "dominantColor": "#55605a",
-      "photographer": "Ivan Konstantinovich Aivazovsky (Hovhannes Aivazian)",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437979",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-09",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "art-da99a8de",
-      "categoryId": "art",
-      "title": "Basket of Flowers (The Met)",
-      "imagePath": "images/art/art-da99a8de.webp",
-      "thumbPath": "thumbs/art-da99a8de.webp",
-      "width": 3000,
-      "height": 2254,
-      "dominantColor": "#2a2d1e",
-      "photographer": "Eugène Delacroix",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436175",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-09",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "art-r04d111d3",
-      "categoryId": "art",
-      "title": "Misty Sea (Rijksmuseum)",
-      "imagePath": "images/art/art-r04d111d3.webp",
-      "thumbPath": "thumbs/art-r04d111d3.webp",
-      "width": 3000,
-      "height": 2660,
-      "dominantColor": "#c9cbce",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200100988",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 35.7,
+        "contrast": 0.155,
+        "sharpness": 6.04
+      },
+      "appeal": 45.0
     },
     {
       "id": "art-r1f3b3ae8",
@@ -2763,7 +2051,7 @@
       "thumbPath": "thumbs/art-r1f3b3ae8.webp",
       "width": 3000,
       "height": 1847,
-      "dominantColor": "#cbaf78",
+      "dominantColor": "#d6b46f",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200109802",
       "license": "CC0 1.0",
@@ -2771,7 +2059,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 48.4,
+        "contrast": 0.214,
+        "sharpness": 6.33
+      },
+      "appeal": 64.2
     },
     {
       "id": "art-r221ada58",
@@ -2781,7 +2077,7 @@
       "thumbPath": "thumbs/art-r221ada58.webp",
       "width": 2424,
       "height": 3000,
-      "dominantColor": "#dcd9cc",
+      "dominantColor": "#f6f0d7",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107817",
       "license": "CC0 1.0",
@@ -2789,7 +2085,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 38.9,
+        "contrast": 0.358,
+        "sharpness": 6.11
+      },
+      "appeal": 69.4
     },
     {
       "id": "art-rb7652968",
@@ -2799,7 +2103,7 @@
       "thumbPath": "thumbs/art-rb7652968.webp",
       "width": 3000,
       "height": 1999,
-      "dominantColor": "#9fa397",
+      "dominantColor": "#a1ac9c",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107968",
       "license": "CC0 1.0",
@@ -2807,7 +2111,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 43.9,
+        "contrast": 0.251,
+        "sharpness": 6.12
+      },
+      "appeal": 65.7
     },
     {
       "id": "art-rc4870237",
@@ -2817,7 +2129,7 @@
       "thumbPath": "thumbs/art-rc4870237.webp",
       "width": 3000,
       "height": 2081,
-      "dominantColor": "#5a5033",
+      "dominantColor": "#272314",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107792",
       "license": "CC0 1.0",
@@ -2825,7 +2137,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 44.2,
+        "contrast": 0.281,
+        "sharpness": 7.57
+      },
+      "appeal": 76.8
     },
     {
       "id": "art-rfd45dd7d",
@@ -2835,7 +2155,7 @@
       "thumbPath": "thumbs/art-rfd45dd7d.webp",
       "width": 3000,
       "height": 1817,
-      "dominantColor": "#b1aa9e",
+      "dominantColor": "#d2c7b4",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108874",
       "license": "CC0 1.0",
@@ -2843,7 +2163,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 24.3,
+        "contrast": 0.253,
+        "sharpness": 5.86
+      },
+      "appeal": 50.8
     },
     {
       "id": "architecture-r0e6037f8",
@@ -2853,7 +2181,7 @@
       "thumbPath": "thumbs/architecture-r0e6037f8.webp",
       "width": 2995,
       "height": 2345,
-      "dominantColor": "#b1a58c",
+      "dominantColor": "#e7d3af",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20027813",
       "license": "CC0 1.0",
@@ -2861,7 +2189,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 32.1,
+        "contrast": 0.247,
+        "sharpness": 6.46
+      },
+      "appeal": 58.1
     },
     {
       "id": "architecture-r2814f018",
@@ -2871,7 +2207,7 @@
       "thumbPath": "thumbs/architecture-r2814f018.webp",
       "width": 3000,
       "height": 2388,
-      "dominantColor": "#cfd3cf",
+      "dominantColor": "#d8ded9",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200109412",
       "license": "CC0 1.0",
@@ -2879,7 +2215,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 32.9,
+        "contrast": 0.328,
+        "sharpness": 6.45
+      },
+      "appeal": 66.6
     },
     {
       "id": "architecture-r3f431926",
@@ -2889,7 +2233,7 @@
       "thumbPath": "thumbs/architecture-r3f431926.webp",
       "width": 3000,
       "height": 1961,
-      "dominantColor": "#a7a694",
+      "dominantColor": "#1e1506",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107884",
       "license": "CC0 1.0",
@@ -2897,7 +2241,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 30.2,
+        "contrast": 0.287,
+        "sharpness": 6.93
+      },
+      "appeal": 64.9
     },
     {
       "id": "architecture-r55be168a",
@@ -2907,7 +2259,7 @@
       "thumbPath": "thumbs/architecture-r55be168a.webp",
       "width": 3000,
       "height": 2131,
-      "dominantColor": "#979b8b",
+      "dominantColor": "#a8b19d",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108216",
       "license": "CC0 1.0",
@@ -2915,25 +2267,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "architecture-r5b9cbefc",
-      "categoryId": "architecture",
-      "title": "Bird's-eye View of the Vredenburg (Vredeborch) Castle in Utrecht (Rijksmuseum)",
-      "imagePath": "images/architecture/architecture-r5b9cbefc.webp",
-      "thumbPath": "thumbs/architecture-r5b9cbefc.webp",
-      "width": 3000,
-      "height": 2329,
-      "dominantColor": "#4d3418",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108021",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 31.3,
+        "contrast": 0.278,
+        "sharpness": 6.57
+      },
+      "appeal": 62.7
     },
     {
       "id": "architecture-r5e088724",
@@ -2943,7 +2285,7 @@
       "thumbPath": "thumbs/architecture-r5e088724.webp",
       "width": 2007,
       "height": 3000,
-      "dominantColor": "#2c2412",
+      "dominantColor": "#251c0a",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20026708",
       "license": "CC0 1.0",
@@ -2951,7 +2293,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.1,
+        "contrast": 0.249,
+        "sharpness": 6.97
+      },
+      "appeal": 62.1
     },
     {
       "id": "architecture-r65dddcd5",
@@ -2961,7 +2311,7 @@
       "thumbPath": "thumbs/architecture-r65dddcd5.webp",
       "width": 3000,
       "height": 2449,
-      "dominantColor": "#5b532f",
+      "dominantColor": "#2a2307",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200109824",
       "license": "CC0 1.0",
@@ -2969,7 +2319,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 36.2,
+        "contrast": 0.284,
+        "sharpness": 6.69
+      },
+      "appeal": 67.6
     },
     {
       "id": "architecture-r69bc54b5",
@@ -2979,7 +2337,7 @@
       "thumbPath": "thumbs/architecture-r69bc54b5.webp",
       "width": 1794,
       "height": 3000,
-      "dominantColor": "#68582e",
+      "dominantColor": "#635018",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20026710",
       "license": "CC0 1.0",
@@ -2987,7 +2345,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 52.7,
+        "contrast": 0.21,
+        "sharpness": 7.21
+      },
+      "appeal": 70.6
     },
     {
       "id": "architecture-r81156c73",
@@ -2997,7 +2363,7 @@
       "thumbPath": "thumbs/architecture-r81156c73.webp",
       "width": 3000,
       "height": 2259,
-      "dominantColor": "#2c2a1e",
+      "dominantColor": "#252212",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108217",
       "license": "CC0 1.0",
@@ -3005,61 +2371,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "architecture-r87d7a019",
-      "categoryId": "architecture",
-      "title": "Interieur van een imaginaire gotische kerk (Rijksmuseum)",
-      "imagePath": "images/architecture/architecture-r87d7a019.webp",
-      "thumbPath": "thumbs/architecture-r87d7a019.webp",
-      "width": 3000,
-      "height": 2081,
-      "dominantColor": "#32291e",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108478",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "architecture-r9efca4de",
-      "categoryId": "architecture",
-      "title": "Interieur van de kerk te Maasland (Rijksmuseum)",
-      "imagePath": "images/architecture/architecture-r9efca4de.webp",
-      "thumbPath": "thumbs/architecture-r9efca4de.webp",
-      "width": 3000,
-      "height": 2289,
-      "dominantColor": "#634d2c",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20026709",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "architecture-rbe52a2fd",
-      "categoryId": "architecture",
-      "title": "Interieur van een gotische kerk bij nacht (Rijksmuseum)",
-      "imagePath": "images/architecture/architecture-rbe52a2fd.webp",
-      "thumbPath": "thumbs/architecture-rbe52a2fd.webp",
-      "width": 3000,
-      "height": 1838,
-      "dominantColor": "#251d15",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20025805",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 36.5,
+        "contrast": 0.294,
+        "sharpness": 7.0
+      },
+      "appeal": 70.7
     },
     {
       "id": "architecture-rcdfc6772",
@@ -3069,7 +2389,7 @@
       "thumbPath": "thumbs/architecture-rcdfc6772.webp",
       "width": 3000,
       "height": 2491,
-      "dominantColor": "#716952",
+      "dominantColor": "#a0916b",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108204",
       "license": "CC0 1.0",
@@ -3077,25 +2397,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "architecture-rd00d9877",
-      "categoryId": "architecture",
-      "title": "Gezicht op Ankara (Rijksmuseum)",
-      "imagePath": "images/architecture/architecture-rd00d9877.webp",
-      "thumbPath": "thumbs/architecture-rd00d9877.webp",
-      "width": 3000,
-      "height": 1757,
-      "dominantColor": "#5c301f",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108082",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.9,
+        "contrast": 0.192,
+        "sharpness": 6.7
+      },
+      "appeal": 53.0
     },
     {
       "id": "architecture-rf027eb8a",
@@ -3105,7 +2415,7 @@
       "thumbPath": "thumbs/architecture-rf027eb8a.webp",
       "width": 2967,
       "height": 2543,
-      "dominantColor": "#64655e",
+      "dominantColor": "#5f6358",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107959",
       "license": "CC0 1.0",
@@ -3113,25 +2423,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "architecture-s3810639451",
-      "categoryId": "architecture",
-      "title": "Ruins of the Church of San Domingo, Panama (Smithsonian SAAM)",
-      "imagePath": "images/architecture/architecture-s3810639451.webp",
-      "thumbPath": "thumbs/architecture-s3810639451.webp",
-      "width": 3000,
-      "height": 1749,
-      "dominantColor": "#6a6352",
-      "photographer": "Smithsonian Institution (SAAM)",
-      "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=38453",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 30.0,
+        "contrast": 0.203,
+        "sharpness": 6.39
+      },
+      "appeal": 49.7
     },
     {
       "id": "night-npia03653",
@@ -3141,7 +2441,7 @@
       "thumbPath": "thumbs/night-npia03653.webp",
       "width": 3000,
       "height": 2164,
-      "dominantColor": "#5e0d12",
+      "dominantColor": "#5f0a11",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA03653",
       "license": "Public domain",
@@ -3149,7 +2449,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 97.9,
+        "contrast": 0.179,
+        "sharpness": 6.94
+      },
+      "appeal": 77.1
     },
     {
       "id": "night-npia04200",
@@ -3159,7 +2467,7 @@
       "thumbPath": "thumbs/night-npia04200.webp",
       "width": 2508,
       "height": 1790,
-      "dominantColor": "#5b2410",
+      "dominantColor": "#5b220f",
       "photographer": "NASA (Select)",
       "sourceUrl": "https://images.nasa.gov/details/PIA04200",
       "license": "Public domain",
@@ -3167,25 +2475,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "night-npia04921",
-      "categoryId": "night",
-      "title": "Andromeda Galaxy",
-      "imagePath": "images/night/night-npia04921.webp",
-      "thumbPath": "thumbs/night-npia04921.webp",
-      "width": 3000,
-      "height": 2994,
-      "dominantColor": "#0a0b0c",
-      "photographer": "NASA (JPL)",
-      "sourceUrl": "https://images.nasa.gov/details/PIA04921",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 60.8,
+        "contrast": 0.274,
+        "sharpness": 6.95
+      },
+      "appeal": 84.9
     },
     {
       "id": "night-npia07343",
@@ -3195,7 +2493,7 @@
       "thumbPath": "thumbs/night-npia07343.webp",
       "width": 2104,
       "height": 1726,
-      "dominantColor": "#090709",
+      "dominantColor": "#080709",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA07343",
       "license": "Public domain",
@@ -3203,7 +2501,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 22.7,
+        "contrast": 0.148,
+        "sharpness": 4.21
+      },
+      "appeal": 26.6
     },
     {
       "id": "night-npia07902",
@@ -3213,7 +2519,7 @@
       "thumbPath": "thumbs/night-npia07902.webp",
       "width": 2448,
       "height": 1834,
-      "dominantColor": "#0a0d17",
+      "dominantColor": "#090c16",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA07902",
       "license": "Public domain",
@@ -3221,25 +2527,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "night-npia07906",
-      "categoryId": "night",
-      "title": "Virgo Galaxy Cluster",
-      "imagePath": "images/night/night-npia07906.webp",
-      "thumbPath": "thumbs/night-npia07906.webp",
-      "width": 2274,
-      "height": 2274,
-      "dominantColor": "#050507",
-      "photographer": "NASA (JPL)",
-      "sourceUrl": "https://images.nasa.gov/details/PIA07906",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 38.7,
+        "contrast": 0.205,
+        "sharpness": 6.23
+      },
+      "appeal": 55.5
     },
     {
       "id": "night-npia09178",
@@ -3249,7 +2545,7 @@
       "thumbPath": "thumbs/night-npia09178.webp",
       "width": 3000,
       "height": 2495,
-      "dominantColor": "#081312",
+      "dominantColor": "#071312",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA09178",
       "license": "Public domain",
@@ -3257,7 +2553,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 70.5,
+        "contrast": 0.189,
+        "sharpness": 6.42
+      },
+      "appeal": 76.3
     },
     {
       "id": "night-npia10748",
@@ -3267,7 +2571,7 @@
       "thumbPath": "thumbs/night-npia10748.webp",
       "width": 3000,
       "height": 2830,
-      "dominantColor": "#0d1018",
+      "dominantColor": "#0b0f17",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA10748",
       "license": "Public domain",
@@ -3275,7 +2579,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.1,
+        "contrast": 0.239,
+        "sharpness": 5.78
+      },
+      "appeal": 55.3
     },
     {
       "id": "night-npia13014",
@@ -3285,7 +2597,7 @@
       "thumbPath": "thumbs/night-npia13014.webp",
       "width": 3000,
       "height": 1568,
-      "dominantColor": "#0d2918",
+      "dominantColor": "#092116",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA13014",
       "license": "Public domain",
@@ -3293,7 +2605,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 66.0,
+        "contrast": 0.209,
+        "sharpness": 6.88
+      },
+      "appeal": 78.5
     },
     {
       "id": "night-npia13123",
@@ -3303,7 +2623,7 @@
       "thumbPath": "thumbs/night-npia13123.webp",
       "width": 3000,
       "height": 1920,
-      "dominantColor": "#141d31",
+      "dominantColor": "#0b162b",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA13123",
       "license": "Public domain",
@@ -3311,43 +2631,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "night-npia13335",
-      "categoryId": "night",
-      "title": "Ancient Galaxy Cluster Still Producing Stars",
-      "imagePath": "images/night/night-npia13335.webp",
-      "thumbPath": "thumbs/night-npia13335.webp",
-      "width": 2000,
-      "height": 2000,
-      "dominantColor": "#0a0f0d",
-      "photographer": "NASA (JPL)",
-      "sourceUrl": "https://images.nasa.gov/details/PIA13335",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "night-npia14096",
-      "categoryId": "night",
-      "title": "Star Cluster Overshadowed by Infrared Objects",
-      "imagePath": "images/night/night-npia14096.webp",
-      "thumbPath": "thumbs/night-npia14096.webp",
-      "width": 3000,
-      "height": 2405,
-      "dominantColor": "#02304f",
-      "photographer": "NASA (JPL)",
-      "sourceUrl": "https://images.nasa.gov/details/PIA14096",
-      "license": "Public domain",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 71.9,
+        "contrast": 0.224,
+        "sharpness": 4.8
+      },
+      "appeal": 74.4
     },
     {
       "id": "night-npia14415",
@@ -3357,7 +2649,7 @@
       "thumbPath": "thumbs/night-npia14415.webp",
       "width": 3000,
       "height": 2401,
-      "dominantColor": "#532133",
+      "dominantColor": "#270b1f",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA14415",
       "license": "Public domain",
@@ -3365,7 +2657,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 68.6,
+        "contrast": 0.22,
+        "sharpness": 7.51
+      },
+      "appeal": 84.8
     },
     {
       "id": "night-npia14417",
@@ -3375,7 +2675,7 @@
       "thumbPath": "thumbs/night-npia14417.webp",
       "width": 2800,
       "height": 1400,
-      "dominantColor": "#170e14",
+      "dominantColor": "#150e13",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA14417",
       "license": "Public domain",
@@ -3383,7 +2683,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 48.8,
+        "contrast": 0.184,
+        "sharpness": 6.73
+      },
+      "appeal": 61.8
     },
     {
       "id": "night-npia25433",
@@ -3393,7 +2701,7 @@
       "thumbPath": "thumbs/night-npia25433.webp",
       "width": 3000,
       "height": 3000,
-      "dominantColor": "#0d2226",
+      "dominantColor": "#071e22",
       "photographer": "NASA (JPL)",
       "sourceUrl": "https://images.nasa.gov/details/PIA25433",
       "license": "Public domain",
@@ -3401,7 +2709,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 93.2,
+        "contrast": 0.211,
+        "sharpness": 4.9
+      },
+      "appeal": 72.9
     },
     {
       "id": "seasons-cdfc6b41",
@@ -3411,7 +2727,7 @@
       "thumbPath": "thumbs/seasons-cdfc6b41.webp",
       "width": 3000,
       "height": 2329,
-      "dominantColor": "#65695e",
+      "dominantColor": "#a38b5d",
       "photographer": "Jean-François Millet",
       "sourceUrl": "https://www.metmuseum.org/art/collection/search/437097",
       "license": "CC0 1.0",
@@ -3419,7 +2735,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 55.8,
+        "contrast": 0.178,
+        "sharpness": 6.46
+      },
+      "appeal": 64.7
     },
     {
       "id": "seasons-e0e50871",
@@ -3429,7 +2753,7 @@
       "thumbPath": "thumbs/seasons-e0e50871.webp",
       "width": 3000,
       "height": 2000,
-      "dominantColor": "#685a31",
+      "dominantColor": "#1b231a",
       "photographer": "NPS Photo",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Owyhigh_Lakes_trail_reaches_a_subalpine_meadow_with_numerous_wildflowers_in_summer_that_transitions_into_colorful_fall_foliage._(55b1cc4a-f4c0-4b98-9488-8d7e6ae72d41).JPG",
       "license": "Public domain",
@@ -3437,7 +2761,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 53.2,
+        "contrast": 0.249,
+        "sharpness": 9.28
+      },
+      "appeal": 80.3
     },
     {
       "id": "seasons-r156ee345",
@@ -3447,7 +2779,7 @@
       "thumbPath": "thumbs/seasons-r156ee345.webp",
       "width": 3000,
       "height": 1739,
-      "dominantColor": "#9d906f",
+      "dominantColor": "#ddd1a9",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108163",
       "license": "CC0 1.0",
@@ -3455,7 +2787,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 38.1,
+        "contrast": 0.257,
+        "sharpness": 7.61
+      },
+      "appeal": 69.0
     },
     {
       "id": "seasons-r1a5c6caa",
@@ -3465,7 +2805,7 @@
       "thumbPath": "thumbs/seasons-r1a5c6caa.webp",
       "width": 3000,
       "height": 1983,
-      "dominantColor": "#cab49b",
+      "dominantColor": "#ccb595",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107978",
       "license": "CC0 1.0",
@@ -3473,7 +2813,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 35.9,
+        "contrast": 0.208,
+        "sharpness": 7.4
+      },
+      "appeal": 59.2
     },
     {
       "id": "seasons-r1eccecdc",
@@ -3483,7 +2831,7 @@
       "thumbPath": "thumbs/seasons-r1eccecdc.webp",
       "width": 3000,
       "height": 2206,
-      "dominantColor": "#53341e",
+      "dominantColor": "#572e11",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20027183",
       "license": "CC0 1.0",
@@ -3491,25 +2839,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "seasons-r2c967a50",
-      "categoryId": "seasons",
-      "title": "Het Rokin te Amsterdam (Rijksmuseum)",
-      "imagePath": "images/seasons/seasons-r2c967a50.webp",
-      "thumbPath": "thumbs/seasons-r2c967a50.webp",
-      "width": 3000,
-      "height": 2195,
-      "dominantColor": "#d3d1b0",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108312",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 47.0,
+        "contrast": 0.273,
+        "sharpness": 7.88
+      },
+      "appeal": 79.0
     },
     {
       "id": "seasons-r2c9b251f",
@@ -3519,7 +2857,7 @@
       "thumbPath": "thumbs/seasons-r2c9b251f.webp",
       "width": 3000,
       "height": 2600,
-      "dominantColor": "#9aa190",
+      "dominantColor": "#9fab91",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107782",
       "license": "CC0 1.0",
@@ -3527,7 +2865,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 34.7,
+        "contrast": 0.203,
+        "sharpness": 7.29
+      },
+      "appeal": 57.1
     },
     {
       "id": "seasons-r42f175b5",
@@ -3537,7 +2883,7 @@
       "thumbPath": "thumbs/seasons-r42f175b5.webp",
       "width": 3000,
       "height": 1971,
-      "dominantColor": "#5b5731",
+      "dominantColor": "#d8d5a2",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107951",
       "license": "CC0 1.0",
@@ -3545,25 +2891,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "seasons-r5e0d3ac0",
-      "categoryId": "seasons",
-      "title": "De Slijpsteenmarkt in Amsterdam met het gebouw 'Het Zeerecht' in de winter (Rijksmuseum)",
-      "imagePath": "images/seasons/seasons-r5e0d3ac0.webp",
-      "thumbPath": "thumbs/seasons-r5e0d3ac0.webp",
-      "width": 3000,
-      "height": 2299,
-      "dominantColor": "#a2a19e",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108695",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 48.1,
+        "contrast": 0.257,
+        "sharpness": 7.35
+      },
+      "appeal": 75.0
     },
     {
       "id": "seasons-r5ffadb6b",
@@ -3573,7 +2909,7 @@
       "thumbPath": "thumbs/seasons-r5ffadb6b.webp",
       "width": 3000,
       "height": 1574,
-      "dominantColor": "#666158",
+      "dominantColor": "#201208",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200107781",
       "license": "CC0 1.0",
@@ -3581,43 +2917,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "seasons-r78624d62",
-      "categoryId": "seasons",
-      "title": "Winter scene (Rijksmuseum)",
-      "imagePath": "images/seasons/seasons-r78624d62.webp",
-      "thumbPath": "thumbs/seasons-r78624d62.webp",
-      "width": 3000,
-      "height": 1861,
-      "dominantColor": "#675f50",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20026212",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "seasons-r961052a6",
-      "categoryId": "seasons",
-      "title": "Winter Landscape (Rijksmuseum)",
-      "imagePath": "images/seasons/seasons-r961052a6.webp",
-      "thumbPath": "thumbs/seasons-r961052a6.webp",
-      "width": 3000,
-      "height": 2531,
-      "dominantColor": "#312f2b",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20015858",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 31.8,
+        "contrast": 0.202,
+        "sharpness": 6.42
+      },
+      "appeal": 51.0
     },
     {
       "id": "seasons-rb82098db",
@@ -3627,7 +2935,7 @@
       "thumbPath": "thumbs/seasons-rb82098db.webp",
       "width": 3000,
       "height": 1853,
-      "dominantColor": "#b3b099",
+      "dominantColor": "#d5cfaa",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108396",
       "license": "CC0 1.0",
@@ -3635,7 +2943,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 27.9,
+        "contrast": 0.269,
+        "sharpness": 6.67
+      },
+      "appeal": 59.4
     },
     {
       "id": "seasons-rdf5a6b17",
@@ -3645,7 +2961,7 @@
       "thumbPath": "thumbs/seasons-rdf5a6b17.webp",
       "width": 2993,
       "height": 2481,
-      "dominantColor": "#9fa7a2",
+      "dominantColor": "#9eaba5",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200111820",
       "license": "CC0 1.0",
@@ -3653,7 +2969,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 38.1,
+        "contrast": 0.228,
+        "sharpness": 8.56
+      },
+      "appeal": 66.4
     },
     {
       "id": "seasons-red66a5a0",
@@ -3663,7 +2987,7 @@
       "thumbPath": "thumbs/seasons-red66a5a0.webp",
       "width": 3000,
       "height": 2397,
-      "dominantColor": "#9e906b",
+      "dominantColor": "#a49765",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20012365",
       "license": "CC0 1.0",
@@ -3671,25 +2995,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "seasons-rf79af357",
-      "categoryId": "seasons",
-      "title": "IJsgezicht nabij een stad (Rijksmuseum)",
-      "imagePath": "images/seasons/seasons-rf79af357.webp",
-      "thumbPath": "thumbs/seasons-rf79af357.webp",
-      "width": 3000,
-      "height": 2408,
-      "dominantColor": "#5c5a50",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20026599",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 38.7,
+        "contrast": 0.207,
+        "sharpness": 6.78
+      },
+      "appeal": 58.3
     },
     {
       "id": "seasons-rf7b13d5b",
@@ -3699,7 +3013,7 @@
       "thumbPath": "thumbs/seasons-rf7b13d5b.webp",
       "width": 3000,
       "height": 1919,
-      "dominantColor": "#dbcba8",
+      "dominantColor": "#dec99a",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20026281",
       "license": "CC0 1.0",
@@ -3707,79 +3021,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "patterns-s3998935461",
-      "categoryId": "patterns",
-      "title": "Textile (Smithsonian CHNDM)",
-      "imagePath": "images/patterns/patterns-s3998935461.webp",
-      "thumbPath": "thumbs/patterns-s3998935461.webp",
-      "width": 3000,
-      "height": 2996,
-      "dominantColor": "#656662",
-      "photographer": "Smithsonian Institution (CHNDM)",
-      "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/20819",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "patterns-s3998935491",
-      "categoryId": "patterns",
-      "title": "Textile (Smithsonian CHNDM)",
-      "imagePath": "images/patterns/patterns-s3998935491.webp",
-      "thumbPath": "thumbs/patterns-s3998935491.webp",
-      "width": 3000,
-      "height": 2930,
-      "dominantColor": "#af9e62",
-      "photographer": "Smithsonian Institution (CHNDM)",
-      "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/20825",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "patterns-s3998935500",
-      "categoryId": "patterns",
-      "title": "Textile (Smithsonian CHNDM)",
-      "imagePath": "images/patterns/patterns-s3998935500.webp",
-      "thumbPath": "thumbs/patterns-s3998935500.webp",
-      "width": 2940,
-      "height": 3000,
-      "dominantColor": "#6c664e",
-      "photographer": "Smithsonian Institution (CHNDM)",
-      "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/20826",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "patterns-s3999025401",
-      "categoryId": "patterns",
-      "title": "Textile (Smithsonian CHNDM)",
-      "imagePath": "images/patterns/patterns-s3999025401.webp",
-      "thumbPath": "thumbs/patterns-s3999025401.webp",
-      "width": 1819,
-      "height": 3000,
-      "dominantColor": "#b3aa88",
-      "photographer": "Smithsonian Institution (CHNDM)",
-      "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/44445",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 44.7,
+        "contrast": 0.22,
+        "sharpness": 5.87
+      },
+      "appeal": 60.5
     },
     {
       "id": "patterns-s3999125971",
@@ -3789,7 +3039,7 @@
       "thumbPath": "thumbs/patterns-s3999125971.webp",
       "width": 1855,
       "height": 3000,
-      "dominantColor": "#d8d1ad",
+      "dominantColor": "#e2d9a6",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/70977",
       "license": "CC0 1.0",
@@ -3797,7 +3047,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 69.2,
+        "contrast": 0.292,
+        "sharpness": 7.62
+      },
+      "appeal": 96.5
     },
     {
       "id": "patterns-s3999132030",
@@ -3807,7 +3065,7 @@
       "thumbPath": "thumbs/patterns-s3999132030.webp",
       "width": 3000,
       "height": 1935,
-      "dominantColor": "#b79293",
+      "dominantColor": "#aea795",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/72367",
       "license": "CC0 1.0",
@@ -3815,7 +3073,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 48.0,
+        "contrast": 0.231,
+        "sharpness": 8.54
+      },
+      "appeal": 73.9
     },
     {
       "id": "patterns-s3999132580",
@@ -3825,7 +3091,7 @@
       "thumbPath": "thumbs/patterns-s3999132580.webp",
       "width": 3000,
       "height": 2080,
-      "dominantColor": "#97676f",
+      "dominantColor": "#afa8a2",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/72450",
       "license": "CC0 1.0",
@@ -3833,7 +3099,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 41.7,
+        "contrast": 0.259,
+        "sharpness": 8.3
+      },
+      "appeal": 73.6
     },
     {
       "id": "patterns-s3999161351",
@@ -3843,7 +3117,7 @@
       "thumbPath": "thumbs/patterns-s3999161351.webp",
       "width": 2836,
       "height": 3000,
-      "dominantColor": "#d1d0af",
+      "dominantColor": "#d5d4a1",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/79281",
       "license": "CC0 1.0",
@@ -3851,43 +3125,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "patterns-s3999187081",
-      "categoryId": "patterns",
-      "title": "Textile (Smithsonian CHNDM)",
-      "imagePath": "images/patterns/patterns-s3999187081.webp",
-      "thumbPath": "thumbs/patterns-s3999187081.webp",
-      "width": 3000,
-      "height": 2651,
-      "dominantColor": "#b69c74",
-      "photographer": "Smithsonian Institution (CHNDM)",
-      "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/96826",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "patterns-s3999326520",
-      "categoryId": "patterns",
-      "title": "Wallpaper Samples (Smithsonian CHNDM)",
-      "imagePath": "images/patterns/patterns-s3999326520.webp",
-      "thumbPath": "thumbs/patterns-s3999326520.webp",
-      "width": 3000,
-      "height": 2674,
-      "dominantColor": "#c6a770",
-      "photographer": "Smithsonian Institution (CHNDM)",
-      "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/127613",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 30.9,
+        "contrast": 0.275,
+        "sharpness": 8.59
+      },
+      "appeal": 68.3
     },
     {
       "id": "patterns-s3999429131",
@@ -3897,7 +3143,7 @@
       "thumbPath": "thumbs/patterns-s3999429131.webp",
       "width": 2540,
       "height": 3000,
-      "dominantColor": "#b1a290",
+      "dominantColor": "#8e7257",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/148656",
       "license": "CC0 1.0",
@@ -3905,7 +3151,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 46.5,
+        "contrast": 0.205,
+        "sharpness": 7.46
+      },
+      "appeal": 66.6
     },
     {
       "id": "patterns-s3999470300",
@@ -3915,7 +3169,7 @@
       "thumbPath": "thumbs/patterns-s3999470300.webp",
       "width": 2241,
       "height": 3000,
-      "dominantColor": "#948b73",
+      "dominantColor": "#71674a",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/156587",
       "license": "CC0 1.0",
@@ -3923,25 +3177,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "patterns-s3999544000",
-      "categoryId": "patterns",
-      "title": "Correct Wall Papers for Year 1918 (Smithsonian CHNDM)",
-      "imagePath": "images/patterns/patterns-s3999544000.webp",
-      "thumbPath": "thumbs/patterns-s3999544000.webp",
-      "width": 3000,
-      "height": 2296,
-      "dominantColor": "#ad986c",
-      "photographer": "Smithsonian Institution (CHNDM)",
-      "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/176402",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "premium"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 26.9,
+        "contrast": 0.168,
+        "sharpness": 7.89
+      },
+      "appeal": 48.9
     },
     {
       "id": "patterns-s3999647660",
@@ -3951,7 +3195,7 @@
       "thumbPath": "thumbs/patterns-s3999647660.webp",
       "width": 3000,
       "height": 2737,
-      "dominantColor": "#e3dfd4",
+      "dominantColor": "#a6a7ab",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/194522",
       "license": "CC0 1.0",
@@ -3959,25 +3203,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "patterns-s3999748270",
-      "categoryId": "patterns",
-      "title": "Alfred Peats Wallpaper, No. 5 (Smithsonian CHNDM)",
-      "imagePath": "images/patterns/patterns-s3999748270.webp",
-      "thumbPath": "thumbs/patterns-s3999748270.webp",
-      "width": 2346,
-      "height": 3000,
-      "dominantColor": "#c6b18c",
-      "photographer": "Smithsonian Institution (CHNDM)",
-      "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/221808",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 35.6,
+        "contrast": 0.202,
+        "sharpness": 7.06
+      },
+      "appeal": 56.6
     },
     {
       "id": "patterns-s3999869841",
@@ -3987,7 +3221,7 @@
       "thumbPath": "thumbs/patterns-s3999869841.webp",
       "width": 3000,
       "height": 1414,
-      "dominantColor": "#ddc99d",
+      "dominantColor": "#201003",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/288376",
       "license": "CC0 1.0",
@@ -3995,7 +3229,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 69.8,
+        "contrast": 0.292,
+        "sharpness": 7.93
+      },
+      "appeal": 98.3
     },
     {
       "id": "patterns-s3999869961",
@@ -4005,7 +3247,7 @@
       "thumbPath": "thumbs/patterns-s3999869961.webp",
       "width": 3000,
       "height": 2593,
-      "dominantColor": "#716c6e",
+      "dominantColor": "#5c514c",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/288399",
       "license": "CC0 1.0",
@@ -4013,61 +3255,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "vehicles-r0ee3bfe2",
-      "categoryId": "vehicles",
-      "title": "Fishing Pinks in Breaking Waves (Rijksmuseum)",
-      "imagePath": "images/vehicles/vehicles-r0ee3bfe2.webp",
-      "thumbPath": "thumbs/vehicles-r0ee3bfe2.webp",
-      "width": 3000,
-      "height": 1476,
-      "dominantColor": "#a8a794",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200105889",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "vehicles-r6173d3f6",
-      "categoryId": "vehicles",
-      "title": "Schepen bij Zierikzee met de Zuidhavenpoort in de achtergrond (Rijksmuseum)",
-      "imagePath": "images/vehicles/vehicles-r6173d3f6.webp",
-      "thumbPath": "thumbs/vehicles-r6173d3f6.webp",
-      "width": 3000,
-      "height": 2175,
-      "dominantColor": "#969690",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/200108131",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "vehicles-r9e91b859",
-      "categoryId": "vehicles",
-      "title": "De haveningang van Willemstad met het Gouvernementspaleis (Rijksmuseum)",
-      "imagePath": "images/vehicles/vehicles-r9e91b859.webp",
-      "thumbPath": "thumbs/vehicles-r9e91b859.webp",
-      "width": 3000,
-      "height": 1802,
-      "dominantColor": "#88a1aa",
-      "photographer": "Unknown artist",
-      "sourceUrl": "https://id.rijksmuseum.nl/20020749",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 31.5,
+        "contrast": 0.178,
+        "sharpness": 7.38
+      },
+      "appeal": 51.4
     },
     {
       "id": "vehicles-rb2b23387",
@@ -4077,7 +3273,7 @@
       "thumbPath": "thumbs/vehicles-rb2b23387.webp",
       "width": 3000,
       "height": 2039,
-      "dominantColor": "#cdc699",
+      "dominantColor": "#d6cd92",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20029056",
       "license": "CC0 1.0",
@@ -4085,7 +3281,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 35.6,
+        "contrast": 0.237,
+        "sharpness": 6.29
+      },
+      "appeal": 58.4
     },
     {
       "id": "vehicles-re75e566a",
@@ -4095,7 +3299,7 @@
       "thumbPath": "thumbs/vehicles-re75e566a.webp",
       "width": 3000,
       "height": 1678,
-      "dominantColor": "#dcceb6",
+      "dominantColor": "#ead6b5",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/20026446",
       "license": "CC0 1.0",
@@ -4103,7 +3307,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 40.8,
+        "contrast": 0.246,
+        "sharpness": 6.42
+      },
+      "appeal": 64.0
     },
     {
       "id": "vehicles-rf97a52da",
@@ -4113,7 +3325,7 @@
       "thumbPath": "thumbs/vehicles-rf97a52da.webp",
       "width": 3000,
       "height": 1445,
-      "dominantColor": "#2e2d20",
+      "dominantColor": "#222111",
       "photographer": "Unknown artist",
       "sourceUrl": "https://id.rijksmuseum.nl/200108367",
       "license": "CC0 1.0",
@@ -4121,7 +3333,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 35.8,
+        "contrast": 0.293,
+        "sharpness": 6.97
+      },
+      "appeal": 69.9
     },
     {
       "id": "vehicles-s3810543530",
@@ -4131,7 +3351,7 @@
       "thumbPath": "thumbs/vehicles-s3810543530.webp",
       "width": 2389,
       "height": 3000,
-      "dominantColor": "#674c30",
+      "dominantColor": "#976630",
       "photographer": "Smithsonian Institution (SAAM)",
       "sourceUrl": "https://americanart.si.edu/collections/search/artwork/?id=22021",
       "license": "CC0 1.0",
@@ -4139,7 +3359,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 61.9,
+        "contrast": 0.196,
+        "sharpness": 8.37
+      },
+      "appeal": 78.6
     },
     {
       "id": "vehicles-s3995040770",
@@ -4149,7 +3377,7 @@
       "thumbPath": "thumbs/vehicles-s3995040770.webp",
       "width": 2919,
       "height": 2395,
-      "dominantColor": "#a1664c",
+      "dominantColor": "#1b0b20",
       "photographer": "Smithsonian Institution (NMAH)",
       "sourceUrl": "https://collections.si.edu/search/detail/ld1-1643399486815-1643399504077-0",
       "license": "CC0 1.0",
@@ -4157,7 +3385,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 66.5,
+        "contrast": 0.25,
+        "sharpness": 6.73
+      },
+      "appeal": 84.4
     },
     {
       "id": "vehicles-s3999241250",
@@ -4167,7 +3403,7 @@
       "thumbPath": "thumbs/vehicles-s3999241250.webp",
       "width": 3000,
       "height": 1995,
-      "dominantColor": "#e4ddc6",
+      "dominantColor": "#ded1af",
       "photographer": "Smithsonian Institution (CHNDM)",
       "sourceUrl": "https://collection.cooperhewitt.org/view/objects/asitem/id/108787",
       "license": "CC0 1.0",
@@ -4175,7 +3411,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 31.3,
+        "contrast": 0.228,
+        "sharpness": 7.39
+      },
+      "appeal": 58.8
     },
     {
       "id": "vehicles-s4000223500",
@@ -4185,7 +3429,7 @@
       "thumbPath": "thumbs/vehicles-s4000223500.webp",
       "width": 3000,
       "height": 1945,
-      "dominantColor": "#1e1d1b",
+      "dominantColor": "#1b1a18",
       "photographer": "Smithsonian Institution (NASM)",
       "sourceUrl": "http://n2t.net/ark:/65665/nv9db01c8a1-88c4-4be9-8588-12e04cf6f1ff",
       "license": "CC0 1.0",
@@ -4193,7 +3437,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "free"
+      "tier": "free",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 47.3,
+        "contrast": 0.175,
+        "sharpness": 6.91
+      },
+      "appeal": 60.2
     },
     {
       "id": "vehicles-s4000336110",
@@ -4211,25 +3463,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "vehicles-s4000343140",
-      "categoryId": "vehicles",
-      "title": "Rutan Quickie (Smithsonian NASM)",
-      "imagePath": "images/vehicles/vehicles-s4000343140.webp",
-      "thumbPath": "thumbs/vehicles-s4000343140.webp",
-      "width": 3000,
-      "height": 1648,
-      "dominantColor": "#0c0c0c",
-      "photographer": "Smithsonian Institution (NASM)",
-      "sourceUrl": "http://n2t.net/ark:/65665/nv9bc1bc526-ced3-421b-95bb-c578cb7387bb",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 85.3,
+        "contrast": 0.315,
+        "sharpness": 6.81
+      },
+      "appeal": 94.7
     },
     {
       "id": "vehicles-s4000347130",
@@ -4247,61 +3489,15 @@
       "attributionRequired": false,
       "addedAt": "2026-11-10",
       "isNew": true,
-      "tier": "premium"
-    },
-    {
-      "id": "vehicles-s4000354450",
-      "categoryId": "vehicles",
-      "title": "Rutan VariEze (Smithsonian NASM)",
-      "imagePath": "images/vehicles/vehicles-s4000354450.webp",
-      "thumbPath": "thumbs/vehicles-s4000354450.webp",
-      "width": 3000,
-      "height": 1835,
-      "dominantColor": "#141211",
-      "photographer": "Smithsonian Institution (NASM)",
-      "sourceUrl": "http://n2t.net/ark:/65665/nv98f49e3d2-0c7f-4b50-829e-3439dc0d3b6f",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "vehicles-s4000407770",
-      "categoryId": "vehicles",
-      "title": "Beechcraft King Air 65-90 (Smithsonian NASM)",
-      "imagePath": "images/vehicles/vehicles-s4000407770.webp",
-      "thumbPath": "thumbs/vehicles-s4000407770.webp",
-      "width": 3000,
-      "height": 1992,
-      "dominantColor": "#292622",
-      "photographer": "Smithsonian Institution (NASM)",
-      "sourceUrl": "http://n2t.net/ark:/65665/nv922f847f3-a0ac-430c-842b-c67b57a108bc",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
-    },
-    {
-      "id": "vehicles-s4000422400",
-      "categoryId": "vehicles",
-      "title": "Lockheed Martin X-35B STOVL (Smithsonian NASM)",
-      "imagePath": "images/vehicles/vehicles-s4000422400.webp",
-      "thumbPath": "thumbs/vehicles-s4000422400.webp",
-      "width": 3000,
-      "height": 1019,
-      "dominantColor": "#0f0f0d",
-      "photographer": "Smithsonian Institution (NASM)",
-      "sourceUrl": "http://n2t.net/ark:/65665/nv9a96acd7c-d8c6-4970-ad13-f7bdf2c3e774",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-10",
-      "isNew": true,
-      "tier": "free"
+      "tier": "premium",
+      "modified": true,
+      "modification": "levels, contrast and vibrance adjusted",
+      "quality": {
+        "colorfulness": 62.3,
+        "contrast": 0.265,
+        "sharpness": 6.59
+      },
+      "appeal": 83.0
     }
   ]
 }
