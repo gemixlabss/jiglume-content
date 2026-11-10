@@ -25,10 +25,13 @@ QUERIES = {
     "animals": ['unit_code:"NZP"', "bird photograph", "butterfly"],
     "flowers": ['unit_code:"SG" AND orchid', 'unit_code:"SG" AND flower', "botanical illustration flowers",
                 'unit_code:"SIL" AND roses', 'unit_code:"SIL" AND botanical', 'unit_code:"SAAM" AND flowers'],
-    "vehicles": ['unit_code:"NASM" AND aircraft', "locomotive", "automobile carriage"],
-    "architecture": ["smithsonian castle", "building exterior photograph", "interior architecture"],
-    "patterns": ['unit_code:"CHNDM" AND textile', 'unit_code:"CHNDM" AND wallpaper', 'unit_code:"CHNDM" AND sidewall'],
-    "food": ["fruit painting", "still life fruit"],
+    "vehicles": ['unit_code:"NASM" AND aircraft', "locomotive", "automobile carriage",
+                 'unit_code:"SAAM" AND ship', 'unit_code:"SAAM" AND train', "sailing ship painting"],
+    "architecture": ["smithsonian castle", "building exterior photograph", "interior architecture",
+                     'unit_code:"SAAM" AND cathedral', 'unit_code:"SAAM" AND church'],
+    "patterns": ['unit_code:"CHNDM" AND textile', 'unit_code:"CHNDM" AND wallpaper', 'unit_code:"CHNDM" AND sidewall',
+                 'unit_code:"CHNDM" AND "printed cotton"', 'unit_code:"CHNDM" AND brocade', 'unit_code:"CHNDM" AND tile'],
+    "food": ["fruit painting", "still life fruit", 'unit_code:"SAAM" AND "still life"', 'unit_code:"SAAM" AND fruit'],
 }
 
 
