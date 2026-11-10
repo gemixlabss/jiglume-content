@@ -435,23 +435,6 @@
       "isNew": true
     },
     {
-      "id": "art-88601416",
-      "categoryId": "art",
-      "title": "Landscape (The Met)",
-      "imagePath": "images/art/art-88601416.webp",
-      "thumbPath": "thumbs/art-88601416.webp",
-      "width": 3000,
-      "height": 2517,
-      "dominantColor": "#d8b69c",
-      "photographer": "Carl Rottmann",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/438849",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "attributionRequired": false,
-      "addedAt": "2026-11-09",
-      "isNew": true
-    },
-    {
       "id": "art-90734ce3",
       "categoryId": "art",
       "title": "River and Rocks (The Met)",
