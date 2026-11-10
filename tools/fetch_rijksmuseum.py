@@ -66,7 +66,7 @@ def main() -> None:
     out = INBOX / args.category
     out.mkdir(parents=True, exist_ok=True)
     seen = {p["sourceUrl"] for p in load_catalog()["puzzles"]}
-    seen |= {json.loads(s.read_text())["sourceUrl"] for s in out.glob("*.json")}
+    seen |= {json.loads(s.read_text())["sourceUrl"] for s in INBOX.glob("*/*.json")}
     got = 0
     for term in terms:
         if got >= args.count:

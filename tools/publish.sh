@@ -2,7 +2,7 @@
 # One-command content release.
 #
 #   tools/publish.sh            # process inbox/, then release
-#   tools/publish.sh --fetch    # also fetch new images first (Commons, Met, Pexels if PEXELS_API_KEY)
+#   tools/publish.sh --fetch    # also fetch new images first (NASA, Smithsonian, Rijksmuseum, Met, Commons)
 #
 # Steps: [fetch] → add_images → LICENSES.md → validate → content commit + tag vN →
 # manifest.json (→ that commit's SHA) commit → push → purge jsDelivr's cached @main manifest.

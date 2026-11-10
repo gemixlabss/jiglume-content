@@ -58,7 +58,7 @@ def main() -> None:
     out_dir = INBOX / args.category
     out_dir.mkdir(parents=True, exist_ok=True)
     seen = {p["sourceUrl"] for p in load_catalog()["puzzles"]}
-    seen |= {json.loads(s.read_text())["sourceUrl"] for s in out_dir.glob("*.json")}
+    seen |= {json.loads(s.read_text())["sourceUrl"] for s in INBOX.glob("*/*.json")}
     have = len(list(out_dir.glob("*.json")))
     per_artist: dict[str, int] = {}
     for term in terms:

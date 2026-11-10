@@ -24,7 +24,8 @@ LICENSE_URL = "https://www.nasa.gov/nasa-brand-center/images-and-media/"
 
 QUERIES = {
     "cities": ["city lights at night iss", "earth observation city night", "metropolitan area at night from space"],
-    "night": ["nebula", "galaxy", "aurora iss", "milky way", "star cluster", "city lights at night iss"],
+    "night": ["nebula", "galaxy", "aurora iss", "milky way", "star cluster", "city lights at night iss",
+              "spitzer infrared nebula", "wise infrared sky", "supernova remnant"],
     "sea": ["bahamas from space", "coral reef from space", "coastline astronaut photograph", "ocean color phytoplankton bloom"],
     "mountains": ["himalayas astronaut photograph", "andes from space", "volcano from space"],
     "nature": ["earth observatory river delta", "sand dunes from space", "glacier landsat"],
