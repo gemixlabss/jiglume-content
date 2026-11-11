@@ -880,8 +880,8 @@
       "title": "Cat in Marrakech, Morocco, 20250125 1014 7146",
       "imagePath": "images/animals/animals-26d95872.webp",
       "thumbPath": "thumbs/animals-26d95872.webp",
-      "width": 1920,
-      "height": 1407,
+      "width": 4016,
+      "height": 2944,
       "dominantColor": "#ab886e",
       "photographer": "Jakub Hałun",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cat_in_Marrakech,_Morocco,_20250125_1014_7146.jpg",
@@ -891,11 +891,11 @@
       "addedAt": "2026-11-11",
       "isNew": true,
       "quality": {
-        "colorfulness": 37.5,
-        "contrast": 0.186,
-        "sharpness": 7.6
+        "colorfulness": 37.7,
+        "contrast": 0.184,
+        "sharpness": 6.89
       },
-      "appeal": 57.9,
+      "appeal": 54.6,
       "modified": true,
       "modification": "levels, contrast and vibrance adjusted",
       "tier": "free",
@@ -934,8 +934,8 @@
       "title": "Thomas Bresson - Calopteryx virgo-1 (by)",
       "imagePath": "images/animals/animals-74fa0517.webp",
       "thumbPath": "thumbs/animals-74fa0517.webp",
-      "width": 1920,
-      "height": 1275,
+      "width": 4096,
+      "height": 2720,
       "dominantColor": "#0a1700",
       "photographer": "Thomas Bresson",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Bresson_-_Calopteryx_virgo-1_(by).jpg",
@@ -945,11 +945,11 @@
       "addedAt": "2026-11-11",
       "isNew": true,
       "quality": {
-        "colorfulness": 84.3,
-        "contrast": 0.323,
-        "sharpness": 7.78
+        "colorfulness": 86.4,
+        "contrast": 0.327,
+        "sharpness": 7.2
       },
-      "appeal": 99.0,
+      "appeal": 96.4,
       "modified": true,
       "modification": "levels, contrast and vibrance adjusted",
       "tier": "premium",
