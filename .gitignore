@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 .DS_Store
 tools/.upgrade_state.json
+ai/raw/**/*.png
+ai/raw/**/*.jpg
+ai/raw/**/*.webp
+ai/batch-input/
+ai/compare/
+tools/models/
