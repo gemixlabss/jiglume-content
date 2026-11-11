@@ -1,8 +1,8 @@
 {
   "_comment": "Always free: these images ship inside the app's offline starter pack (jiglume/assets/starter), so new players can always play them offline.",
   "free": [
-    "nature-0dbd7833", "animals-s4183208370", "cities-4602b542", "travel-05aa9555",
-    "sea-d6beba3a", "mountains-14de0a16", "flowers-b3a4ea8d", "food-9991a350",
+    "nature-0dbd7833", "animals-0c1d9905", "cities-4602b542", "travel-05aa9555",
+    "sea-d6beba3a", "mountains-14de0a16", "flowers-b3a4ea8d", "food-abecab5b",
     "art-b8ec89cb", "architecture-r0e6037f8", "night-npia03653", "seasons-cdfc6b41"
   ],
   "premium": []

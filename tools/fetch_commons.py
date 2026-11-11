@@ -108,6 +108,15 @@ def evaluate(page: dict) -> tuple[dict | None, str]:
     w, h = ii["width"], ii["height"]
     if max(w, h) / min(w, h) > 2.4:
         return None, "panorama aspect"
+    # Must stay sharp at 1000 pieces after the app's fill crop.
+    from upgrade_resolution import passes, stored_size
+    sw, _ = stored_size(w, h)
+    if not passes(*stored_size(w, h)):
+        return None, "too small for 1000 pieces"
+    name = page["title"].removeprefix("File:")
+    # commons.wikimedia.org/w/thumb.php renders any size; upload.wikimedia.org
+    # throttles shared cloud IPs.
+    download = "https://commons.wikimedia.org/w/thumb.php?" + urllib.parse.urlencode({"f": name, "w": sw})
     return {
         "title": strip_html(get("ObjectName")) or title,
         "photographer": artist or "Unknown",
@@ -116,7 +125,7 @@ def evaluate(page: dict) -> tuple[dict | None, str]:
         "licenseUrl": LICENSE_URLS[lic],
         "attributionRequired": attribution,
         "origin": "wikimedia-commons",
-        "_download": ii.get("thumburl") or ii["url"],
+        "_download": download,
     }, ""
 
 
@@ -213,7 +222,7 @@ def main() -> None:
                 if pid in rejected:
                     continue
                 url = meta.pop("_download")
-                ext = Path(urllib.parse.urlparse(url).path).suffix.lstrip(".").lower() or "jpg"
+                ext = "jpg"
                 try:
                     data = http_get(url, timeout=120)
                 except Exception as e:  # noqa: BLE001

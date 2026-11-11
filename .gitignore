@@ -3,3 +3,4 @@ review/
 __pycache__/
 *.pyc
 .DS_Store
+tools/.upgrade_state.json
