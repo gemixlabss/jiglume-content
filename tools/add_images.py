@@ -27,9 +27,10 @@ import sys
 from datetime import date
 from pathlib import Path
 
-from common import (CATEGORY_IDS, DUPLICATE_HAMMING, FULL_LONG_SIDE, INBOX, LICENSE_URLS, MIN_LONG_SIDE,
+from common import (CATEGORY_IDS, DUPLICATE_HAMMING, INBOX, LICENSE_URLS, MIN_CELL_PIXELS, cell_pixels,
                     ROOT, THUMB_LONG_SIDE, THUMB_QUALITY, WEBP_QUALITY, ATTRIBUTION_LICENSES,
                     load_catalog, load_phash_index, log, normalize_license, save_catalog, save_phash_index)
+from upgrade_resolution import passes, stored_size, target_long_side
 from enhance import MODIFICATION, appeal, enhance, sharpen_thumb
 from vividness import metrics as vivid_metrics
 from imaging import dominant_color, encode_webp, fit_long_side, hamming, open_upright, phash, quality_problem, trim_flat_border
@@ -99,8 +100,9 @@ def main() -> int:
         except Exception as e:  # noqa: BLE001
             rejected.append((src.name, f"unreadable: {e}"))
             continue
-        if max(img.size) < MIN_LONG_SIDE:
-            rejected.append((src.name, f"too small {img.size[0]}x{img.size[1]} (< {MIN_LONG_SIDE})"))
+        if not passes(*stored_size(*img.size)):
+            rejected.append((src.name, f"too small for 1000 pieces after the fill crop: {img.size[0]}x{img.size[1]} "
+                                       f"({cell_pixels(*img.size):.0f} < {MIN_CELL_PIXELS} px per cell)"))
             continue
         problem = quality_problem(img)
         if problem:
@@ -114,7 +116,7 @@ def main() -> int:
 
         # v4: gentle levels / contrast / vibrance, sharp 640 px thumbnails.
         img = enhance(img)
-        full = fit_long_side(img, FULL_LONG_SIDE)
+        full = fit_long_side(img, target_long_side(*img.size))
         thumb = sharpen_thumb(fit_long_side(img, THUMB_LONG_SIDE))
         quality = vivid_metrics(full)
         image_path = f"images/{category}/{pid}.webp"

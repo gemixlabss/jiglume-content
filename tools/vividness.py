@@ -16,8 +16,8 @@ import math
 import numpy as np
 from PIL import Image
 
-MIN_COLORFULNESS = 22.0
-MIN_CONTRAST = 0.14
+MIN_COLORFULNESS = 28.0  # v4.1: raised from 22 — "European rabbit kitten" (26.9) looked washed out
+MIN_CONTRAST = 0.16
 MIN_SHARPNESS = 3.6
 
 

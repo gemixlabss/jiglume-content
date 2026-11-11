@@ -5,7 +5,7 @@ from __future__ import annotations
 import re
 import sys
 
-from common import (CATEGORY_IDS, LICENSE_URLS, MIN_LONG_SIDE, ROOT, SCHEMA_VERSION, ATTRIBUTION_LICENSES,
+from common import (CATEGORY_IDS, LICENSE_URLS, MIN_CELL_PIXELS, cell_pixels, ROOT, SCHEMA_VERSION, ATTRIBUTION_LICENSES,
                     load_catalog)
 
 FIELDS = {"id": str, "categoryId": str, "title": str, "imagePath": str, "thumbPath": str, "width": int,
@@ -39,8 +39,11 @@ def main() -> int:
             errors.append(f"{pid}: tier must be free or premium")
         if not re.fullmatch(r"#[0-9a-f]{6}", p.get("dominantColor", "")):
             errors.append(f"{pid}: bad dominantColor")
-        if max(p.get("width", 0), p.get("height", 0)) < MIN_LONG_SIDE:
-            errors.append(f"{pid}: smaller than {MIN_LONG_SIDE}px")
+        if cell_pixels(p.get("width", 1), p.get("height", 1)) < MIN_CELL_PIXELS:
+            errors.append(f"{pid}: {p.get('width')}x{p.get('height')} is too small for 1000 pieces after the fill crop "
+                          f"({cell_pixels(p.get('width', 1), p.get('height', 1)):.0f} < {MIN_CELL_PIXELS} px per cell)")
+        if p.get("titleKey") and p["titleKey"] not in cat.get("titles", {}):
+            errors.append(f"{pid}: titleKey {p['titleKey']!r} missing from titles")
         for rel in (p.get("imagePath", ""), p.get("thumbPath", "")):
             if not (ROOT / rel).is_file():
                 errors.append(f"{pid}: missing file {rel}")

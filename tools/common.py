@@ -27,8 +27,27 @@ REPO = "gemixlabss/jiglume-content"
 USER_AGENT = f"JiglumeContentTools/1.0 (https://github.com/{REPO})"
 
 # Image processing rules.
-FULL_LONG_SIDE = 3000
+FULL_LONG_SIDE = 4096  # a 3:2 photo then keeps ≥ MIN_CELL_PIXELS per cell at 1000 pieces after the fill crop
 THUMB_LONG_SIDE = 640  # 2-column grids on 3× phones stay sharp
+# Every catalog image must stay sharp at 1000 pieces after the app crops it to
+# fill the board (3:4 on phones, up to 1:1 on tablets): at least this many
+# source pixels per cell.
+MIN_CELL_PIXELS = 60
+MAX_PIECES = 1000
+FILL_ASPECTS = (0.75, 1.0)
+
+
+def cell_pixels(width: int, height: int) -> float:
+    """Smallest source pixels per cell at MAX_PIECES over the fill-crop aspects."""
+    import math
+    worst = float("inf")
+    for a in FILL_ASPECTS:
+        cw, ch = (height * a, height) if width / height > a else (width, width / a)
+        cols = math.sqrt(MAX_PIECES * a)  # rows × cols ≈ MAX_PIECES, cols / rows ≈ a
+        worst = min(worst, min(cw, ch) / cols)
+    return worst
+
+
 MIN_LONG_SIDE = 1600  # ≥ the app starter-pack size; Commons originals under 1920 px are accepted down to this
 WEBP_QUALITY = 85
 THUMB_QUALITY = 80
