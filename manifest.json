@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "latest": "v3",
-  "ref": "4cc87da2df3e99f8b02d5e0259c83cf1bc5e8da4",
-  "publishedAt": "2026-11-10",
+  "latest": "v4",
+  "ref": "54db6f1681e42d225fa306cd7c49ed4caecf53c3",
+  "publishedAt": "2026-11-11",
   "catalog": "catalog.json",
-  "catalogSha256": "c8723b19f8f2ab71bcb2d4045ac1454bb422213e23653ee3c66d78ce8ae429ab",
-  "puzzleCount": 231,
+  "catalogSha256": "6f6f702fb837b9115713382086112c06ed50e261c9b3e22ef95cb242b1dadbac",
+  "puzzleCount": 311,
   "bases": [
-    "https://cdn.jsdelivr.net/gh/gemixlabss/jiglume-content@4cc87da2df3e99f8b02d5e0259c83cf1bc5e8da4/",
-    "https://raw.githubusercontent.com/gemixlabss/jiglume-content/4cc87da2df3e99f8b02d5e0259c83cf1bc5e8da4/"
+    "https://cdn.jsdelivr.net/gh/gemixlabss/jiglume-content@54db6f1681e42d225fa306cd7c49ed4caecf53c3/",
+    "https://raw.githubusercontent.com/gemixlabss/jiglume-content/54db6f1681e42d225fa306cd7c49ed4caecf53c3/"
   ]
 }
