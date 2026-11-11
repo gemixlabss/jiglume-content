@@ -1,0 +1,17 @@
+{
+  "_comment": "v4 search terms (single words, OR-ed) for fetch_commons.py --featured: subjects jigsaw fans love, searched only among Commons Featured pictures and Quality images.",
+  "nature": ["forest", "waterfall", "meadow", "rainbow", "lake", "garden", "fern", "mushroom"],
+  "animals": ["cat", "kitten", "puppy", "dog", "horse", "foal", "parrot", "kingfisher", "fox", "owl", "butterfly", "hummingbird", "squirrel", "puffin"],
+  "cities": ["skyline", "cityscape", "rooftops", "townscape", "oldtown", "canal", "piazza"],
+  "travel": ["village", "harbour", "market", "balloons", "gondola", "temple", "terraces", "windmill"],
+  "sea": ["beach", "lighthouse", "lagoon", "cove", "seascape", "coast", "pier", "sailing"],
+  "mountains": ["mountains", "alps", "dolomites", "peak", "alpine", "matterhorn", "glacier", "summit"],
+  "flowers": ["flowers", "tulips", "roses", "lavender", "poppies", "sunflowers", "blossom", "dahlia", "orchid"],
+  "food": ["food", "fruit", "coffee", "cake", "breakfast", "vegetables", "spices", "dessert", "berries", "pastries"],
+  "art": ["painting", "impressionism", "Monet", "Renoir", "Gogh", "Hokusai", "Klimt", "watercolor"],
+  "architecture": ["cathedral", "palace", "castle", "mosque", "library", "dome", "basilica", "chateau"],
+  "night": ["aurora", "fireworks", "lanterns", "nightscape", "milkyway", "illuminated", "startrails"],
+  "seasons": ["autumn", "winter", "snow", "spring", "foliage", "frost", "pumpkins"],
+  "patterns": ["mosaic", "tiles", "kaleidoscope", "stained", "colourful", "colorful", "azulejo", "textile"],
+  "vehicles": ["locomotive", "tram", "sailboat", "steamship", "bicycle", "carousel", "vintage", "airship"]
+}

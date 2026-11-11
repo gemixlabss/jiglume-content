@@ -1,0 +1,14 @@
+{
+  "_comment": "v4 second pass (fetch_commons.py --featured --per-term): one search per subject.",
+  "animals": ["kitten", "cat", "puppy", "dog", "horse", "foal", "parrot", "kingfisher", "fox", "owl", "hummingbird", "squirrel", "deer", "rabbit", "hedgehog", "flamingo", "peacock", "panda"],
+  "cities": ["skyline", "Prague", "Venice", "Amsterdam", "Lisbon", "Paris", "Florence"],
+  "flowers": ["tulips", "roses", "sunflowers", "poppies", "lavender", "sakura", "dahlia", "peony", "hydrangea", "lotus", "magnolia", "wisteria"],
+  "food": ["fruit", "strawberries", "berries", "coffee", "croissant", "macarons", "cheese", "vegetables", "spices", "breakfast"],
+  "mountains": ["dolomites", "matterhorn", "alps"],
+  "nature": ["waterfall", "lake", "forest", "meadow", "canyon"],
+  "night": ["aurora", "fireworks", "lanterns", "nightscape", "illuminated", "christmas", "milkyway"],
+  "patterns": ["azulejo", "mosaic", "kaleidoscope", "stained", "umbrellas", "tiles", "carpet", "textile"],
+  "sea": ["beach", "lighthouse", "lagoon", "cove", "turquoise", "coast", "surf"],
+  "seasons": ["autumn", "foliage", "snow", "winter", "frost", "spring", "blossom"],
+  "vehicles": ["locomotive", "steam", "tram", "balloon", "sailboat", "oldtimer", "bicycle", "gondola", "ferry", "cablecar"]
+}

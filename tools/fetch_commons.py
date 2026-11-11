@@ -41,10 +41,18 @@ MIN_SOURCE_LONG_SIDE = 2400
 EXTRA_QUERY = ""  # e.g. 'hastemplate:"PD-USGov-NPS"' (set by --extra-query)
 
 
-def search(term: str, quality_only: bool, limit: int = 50) -> list[dict]:
+FEATURED = 'incategory:"Featured_pictures_on_Wikimedia_Commons"'
+QUALITY = 'incategory:"Quality_images"'
+
+
+def search(term: str, quality_only: bool | str, limit: int = 50) -> list[dict]:
+    """quality_only: False (all files), True (Quality images) or a raw
+    incategory: filter (e.g. FEATURED)."""
     lic = EXTRA_QUERY or LICENSE_FILTER
     q = f"{term} filetype:bitmap filew:>{MIN_SOURCE_LONG_SIDE - 1} {lic}"
-    if quality_only:
+    if isinstance(quality_only, str):
+        q += " " + quality_only
+    elif quality_only:
         q += ' incategory:"Quality images"'
     for attempt in range(8):
         data = _query(q, limit)
@@ -129,7 +137,20 @@ def main() -> None:
                     help='replaces the licence pre-filter, e.g. hastemplate:"PD-USGov-NPS" '
                          '(the licence is still verified from extmetadata)')
     ap.add_argument("--no-quality-pass", action="store_true")
+    ap.add_argument("--featured", action="store_true",
+                    help="search only Commons Featured pictures, then Quality images (v4); "
+                         "include art; reject dull downloads (tools/vividness.py)")
+    ap.add_argument("--width", type=int, default=DOWNLOAD_WIDTH,
+                    help="thumbnail width to download (1920 is a cached Wikimedia step; 3840 may be throttled)")
+    ap.add_argument("--per-term", action="store_true",
+                    help="one search per term (more relevant than one OR-query), at most 3 images per term")
+    ap.add_argument("--targets", default="", help='JSON {category: target count} overriding --per-category')
+    ap.add_argument("--have", default="",
+                    help="JSON {category: count} overriding the catalog counts (e.g. after pruning)")
     args = ap.parse_args()
+    have_override = json.loads(args.have) if args.have else {}
+    targets = json.loads(args.targets) if args.targets else {}
+    globals()["DOWNLOAD_WIDTH"] = args.width
     global EXTRA_QUERY
     EXTRA_QUERY = args.extra_query
     terms = json.loads((ROOT / "tools" / args.terms).read_text())
@@ -139,34 +160,44 @@ def main() -> None:
     report: dict[str, dict] = {}
 
     for cat_id, cat_terms in terms.items():
-        if cat_id.startswith("_") or (only and cat_id not in only) or (not only and cat_id == "art"):
+        if cat_id.startswith("_") or (only and cat_id not in only) or (not only and cat_id == "art" and not args.featured):
             continue
         assert cat_id in CATEGORY_IDS, cat_id
         out = INBOX / cat_id
         out.mkdir(parents=True, exist_ok=True)
-        have = category_count(cat_id)
+        have = have_override.get(cat_id, category_count(cat_id)) + len(list(out.glob("*.json")))
         per_artist: dict[str, int] = {}
         for side in out.glob("*.json"):
             a = json.loads(side.read_text())["photographer"]
             per_artist[a] = per_artist.get(a, 0) + 1
         stats = report.setdefault(cat_id, {"accepted": 0, "rejected": {}})
+        target = targets.get(cat_id, args.per_category)
+        if only and targets and cat_id not in targets:
+            continue
         # One OR-query per pass keeps API calls (the rate-limited part) low:
         # first among Commons "Quality images", then in general.
         # Single words only: quoted phrases inside an OR group return nothing.
         query = " OR ".join(t for t in cat_terms if " " not in t)
-        for quality_only in ((False,) if args.no_quality_pass else (True, False)):
-            if have >= args.per_category:
+        passes = (FEATURED, QUALITY) if args.featured else ((False,) if args.no_quality_pass else (True, False))
+        jobs = [(f"({query})", q) for q in passes]
+        if args.per_term:
+            jobs = [(t, q) for t in cat_terms for q in passes]
+        per_term_taken: dict[str, int] = {}
+        for term_query, quality_only in jobs:
+            if have >= target:
                 break
-            log(f"[{cat_id}] search ({query}) quality_only={quality_only}")
+            if per_term_taken.get(term_query, 0) >= 3:
+                continue
+            log(f"[{cat_id}] search ({term_query}) quality_only={quality_only}")
             try:
-                pages = search(f"({query})", quality_only)
+                pages = search(term_query, quality_only, limit=20 if args.per_term else 50)
             except Exception as e:  # noqa: BLE001
                 log(f"  search failed: {e}")
                 continue
             if not pages:
                 log("  no results")
             for page in pages:
-                if have >= args.per_category:
+                if have >= target or per_term_taken.get(term_query, 0) >= 3:
                     break
                 meta, why = evaluate(page)
                 if meta is None:
@@ -188,14 +219,31 @@ def main() -> None:
                 except Exception as e:  # noqa: BLE001
                     log(f"  download failed {url}: {e}")
                     continue
+                if args.featured:
+                    from io import BytesIO
+
+                    from PIL import Image
+                    from vividness import dull_reason, metrics
+                    try:
+                        m = metrics(Image.open(BytesIO(data)))
+                    except Exception as e:  # noqa: BLE001
+                        log(f"  unreadable {url}: {e}")
+                        continue
+                    dull = dull_reason(m, category=cat_id)
+                    if dull:
+                        stats["rejected"]["dull"] = stats["rejected"].get("dull", 0) + 1
+                        log(f"  - dull {pid}: {dull}")
+                        seen.add(meta["sourceUrl"])
+                        continue
                 (out / f"{pid}.{ext}").write_bytes(data)
                 (out / f"{pid}.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
                 seen.add(meta["sourceUrl"])
                 per_artist[meta["photographer"]] = per_artist.get(meta["photographer"], 0) + 1
                 have += 1
+                per_term_taken[term_query] = per_term_taken.get(term_query, 0) + 1
                 stats["accepted"] += 1
                 log(f"  + {pid} [{meta['license']}] {meta['title'][:60]}")
-                time.sleep(12)  # be gentle: upload.wikimedia.org rate-limits shared IPs hard
+                time.sleep(4 if args.width <= 1920 else 12)  # be gentle with upload.wikimedia.org
             log(f"  pass stats: {stats}")
             time.sleep(3)
         log(f"[{cat_id}] {have} in inbox")
