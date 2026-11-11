@@ -209,13 +209,13 @@ def contact_sheet(results: list[dict], out: Path, total_usd: float) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--glob", default="*/*.png")
+    ap.add_argument("--glob", default="*/*", help="files under ai/raw (png / jpg / webp)")
     ap.add_argument("--sheet")
     args = ap.parse_args()
     QC.mkdir(parents=True, exist_ok=True)
     results = []
     for p in sorted(RAW.glob(args.glob)):
-        if not p.with_suffix(".json").exists():
+        if p.suffix.lower() not in (".png", ".jpg", ".jpeg", ".webp") or not p.with_suffix(".json").exists():
             continue
         r = check(p)
         results.append(r)
