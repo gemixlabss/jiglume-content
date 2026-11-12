@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/collections/collections-04-2k.jpg",
+ "id": "collections-04",
+ "category": "collections",
+ "title": "Button box",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 74.3,
+  "contrast": 0.224,
+  "sharpness": 8.4
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "de9b56f810643f14",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03023,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

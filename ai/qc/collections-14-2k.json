@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/collections/collections-14-2k.jpg",
+ "id": "collections-14",
+ "category": "collections",
+ "title": "Hat boxes and ribbons",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.2,
+  "contrast": 0.189,
+  "sharpness": 8.88
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "85ea4e645e385579",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03016,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

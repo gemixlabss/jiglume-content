@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/collections/collections-06-2k.jpg",
+ "id": "collections-06",
+ "category": "collections",
+ "title": "Seashell collection",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 62.1,
+  "contrast": 0.175,
+  "sharpness": 8.37
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "95e876874a962b99",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03187,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

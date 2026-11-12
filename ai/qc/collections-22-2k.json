@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/collections/collections-22-2k.jpg",
+ "id": "collections-22",
+ "category": "collections",
+ "title": "Sweets market",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.5,
+  "contrast": 0.203,
+  "sharpness": 8.42
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.01,
+   "score": 0.8,
+   "closeUp": false
+  }
+ ],
+ "phash": "85b52dccad28a7c3",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02978,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

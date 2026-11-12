@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/collections/collections-18-2k.jpg",
+ "id": "collections-18",
+ "category": "collections",
+ "title": "Plant shelf",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 41.4,
+  "contrast": 0.235,
+  "sharpness": 9.22
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "8a92c541ab7ab17e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02965,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

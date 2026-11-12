@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/collections/collections-28-2k.jpg",
+ "id": "collections-28",
+ "category": "collections",
+ "title": "Lantern shop",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 38.5,
+  "contrast": 0.192,
+  "sharpness": 9.05
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d7751c8062f23717",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02615,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

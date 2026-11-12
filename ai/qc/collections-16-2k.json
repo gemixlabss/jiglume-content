@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/collections/collections-16-2k.jpg",
+ "id": "collections-16",
+ "category": "collections",
+ "title": "Bead jars",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 59.8,
+  "contrast": 0.186,
+  "sharpness": 8.48
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.015,
+   "score": 0.77,
+   "closeUp": false
+  }
+ ],
+ "phash": "904e4fcd36976691",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02974,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

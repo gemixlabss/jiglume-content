@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/collections/collections-19-2k.jpg",
+ "id": "collections-19",
+ "category": "collections",
+ "title": "Antique keys and locks",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 51.9,
+  "contrast": 0.242,
+  "sharpness": 8.58
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.064,
+   "score": 0.8,
+   "closeUp": true
+  }
+ ],
+ "phash": "c3e76ec864c89a8e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02949,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

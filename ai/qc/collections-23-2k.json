@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/collections/collections-23-2k.jpg",
+ "id": "collections-23",
+ "category": "collections",
+ "title": "Ribbon spools",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.2,
+  "contrast": 0.195,
+  "sharpness": 8.57
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91f23a4b638939ce",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0307,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
