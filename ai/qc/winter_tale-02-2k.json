@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-02-2k.jpg",
+ "id": "winter_tale-02",
+ "category": "winter_tale",
+ "title": "Cat by the fireplace",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.5,
+  "contrast": 0.193,
+  "sharpness": 7.91
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d7ffe68601e21069",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02743,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

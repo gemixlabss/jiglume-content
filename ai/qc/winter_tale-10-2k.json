@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-10-2k.jpg",
+ "id": "winter_tale-10",
+ "category": "winter_tale",
+ "title": "Ornament still life",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 80.3,
+  "contrast": 0.202,
+  "sharpness": 8.38
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.071,
+   "score": 0.78,
+   "closeUp": true
+  }
+ ],
+ "phash": "959712b52c6d6d58",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03063,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

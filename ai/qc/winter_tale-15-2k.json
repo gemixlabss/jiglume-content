@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-15-2k.jpg",
+ "id": "winter_tale-15",
+ "category": "winter_tale",
+ "title": "Sleigh ride",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.5,
+  "contrast": 0.225,
+  "sharpness": 8.38
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.012,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "81722e631a9f6de8",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0308,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

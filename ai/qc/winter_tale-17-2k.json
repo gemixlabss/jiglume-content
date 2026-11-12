@@ -1,0 +1,57 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-17-2k.jpg",
+ "id": "winter_tale-17",
+ "category": "winter_tale",
+ "title": "Ice rink in the park",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 42.8,
+  "contrast": 0.237,
+  "sharpness": 8.77
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.012,
+   "score": 0.84,
+   "closeUp": false
+  },
+  {
+   "height": 0.012,
+   "score": 0.76,
+   "closeUp": false
+  },
+  {
+   "height": 0.01,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "d16343ba332d5678",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03072,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-06-2k.jpg",
+ "id": "winter_tale-06",
+ "category": "winter_tale",
+ "title": "Frozen lake cabin",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.4,
+  "contrast": 0.229,
+  "sharpness": 8.51
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "8080cae34b7df53e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02687,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-11-2k.jpg",
+ "id": "winter_tale-11",
+ "category": "winter_tale",
+ "title": "Reindeer in the forest",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.3,
+  "contrast": 0.245,
+  "sharpness": 9.03
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "95760c327d6c9768",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03035,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

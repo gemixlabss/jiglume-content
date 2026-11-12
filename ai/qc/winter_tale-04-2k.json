@@ -1,0 +1,54 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-04-2k.jpg",
+ "id": "winter_tale-04",
+ "category": "winter_tale",
+ "title": "Animals on sleds",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 34.2,
+  "contrast": 0.223,
+  "sharpness": 8.33
+ },
+ "flatShare": 0.037,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.073,
+   "score": 0.85,
+   "closeUp": true
+  },
+  {
+   "height": 0.069,
+   "score": 0.79,
+   "closeUp": true
+  }
+ ],
+ "phash": "c483db35c6192dad",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03134,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}
