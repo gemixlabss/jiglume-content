@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -48,7 +49,9 @@ def attempts_for(scene_id: str, category: str) -> list[Path]:
 def gate(path: Path) -> dict:
     cache = q.QC / (path.stem + ".json")
     if cache.exists():
-        return json.loads(cache.read_text())
+        r = json.loads(cache.read_text())
+        if not r.get("reviewPending") or os.environ.get("JIGLUME_NO_REVIEW"):
+            return r
     q.QC.mkdir(parents=True, exist_ok=True)
     r = q.check(path)
     cache.write_text(json.dumps(r, ensure_ascii=False, indent=1))
@@ -83,6 +86,7 @@ def write_files(scene: dict, path: Path, qc: dict) -> dict:
         "palette": meta.get("palette") or scene.get("palette"), "scenePrompt": meta["scenePrompt"],
         "prompt": meta["prompt"], "generatedAt": meta["generatedAt"], "attempt": meta.get("attempt", 0),
         "costUsd": qc.get("costUsd", 0), "phash": qc["phash"], "file": str(path.relative_to(ROOT)),
+        "reviewed": not qc.get("reviewPending", False),
     }
 
 

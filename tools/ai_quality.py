@@ -20,6 +20,7 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import os
 import sys
 from pathlib import Path
 
@@ -142,11 +143,12 @@ def vision_review(path: Path, img: Image.Image) -> dict:
     by the session proxy (or GEMINI_API_KEY)."""
     import base64
     import io
-    import os
     import urllib.request
     cache = QC / (path.stem + ".review.json")
     if cache.exists():
         return json.loads(cache.read_text())
+    if os.environ.get("JIGLUME_NO_REVIEW"):
+        return {"pending": True}
     small = img.convert("RGB")
     small.thumbnail((1536, 1536))
     buf = io.BytesIO()
@@ -231,6 +233,8 @@ def check(path: Path) -> dict:
         problems.append("close-up face")
     if rv.get("error"):
         problems.append("review failed")
+    if rv.get("pending"):
+        r["reviewPending"] = True
     for key, label in (("text", "letters/text"), ("logos", "logo"), ("malformed", "malformed anatomy/objects"),
                        ("close_up_people", "close-up person"), ("copyrighted_character", "look-alike character"),
                        ("scary", "scary")):
