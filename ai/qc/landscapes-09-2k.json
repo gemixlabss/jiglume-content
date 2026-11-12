@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-09-2k.jpg",
+ "id": "landscapes-09",
+ "category": "landscapes",
+ "title": "Terraced fields",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 37.0,
+  "contrast": 0.196,
+  "sharpness": 7.94
+ },
+ "flatShare": 0.025,
+ "text": [],
+ "faces": [],
+ "phash": "c5c2bdbae699b0a0",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02901,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

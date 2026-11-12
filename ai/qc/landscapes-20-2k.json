@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-20-2k.jpg",
+ "id": "landscapes-20",
+ "category": "landscapes",
+ "title": "Desert oasis",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 49.0,
+  "contrast": 0.182,
+  "sharpness": 8.32
+ },
+ "flatShare": 0.087,
+ "text": [],
+ "faces": [],
+ "phash": "9da7e4fb60789448",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02934,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

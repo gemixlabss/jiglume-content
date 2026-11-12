@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/landscapes/landscapes-29-2k.jpg",
+ "id": "landscapes-29",
+ "category": "landscapes",
+ "title": "Hot air balloons over the valley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.6,
+  "contrast": 0.162,
+  "sharpness": 8.02
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.011,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "95f3370c1d8cd631",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02835,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

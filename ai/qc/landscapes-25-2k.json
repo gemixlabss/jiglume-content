@@ -1,0 +1,52 @@
+{
+ "file": "ai/raw/landscapes/landscapes-25-2k.jpg",
+ "id": "landscapes-25",
+ "category": "landscapes",
+ "title": "Snowy peaks at sunrise",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 40.9,
+  "contrast": 0.212,
+  "sharpness": 8.75
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.013,
+   "score": 0.83,
+   "closeUp": false
+  },
+  {
+   "height": 0.013,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "95bfe8c34a205937",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02999,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

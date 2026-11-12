@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-11-2k.jpg",
+ "id": "landscapes-11",
+ "category": "landscapes",
+ "title": "Volcanic lake",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 88.8,
+  "contrast": 0.219,
+  "sharpness": 8.51
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "919958bf7952641d",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02946,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

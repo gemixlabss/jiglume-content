@@ -1,0 +1,52 @@
+{
+ "file": "ai/raw/landscapes/landscapes-05-2k.jpg",
+ "id": "landscapes-05",
+ "category": "landscapes",
+ "title": "Mountain meadow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.3,
+  "contrast": 0.196,
+  "sharpness": 8.86
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.013,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.013,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "97b3607c39321d0f",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02938,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

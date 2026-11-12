@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-24-2k.jpg",
+ "id": "landscapes-24",
+ "category": "landscapes",
+ "title": "Cascading pools",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.1,
+  "contrast": 0.221,
+  "sharpness": 7.96
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9d889082b3b7eba5",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0295,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

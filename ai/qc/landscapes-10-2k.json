@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-10-2k.jpg",
+ "id": "landscapes-10",
+ "category": "landscapes",
+ "title": "Highland glen",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 68.0,
+  "contrast": 0.232,
+  "sharpness": 8.55
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d1f1f9e20b6b2605",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02862,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

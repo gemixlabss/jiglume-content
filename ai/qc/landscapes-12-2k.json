@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-12-2k.jpg",
+ "id": "landscapes-12",
+ "category": "landscapes",
+ "title": "Birch forest stream",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 63.0,
+  "contrast": 0.213,
+  "sharpness": 8.27
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "99b3ae49734c5952",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02851,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

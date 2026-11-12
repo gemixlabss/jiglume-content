@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-28-2k.jpg",
+ "id": "landscapes-28",
+ "category": "landscapes",
+ "title": "Lake of flowers",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 70.8,
+  "contrast": 0.208,
+  "sharpness": 8.58
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5e1f9f2363c1891",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02874,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

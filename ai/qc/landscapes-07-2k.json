@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-07-2k.jpg",
+ "id": "landscapes-07",
+ "category": "landscapes",
+ "title": "Canyon at sunset",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 62.5,
+  "contrast": 0.222,
+  "sharpness": 7.63
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9c94a6c9f2e32a33",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02797,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-18-2k.jpg",
+ "id": "landscapes-18",
+ "category": "landscapes",
+ "title": "Mountain pass road",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.9,
+  "contrast": 0.253,
+  "sharpness": 8.77
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "80d8f9ee1fa57244",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02852,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

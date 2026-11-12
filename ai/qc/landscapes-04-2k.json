@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/landscapes/landscapes-04-2k.jpg",
+ "id": "landscapes-04",
+ "category": "landscapes",
+ "title": "Lavender hills",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.5,
+  "contrast": 0.193,
+  "sharpness": 8.84
+ },
+ "flatShare": 0.025,
+ "text": [],
+ "faces": [],
+ "phash": "c7b893ec6110537e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02898,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

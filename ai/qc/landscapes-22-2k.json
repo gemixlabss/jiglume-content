@@ -1,0 +1,43 @@
+{
+ "file": "ai/raw/landscapes/landscapes-22-2k.jpg",
+ "id": "landscapes-22",
+ "category": "landscapes",
+ "title": "River gorge",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 38.9,
+  "contrast": 0.136,
+  "sharpness": 7.84
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "88dc67f8364731a6",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02922,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.136)"
+ ],
+ "pass": false
+}
