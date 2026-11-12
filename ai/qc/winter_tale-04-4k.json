@@ -1,0 +1,70 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-04-4k.jpg",
+ "id": "winter_tale-04",
+ "category": "winter_tale",
+ "title": "Animals on sleds",
+ "imageSize": "4K",
+ "native": [
+  3584,
+  4800
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.8,
+  "contrast": 0.235,
+  "sharpness": 7.42
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.084,
+   "score": 0.88,
+   "closeUp": true
+  },
+  {
+   "height": 0.087,
+   "score": 0.87,
+   "closeUp": true
+  },
+  {
+   "height": 0.111,
+   "score": 0.86,
+   "closeUp": true
+  },
+  {
+   "height": 0.073,
+   "score": 0.83,
+   "closeUp": true
+  }
+ ],
+ "phash": "c10bd2adcb3265e6",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cute cartoon forest animals sledding in a winter forest",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00243
+ },
+ "costUsd": 0.12387,
+ "problems": [],
+ "pass": true
+}

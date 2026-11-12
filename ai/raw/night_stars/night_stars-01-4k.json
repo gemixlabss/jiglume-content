@@ -1,0 +1,43 @@
+{
+ "id": "night_stars-01",
+ "category": "night_stars",
+ "kind": "category",
+ "title": "City lights by the river",
+ "scenePrompt": "An imaginary old city at night with lit bridges and towers reflected in a river, warm windows, boats with lanterns, starry sky.",
+ "prompt": "An imaginary old city at night with lit bridges and towers reflected in a river, warm windows, boats with lanterns, starry sky.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; warm light (golden hour, warm interior glow or lantern light); cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "4K",
+ "width": 3584,
+ "height": 4800,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-11T23:44:43+00:00",
+ "usage": {
+  "promptTokenCount": 238,
+  "candidatesTokenCount": 4187,
+  "totalTokenCount": 5796,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 238
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 3780
+   }
+  ],
+  "thoughtsTokenCount": 1371,
+  "serviceTier": "standard"
+ },
+ "cost": {
+  "usd": 0.12404,
+  "mode": "standard",
+  "promptTokens": 238,
+  "imageTokens": 3780,
+  "textTokens": 1371
+ },
+ "source": "ai-generated"
+}

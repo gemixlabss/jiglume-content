@@ -1,0 +1,43 @@
+{
+ "id": "world_places-01",
+ "category": "world_places",
+ "kind": "category",
+ "title": "Temple garden",
+ "scenePrompt": "An imaginary Japanese-inspired temple garden with maple trees, a koi pond, stone lanterns, a curved wooden bridge and moss, autumn colours, soft light.",
+ "prompt": "An imaginary Japanese-inspired temple garden with maple trees, a koi pond, stone lanterns, a curved wooden bridge and moss, autumn colours, soft light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; warm light (golden hour, warm interior glow or lantern light); cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-11T23:32:31+00:00",
+ "usage": {
+  "promptTokenCount": 243,
+  "candidatesTokenCount": 2084,
+  "totalTokenCount": 3484,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 243
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 1157,
+  "serviceTier": "standard"
+ },
+ "cost": {
+  "usd": 0.05944,
+  "mode": "standard",
+  "promptTokens": 243,
+  "imageTokens": 1680,
+  "textTokens": 1157
+ },
+ "source": "ai-generated"
+}

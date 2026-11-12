@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/world_places/world_places-01-4k.jpg",
+ "id": "world_places-01",
+ "category": "world_places",
+ "title": "Temple garden",
+ "imageSize": "4K",
+ "native": [
+  3584,
+  4800
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 63.7,
+  "contrast": 0.215,
+  "sharpness": 7.83
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9998333737e46531",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Japanese garden in autumn with koi pond, wooden bridge, stone lanterns, and traditional pavilion",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00227
+ },
+ "costUsd": 0.12323,
+ "problems": [],
+ "pass": true
+}

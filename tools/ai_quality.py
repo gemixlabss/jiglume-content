@@ -45,7 +45,8 @@ MAX_FLAT_SHARE = 0.20          # at most 20 % of tiles may be flat
 MIN_COLORFULNESS = 28.0
 MIN_CONTRAST = 0.16
 MIN_SHARPNESS = 3.6
-TEXT_MIN_SCORE = 0.80          # OCR confidence for a "text" hit
+TEXT_MIN_SCORE = 0.80          # OCR confidence for a "text" hit (2+ characters)
+TEXT_SINGLE_SCORE = 0.90       # a single letter / digit needs more confidence
 FACE_MAX_HEIGHT = 0.06         # a face taller than 6 % of the picture is a close-up
 DUPLICATE_HAMMING = 10
 
@@ -85,14 +86,21 @@ def ocr_hits(img: Image.Image) -> list[dict]:
     if _ocr is None:
         from rapidocr_onnxruntime import RapidOCR
         _ocr = RapidOCR()
-    small = img.copy()
-    small.thumbnail((1600, 1600))
-    result, _ = _ocr(np.array(small.convert("RGB")))
+    # Full resolution in overlapping 2 × 3 tiles: single letters on toy
+    # blocks or book spines are only a few dozen pixels tall.
+    img = img.convert("RGB")
+    w, h = img.size
     hits = []
-    for box, text, score in result or []:
-        alnum = sum(ch.isalnum() for ch in text)
-        if float(score) >= TEXT_MIN_SCORE and alnum >= 2:
-            hits.append({"text": text, "score": round(float(score), 2)})
+    for r in range(3):
+        for c in range(2):
+            box = (int(c * w / 2 - (c * 60)), int(r * h / 3 - (r * 60)), int((c + 1) * w / 2 + 60), int((r + 1) * h / 3 + 60))
+            tile = img.crop((max(0, box[0]), max(0, box[1]), min(w, box[2]), min(h, box[3])))
+            result, _ = _ocr(np.array(tile))
+            for _, text, score in result or []:
+                alnum = sum(ch.isalnum() for ch in text)
+                score = float(score)
+                if (alnum >= 2 and score >= TEXT_MIN_SCORE) or (alnum >= 1 and score >= TEXT_SINGLE_SCORE):
+                    hits.append({"text": text, "score": round(score, 2)})
     return hits
 
 
@@ -115,6 +123,65 @@ def face_hits(img: Image.Image) -> list[dict]:
         rel = float(f[3]) / arr.shape[0]
         hits.append({"height": round(rel, 3), "score": round(float(f[14]), 2), "closeUp": rel > FACE_MAX_HEIGHT})
     return hits
+
+
+REVIEW_MODEL = "gemini-3.8-flash"
+REVIEW_PROMPT = (
+    "Inspect this illustration for a jigsaw puzzle app. Answer strictly as JSON with keys: "
+    "text (bool: any letters, digits, words or symbols that read as characters anywhere, even single "
+    "letters on toys, books, signs, clocks or packaging), text_where (string), logos (bool), "
+    "malformed (bool: distorted hands or faces, extra or missing limbs, broken animal anatomy, melted or "
+    "nonsensical objects), close_up_people (bool: a human face larger than about 6% of the image height), "
+    "copyrighted_character (bool: resembles a known film, game or cartoon character or brand mascot), "
+    "scary (bool), notes (short string).")
+# USD per 1M tokens (pricing page, through 2026-12-31).
+REVIEW_PRICE = {"in": 0.75, "out": 3.75}
+
+
+def vision_review(path: Path, img: Image.Image) -> dict:
+    """Second opinion from a Gemini vision model (cached next to the QC file).
+
+    OCR misses isolated, decorated letters (alphabet blocks); the vision model
+    also judges anatomy and look-alike characters. The API key is injected
+    by the session proxy (or GEMINI_API_KEY)."""
+    import base64
+    import io
+    import os
+    import urllib.request
+    cache = QC / (path.stem + ".review.json")
+    if cache.exists():
+        return json.loads(cache.read_text())
+    small = img.convert("RGB")
+    small.thumbnail((1536, 1536))
+    buf = io.BytesIO()
+    small.save(buf, "JPEG", quality=90)
+    body = {"contents": [{"parts": [{"inlineData": {"mimeType": "image/jpeg",
+                                                    "data": base64.b64encode(buf.getvalue()).decode()}},
+                                    {"text": REVIEW_PROMPT}]}],
+            "generationConfig": {"responseMimeType": "application/json"}}
+    req = urllib.request.Request(
+        f"https://generativelanguage.googleapis.com/v1beta/models/{REVIEW_MODEL}:generateContent",
+        data=json.dumps(body).encode(), method="POST",
+        headers={"x-goog-api-key": os.environ.get("GEMINI_API_KEY", "proxy-injected"),
+                 "Content-Type": "application/json"})
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                d = json.load(r)
+            break
+        except Exception as e:  # noqa: BLE001
+            if attempt == 3:
+                return {"error": str(e)[:200]}
+            import time
+            time.sleep(5 * (attempt + 1))
+    parts = d["candidates"][0]["content"]["parts"]
+    review = json.loads(next(p["text"] for p in reversed(parts) if "text" in p))
+    u = d.get("usageMetadata", {})
+    out_tokens = u.get("candidatesTokenCount", 0) + u.get("thoughtsTokenCount", 0)
+    review["model"] = REVIEW_MODEL
+    review["costUsd"] = round((u.get("promptTokenCount", 0) * REVIEW_PRICE["in"] + out_tokens * REVIEW_PRICE["out"]) / 1e6, 5)
+    cache.write_text(json.dumps(review, ensure_ascii=False, indent=1))
+    return review
 
 
 def flat_share(img: Image.Image, cols: int = 8, rows: int = 10) -> float:
@@ -143,9 +210,10 @@ def check(path: Path) -> dict:
         "file": str(path.relative_to(ROOT)), "id": meta["id"], "category": meta["category"],
         "title": meta["title"], "imageSize": meta["imageSize"], "native": list(img.size),
         "final": list(final.size), "crops": crops, "vivid": m, "flatShare": flat_share(final),
-        "text": ocr_hits(img), "faces": face_hits(img), "phash": phash(img),
+        "text": ocr_hits(img), "faces": face_hits(img), "phash": phash(img), "review": vision_review(path, img),
         "costUsd": meta.get("cost", {}).get("usd", 0),
     }
+    r["costUsd"] = round(r["costUsd"] + r["review"].get("costUsd", 0), 5)
     problems = []
     if min(c["shortSide"] for c in crops.values()) < MIN_CROP_SHORT_SIDE:
         problems.append("crop short side < 1600")
@@ -161,8 +229,17 @@ def check(path: Path) -> dict:
         problems.append(f"flat areas {r['flatShare']:.0%}")
     if r["text"]:
         problems.append("text: " + ", ".join(h["text"] for h in r["text"][:3]))
-    if any(f["closeUp"] for f in r["faces"]):
+    rv = r["review"]
+    if any(f["closeUp"] for f in r["faces"]) and rv.get("close_up_people", True):
+        # YuNet also fires on animal faces; the vision review decides.
         problems.append("close-up face")
+    if rv.get("error"):
+        problems.append("review failed")
+    for key, label in (("text", "letters/text"), ("logos", "logo"), ("malformed", "malformed anatomy/objects"),
+                       ("close_up_people", "close-up person"), ("copyrighted_character", "look-alike character"),
+                       ("scary", "scary")):
+        if rv.get(key):
+            problems.append(label + (f" ({rv.get('text_where')})" if key == "text" and rv.get("text_where") else ""))
     r["problems"] = problems
     r["pass"] = not problems
     return r

@@ -1,0 +1,62 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-01-4k.jpg",
+ "id": "nostalgia-01",
+ "category": "nostalgia",
+ "title": "Fifties diner",
+ "imageSize": "4K",
+ "native": [
+  3584,
+  4800
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.2,
+  "contrast": 0.2,
+  "sharpness": 8.35
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.012,
+   "score": 0.8,
+   "closeUp": false
+  },
+  {
+   "height": 0.013,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "8cf2498c135efad4",
+ "review": {
+  "text": true,
+  "text_where": "clock dial on the upper right wall",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "retro 1950s diner interior",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00226
+ },
+ "costUsd": 0.12407,
+ "problems": [
+  "letters/text (clock dial on the upper right wall)"
+ ],
+ "pass": false
+}

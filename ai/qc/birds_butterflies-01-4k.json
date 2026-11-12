@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-01-4k.jpg",
+ "id": "birds_butterflies-01",
+ "category": "birds_butterflies",
+ "title": "Butterfly garden",
+ "imageSize": "4K",
+ "native": [
+  3584,
+  4800
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 68.7,
+  "contrast": 0.181,
+  "sharpness": 8.08
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5c4646d1bac5e9c",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Lush garden with various colorful flowers and butterflies.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0022
+ },
+ "costUsd": 0.12038,
+ "problems": [],
+ "pass": true
+}
