@@ -86,21 +86,17 @@ def ocr_hits(img: Image.Image) -> list[dict]:
     if _ocr is None:
         from rapidocr_onnxruntime import RapidOCR
         _ocr = RapidOCR()
-    # Full resolution in overlapping 2 × 3 tiles: single letters on toy
-    # blocks or book spines are only a few dozen pixels tall.
-    img = img.convert("RGB")
-    w, h = img.size
+    # One downscaled pass catches words; isolated decorative letters are
+    # left to the vision review (see vision_review), which is far better at it.
+    small = img.convert("RGB")
+    small.thumbnail((1600, 1600))
+    result, _ = _ocr(np.array(small))
     hits = []
-    for r in range(3):
-        for c in range(2):
-            box = (int(c * w / 2 - (c * 60)), int(r * h / 3 - (r * 60)), int((c + 1) * w / 2 + 60), int((r + 1) * h / 3 + 60))
-            tile = img.crop((max(0, box[0]), max(0, box[1]), min(w, box[2]), min(h, box[3])))
-            result, _ = _ocr(np.array(tile))
-            for _, text, score in result or []:
-                alnum = sum(ch.isalnum() for ch in text)
-                score = float(score)
-                if (alnum >= 2 and score >= TEXT_MIN_SCORE) or (alnum >= 1 and score >= TEXT_SINGLE_SCORE):
-                    hits.append({"text": text, "score": round(score, 2)})
+    for _, text, score in result or []:
+        alnum = sum(ch.isalnum() for ch in text)
+        score = float(score)
+        if (alnum >= 2 and score >= TEXT_MIN_SCORE) or (alnum >= 1 and score >= TEXT_SINGLE_SCORE):
+            hits.append({"text": text, "score": round(score, 2)})
     return hits
 
 

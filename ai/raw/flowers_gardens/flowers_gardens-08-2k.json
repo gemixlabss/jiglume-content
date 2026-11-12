@@ -1,0 +1,45 @@
+{
+ "id": "flowers_gardens-08",
+ "category": "flowers_gardens",
+ "kind": "category",
+ "title": "Flower market stall",
+ "scenePrompt": "A street flower stall packed with buckets of tulips, sunflowers, roses and eucalyptus under a striped awning without lettering, cobblestones.",
+ "palette": "midday",
+ "prompt": "A street flower stall packed with buckets of tulips, sunflowers, roses and eucalyptus under a striped awning without lettering, cobblestones.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-12T00:15:12+00:00",
+ "usage": {
+  "promptTokenCount": 324,
+  "candidatesTokenCount": 2150,
+  "totalTokenCount": 3367,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 324
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 893,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.02879,
+  "mode": "batch",
+  "promptTokens": 324,
+  "imageTokens": 1680,
+  "textTokens": 893
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/unl36z8eg0h6daiul3lbooy9kbgrlichodln"
+}

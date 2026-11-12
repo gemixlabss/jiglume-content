@@ -1,0 +1,45 @@
+{
+ "id": "sea_coast-13",
+ "category": "sea_coast",
+ "kind": "category",
+ "title": "Seaside market",
+ "scenePrompt": "A harbourside fish and fruit market with stalls, baskets, crates of lemons, umbrellas without lettering, boats behind.",
+ "palette": "morning",
+ "prompt": "A harbourside fish and fruit market with stalls, baskets, crates of lemons, umbrellas without lettering, boats behind.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-12T00:15:45+00:00",
+ "usage": {
+  "promptTokenCount": 333,
+  "candidatesTokenCount": 2151,
+  "totalTokenCount": 3651,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 333
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 1167,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.02983,
+  "mode": "batch",
+  "promptTokens": 333,
+  "imageTokens": 1680,
+  "textTokens": 1167
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/wm9ldfi47qq35davwo5z7n1i0sr8k5mjio8m"
+}

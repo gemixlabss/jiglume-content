@@ -8,7 +8,7 @@ For every scene of a category:
      it (normal mode, attempt n+1) and checks again;
   4. writes images/<category>/<id>.webp (long side 3000, 2K is Lanczos-upscaled
      and lightly sharpened), thumbs/<id>.webp (640 px square, centre crop),
-     and a staging entry in ai/catalog_ai.json (dominant colour, appeal,
+     and a staging entry in ai/staging/<category>.json (dominant colour, appeal,
      quality, prompt, model, cost).
 
     tools/ai_process.py cute_pets            # gate + retry + write files
@@ -33,7 +33,7 @@ from generate_ai import load_scenes  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "ai" / "raw"
-STAGING = ROOT / "ai" / "catalog_ai.json"
+STAGING_DIR = ROOT / "ai" / "staging"  # one JSON per category (parallel-safe)
 MAX_ATTEMPTS = 3          # first try + 2 regenerations
 WEBP_QUALITY = 88
 THUMB = 640
@@ -94,7 +94,9 @@ def main() -> int:
     args = ap.parse_args()
     _, scenes = load_scenes()
     scenes = [s for s in scenes if s["category"] == args.category]
-    staging = json.loads(STAGING.read_text()) if STAGING.exists() else {}
+    STAGING_DIR.mkdir(parents=True, exist_ok=True)
+    staging_file = STAGING_DIR / f"{args.category}.json"
+    staging = json.loads(staging_file.read_text()) if staging_file.exists() else {}
     report = {"accepted": 0, "retried": 0, "missing": [], "rejected": {}}
     accepted_qc = []
     for s in scenes:
@@ -126,7 +128,7 @@ def main() -> int:
         staging[s["id"]] = write_files(s, path, r)
         accepted_qc.append(r)
         report["accepted"] += 1
-        STAGING.write_text(json.dumps(staging, ensure_ascii=False, indent=1))
+        staging_file.write_text(json.dumps(staging, ensure_ascii=False, indent=1))
     if args.sheet:
         chosen = [gate(ROOT / staging[s["id"]]["file"]) for s in scenes if s["id"] in staging]
         total = sum(json.loads(p.with_suffix(".json").read_text())["cost"]["usd"]
