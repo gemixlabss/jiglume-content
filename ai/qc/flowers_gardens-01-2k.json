@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-01-2k.jpg",
+ "id": "flowers_gardens-01",
+ "category": "flowers_gardens",
+ "title": "Rose garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 38.6,
+  "contrast": 0.163,
+  "sharpness": 8.85
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.015,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "81ce199d3a3e5b23",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0299,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

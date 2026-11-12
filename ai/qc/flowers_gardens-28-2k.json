@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-28-2k.jpg",
+ "id": "flowers_gardens-28",
+ "category": "flowers_gardens",
+ "title": "Peony garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 67.6,
+  "contrast": 0.202,
+  "sharpness": 8.65
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "809dcdc34bca67cc",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0284,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

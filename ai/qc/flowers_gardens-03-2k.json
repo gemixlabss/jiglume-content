@@ -1,0 +1,43 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-03-2k.jpg",
+ "id": "flowers_gardens-03",
+ "category": "flowers_gardens",
+ "title": "Victorian greenhouse",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 27.3,
+  "contrast": 0.258,
+  "sharpness": 9.11
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d8e624f2f83f0781",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02623,
+ "reviewPending": true,
+ "problems": [
+  "dull colours (27.3)"
+ ],
+ "pass": false
+}

@@ -1,0 +1,43 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-29-2k.jpg",
+ "id": "flowers_gardens-29",
+ "category": "flowers_gardens",
+ "title": "Desert flowers",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.4,
+  "contrast": 0.14,
+  "sharpness": 7.56
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "d5d7e432222d1bcc",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02822,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.14)"
+ ],
+ "pass": false
+}

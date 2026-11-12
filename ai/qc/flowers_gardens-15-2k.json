@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-15-2k.jpg",
+ "id": "flowers_gardens-15",
+ "category": "flowers_gardens",
+ "title": "Water lily pond",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.8,
+  "contrast": 0.227,
+  "sharpness": 8.65
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d1d143c34a66376d",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03009,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

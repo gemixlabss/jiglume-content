@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-16-2k.jpg",
+ "id": "flowers_gardens-16",
+ "category": "flowers_gardens",
+ "title": "Hydrangea path",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.6,
+  "contrast": 0.226,
+  "sharpness": 9.07
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d9ce5cc5e66264a1",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02813,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

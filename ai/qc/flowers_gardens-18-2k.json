@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-18-2k.jpg",
+ "id": "flowers_gardens-18",
+ "category": "flowers_gardens",
+ "title": "Spring bulbs",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.7,
+  "contrast": 0.201,
+  "sharpness": 8.52
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c58cfce6726424cb",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02946,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-13-2k.jpg",
+ "id": "flowers_gardens-13",
+ "category": "flowers_gardens",
+ "title": "Poppy meadow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 79.7,
+  "contrast": 0.247,
+  "sharpness": 8.71
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "e1eb309515327a1f",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03003,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-09-2k.jpg",
+ "id": "flowers_gardens-09",
+ "category": "flowers_gardens",
+ "title": "Japanese-style garden pond",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 63.9,
+  "contrast": 0.177,
+  "sharpness": 8.37
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c0d0dccc339d3733",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02928,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

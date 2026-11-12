@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-27-2k.jpg",
+ "id": "flowers_gardens-27",
+ "category": "flowers_gardens",
+ "title": "Wreath of flowers",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.9,
+  "contrast": 0.241,
+  "sharpness": 8.82
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "947c5ace8c63c8b6",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02888,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
