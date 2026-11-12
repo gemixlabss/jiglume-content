@@ -255,7 +255,8 @@ def cmd_batch_submit(args) -> int:
     todo = [s for s in select(scenes, args) if not existing(s, args.size, args.attempt)]
     jobs = json.loads(BATCHES.read_text()) if BATCHES.exists() else []
     pending = {k for j in jobs if j["state"] not in ("JOB_STATE_SUCCEEDED", "DONE", "JOB_STATE_FAILED",
-                                                     "JOB_STATE_CANCELLED", "JOB_STATE_EXPIRED")
+                                                     "JOB_STATE_CANCELLED", "JOB_STATE_EXPIRED", "BATCH_STATE_FAILED",
+                                                     "BATCH_STATE_CANCELLED", "BATCH_STATE_EXPIRED")
                for k in j["keys"]}
     todo = [s for s in todo if f"{s['id']}|{args.size}|{args.attempt}" not in pending]
     if not todo:
@@ -287,14 +288,15 @@ def cmd_batch_poll(args) -> int:
     by_id = {s["id"]: s for s in scenes}
     jobs = json.loads(BATCHES.read_text()) if BATCHES.exists() else []
     for j in jobs:
-        if j["state"] in ("DONE", "JOB_STATE_FAILED", "JOB_STATE_CANCELLED", "JOB_STATE_EXPIRED"):
+        if j["state"] in ("DONE", "JOB_STATE_FAILED", "JOB_STATE_CANCELLED", "JOB_STATE_EXPIRED",
+                          "BATCH_STATE_FAILED", "BATCH_STATE_CANCELLED", "BATCH_STATE_EXPIRED"):
             continue
         body, _ = http("GET", f"{API}/v1beta/{j['name']}")
         info = json.loads(body)
         state = info.get("metadata", {}).get("state") or info.get("state", "?")
         j["state"] = state
         log(f"{j['name']}: {state}")
-        if state != "JOB_STATE_SUCCEEDED":
+        if state not in ("JOB_STATE_SUCCEEDED", "BATCH_STATE_SUCCEEDED"):
             continue
         resp = info.get("response") or info.get("metadata", {}).get("output", {})
         results_file = resp.get("responsesFile") or (resp.get("output") or {}).get("responsesFile")

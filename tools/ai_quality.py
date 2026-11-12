@@ -245,7 +245,7 @@ def check(path: Path) -> dict:
     return r
 
 
-def contact_sheet(results: list[dict], out: Path, total_usd: float) -> None:
+def contact_sheet(results: list[dict], out: Path, total_usd: float, title: str = "") -> None:
     cols, tw, th, pad = 5, 360, 480, 12
     rows = math.ceil(len(results) / cols)
     head = 70
@@ -257,7 +257,7 @@ def contact_sheet(results: list[dict], out: Path, total_usd: float) -> None:
         big = ImageFont.load_default(size=26)
     except TypeError:
         font = small = big = ImageFont.load_default()
-    d.text((pad, 18), f"Jiglume AI style test - {len(results)} images — total ${total_usd:.2f}", fill=(30, 30, 40), font=big)
+    d.text((pad, 18), f"Jiglume AI - {title or str(len(results)) + ' images'} - total ${total_usd:.2f}", fill=(30, 30, 40), font=big)
     for i, r in enumerate(results):
         x = pad + (i % cols) * (tw + pad)
         y = head + (i // cols) * (th + 120 + pad)
