@@ -10,3 +10,6 @@ ai/raw/**/*.webp
 ai/batch-input/
 ai/compare/
 tools/models/
+ai/**/raw/**/*.png
+ai/**/raw/**/*.jpg
+ai/**/raw/**/*.webp

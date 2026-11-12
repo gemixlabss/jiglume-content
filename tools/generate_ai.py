@@ -64,13 +64,25 @@ def load_scenes() -> tuple[dict, list[dict]]:
     for group, kind in ((doc.get("categories", []), "category"), (doc.get("events", []), "event")):
         for c in group:
             for i, s in enumerate(c["scenes"]):
-                scenes.append({**s, "category": c["id"], "kind": kind, "index": i})
+                scenes.append({**s, "category": c["id"], "kind": kind, "index": i,
+                               "directive": c.get("directive")})
     return doc, scenes
 
 
 def full_prompt(doc: dict, scene: dict) -> str:
-    return (f"{scene['prompt'].strip()}\n\nStyle: {doc['style'].strip()}\n\n"
-            f"Rules: {doc['negative'].strip()}\n\nVertical 3:4 composition.")
+    parts = [scene["prompt"].strip()]
+    if scene.get("directive"):
+        parts.append(scene["directive"].strip())
+    palette = (doc.get("palettes") or {}).get(scene.get("palette", ""))
+    if palette:
+        parts.append(f"Light and palette: {palette}")
+    parts.append(f"Style: {doc['style'].strip()}")
+    rules = doc["negative"].strip()
+    if scene.get("guards"):
+        rules += " " + " ".join(scene["guards"])
+    parts.append(f"Rules: {rules}")
+    parts.append("Vertical 3:4 composition.")
+    return "\n\n".join(parts)
 
 
 def out_path(scene: dict, size: str, attempt: int = 0) -> Path:
@@ -161,7 +173,8 @@ def save_result(doc: dict, scene: dict, size: str, response: dict, mode: str, at
         w, h = im.size
     meta = {
         "id": scene["id"], "category": scene["category"], "kind": scene["kind"], "title": scene["title"],
-        "scenePrompt": scene["prompt"], "prompt": full_prompt(doc, scene), "model": doc["model"],
+        "scenePrompt": scene["prompt"], "palette": scene.get("palette"), "prompt": full_prompt(doc, scene),
+        "model": doc["model"],
         "aspectRatio": doc.get("aspect_ratio", "3:4"), "imageSize": size, "width": w, "height": h,
         "mimeType": mime, "attempt": attempt,
         "generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
