@@ -1,0 +1,54 @@
+{
+ "file": "ai/raw/wildlife/wildlife-04-2k.jpg",
+ "id": "wildlife-04",
+ "category": "wildlife",
+ "title": "Pandas in bamboo",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.2,
+  "contrast": 0.236,
+  "sharpness": 8.14
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.152,
+   "score": 0.84,
+   "closeUp": true
+  },
+  {
+   "height": 0.131,
+   "score": 0.84,
+   "closeUp": true
+  }
+ ],
+ "phash": "999b481cb4e74b39",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03004,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

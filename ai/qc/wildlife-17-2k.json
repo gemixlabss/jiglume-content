@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/wildlife/wildlife-17-2k.jpg",
+ "id": "wildlife-17",
+ "category": "wildlife",
+ "title": "Badgers at dusk",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.8,
+  "contrast": 0.197,
+  "sharpness": 8.28
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d99a137764630e6c",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03049,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

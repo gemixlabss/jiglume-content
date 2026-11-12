@@ -1,0 +1,59 @@
+{
+ "file": "ai/raw/wildlife/wildlife-05-2k.jpg",
+ "id": "wildlife-05",
+ "category": "wildlife",
+ "title": "Lions at sunset",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.2,
+  "contrast": 0.208,
+  "sharpness": 8.69
+ },
+ "flatShare": 0.025,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.108,
+   "score": 0.89,
+   "closeUp": true
+  },
+  {
+   "height": 0.081,
+   "score": 0.86,
+   "closeUp": true
+  },
+  {
+   "height": 0.071,
+   "score": 0.85,
+   "closeUp": true
+  }
+ ],
+ "phash": "c5de10708db73ec2",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0289,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

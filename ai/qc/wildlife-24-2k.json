@@ -1,0 +1,43 @@
+{
+ "file": "ai/raw/wildlife/wildlife-24-2k.jpg",
+ "id": "wildlife-24",
+ "category": "wildlife",
+ "title": "Red pandas in the trees",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.2,
+  "contrast": 0.158,
+  "sharpness": 7.62
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9d9e876c18f0e469",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02832,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.158)"
+ ],
+ "pass": false
+}

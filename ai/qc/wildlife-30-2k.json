@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/wildlife/wildlife-30-2k.jpg",
+ "id": "wildlife-30",
+ "category": "wildlife",
+ "title": "Sea turtle",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.6,
+  "contrast": 0.164,
+  "sharpness": 7.77
+ },
+ "flatShare": 0.025,
+ "text": [],
+ "faces": [],
+ "phash": "80afceb23d64c19b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02938,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

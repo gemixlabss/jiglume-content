@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/wildlife/wildlife-14-2k.jpg",
+ "id": "wildlife-14",
+ "category": "wildlife",
+ "title": "Koalas in the eucalyptus",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 53.8,
+  "contrast": 0.169,
+  "sharpness": 8.19
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c6933c2d63961ccd",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02989,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

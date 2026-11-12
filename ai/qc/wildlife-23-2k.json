@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/wildlife/wildlife-23-2k.jpg",
+ "id": "wildlife-23",
+ "category": "wildlife",
+ "title": "Zebras at the river",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 55.9,
+  "contrast": 0.249,
+  "sharpness": 8.32
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c49e9ff32604bcc1",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03021,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

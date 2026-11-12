@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/wildlife/wildlife-08-2k.jpg",
+ "id": "wildlife-08",
+ "category": "wildlife",
+ "title": "Owl in the tree",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.1,
+  "contrast": 0.228,
+  "sharpness": 8.2
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.078,
+   "score": 0.77,
+   "closeUp": true
+  }
+ ],
+ "phash": "95964c312deda4da",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02832,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}
