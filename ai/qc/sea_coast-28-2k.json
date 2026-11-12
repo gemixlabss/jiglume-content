@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-28-2k.jpg",
+ "id": "sea_coast-28",
+ "category": "sea_coast",
+ "title": "Lighthouse island",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.7,
+  "contrast": 0.228,
+  "sharpness": 8.26
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "e1a3965a08e566bb",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02913,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

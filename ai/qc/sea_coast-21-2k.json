@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-21-2k.jpg",
+ "id": "sea_coast-21",
+ "category": "sea_coast",
+ "title": "Dune beach",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 79.5,
+  "contrast": 0.206,
+  "sharpness": 8.43
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91fe725b064f618c",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02978,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

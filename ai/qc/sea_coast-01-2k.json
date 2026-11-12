@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-01-2k.jpg",
+ "id": "sea_coast-01",
+ "category": "sea_coast",
+ "title": "Lighthouse at sunset",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.9,
+  "contrast": 0.23,
+  "sharpness": 8.15
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c49c19734fcb3ca1",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.029,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

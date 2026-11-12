@@ -1,0 +1,43 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-29-2k.jpg",
+ "id": "sea_coast-29",
+ "category": "sea_coast",
+ "title": "Harbour cats",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.6,
+  "contrast": 0.152,
+  "sharpness": 9.03
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "808e799dc9f2b265",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03017,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.152)"
+ ],
+ "pass": false
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-22-2k.jpg",
+ "id": "sea_coast-22",
+ "category": "sea_coast",
+ "title": "Lobster shack",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 49.3,
+  "contrast": 0.174,
+  "sharpness": 8.46
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "94966b3ccc5a2b4d",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02937,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

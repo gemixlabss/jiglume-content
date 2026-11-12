@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-20-2k.jpg",
+ "id": "sea_coast-20",
+ "category": "sea_coast",
+ "title": "Old sailing ship",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 51.8,
+  "contrast": 0.198,
+  "sharpness": 8.62
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "919636336b6c09ed",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03005,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

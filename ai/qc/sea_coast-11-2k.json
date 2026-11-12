@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-11-2k.jpg",
+ "id": "sea_coast-11",
+ "category": "sea_coast",
+ "title": "Boat repair yard",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.0,
+  "contrast": 0.175,
+  "sharpness": 8.84
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5f1ce4a278d332c",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02968,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
