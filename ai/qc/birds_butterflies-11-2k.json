@@ -1,0 +1,43 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-11-2k.jpg",
+ "id": "birds_butterflies-11",
+ "category": "birds_butterflies",
+ "title": "Swallows over the barn",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 62.1,
+  "contrast": 0.14,
+  "sharpness": 8.18
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91af625a59ad295a",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03028,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.14)"
+ ],
+ "pass": false
+}

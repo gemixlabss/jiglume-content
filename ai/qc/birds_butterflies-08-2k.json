@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-08-2k.jpg",
+ "id": "birds_butterflies-08",
+ "category": "birds_butterflies",
+ "title": "Birdhouse village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 60.8,
+  "contrast": 0.178,
+  "sharpness": 8.11
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "859c4a1b31f02def",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03025,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

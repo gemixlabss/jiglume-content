@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-12-2k.jpg",
+ "id": "birds_butterflies-12",
+ "category": "birds_butterflies",
+ "title": "Butterflies on lilac",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 44.9,
+  "contrast": 0.227,
+  "sharpness": 9.44
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "80cf97b93896156b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0297,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

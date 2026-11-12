@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-28-2k.jpg",
+ "id": "birds_butterflies-28",
+ "category": "birds_butterflies",
+ "title": "Dragonflies and lilies",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 72.1,
+  "contrast": 0.195,
+  "sharpness": 8.87
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9197b393366132bc",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02989,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

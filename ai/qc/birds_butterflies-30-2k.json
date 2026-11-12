@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-30-2k.jpg",
+ "id": "birds_butterflies-30",
+ "category": "birds_butterflies",
+ "title": "Swallowtail meadow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 40.8,
+  "contrast": 0.235,
+  "sharpness": 8.82
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "97e43087b83b7346",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0303,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

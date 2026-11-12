@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-01-2k.jpg",
+ "id": "birds_butterflies-01",
+ "category": "birds_butterflies",
+ "title": "Butterfly garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.5,
+  "contrast": 0.237,
+  "sharpness": 8.61
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1dbce9e31382da4",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02858,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

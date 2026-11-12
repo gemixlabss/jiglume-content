@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-05-2k.jpg",
+ "id": "birds_butterflies-05",
+ "category": "birds_butterflies",
+ "title": "Robin in the snow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 47.6,
+  "contrast": 0.243,
+  "sharpness": 8.72
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c7e91ac12993956b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0284,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
