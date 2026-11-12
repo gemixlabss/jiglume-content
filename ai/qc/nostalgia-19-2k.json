@@ -1,0 +1,54 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-19-2k.jpg",
+ "id": "nostalgia-19",
+ "category": "nostalgia",
+ "title": "Retro beach",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.8,
+  "contrast": 0.15,
+  "sharpness": 8.96
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.01,
+   "score": 0.81,
+   "closeUp": false
+  },
+  {
+   "height": 0.01,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "90eb5cef433465a8",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02901,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.15)"
+ ],
+ "pass": false
+}

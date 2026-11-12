@@ -1,0 +1,43 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-21-2k.jpg",
+ "id": "nostalgia-21",
+ "category": "nostalgia",
+ "title": "Old pharmacy",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 46.8,
+  "contrast": 0.155,
+  "sharpness": 8.62
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91c5192f5d49659b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03026,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.155)"
+ ],
+ "pass": false
+}

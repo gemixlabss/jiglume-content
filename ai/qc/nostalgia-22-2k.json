@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-22-2k.jpg",
+ "id": "nostalgia-22",
+ "category": "nostalgia",
+ "title": "Drive-in at dusk",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 63.6,
+  "contrast": 0.214,
+  "sharpness": 7.78
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "979f6a6872d1918c",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02882,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-14-2k.jpg",
+ "id": "nostalgia-14",
+ "category": "nostalgia",
+ "title": "Vintage bicycle shop",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.0,
+  "contrast": 0.227,
+  "sharpness": 9.19
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "e070ce6ad62d259e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03062,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

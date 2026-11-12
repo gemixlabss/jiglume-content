@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-12-2k.jpg",
+ "id": "nostalgia-12",
+ "category": "nostalgia",
+ "title": "Grandmother's sewing table",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.1,
+  "contrast": 0.239,
+  "sharpness": 8.01
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "e1f6d02b56298376",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03052,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-07-2k.jpg",
+ "id": "nostalgia-07",
+ "category": "nostalgia",
+ "title": "Hat shop",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.9,
+  "contrast": 0.165,
+  "sharpness": 8.77
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "843317d6d9c35a72",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02964,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
