@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-29-2k.jpg",
+ "id": "cute_pets-29",
+ "category": "cute_pets",
+ "title": "Cat at the knitting chair",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 50.5,
+  "contrast": 0.228,
+  "sharpness": 7.88
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d9ce37b09ca21e64",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02914,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

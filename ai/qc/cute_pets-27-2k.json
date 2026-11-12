@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-27-2k.jpg",
+ "id": "cute_pets-27",
+ "category": "cute_pets",
+ "title": "Kitten in the toy box",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.8,
+  "contrast": 0.22,
+  "sharpness": 7.05
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.065,
+   "score": 0.86,
+   "closeUp": true
+  }
+ ],
+ "phash": "d0d07173f37252f0",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02912,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

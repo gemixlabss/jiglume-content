@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-24-2k.jpg",
+ "id": "cute_pets-24",
+ "category": "cute_pets",
+ "title": "Dachshund in the garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 50.1,
+  "contrast": 0.234,
+  "sharpness": 7.92
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.159,
+   "score": 0.88,
+   "closeUp": true
+  }
+ ],
+ "phash": "c5f9c9e6b80a94d8",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0293,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

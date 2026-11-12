@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-28-2k.jpg",
+ "id": "cute_pets-28",
+ "category": "cute_pets",
+ "title": "Ducklings and puppy",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 72.2,
+  "contrast": 0.221,
+  "sharpness": 8.16
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.195,
+   "score": 0.84,
+   "closeUp": true
+  }
+ ],
+ "phash": "c9c4069fcfc26b31",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02964,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

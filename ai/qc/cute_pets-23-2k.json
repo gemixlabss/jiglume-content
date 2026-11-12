@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-23-2k.jpg",
+ "id": "cute_pets-23",
+ "category": "cute_pets",
+ "title": "Parrot and kitten",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 47.5,
+  "contrast": 0.173,
+  "sharpness": 8.36
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d3963aa37c19c163",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03106,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

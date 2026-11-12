@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-13-2k.jpg",
+ "id": "cute_pets-13",
+ "category": "cute_pets",
+ "title": "Kittens and teacups",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 62.8,
+  "contrast": 0.226,
+  "sharpness": 8.35
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c9ea6bc9744654d4",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02995,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

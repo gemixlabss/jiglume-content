@@ -1,0 +1,69 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-30-2k.jpg",
+ "id": "cute_pets-30",
+ "category": "cute_pets",
+ "title": "Puppies in the flower cart",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.4,
+  "contrast": 0.232,
+  "sharpness": 7.83
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.126,
+   "score": 0.89,
+   "closeUp": true
+  },
+  {
+   "height": 0.131,
+   "score": 0.87,
+   "closeUp": true
+  },
+  {
+   "height": 0.021,
+   "score": 0.84,
+   "closeUp": false
+  },
+  {
+   "height": 0.165,
+   "score": 0.82,
+   "closeUp": true
+  },
+  {
+   "height": 0.024,
+   "score": 0.82,
+   "closeUp": false
+  }
+ ],
+ "phash": "d9815a5e456ed629",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03005,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}
