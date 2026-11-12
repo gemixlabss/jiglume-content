@@ -1,0 +1,45 @@
+{
+ "id": "cute_pets-27",
+ "category": "cute_pets",
+ "kind": "category",
+ "title": "Kitten in the toy box",
+ "scenePrompt": "A ginger kitten hiding in a wooden toy box among plush animals, building blocks without letters, a spinning top and a toy train, warm nursery lamp light.",
+ "palette": "golden",
+ "prompt": "A ginger kitten hiding in a wooden toy box among plush animals, building blocks without letters, a spinning top and a toy train, warm nursery lamp light.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Toy blocks and toys show pictures or plain colours only, no letters or numbers. Vehicles carry no numbers, plates, names or badges. Maps, papers and boards are decorative without any readable writing or numbers.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-12T00:14:23+00:00",
+ "usage": {
+  "promptTokenCount": 394,
+  "candidatesTokenCount": 2659,
+  "totalTokenCount": 4019,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 394
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 966,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.02912,
+  "mode": "batch",
+  "promptTokens": 394,
+  "imageTokens": 1680,
+  "textTokens": 966
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/ryd1s93cmf96u53zkbnwdok3qf7lvg5ox501"
+}

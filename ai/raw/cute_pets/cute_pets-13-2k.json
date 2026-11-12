@@ -1,0 +1,45 @@
+{
+ "id": "cute_pets-13",
+ "category": "cute_pets",
+ "kind": "category",
+ "title": "Kittens and teacups",
+ "scenePrompt": "Two tiny kittens sitting inside oversized floral porcelain teacups on a lace tablecloth, cupcakes, a teapot and roses.",
+ "palette": "rainy",
+ "prompt": "Two tiny kittens sitting inside oversized floral porcelain teacups on a lace tablecloth, cupcakes, a teapot and roses.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-12T00:14:23+00:00",
+ "usage": {
+  "promptTokenCount": 363,
+  "candidatesTokenCount": 2186,
+  "totalTokenCount": 3744,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 363
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 1195,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.02995,
+  "mode": "batch",
+  "promptTokens": 363,
+  "imageTokens": 1680,
+  "textTokens": 1195
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/ryd1s93cmf96u53zkbnwdok3qf7lvg5ox501"
+}

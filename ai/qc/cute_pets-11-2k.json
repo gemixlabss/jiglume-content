@@ -1,0 +1,42 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-11-2k.jpg",
+ "id": "cute_pets-11",
+ "category": "cute_pets",
+ "title": "Cat in the library",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 33.8,
+  "contrast": 0.236,
+  "sharpness": 8.23
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9292193c26c3f36f",
+ "review": {
+  "error": "HTTP Error 402: Payment Required"
+ },
+ "costUsd": 0.02945,
+ "problems": [
+  "review failed"
+ ],
+ "pass": false
+}

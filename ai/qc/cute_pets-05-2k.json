@@ -1,0 +1,42 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-05-2k.jpg",
+ "id": "cute_pets-05",
+ "category": "cute_pets",
+ "title": "Dog by the fireplace",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 63.0,
+  "contrast": 0.229,
+  "sharpness": 8.22
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "a1ad352a4ff8882f",
+ "review": {
+  "error": "HTTP Error 402: Payment Required"
+ },
+ "costUsd": 0.0308,
+ "problems": [
+  "review failed"
+ ],
+ "pass": false
+}

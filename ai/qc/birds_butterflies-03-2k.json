@@ -1,0 +1,42 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-03-2k.jpg",
+ "id": "birds_butterflies-03",
+ "category": "birds_butterflies",
+ "title": "Parrots in the jungle",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 70.6,
+  "contrast": 0.21,
+  "sharpness": 8.25
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d9df6c6a62700b83",
+ "review": {
+  "error": "HTTP Error 402: Payment Required"
+ },
+ "costUsd": 0.03033,
+ "problems": [
+  "review failed"
+ ],
+ "pass": false
+}

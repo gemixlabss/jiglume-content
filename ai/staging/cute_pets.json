@@ -1,0 +1,32 @@
+{
+ "cute_pets-01": {
+  "id": "cute_pets-01",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-01",
+  "title": "Kittens in a basket",
+  "imagePath": "images/cute_pets/cute_pets-01.webp",
+  "thumbPath": "thumbs/cute_pets-01.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#9c9fa0",
+  "quality": {
+   "colorfulness": 35.4,
+   "contrast": 0.233,
+   "sharpness": 8.15
+  },
+  "appeal": 65.2,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "snowy",
+  "scenePrompt": "Three fluffy kittens (ginger, grey tabby and calico) tumbling out of a wicker yarn basket on a farmhouse kitchen floor, balls of colourful wool, potted herbs on the windowsill, patterned rag rug.",
+  "prompt": "Three fluffy kittens (ginger, grey tabby and calico) tumbling out of a wicker yarn basket on a farmhouse kitchen floor, balls of colourful wool, potted herbs on the windowsill, patterned rag rug.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03109,
+  "phash": "aaebc1a5c47c7291",
+  "file": "ai/raw/cute_pets/cute_pets-01-2k.jpg"
+ }
+}

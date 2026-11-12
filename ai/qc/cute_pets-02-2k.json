@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-02-2k.jpg",
+ "id": "cute_pets-02",
+ "category": "cute_pets",
+ "title": "Puppy in the garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 49.0,
+  "contrast": 0.221,
+  "sharpness": 7.76
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.191,
+   "score": 0.89,
+   "closeUp": true
+  }
+ ],
+ "phash": "c3c659d6cae8c9c8",
+ "review": {
+  "error": "HTTP Error 402: Payment Required"
+ },
+ "costUsd": 0.02897,
+ "problems": [
+  "close-up face",
+  "review failed"
+ ],
+ "pass": false
+}
