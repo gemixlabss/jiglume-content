@@ -1,0 +1,43 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-16-2k.jpg",
+ "id": "four_seasons-16",
+ "category": "four_seasons",
+ "title": "Pumpkin patch",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 78.4,
+  "contrast": 0.152,
+  "sharpness": 8.38
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "94ec18393366ecad",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02929,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.152)"
+ ],
+ "pass": false
+}

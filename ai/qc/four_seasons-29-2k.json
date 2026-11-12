@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-29-2k.jpg",
+ "id": "four_seasons-29",
+ "category": "four_seasons",
+ "title": "Winter window",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 52.9,
+  "contrast": 0.226,
+  "sharpness": 8.33
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "81966bc936672d72",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03113,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

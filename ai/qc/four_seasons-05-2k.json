@@ -1,0 +1,62 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-05-2k.jpg",
+ "id": "four_seasons-05",
+ "category": "four_seasons",
+ "title": "Spring market",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.8,
+  "contrast": 0.23,
+  "sharpness": 8.61
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.012,
+   "score": 0.84,
+   "closeUp": false
+  },
+  {
+   "height": 0.017,
+   "score": 0.82,
+   "closeUp": false
+  },
+  {
+   "height": 0.012,
+   "score": 0.82,
+   "closeUp": false
+  },
+  {
+   "height": 0.011,
+   "score": 0.82,
+   "closeUp": false
+  }
+ ],
+ "phash": "949ec9e14ae96c5a",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03076,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

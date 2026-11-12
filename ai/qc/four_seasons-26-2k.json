@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-26-2k.jpg",
+ "id": "four_seasons-26",
+ "category": "four_seasons",
+ "title": "Snowy garden birds",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.8,
+  "contrast": 0.263,
+  "sharpness": 8.97
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "85a49735966e9936",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02848,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

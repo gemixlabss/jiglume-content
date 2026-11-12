@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-06-2k.jpg",
+ "id": "four_seasons-06",
+ "category": "four_seasons",
+ "title": "Spring canal",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 62.2,
+  "contrast": 0.192,
+  "sharpness": 8.8
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d4961b29669f8732",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03043,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,52 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-17-2k.jpg",
+ "id": "four_seasons-17",
+ "category": "four_seasons",
+ "title": "Autumn village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.3,
+  "contrast": 0.169,
+  "sharpness": 8.54
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.013,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.018,
+   "score": 0.77,
+   "closeUp": false
+  }
+ ],
+ "phash": "903216f223e97b4f",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02951,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

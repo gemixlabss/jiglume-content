@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-24-2k.jpg",
+ "id": "four_seasons-24",
+ "category": "four_seasons",
+ "title": "Winter forest cabin",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 28.2,
+  "contrast": 0.253,
+  "sharpness": 8.76
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c4579462359f6936",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02979,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

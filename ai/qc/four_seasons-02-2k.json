@@ -1,0 +1,52 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-02-2k.jpg",
+ "id": "four_seasons-02",
+ "category": "four_seasons",
+ "title": "Spring orchard",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 75.8,
+  "contrast": 0.232,
+  "sharpness": 9.02
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.05,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.033,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "d3bab1f07a123487",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02813,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

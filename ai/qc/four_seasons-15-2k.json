@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-15-2k.jpg",
+ "id": "four_seasons-15",
+ "category": "four_seasons",
+ "title": "Autumn forest path",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 68.3,
+  "contrast": 0.18,
+  "sharpness": 8.29
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c597367638c9e584",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02907,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
