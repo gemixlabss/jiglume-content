@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-21-2k.jpg",
+ "id": "art_styles-21",
+ "category": "art_styles",
+ "title": "Lacquer box design",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 60.6,
+  "contrast": 0.332,
+  "sharpness": 9.3
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9a3135414f4b87fa",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02968,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-05-2k.jpg",
+ "id": "art_styles-05",
+ "category": "art_styles",
+ "title": "Art nouveau lilies",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 35.8,
+  "contrast": 0.19,
+  "sharpness": 9.12
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "946c4a363dc267b3",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02903,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

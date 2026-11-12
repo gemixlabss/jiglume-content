@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-20-2k.jpg",
+ "id": "art_styles-20",
+ "category": "art_styles",
+ "title": "Persian-style miniature garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 73.9,
+  "contrast": 0.194,
+  "sharpness": 9.31
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9bc8e4c66e25361b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03001,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

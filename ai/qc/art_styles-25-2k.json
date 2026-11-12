@@ -1,0 +1,57 @@
+{
+ "file": "ai/raw/art_styles/art_styles-25-2k.jpg",
+ "id": "art_styles-25",
+ "category": "art_styles",
+ "title": "Tapestry forest",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 44.2,
+  "contrast": 0.166,
+  "sharpness": 9.26
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.013,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.019,
+   "score": 0.77,
+   "closeUp": false
+  },
+  {
+   "height": 0.011,
+   "score": 0.77,
+   "closeUp": false
+  }
+ ],
+ "phash": "90ce7a9b65330e35",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0306,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

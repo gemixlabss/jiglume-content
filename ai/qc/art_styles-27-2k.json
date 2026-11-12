@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-27-2k.jpg",
+ "id": "art_styles-27",
+ "category": "art_styles",
+ "title": "Marbled paper",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 76.0,
+  "contrast": 0.211,
+  "sharpness": 9.2
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5c240b370a367bf",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02937,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

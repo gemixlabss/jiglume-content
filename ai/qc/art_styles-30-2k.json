@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-30-2k.jpg",
+ "id": "art_styles-30",
+ "category": "art_styles",
+ "title": "Fauvist harbour",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 84.6,
+  "contrast": 0.233,
+  "sharpness": 8.81
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c9c6c4bb33243e4d",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03025,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-19-2k.jpg",
+ "id": "art_styles-19",
+ "category": "art_styles",
+ "title": "Rose window",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 51.3,
+  "contrast": 0.188,
+  "sharpness": 8.85
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9265313ec561d26f",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02875,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

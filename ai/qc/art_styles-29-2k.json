@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-29-2k.jpg",
+ "id": "art_styles-29",
+ "category": "art_styles",
+ "title": "Botanical engraving",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 28.6,
+  "contrast": 0.189,
+  "sharpness": 9.74
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "fa9cc461c1a79173",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02979,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

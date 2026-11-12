@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-07-2k.jpg",
+ "id": "art_styles-07",
+ "category": "art_styles",
+ "title": "Folk art pattern",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 109.5,
+  "contrast": 0.301,
+  "sharpness": 9.1
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "cc4c396f66b691c8",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02934,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

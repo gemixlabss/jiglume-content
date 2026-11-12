@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/art_styles/art_styles-15-2k.jpg",
+ "id": "art_styles-15",
+ "category": "art_styles",
+ "title": "Batik pattern",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 43.9,
+  "contrast": 0.214,
+  "sharpness": 9.32
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "90884a9eaeb36ccf",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03202,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
