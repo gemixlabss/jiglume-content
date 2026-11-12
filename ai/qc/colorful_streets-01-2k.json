@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-01-2k.jpg",
+ "id": "colorful_streets-01",
+ "category": "colorful_streets",
+ "title": "Colourful staircase street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.7,
+  "contrast": 0.217,
+  "sharpness": 9.26
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "c8ab9bf416323c59",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

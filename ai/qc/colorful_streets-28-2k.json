@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-28-2k.jpg",
+ "id": "colorful_streets-28",
+ "category": "colorful_streets",
+ "title": "Arcade with shops",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 42.1,
+  "contrast": 0.231,
+  "sharpness": 8.48
+ },
+ "flatShare": 0.037,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.008,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "97b781a049ab2f1b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02905,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

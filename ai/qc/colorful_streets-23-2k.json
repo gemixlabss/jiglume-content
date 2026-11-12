@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-23-2k.jpg",
+ "id": "colorful_streets-23",
+ "category": "colorful_streets",
+ "title": "Courtyard with balconies",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.5,
+  "contrast": 0.18,
+  "sharpness": 8.77
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.021,
+   "score": 0.77,
+   "closeUp": false
+  }
+ ],
+ "phash": "c7ac98f908b95e1a",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02812,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

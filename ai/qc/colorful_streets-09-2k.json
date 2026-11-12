@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-09-2k.jpg",
+ "id": "colorful_streets-09",
+ "category": "colorful_streets",
+ "title": "Flower-covered lane",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 77.6,
+  "contrast": 0.217,
+  "sharpness": 8.61
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "c89292f0739e369d",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02863,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
