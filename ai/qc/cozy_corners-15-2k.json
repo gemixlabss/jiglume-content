@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-15-2k.jpg",
+ "id": "cozy_corners-15",
+ "category": "cozy_corners",
+ "title": "Potter's workshop",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 49.0,
+  "contrast": 0.162,
+  "sharpness": 8.24
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "81a3657a1e3e1e2d",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02897,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

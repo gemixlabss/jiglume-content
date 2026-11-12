@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-04-2k.jpg",
+ "id": "cozy_corners-04",
+ "category": "cozy_corners",
+ "title": "Fireside armchair",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.1,
+  "contrast": 0.209,
+  "sharpness": 8.31
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "f0f67f084e174983",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03067,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

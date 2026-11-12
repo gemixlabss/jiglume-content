@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-09-2k.jpg",
+ "id": "cozy_corners-09",
+ "category": "cozy_corners",
+ "title": "Cabin interior",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 60.9,
+  "contrast": 0.162,
+  "sharpness": 8.17
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d4250b78cf1b05f9",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0291,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

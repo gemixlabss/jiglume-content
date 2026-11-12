@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-25-2k.jpg",
+ "id": "cozy_corners-25",
+ "category": "cozy_corners",
+ "title": "Garden shed hideaway",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 44.0,
+  "contrast": 0.236,
+  "sharpness": 9.17
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "a0b2acecd4a793e4",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0287,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

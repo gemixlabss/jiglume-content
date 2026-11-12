@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-12-2k.jpg",
+ "id": "cozy_corners-12",
+ "category": "cozy_corners",
+ "title": "Kitchen corner",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 53.7,
+  "contrast": 0.217,
+  "sharpness": 7.49
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c0621f1dce6ed0d3",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02935,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

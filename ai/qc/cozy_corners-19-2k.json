@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-19-2k.jpg",
+ "id": "cozy_corners-19",
+ "category": "cozy_corners",
+ "title": "Treehouse room",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.1,
+  "contrast": 0.211,
+  "sharpness": 8.95
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5a72725d8d93a4a",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02817,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

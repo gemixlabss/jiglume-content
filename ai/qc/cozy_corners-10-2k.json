@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-10-2k.jpg",
+ "id": "cozy_corners-10",
+ "category": "cozy_corners",
+ "title": "Tea room",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 37.6,
+  "contrast": 0.2,
+  "sharpness": 8.72
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "909a75e861ef4f82",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02827,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

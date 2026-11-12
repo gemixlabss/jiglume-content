@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-22-2k.jpg",
+ "id": "cozy_corners-22",
+ "category": "cozy_corners",
+ "title": "Winter conservatory",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.9,
+  "contrast": 0.229,
+  "sharpness": 9.03
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "85f92628e7f35924",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02989,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
