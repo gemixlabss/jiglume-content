@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/treats/treats-08-2k.jpg",
+ "id": "treats-08",
+ "category": "treats",
+ "title": "Ice-cream parlour",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.2,
+  "contrast": 0.207,
+  "sharpness": 8.71
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.037,
+   "score": 0.83,
+   "closeUp": false
+  }
+ ],
+ "phash": "82122937799b55db",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02937,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

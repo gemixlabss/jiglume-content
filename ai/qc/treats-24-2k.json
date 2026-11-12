@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/treats/treats-24-2k.jpg",
+ "id": "treats-24",
+ "category": "treats",
+ "title": "Vegetable market",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 50.5,
+  "contrast": 0.214,
+  "sharpness": 8.9
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "ea90d56fec2185b8",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03032,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

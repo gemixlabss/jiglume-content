@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/treats/treats-04-2k.jpg",
+ "id": "treats-04",
+ "category": "treats",
+ "title": "Fruit stall",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.9,
+  "contrast": 0.177,
+  "sharpness": 8.32
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d7b76b3ea4a12188",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02956,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

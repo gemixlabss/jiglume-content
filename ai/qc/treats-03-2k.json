@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/treats/treats-03-2k.jpg",
+ "id": "treats-03",
+ "category": "treats",
+ "title": "Cookie baking",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 53.5,
+  "contrast": 0.241,
+  "sharpness": 8.57
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.041,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "929236d4677d76a0",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03059,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

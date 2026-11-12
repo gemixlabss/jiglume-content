@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/treats/treats-01-2k.jpg",
+ "id": "treats-01",
+ "category": "treats",
+ "title": "Pastry shop window",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 49.8,
+  "contrast": 0.214,
+  "sharpness": 8.31
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d4cdc8326be874f0",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03074,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

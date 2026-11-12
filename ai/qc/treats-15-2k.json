@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/treats/treats-15-2k.jpg",
+ "id": "treats-15",
+ "category": "treats",
+ "title": "Wedding cake",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 41.8,
+  "contrast": 0.235,
+  "sharpness": 8.68
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d4dc7b0b39036b07",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02848,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

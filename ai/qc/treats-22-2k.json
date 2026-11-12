@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/treats/treats-22-2k.jpg",
+ "id": "treats-22",
+ "category": "treats",
+ "title": "Jam making",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 49.7,
+  "contrast": 0.223,
+  "sharpness": 8.25
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.056,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "f3f13b1648b9062e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02822,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

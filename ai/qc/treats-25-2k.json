@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/treats/treats-25-2k.jpg",
+ "id": "treats-25",
+ "category": "treats",
+ "title": "Candy floss fair",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.8,
+  "contrast": 0.207,
+  "sharpness": 8.08
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "f0c80d17876e1e97",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02912,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

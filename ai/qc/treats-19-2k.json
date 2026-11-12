@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/treats/treats-19-2k.jpg",
+ "id": "treats-19",
+ "category": "treats",
+ "title": "Gingerbread table",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 55.3,
+  "contrast": 0.219,
+  "sharpness": 8.67
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d4dfc7d200c2b0af",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02911,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/treats/treats-14-2k.jpg",
+ "id": "treats-14",
+ "category": "treats",
+ "title": "Orchard harvest",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 47.4,
+  "contrast": 0.214,
+  "sharpness": 9.03
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d1d91e8695273378",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0296,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
