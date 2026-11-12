@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/night_stars/night_stars-02-2k.jpg",
+ "id": "night_stars-02",
+ "category": "night_stars",
+ "title": "Lantern-lit street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.2,
+  "contrast": 0.186,
+  "sharpness": 8.75
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "922b5de6650762da",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03148,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

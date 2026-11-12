@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/night_stars/night_stars-01-2k.jpg",
+ "id": "night_stars-01",
+ "category": "night_stars",
+ "title": "City lights by the river",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.5,
+  "contrast": 0.167,
+  "sharpness": 8.69
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.018,
+   "score": 0.79,
+   "closeUp": false
+  }
+ ],
+ "phash": "9c827ba1666e61cd",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03116,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

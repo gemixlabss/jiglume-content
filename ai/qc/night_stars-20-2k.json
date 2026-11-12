@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/night_stars/night_stars-20-2k.jpg",
+ "id": "night_stars-20",
+ "category": "night_stars",
+ "title": "Moonrise over the sea",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 55.0,
+  "contrast": 0.204,
+  "sharpness": 8.22
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c7f8302b6fc8509e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02956,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

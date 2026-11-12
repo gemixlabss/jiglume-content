@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/night_stars/night_stars-24-2k.jpg",
+ "id": "night_stars-24",
+ "category": "night_stars",
+ "title": "Night garden pond",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.7,
+  "contrast": 0.176,
+  "sharpness": 8.57
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.012,
+   "score": 0.8,
+   "closeUp": false
+  }
+ ],
+ "phash": "993b3bc52631666c",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02881,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/night_stars/night_stars-21-2k.jpg",
+ "id": "night_stars-21",
+ "category": "night_stars",
+ "title": "Lantern festival bridge",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 46.4,
+  "contrast": 0.203,
+  "sharpness": 8.7
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9284cd5b653b7626",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03021,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

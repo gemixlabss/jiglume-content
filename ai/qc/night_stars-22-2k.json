@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/night_stars/night_stars-22-2k.jpg",
+ "id": "night_stars-22",
+ "category": "night_stars",
+ "title": "Camping under the stars",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.6,
+  "contrast": 0.18,
+  "sharpness": 8.25
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "943a49cd76b9c546",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02855,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

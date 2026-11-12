@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/night_stars/night_stars-26-2k.jpg",
+ "id": "night_stars-26",
+ "category": "night_stars",
+ "title": "Mountain hut at night",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 43.0,
+  "contrast": 0.226,
+  "sharpness": 8.86
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c57a185966f2b88d",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03081,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

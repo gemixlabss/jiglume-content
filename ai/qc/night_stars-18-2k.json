@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/night_stars/night_stars-18-2k.jpg",
+ "id": "night_stars-18",
+ "category": "night_stars",
+ "title": "Canal at night",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 46.1,
+  "contrast": 0.177,
+  "sharpness": 8.9
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9989d8c9c79f6232",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0296,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

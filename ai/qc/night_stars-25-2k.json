@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/night_stars/night_stars-25-2k.jpg",
+ "id": "night_stars-25",
+ "category": "night_stars",
+ "title": "Meteor shower",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.5,
+  "contrast": 0.192,
+  "sharpness": 8.83
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5b5364b68f97212",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0298,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

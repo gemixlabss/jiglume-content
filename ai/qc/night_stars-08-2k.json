@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/night_stars/night_stars-08-2k.jpg",
+ "id": "night_stars-08",
+ "category": "night_stars",
+ "title": "Moonlit castle",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.4,
+  "contrast": 0.183,
+  "sharpness": 8.35
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "94b4160e7d694d6b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02862,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
