@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/fairytale/fairytale-23-2k.jpg",
+ "id": "fairytale-23",
+ "category": "fairytale",
+ "title": "Rabbit village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 71.3,
+  "contrast": 0.195,
+  "sharpness": 8.81
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91895b374f366c38",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02908,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

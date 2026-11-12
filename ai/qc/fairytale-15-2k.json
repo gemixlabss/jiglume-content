@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/fairytale/fairytale-15-2k.jpg",
+ "id": "fairytale-15",
+ "category": "fairytale",
+ "title": "Snow queen palace",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.4,
+  "contrast": 0.161,
+  "sharpness": 8.65
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1ff14551ae51c35",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02787,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

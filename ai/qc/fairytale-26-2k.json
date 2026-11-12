@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/fairytale/fairytale-26-2k.jpg",
+ "id": "fairytale-26",
+ "category": "fairytale",
+ "title": "Pumpkin carriage",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.2,
+  "contrast": 0.19,
+  "sharpness": 8.53
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "814e67cd5ef13099",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02748,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/fairytale/fairytale-28-2k.jpg",
+ "id": "fairytale-28",
+ "category": "fairytale",
+ "title": "Giant's garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.7,
+  "contrast": 0.195,
+  "sharpness": 8.02
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "959637487147393b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03056,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

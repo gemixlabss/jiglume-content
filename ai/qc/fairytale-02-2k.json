@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/fairytale/fairytale-02-2k.jpg",
+ "id": "fairytale-02",
+ "category": "fairytale",
+ "title": "Mushroom village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 60.0,
+  "contrast": 0.201,
+  "sharpness": 7.98
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.066,
+   "score": 0.77,
+   "closeUp": true
+  }
+ ],
+ "phash": "919813b36d3e7465",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.0289,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

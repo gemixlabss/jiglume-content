@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/fairytale/fairytale-22-2k.jpg",
+ "id": "fairytale-22",
+ "category": "fairytale",
+ "title": "Clockwork town",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 71.0,
+  "contrast": 0.247,
+  "sharpness": 9.04
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.063,
+   "score": 0.77,
+   "closeUp": true
+  }
+ ],
+ "phash": "d9d9e7e5a590128a",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02914,
+ "reviewPending": true,
+ "problems": [
+  "close-up face"
+ ],
+ "pass": false
+}

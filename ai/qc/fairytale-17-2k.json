@@ -1,0 +1,52 @@
+{
+ "file": "ai/raw/fairytale/fairytale-17-2k.jpg",
+ "id": "fairytale-17",
+ "category": "fairytale",
+ "title": "Moon bakery",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 68.2,
+  "contrast": 0.216,
+  "sharpness": 8.58
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.053,
+   "score": 0.76,
+   "closeUp": false
+  },
+  {
+   "height": 0.05,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "e273151f103c67f8",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03064,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

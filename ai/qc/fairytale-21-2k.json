@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/fairytale/fairytale-21-2k.jpg",
+ "id": "fairytale-21",
+ "category": "fairytale",
+ "title": "Book world",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.9,
+  "contrast": 0.241,
+  "sharpness": 7.82
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "a1a82a8f3d2e339e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02892,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

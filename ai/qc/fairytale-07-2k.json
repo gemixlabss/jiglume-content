@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/fairytale/fairytale-07-2k.jpg",
+ "id": "fairytale-07",
+ "category": "fairytale",
+ "title": "Wizard's library",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 34.9,
+  "contrast": 0.193,
+  "sharpness": 8.78
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c41c706f4db04bcf",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02952,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
