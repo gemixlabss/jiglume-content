@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/world_places/world_places-15-2k.jpg",
+ "id": "world_places-15",
+ "category": "world_places",
+ "title": "Tuscan-style farmhouse",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 52.3,
+  "contrast": 0.212,
+  "sharpness": 8.14
+ },
+ "flatShare": 0.037,
+ "text": [],
+ "faces": [],
+ "phash": "95cba6a8714a9576",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03058,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

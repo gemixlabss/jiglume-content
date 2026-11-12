@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/world_places/world_places-25-2k.jpg",
+ "id": "world_places-25",
+ "category": "world_places",
+ "title": "Snowy pagoda garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.1,
+  "contrast": 0.252,
+  "sharpness": 9.06
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "905b9bed16b16872",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02761,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

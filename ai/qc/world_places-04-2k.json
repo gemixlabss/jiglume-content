@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/world_places/world_places-04-2k.jpg",
+ "id": "world_places-04",
+ "category": "world_places",
+ "title": "Tropical island",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 59.7,
+  "contrast": 0.217,
+  "sharpness": 8.31
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "953656a968c26b5b",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02818,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

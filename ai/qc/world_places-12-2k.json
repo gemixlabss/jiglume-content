@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/world_places/world_places-12-2k.jpg",
+ "id": "world_places-12",
+ "category": "world_places",
+ "title": "Safari camp",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.9,
+  "contrast": 0.157,
+  "sharpness": 8.18
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.013,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "c17f3a8449ca3717",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02987,
+ "reviewPending": true,
+ "problems": [
+  "low contrast (0.157)"
+ ],
+ "pass": false
+}

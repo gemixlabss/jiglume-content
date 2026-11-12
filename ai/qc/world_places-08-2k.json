@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/world_places/world_places-08-2k.jpg",
+ "id": "world_places-08",
+ "category": "world_places",
+ "title": "Moroccan-style courtyard",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 43.7,
+  "contrast": 0.19,
+  "sharpness": 8.61
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d107cdd84b570e69",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.029,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

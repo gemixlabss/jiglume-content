@@ -1,0 +1,47 @@
+{
+ "file": "ai/raw/world_places/world_places-19-2k.jpg",
+ "id": "world_places-19",
+ "category": "world_places",
+ "title": "Desert canyon town",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 72.4,
+  "contrast": 0.186,
+  "sharpness": 8.42
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.011,
+   "score": 0.81,
+   "closeUp": false
+  }
+ ],
+ "phash": "95c6c8c6cbd858d9",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.03036,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

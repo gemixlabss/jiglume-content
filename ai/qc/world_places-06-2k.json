@@ -1,0 +1,52 @@
+{
+ "file": "ai/raw/world_places/world_places-06-2k.jpg",
+ "id": "world_places-06",
+ "category": "world_places",
+ "title": "Floating market",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 42.2,
+  "contrast": 0.167,
+  "sharpness": 9.08
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.013,
+   "score": 0.86,
+   "closeUp": false
+  },
+  {
+   "height": 0.01,
+   "score": 0.8,
+   "closeUp": false
+  }
+ ],
+ "phash": "9999667629f1650e",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02573,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

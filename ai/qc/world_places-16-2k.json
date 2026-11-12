@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/world_places/world_places-16-2k.jpg",
+ "id": "world_places-16",
+ "category": "world_places",
+ "title": "Overwater bungalows",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 46.6,
+  "contrast": 0.179,
+  "sharpness": 8.91
+ },
+ "flatShare": 0.125,
+ "text": [],
+ "faces": [],
+ "phash": "bcbed0ee48832647",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02872,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}

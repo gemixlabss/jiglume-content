@@ -1,0 +1,41 @@
+{
+ "file": "ai/raw/world_places/world_places-01-2k.jpg",
+ "id": "world_places-01",
+ "category": "world_places",
+ "title": "Temple garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 72.6,
+  "contrast": 0.181,
+  "sharpness": 8.53
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "940749fa338479db",
+ "review": {
+  "pending": true
+ },
+ "costUsd": 0.02981,
+ "reviewPending": true,
+ "problems": [],
+ "pass": true
+}
