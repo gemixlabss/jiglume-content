@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/world_places/world_places-37-2k.jpg",
+ "id": "world_places-37",
+ "category": "world_places",
+ "title": "Savanna village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 84.2,
+  "contrast": 0.254,
+  "sharpness": 8.84
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.011,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "cde33610350f7c4e",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": null,
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00229
+ },
+ "costUsd": 0.03263,
+ "problems": [],
+ "pass": true
+}

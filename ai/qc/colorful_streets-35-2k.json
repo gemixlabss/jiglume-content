@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-35-2k.jpg",
+ "id": "colorful_streets-35",
+ "category": "colorful_streets",
+ "title": "Bougainvillea alley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.0,
+  "contrast": 0.201,
+  "sharpness": 8.48
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91300f6f61716e9b",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy Mediterranean village street illustration with a sleeping cat",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00156
+ },
+ "costUsd": 0.03154,
+ "problems": [],
+ "pass": true
+}

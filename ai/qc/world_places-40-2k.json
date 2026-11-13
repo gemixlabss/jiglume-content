@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/world_places/world_places-40-2k.jpg",
+ "id": "world_places-40",
+ "category": "world_places",
+ "title": "Alpine lake village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.5,
+  "contrast": 0.182,
+  "sharpness": 8.43
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "90c6a5a45f397a0f",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy nocturnal alpine village by a mountain lake under a crescent moon",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0018
+ },
+ "costUsd": 0.03203,
+ "problems": [],
+ "pass": true
+}

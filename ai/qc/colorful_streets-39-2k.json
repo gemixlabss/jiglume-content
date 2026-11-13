@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-39-2k.jpg",
+ "id": "colorful_streets-39",
+ "category": "colorful_streets",
+ "title": "Riverside balconies",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.0,
+  "contrast": 0.237,
+  "sharpness": 8.9
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1c18fda0f8f9896",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Idyllic canal village with wooden boats at golden hour",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00224
+ },
+ "costUsd": 0.03206,
+ "problems": [],
+ "pass": true
+}

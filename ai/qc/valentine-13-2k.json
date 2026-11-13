@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/valentine/valentine-13-2k.jpg",
+ "id": "valentine-13",
+ "category": "valentine",
+ "title": "Chocolate box hearts",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 62.2,
+  "contrast": 0.197,
+  "sharpness": 7.99
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "ac849ea8036f3dcd",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Heart-shaped box filled with chocolates, strawberries, and roses on a wooden table with a teacup",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.002
+ },
+ "costUsd": 0.03169,
+ "problems": [],
+ "pass": true
+}

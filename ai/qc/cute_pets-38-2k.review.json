@@ -1,0 +1,12 @@
+{
+ "text": false,
+ "text_where": "none",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Two cats sitting together on a snowy windowsill surrounded by books and plants.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00263
+}

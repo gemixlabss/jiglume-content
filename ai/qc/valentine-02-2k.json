@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/valentine/valentine-02-2k.jpg",
+ "id": "valentine-02",
+ "category": "valentine",
+ "title": "Lovebirds on a branch",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 40.6,
+  "contrast": 0.232,
+  "sharpness": 8.0
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.071,
+   "score": 0.77,
+   "closeUp": true
+  }
+ ],
+ "phash": "91cac9b52f9dc530",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fairytale illustration of two lovebirds nestled on a blossoming tree branch.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00217
+ },
+ "costUsd": 0.03275,
+ "problems": [],
+ "pass": true
+}

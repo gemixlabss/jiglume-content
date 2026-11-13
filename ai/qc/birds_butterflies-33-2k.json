@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-33-2k.jpg",
+ "id": "birds_butterflies-33",
+ "category": "birds_butterflies",
+ "title": "Kookaburras",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 47.1,
+  "contrast": 0.21,
+  "sharpness": 8.51
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.064,
+   "score": 0.77,
+   "closeUp": true
+  }
+ ],
+ "phash": "c4a63479778ec278",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Two kookaburras perched on a eucalyptus branch at twilight",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00275
+ },
+ "costUsd": 0.03141,
+ "problems": [],
+ "pass": true
+}

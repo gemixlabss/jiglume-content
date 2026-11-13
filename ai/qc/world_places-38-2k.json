@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/world_places/world_places-38-2k.jpg",
+ "id": "world_places-38",
+ "category": "world_places",
+ "title": "Canal city boats",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 62.9,
+  "contrast": 0.24,
+  "sharpness": 8.84
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "9983caa0e5c5f68d",
+ "review": {
+  "text": true,
+  "text_where": "hanging sign on the building on the right",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming canal scene with gondolas and bridges at sunset",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00216
+ },
+ "costUsd": 0.03064,
+ "problems": [
+  "letters/text (hanging sign on the building on the right)"
+ ],
+ "pass": false
+}

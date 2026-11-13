@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-31-2k.jpg",
+ "id": "sea_coast-31",
+ "category": "sea_coast",
+ "title": "Lighthouse on the cliffs",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 46.4,
+  "contrast": 0.208,
+  "sharpness": 7.79
+ },
+ "flatShare": 0.025,
+ "text": [],
+ "faces": [],
+ "phash": "f4a7829a3cd1654e",
+ "review": {
+  "text": true,
+  "text_where": "cardinal direction letters on the weather vane atop the lighthouse",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Scenic coastal illustration featuring a lighthouse, cottage, blooming cliffside flowers, and sailboats on the sea.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00239
+ },
+ "costUsd": 0.0314,
+ "problems": [
+  "letters/text (cardinal direction letters on the weather vane atop the lighthouse)"
+ ],
+ "pass": false
+}

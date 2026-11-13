@@ -1,0 +1,12 @@
+{
+ "text": false,
+ "text_where": "none",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Heart-shaped box filled with chocolates, strawberries, and roses on a wooden table with a teacup",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.002
+}

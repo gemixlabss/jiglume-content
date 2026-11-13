@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/valentine/valentine-04-2k.jpg",
+ "id": "valentine-04",
+ "category": "valentine",
+ "title": "Kittens in love",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 87.1,
+  "contrast": 0.216,
+  "sharpness": 8.26
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "900a8bb64e277fcc",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Two sleeping kittens on a heart-shaped pillow in a rose garden",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00211
+ },
+ "costUsd": 0.03209,
+ "problems": [],
+ "pass": true
+}

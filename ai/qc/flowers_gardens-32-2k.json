@@ -1,0 +1,57 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-32-2k.jpg",
+ "id": "flowers_gardens-32",
+ "category": "flowers_gardens",
+ "title": "Tulip bouquets",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 38.5,
+  "contrast": 0.225,
+  "sharpness": 8.29
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.01,
+   "score": 0.79,
+   "closeUp": false
+  }
+ ],
+ "phash": "b49516bad103d8be",
+ "review": {
+  "text": true,
+  "text_where": "simulated newspaper print on the bouquet wrapping paper and rolled scrolls on the wooden cart",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "A charming storybook illustration of a flower cart laden with colorful tulips in an old European town square.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00321
+ },
+ "costUsd": 0.03282,
+ "problems": [
+  "letters/text (simulated newspaper print on the bouquet wrapping paper and rolled scrolls on the wooden cart)"
+ ],
+ "pass": false
+}

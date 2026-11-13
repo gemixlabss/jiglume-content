@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-39-2k.jpg",
+ "id": "cute_pets-39",
+ "category": "cute_pets",
+ "title": "Hedgehog pet in slippers",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 59.1,
+  "contrast": 0.257,
+  "sharpness": 8.18
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.269,
+   "score": 0.77,
+   "closeUp": true
+  }
+ ],
+ "phash": "93c5cab753c29c0d",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustration of a hedgehog inside a fleece-lined slipper next to a teddy bear and a cup of hot chocolate.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00222
+ },
+ "costUsd": 0.03129,
+ "problems": [],
+ "pass": true
+}

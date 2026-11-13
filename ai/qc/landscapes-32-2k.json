@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/landscapes/landscapes-32-2k.jpg",
+ "id": "landscapes-32",
+ "category": "landscapes",
+ "title": "Poppy valley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.5,
+  "contrast": 0.225,
+  "sharpness": 8.37
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91eeba72054b3c96",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Idyllic pastoral landscape illustration with winding stream, wildflower meadow, and cottage.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00179
+ },
+ "costUsd": 0.03079,
+ "problems": [],
+ "pass": true
+}
