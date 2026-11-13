@@ -38,12 +38,18 @@
  ],
  "phash": "c3c659d6cae8c9c8",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "golden retriever puppy sitting in a spring garden",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00221
  },
- "costUsd": 0.02897,
- "reviewPending": true,
- "problems": [
-  "close-up face"
- ],
- "pass": false
+ "costUsd": 0.03118,
+ "problems": [],
+ "pass": true
 }

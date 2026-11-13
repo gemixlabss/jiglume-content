@@ -38,12 +38,18 @@
  ],
  "phash": "959712b52c6d6d58",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Festive Christmas still life with gifts, ornaments, and pine branches.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00179
  },
- "costUsd": 0.03063,
- "reviewPending": true,
- "problems": [
-  "close-up face"
- ],
- "pass": false
+ "costUsd": 0.03242,
+ "problems": [],
+ "pass": true
 }

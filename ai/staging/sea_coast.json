@@ -25,10 +25,10 @@
   "prompt": "A red and white lighthouse on a rocky headland with a keeper's cottage, waves splashing, seabirds, wildflowers, a glowing sunset sky.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Any weather vane is a simple arrow without letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.029,
+  "costUsd": 0.0309,
   "phash": "c49c19734fcb3ca1",
   "file": "ai/raw/sea_coast/sea_coast-01-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-03": {
   "id": "sea_coast-03",
@@ -56,10 +56,10 @@
   "prompt": "A row of brightly painted beach huts on a sandy beach with striped deckchairs, buckets and spades, seagulls, summer day.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.03028,
+  "costUsd": 0.03217,
   "phash": "946217a56bda60db",
   "file": "ai/raw/sea_coast/sea_coast-03-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-04": {
   "id": "sea_coast-04",
@@ -87,41 +87,10 @@
   "prompt": "A hidden rocky cove with turquoise water, tide pools full of starfish and anemones, a small sailboat, cliffs with wildflowers.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.03099,
+  "costUsd": 0.0328,
   "phash": "c0cf249a8fa7393c",
   "file": "ai/raw/sea_coast/sea_coast-04-2k.jpg",
-  "reviewed": false
- },
- "sea_coast-05": {
-  "id": "sea_coast-05",
-  "categoryId": "sea_coast",
-  "kind": "category",
-  "titleKey": "sea_coast-05",
-  "title": "Sailboats at the marina",
-  "imagePath": "images/sea_coast/sea_coast-05.webp",
-  "thumbPath": "thumbs/sea_coast-05.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#a69b9a",
-  "quality": {
-   "colorfulness": 38.4,
-   "contrast": 0.192,
-   "sharpness": 9.51
-  },
-  "appeal": 61.2,
-  "flatShare": 0.025,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "morning",
-  "scenePrompt": "A marina full of sailboats and wooden yachts with colourful sails, a seaside promenade with cafés.",
-  "prompt": "A marina full of sailboats and wooden yachts with colourful sails, a seaside promenade with cafés.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:15:45+00:00",
-  "attempt": 0,
-  "costUsd": 0.03067,
-  "phash": "f5d285a219d43de2",
-  "file": "ai/raw/sea_coast/sea_coast-05-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-06": {
   "id": "sea_coast-06",
@@ -149,10 +118,10 @@
   "prompt": "A whitewashed seaside village with blue doors cascading down to a small harbour, bougainvillea, fishing boats.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02994,
+  "costUsd": 0.03285,
   "phash": "b5872ae331b46c2b",
   "file": "ai/raw/sea_coast/sea_coast-06-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-07": {
   "id": "sea_coast-07",
@@ -180,10 +149,10 @@
   "prompt": "A long wooden pier with lanterns stretching into a calm sea at dusk, a small wooden pavilion, fishing boats, pink and gold sky.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.03017,
+  "costUsd": 0.03188,
   "phash": "c9d3163b33584ce6",
   "file": "ai/raw/sea_coast/sea_coast-07-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-08": {
   "id": "sea_coast-08",
@@ -211,10 +180,10 @@
   "prompt": "A tropical lagoon with palm trees, an overwater wooden walkway, outrigger canoes, coral visible under clear turquoise water.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02981,
+  "costUsd": 0.03189,
   "phash": "c1c79fa6287074ec",
   "file": "ai/raw/sea_coast/sea_coast-08-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-09": {
   "id": "sea_coast-09",
@@ -242,10 +211,10 @@
   "prompt": "A beach covered with colourful seashells, starfish, sea glass and driftwood, gentle waves, a rocky point.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02934,
+  "costUsd": 0.03186,
   "phash": "c5236bd0a3ad6857",
   "file": "ai/raw/sea_coast/sea_coast-09-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-10": {
   "id": "sea_coast-10",
@@ -273,10 +242,10 @@
   "prompt": "A lighthouse beam shining over dramatic waves crashing on rocks after a storm, sunbeams breaking through clouds, seabirds.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Any weather vane is a simple arrow without letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02871,
+  "costUsd": 0.0307,
   "phash": "91cb493e609a7717",
   "file": "ai/raw/sea_coast/sea_coast-10-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-11": {
   "id": "sea_coast-11",
@@ -304,10 +273,10 @@
   "prompt": "A seaside boatyard with wooden boats on stilts being painted, ropes, paint pots, nets, a small harbour behind.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02968,
+  "costUsd": 0.03194,
   "phash": "c5f1ce4a278d332c",
   "file": "ai/raw/sea_coast/sea_coast-11-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-12": {
   "id": "sea_coast-12",
@@ -335,10 +304,10 @@
   "prompt": "A coastal cliff path with sea pinks and gorse, a stone cottage, a sandy bay below with turquoise water, sailing boats.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02862,
+  "costUsd": 0.03049,
   "phash": "94276eb06b663a4b",
   "file": "ai/raw/sea_coast/sea_coast-12-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-13": {
   "id": "sea_coast-13",
@@ -366,10 +335,10 @@
   "prompt": "A harbourside fish and fruit market with stalls, baskets, crates of lemons, umbrellas without lettering, boats behind.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02983,
+  "costUsd": 0.03263,
   "phash": "90b3cee96a5c136c",
   "file": "ai/raw/sea_coast/sea_coast-13-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-14": {
   "id": "sea_coast-14",
@@ -397,10 +366,10 @@
   "prompt": "Close view of colourful tide pools with crabs, sea urchins, anemones, seaweed and shells, waves in the distance.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02896,
+  "costUsd": 0.03071,
   "phash": "d0f9a2fe19924875",
   "file": "ai/raw/sea_coast/sea_coast-14-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-15": {
   "id": "sea_coast-15",
@@ -428,10 +397,10 @@
   "prompt": "A small white ferry approaching a green island with a harbour village, dolphins jumping, sailboats on the waves.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02771,
+  "costUsd": 0.02964,
   "phash": "f5e3728331132b39",
   "file": "ai/raw/sea_coast/sea_coast-15-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-16": {
   "id": "sea_coast-16",
@@ -459,41 +428,10 @@
   "prompt": "Tall sea stacks and arches along a golden sand beach, waves rolling in, seabirds.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02904,
+  "costUsd": 0.03086,
   "phash": "d6f5c983066e3839",
   "file": "ai/raw/sea_coast/sea_coast-16-2k.jpg",
-  "reviewed": false
- },
- "sea_coast-17": {
-  "id": "sea_coast-17",
-  "categoryId": "sea_coast",
-  "kind": "category",
-  "titleKey": "sea_coast-17",
-  "title": "Beach picnic",
-  "imagePath": "images/sea_coast/sea_coast-17.webp",
-  "thumbPath": "thumbs/sea_coast-17.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#eee7d9",
-  "quality": {
-   "colorfulness": 37.1,
-   "contrast": 0.162,
-   "sharpness": 8.74
-  },
-  "appeal": 55.8,
-  "flatShare": 0.075,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "morning",
-  "scenePrompt": "A beach picnic with a striped umbrella, a basket of fruit and sandwiches, seashells, a kite in the air, sailboats on a sparkling sea.",
-  "prompt": "A beach picnic with a striped umbrella, a basket of fruit and sandwiches, seashells, a kite in the air, sailboats on a sparkling sea.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:15:45+00:00",
-  "attempt": 0,
-  "costUsd": 0.0288,
-  "phash": "c5f2aa2c5638877a",
-  "file": "ai/raw/sea_coast/sea_coast-17-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-18": {
   "id": "sea_coast-18",
@@ -521,10 +459,10 @@
   "prompt": "A harbour at blue hour with glowing windows and lanterns reflected in the water, fishing boats, a small lighthouse, first stars.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Any weather vane is a simple arrow without letters. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.03047,
+  "costUsd": 0.03258,
   "phash": "a0b457486cbf32da",
   "file": "ai/raw/sea_coast/sea_coast-18-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-19": {
   "id": "sea_coast-19",
@@ -552,10 +490,10 @@
   "prompt": "An underwater coral reef with colourful corals, sea anemones, clownfish-like orange fish, sea turtles and sunbeams from the surface.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.0272,
+  "costUsd": 0.02889,
   "phash": "909fcdc9199bc4c9",
   "file": "ai/raw/sea_coast/sea_coast-19-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-20": {
   "id": "sea_coast-20",
@@ -583,10 +521,10 @@
   "prompt": "A tall wooden sailing ship with full sails on a sparkling sea, seagulls, a distant coastline with a village.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.03005,
+  "costUsd": 0.03203,
   "phash": "919636336b6c09ed",
   "file": "ai/raw/sea_coast/sea_coast-20-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-21": {
   "id": "sea_coast-21",
@@ -614,10 +552,10 @@
   "prompt": "Sand dunes with marram grass and wooden fences leading to a wide beach, colourful kites, a lighthouse in the distance.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Any weather vane is a simple arrow without letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02978,
+  "costUsd": 0.0318,
   "phash": "91fe725b064f618c",
   "file": "ai/raw/sea_coast/sea_coast-21-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-22": {
   "id": "sea_coast-22",
@@ -645,10 +583,10 @@
   "prompt": "A weathered seaside shack decorated with colourful buoys and lobster traps on a wooden dock, rowboats, a calm cove.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02937,
+  "costUsd": 0.03163,
   "phash": "94966b3ccc5a2b4d",
   "file": "ai/raw/sea_coast/sea_coast-22-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-23": {
   "id": "sea_coast-23",
@@ -676,10 +614,10 @@
   "prompt": "A turquoise Mediterranean bay with a small sandy beach, pine trees, colourful boats at anchor, a hillside village.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02879,
+  "costUsd": 0.03076,
   "phash": "85af848f27a06dad",
   "file": "ai/raw/sea_coast/sea_coast-23-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-25": {
   "id": "sea_coast-25",
@@ -707,10 +645,10 @@
   "prompt": "A colourful pebble beach with upturned rowboats, crab pots, a row of pastel cottages above, gentle waves.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02996,
+  "costUsd": 0.03214,
   "phash": "dff21ee961146149",
   "file": "ai/raw/sea_coast/sea_coast-25-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-26": {
   "id": "sea_coast-26",
@@ -738,10 +676,10 @@
   "prompt": "Shallow clear water over a sandy seabed with an old wooden chest overgrown with coral, colourful fish, sea stars.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02914,
+  "costUsd": 0.03108,
   "phash": "994dc5b86cb1307d",
   "file": "ai/raw/sea_coast/sea_coast-26-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-27": {
   "id": "sea_coast-27",
@@ -769,10 +707,10 @@
   "prompt": "A seaside promenade with a bandstand, flower beds, ice-cream carts without lettering, strolling people far away, the sea.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02892,
+  "costUsd": 0.03058,
   "phash": "848355d9f9f47231",
   "file": "ai/raw/sea_coast/sea_coast-27-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-28": {
   "id": "sea_coast-28",
@@ -800,10 +738,10 @@
   "prompt": "A tiny rocky island with a white lighthouse and a red-roofed house, surrounded by turquoise water, seals on the rocks.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Any weather vane is a simple arrow without letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02913,
+  "costUsd": 0.03134,
   "phash": "e1a3965a08e566bb",
   "file": "ai/raw/sea_coast/sea_coast-28-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "sea_coast-30": {
   "id": "sea_coast-30",
@@ -831,9 +769,9 @@
   "prompt": "A curling turquoise wave lit from behind by the setting sun, foam details, a rocky shore with tide pools, glowing orange sky.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:15:45+00:00",
   "attempt": 0,
-  "costUsd": 0.02884,
+  "costUsd": 0.03063,
   "phash": "95ee69025cb7228f",
   "file": "ai/raw/sea_coast/sea_coast-30-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  }
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "993d16a267766c46",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fairytale cobblestone village street at night with glowing windows, fountain, and full moon",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00206
  },
- "costUsd": 0.0287,
- "reviewPending": true,
+ "costUsd": 0.03076,
  "problems": [],
  "pass": true
 }

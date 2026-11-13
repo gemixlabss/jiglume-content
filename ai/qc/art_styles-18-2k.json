@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "9994456f3117bbe0",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Post-impressionist landscape illustration inspired by Van Gogh's style.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.002
  },
- "costUsd": 0.02976,
- "reviewPending": true,
+ "costUsd": 0.03176,
  "problems": [],
  "pass": true
 }

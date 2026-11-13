@@ -43,10 +43,18 @@
  ],
  "phash": "97b3607c39321d0f",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "An alpine landscape illustration at night with wooden chalets, grazing cows, a mountain stream, and starry sky.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00229
  },
- "costUsd": 0.02938,
- "reviewPending": true,
+ "costUsd": 0.03167,
  "problems": [],
  "pass": true
 }

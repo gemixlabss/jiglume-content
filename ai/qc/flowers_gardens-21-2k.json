@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "d0b007b6f8e1394f",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fairy tale garden gate under a starry night sky",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00207
  },
- "costUsd": 0.02902,
- "reviewPending": true,
+ "costUsd": 0.03109,
  "problems": [],
  "pass": true
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "a0b457486cbf32da",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy nocturnal harbor village illustration with lighthouse and boats",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00211
  },
- "costUsd": 0.03047,
- "reviewPending": true,
+ "costUsd": 0.03258,
  "problems": [],
  "pass": true
 }

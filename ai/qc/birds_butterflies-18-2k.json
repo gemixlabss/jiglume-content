@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "c59c4cd336e40f39",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "nighttime marsh scene with two herons, a wooden boardwalk, lanterns, and water lilies",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0022
  },
- "costUsd": 0.02993,
- "reviewPending": true,
+ "costUsd": 0.03213,
  "problems": [],
  "pass": true
 }

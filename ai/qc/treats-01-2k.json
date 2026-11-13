@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "d4cdc8326be874f0",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy festive bakery shop window with various cakes, eclairs, and macarons",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00195
  },
- "costUsd": 0.03074,
- "reviewPending": true,
+ "costUsd": 0.03269,
  "problems": [],
  "pass": true
 }

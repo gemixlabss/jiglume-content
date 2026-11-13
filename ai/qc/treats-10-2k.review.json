@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "labels on tins on the upper shelves",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy kitchen still life with fresh berry pie and rainy window",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00292
+}

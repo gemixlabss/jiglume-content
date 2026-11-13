@@ -43,10 +43,18 @@
  ],
  "phash": "90eb5cef433465a8",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Vintage storybook style beach scene with kites and boardwalk",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00184
  },
- "costUsd": 0.02901,
- "reviewPending": true,
+ "costUsd": 0.03085,
  "problems": [
   "low contrast (0.15)"
  ],

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "961236e7666b4e1c",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cute illustration of three kittens playing on hay in a barn with a horse in the background.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00238
  },
- "costUsd": 0.02959,
- "reviewPending": true,
+ "costUsd": 0.03197,
  "problems": [],
  "pass": true
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "85f92628e7f35924",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter greenhouse/conservatory with potted plants, furniture, and a sleeping cat",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00222
  },
- "costUsd": 0.02989,
- "reviewPending": true,
+ "costUsd": 0.03211,
  "problems": [],
  "pass": true
 }

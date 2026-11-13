@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "939b6c216c2ed21f",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy interior with a large window overlooking a rainy European street",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00263
  },
- "costUsd": 0.03211,
- "reviewPending": true,
+ "costUsd": 0.03474,
  "problems": [],
  "pass": true
 }

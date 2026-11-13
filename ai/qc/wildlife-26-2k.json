@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "854e79313ea15e47",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cute illustration of little blue penguins on a pebble beach at night lit by lanterns",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00195
  },
- "costUsd": 0.0304,
- "reviewPending": true,
+ "costUsd": 0.03235,
  "problems": [],
  "pass": true
 }

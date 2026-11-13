@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/night_stars/night_stars-38-2k.jpg",
+ "id": "night_stars-38",
+ "category": "night_stars",
+ "title": "Moonlit lighthouse cove",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 49.4,
+  "contrast": 0.206,
+  "sharpness": 8.8
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c4ce33397e631331",
+ "review": {
+  "text": true,
+  "text_where": "letters on the weather vane above the cottage near the lighthouse",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Nighttime harbour scene with a lighthouse, boats, and full moon in an illustrated style.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00222
+ },
+ "costUsd": 0.03116,
+ "problems": [
+  "letters/text (letters on the weather vane above the cottage near the lighthouse)"
+ ],
+ "pass": false
+}

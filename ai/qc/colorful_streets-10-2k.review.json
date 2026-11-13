@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "faint sign text above the shop awning on the yellow house in the lower center-left",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Charming illustrated harbor village with mountains in the background.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00251
+}

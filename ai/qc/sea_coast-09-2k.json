@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "c5236bd0a3ad6857",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "A coastal beach scene filled with seashells, starfish, and sea glass, with a lighthouse on the cliffs in the background.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00252
  },
- "costUsd": 0.02934,
- "reviewPending": true,
+ "costUsd": 0.03186,
  "problems": [],
  "pass": true
 }

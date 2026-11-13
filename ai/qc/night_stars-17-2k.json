@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "914e31f916676c99",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy nocturnal garden dinner scene with lanterns and small animals.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00212
  },
- "costUsd": 0.02993,
- "reviewPending": true,
+ "costUsd": 0.03205,
  "problems": [],
  "pass": true
 }

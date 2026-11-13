@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-32-2k.jpg",
+ "id": "cozy_corners-32",
+ "category": "cozy_corners",
+ "title": "Cozy cabin loft",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.2,
+  "contrast": 0.184,
+  "sharpness": 8.5
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "994b46247ad91f9a",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustrated attic bedroom with round window, sleeping cat, books, and plants.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00329
+ },
+ "costUsd": 0.03286,
+ "problems": [],
+ "pass": true
+}

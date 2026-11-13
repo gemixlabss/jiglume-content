@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "d3963aa37c19c163",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy nocturnal scene with a budgie perched on its open birdcage and a kitten on an armchair.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00212
  },
- "costUsd": 0.03106,
- "reviewPending": true,
+ "costUsd": 0.03318,
  "problems": [],
  "pass": true
 }

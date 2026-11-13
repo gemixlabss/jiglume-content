@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "cover of the top book on the stack at the bottom right",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Charming beach picnic illustration with tiny stylized figures in the background.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0031
+}

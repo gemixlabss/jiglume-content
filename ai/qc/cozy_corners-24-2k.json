@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "95b14a6841f3c5e7",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy tower library room overlooking an ocean sunset.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00225
  },
- "costUsd": 0.03143,
- "reviewPending": true,
+ "costUsd": 0.03368,
  "problems": [],
  "pass": true
 }

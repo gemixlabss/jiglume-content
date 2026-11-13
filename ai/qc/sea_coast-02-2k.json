@@ -32,12 +32,21 @@
  "faces": [],
  "phash": "80b017736aef0d3e",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "registration markings on the side of the green boat on the lower left",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": null,
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00238
  },
- "costUsd": 0.03017,
- "reviewPending": true,
+ "costUsd": 0.03255,
  "problems": [
-  "low contrast (0.146)"
+  "low contrast (0.146)",
+  "letters/text (registration markings on the side of the green boat on the lower left)"
  ],
  "pass": false
 }

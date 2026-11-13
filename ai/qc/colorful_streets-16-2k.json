@@ -48,10 +48,18 @@
  ],
  "phash": "c86837336cf248bd",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming illustrated town square with a central fountain, flower stalls, and café patrons.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00323
  },
- "costUsd": 0.02911,
- "reviewPending": true,
+ "costUsd": 0.03234,
  "problems": [],
  "pass": true
 }

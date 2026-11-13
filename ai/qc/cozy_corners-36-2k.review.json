@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "faint signature scribble on the side of the bottom-left flowerpot",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy greenhouse interior with plants, armchair, sleeping cat, and rain outside.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00245
+}

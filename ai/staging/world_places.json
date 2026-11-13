@@ -25,10 +25,10 @@
   "prompt": "An imaginary Japanese-inspired temple garden with maple trees, a koi pond, stone lanterns, a curved wooden bridge and moss, autumn colours.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02981,
+  "costUsd": 0.03138,
   "phash": "940749fa338479db",
   "file": "ai/raw/world_places/world_places-01-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-02": {
   "id": "world_places-02",
@@ -56,10 +56,10 @@
   "prompt": "A whitewashed Mediterranean cliff village with blue domes, bougainvillea, terraces and the deep blue sea below.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.0294,
+  "costUsd": 0.03123,
   "phash": "d0f9a6eb0e097076",
   "file": "ai/raw/world_places/world_places-02-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-04": {
   "id": "world_places-04",
@@ -87,10 +87,10 @@
   "prompt": "A small tropical island with palm trees, a thatched hut, a white sand beach and turquoise shallows, outrigger canoe.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02818,
+  "costUsd": 0.03024,
   "phash": "953656a968c26b5b",
   "file": "ai/raw/world_places/world_places-04-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-06": {
   "id": "world_places-06",
@@ -118,10 +118,10 @@
   "prompt": "A floating market on a canal with wooden boats full of tropical fruit, flowers and vegetables, stilt houses, palms.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02573,
+  "costUsd": 0.02756,
   "phash": "9999667629f1650e",
   "file": "ai/raw/world_places/world_places-06-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-07": {
   "id": "world_places-07",
@@ -149,10 +149,10 @@
   "prompt": "A traditional alpine village with wooden chalets, flower balconies, an onion-domed tower without symbols, green meadows and snowy peaks.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03015,
+  "costUsd": 0.03259,
   "phash": "cdf2c25aac744a0f",
   "file": "ai/raw/world_places/world_places-07-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-08": {
   "id": "world_places-08",
@@ -180,10 +180,10 @@
   "prompt": "An imaginary riad courtyard with zellige-like tile patterns, a fountain, orange trees, carved arches, lanterns and cushions.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.029,
+  "costUsd": 0.03103,
   "phash": "d107cdd84b570e69",
   "file": "ai/raw/world_places/world_places-08-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-09": {
   "id": "world_places-09",
@@ -211,10 +211,10 @@
   "prompt": "A mountain village among emerald rice terraces with wooden houses, water channels.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03011,
+  "costUsd": 0.03244,
   "phash": "d5e2e162cdc0c3b9",
   "file": "ai/raw/world_places/world_places-09-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-10": {
   "id": "world_places-10",
@@ -242,10 +242,10 @@
   "prompt": "A Nordic fishing village with red cabins on stilts, drying racks, snowy mountains, calm sea, pink winter sun low on the horizon.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02963,
+  "costUsd": 0.03157,
   "phash": "9df2c13f2570c11b",
   "file": "ai/raw/world_places/world_places-10-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-11": {
   "id": "world_places-11",
@@ -273,10 +273,10 @@
   "prompt": "An imaginary lagoon city canal with gondola-like boats, pastel palazzos, balconies with flowers, arched bridges.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02867,
+  "costUsd": 0.03067,
   "phash": "99969ce186e4a1eb",
   "file": "ai/raw/world_places/world_places-11-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-13": {
   "id": "world_places-13",
@@ -304,10 +304,10 @@
   "prompt": "A river lined with blossoming cherry trees, small wooden boats, a traditional-style imaginary house, lanterns.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03171,
+  "costUsd": 0.03385,
   "phash": "ce8130b702ffae15",
   "file": "ai/raw/world_places/world_places-13-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-14": {
   "id": "world_places-14",
@@ -335,10 +335,10 @@
   "prompt": "A colourful high-mountain market with woven textiles, ceramics and fruit, llamas, distant snowy peaks, bright clear light; people small.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03066,
+  "costUsd": 0.03326,
   "phash": "91e1de7a6254172d",
   "file": "ai/raw/world_places/world_places-14-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-15": {
   "id": "world_places-15",
@@ -366,10 +366,10 @@
   "prompt": "A stone farmhouse on a hill with cypress alleys, olive groves, vineyards and sunflower fields.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03058,
+  "costUsd": 0.03216,
   "phash": "95cba6a8714a9576",
   "file": "ai/raw/world_places/world_places-15-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-16": {
   "id": "world_places-16",
@@ -397,10 +397,10 @@
   "prompt": "Thatched overwater bungalows on a turquoise lagoon with a green volcanic island behind, kayaks, coral below the water.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02872,
+  "costUsd": 0.03053,
   "phash": "bcbed0ee48832647",
   "file": "ai/raw/world_places/world_places-16-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-17": {
   "id": "world_places-17",
@@ -428,10 +428,10 @@
   "prompt": "An imaginary old river town at dusk with hundreds of colourful silk lanterns over the street and floating on the river, wooden houses.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02852,
+  "costUsd": 0.03068,
   "phash": "c9c6cec887cc835b",
   "file": "ai/raw/world_places/world_places-17-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-18": {
   "id": "world_places-18",
@@ -459,10 +459,10 @@
   "prompt": "A colourful village at the end of a fjord with a wooden boathouse, boats, waterfalls on the cliffs.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02937,
+  "costUsd": 0.03114,
   "phash": "d0cd44ba8bb742e3",
   "file": "ai/raw/world_places/world_places-18-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-19": {
   "id": "world_places-19",
@@ -490,10 +490,10 @@
   "prompt": "Adobe houses built into a red canyon wall with ladders, terraces, cacti and flowering bushes.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03036,
+  "costUsd": 0.03251,
   "phash": "95c6c8c6cbd858d9",
   "file": "ai/raw/world_places/world_places-19-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-20": {
   "id": "world_places-20",
@@ -521,10 +521,10 @@
   "prompt": "An imaginary bazaar shop overflowing with glowing mosaic-glass lamps of every colour, rugs, brass trays and ceramics.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03046,
+  "costUsd": 0.03212,
   "phash": "c027433b4ed761dc",
   "file": "ai/raw/world_places/world_places-20-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-21": {
   "id": "world_places-21",
@@ -552,10 +552,10 @@
   "prompt": "A wooden tea house on stilts on a misty mountainside with tea terraces, a waterfall, pine trees.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.0289,
+  "costUsd": 0.0311,
   "phash": "94bc0fe938674b62",
   "file": "ai/raw/world_places/world_places-21-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-22": {
   "id": "world_places-22",
@@ -583,10 +583,10 @@
   "prompt": "A small island harbour with whitewashed houses, blue shutters, a windmill, fishing boats, octopus drying on lines.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02987,
+  "costUsd": 0.03188,
   "phash": "a095d1cf4f24b56c",
   "file": "ai/raw/world_places/world_places-22-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-24": {
   "id": "world_places-24",
@@ -614,10 +614,10 @@
   "prompt": "An old trading harbour with wooden dhows, sacks of spices on the quay, palm trees, carved balconies.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.0297,
+  "costUsd": 0.0314,
   "phash": "85870f333a3f720e",
   "file": "ai/raw/world_places/world_places-24-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-25": {
   "id": "world_places-25",
@@ -645,10 +645,10 @@
   "prompt": "An imaginary snowy garden with a small multi-roofed wooden pavilion, a red bridge, a frozen pond and snow-laden pines.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02761,
+  "costUsd": 0.0293,
   "phash": "905b9bed16b16872",
   "file": "ai/raw/world_places/world_places-25-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-26": {
   "id": "world_places-26",
@@ -676,10 +676,10 @@
   "prompt": "A savanna sunrise with an acacia tree silhouette, herds of antelope and wildebeest, a winding river, glowing orange sky with detail-rich clouds.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02875,
+  "costUsd": 0.03129,
   "phash": "94eb44c03f373be0",
   "file": "ai/raw/world_places/world_places-26-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-27": {
   "id": "world_places-27",
@@ -707,10 +707,10 @@
   "prompt": "A Caribbean-style island market with colourful wooden stalls of mangos, pineapples and coconuts, pastel houses, palm trees.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03015,
+  "costUsd": 0.03236,
   "phash": "d0da5ed94c4a63c9",
   "file": "ai/raw/world_places/world_places-27-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-28": {
   "id": "world_places-28",
@@ -738,10 +738,10 @@
   "prompt": "An imaginary monastery clinging to a cliff above clouds, with colourful plain fabric banners, pine forests.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.02841,
+  "costUsd": 0.03017,
   "phash": "fd048b709c6ab54b",
   "file": "ai/raw/world_places/world_places-28-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-29": {
   "id": "world_places-29",
@@ -769,10 +769,10 @@
   "prompt": "White yurts on a green steppe with grazing horses, wildflowers, a winding river and distant mountains.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.0286,
+  "costUsd": 0.03149,
   "phash": "92f332f33371602d",
   "file": "ai/raw/world_places/world_places-29-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "world_places-30": {
   "id": "world_places-30",
@@ -800,9 +800,9 @@
   "prompt": "A rainforest river village with stilt houses, canoes, hanging bridges, orchids and parrots.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:20+00:00",
   "attempt": 0,
-  "costUsd": 0.03074,
+  "costUsd": 0.03238,
   "phash": "999746593b683761",
   "file": "ai/raw/world_places/world_places-30-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  }
 }

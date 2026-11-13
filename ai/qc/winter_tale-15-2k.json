@@ -38,10 +38,18 @@
  ],
  "phash": "81722e631a9f6de8",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy storybook illustration of a horse-drawn sleigh in a winter night.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00428
  },
- "costUsd": 0.0308,
- "reviewPending": true,
+ "costUsd": 0.03508,
  "problems": [],
  "pass": true
 }

@@ -25,10 +25,10 @@
   "prompt": "A narrow stepped street between pastel houses with flower pots on every step, laundry lines, cats, a glimpse of the sea.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.03,
+  "costUsd": 0.03235,
   "phash": "c8ab9bf416323c59",
   "file": "ai/raw/colorful_streets/colorful_streets-01-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-02": {
   "id": "colorful_streets-02",
@@ -56,10 +56,10 @@
   "prompt": "Tall narrow canal houses in many colours with gabled roofs, bicycles on a bridge, flower boxes, boats on the canal.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02928,
+  "costUsd": 0.03175,
   "phash": "91948cbacde962cd",
   "file": "ai/raw/colorful_streets/colorful_streets-02-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-03": {
   "id": "colorful_streets-03",
@@ -87,10 +87,10 @@
   "prompt": "A busy open-air market in a European town square with stalls of fruit, cheese, flowers and pottery, striped awnings without lettering.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02978,
+  "costUsd": 0.03211,
   "phash": "88570ce377a4332f",
   "file": "ai/raw/colorful_streets/colorful_streets-03-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-04": {
   "id": "colorful_streets-04",
@@ -118,10 +118,10 @@
   "prompt": "A street of half-timbered houses with geranium window boxes, a cobblestone lane, a fountain.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.0287,
+  "costUsd": 0.03076,
   "phash": "993d16a267766c46",
   "file": "ai/raw/colorful_streets/colorful_streets-04-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-05": {
   "id": "colorful_streets-05",
@@ -149,41 +149,10 @@
   "prompt": "Colourful houses stacked along a river with balconies and laundry, small boats, an arched bridge.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02787,
+  "costUsd": 0.0299,
   "phash": "938d9ba68f8f2492",
   "file": "ai/raw/colorful_streets/colorful_streets-05-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-06": {
-  "id": "colorful_streets-06",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-06",
-  "title": "Café corner",
-  "imagePath": "images/colorful_streets/colorful_streets-06.webp",
-  "thumbPath": "thumbs/colorful_streets-06.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#615262",
-  "quality": {
-   "colorfulness": 58.8,
-   "contrast": 0.174,
-   "sharpness": 8.88
-  },
-  "appeal": 73.1,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "blue_hour",
-  "scenePrompt": "A corner café with outdoor tables, flower boxes, bicycles, a striped awning without lettering, pastel buildings.",
-  "prompt": "A corner café with outdoor tables, flower boxes, bicycles, a striped awning without lettering, pastel buildings.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:03+00:00",
-  "attempt": 0,
-  "costUsd": 0.0294,
-  "phash": "959942727233cbf4",
-  "file": "ai/raw/colorful_streets/colorful_streets-06-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-07": {
   "id": "colorful_streets-07",
@@ -211,10 +180,10 @@
   "prompt": "A narrow alley with colourful umbrellas suspended overhead casting coloured shadows, shop fronts with plants, cobblestones.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02946,
+  "costUsd": 0.03186,
   "phash": "c1a717a9511d38fa",
   "file": "ai/raw/colorful_streets/colorful_streets-07-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-08": {
   "id": "colorful_streets-08",
@@ -242,10 +211,10 @@
   "prompt": "A hillside town of colourful houses with terracotta roofs and winding streets, church domes without symbols, cypress trees.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.0301,
+  "costUsd": 0.03177,
   "phash": "91deb0bdc6a8a271",
   "file": "ai/raw/colorful_streets/colorful_streets-08-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-09": {
   "id": "colorful_streets-09",
@@ -273,41 +242,10 @@
   "prompt": "A lane in a village where every wall is covered in bougainvillea and climbing roses, blue doors, painted pots, a sleeping dog.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02863,
+  "costUsd": 0.03074,
   "phash": "c89292f0739e369d",
   "file": "ai/raw/colorful_streets/colorful_streets-09-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-10": {
-  "id": "colorful_streets-10",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-10",
-  "title": "Toy-like harbour town",
-  "imagePath": "images/colorful_streets/colorful_streets-10.webp",
-  "thumbPath": "thumbs/colorful_streets-10.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#624c31",
-  "quality": {
-   "colorfulness": 58.6,
-   "contrast": 0.212,
-   "sharpness": 8.9
-  },
-  "appeal": 78.7,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "golden",
-  "scenePrompt": "A harbour town with houses painted red, yellow, blue and green, fishing boats in front, mountains behind.",
-  "prompt": "A harbour town with houses painted red, yellow, blue and green, fishing boats in front, mountains behind.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Toy blocks and toys show pictures or plain colours only, no letters or numbers. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:03+00:00",
-  "attempt": 0,
-  "costUsd": 0.0289,
-  "phash": "c4b291e7a8eaea8a",
-  "file": "ai/raw/colorful_streets/colorful_streets-10-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-11": {
   "id": "colorful_streets-11",
@@ -335,41 +273,10 @@
   "prompt": "A sleepy old-town street at dawn with a glowing bakery window full of breads (no signs), a bicycle with a basket, lanterns still lit.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02768,
+  "costUsd": 0.03,
   "phash": "959652cb491bedc2",
   "file": "ai/raw/colorful_streets/colorful_streets-11-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-12": {
-  "id": "colorful_streets-12",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-12",
-  "title": "Covered market hall",
-  "imagePath": "images/colorful_streets/colorful_streets-12.webp",
-  "thumbPath": "thumbs/colorful_streets-12.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#62502c",
-  "quality": {
-   "colorfulness": 67.1,
-   "contrast": 0.226,
-   "sharpness": 8.98
-  },
-  "appeal": 86.8,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "rainy",
-  "scenePrompt": "Inside a grand covered market hall with iron arches, stalls of fruit, vegetables, spices and flowers, warm light from the glass roof.",
-  "prompt": "Inside a grand covered market hall with iron arches, stalls of fruit, vegetables, spices and flowers, warm light from the glass roof.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:03+00:00",
-  "attempt": 0,
-  "costUsd": 0.02804,
-  "phash": "99c256c2d7e1785c",
-  "file": "ai/raw/colorful_streets/colorful_streets-12-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-13": {
   "id": "colorful_streets-13",
@@ -397,10 +304,10 @@
   "prompt": "A whitewashed island alley with blue railings, steps, pots of basil and geraniums, a cat, the sea glimpsed at the end.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02921,
+  "costUsd": 0.03163,
   "phash": "d1b0062b45497fbd",
   "file": "ai/raw/colorful_streets/colorful_streets-13-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-14": {
   "id": "colorful_streets-14",
@@ -428,41 +335,10 @@
   "prompt": "An old stone bridge lined with tiny shops and balconies over a river, rowboats, flower boxes, imaginary city.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02902,
+  "costUsd": 0.03146,
   "phash": "c4c1cfce21f093f1",
   "file": "ai/raw/colorful_streets/colorful_streets-14-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-15": {
-  "id": "colorful_streets-15",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-15",
-  "title": "Antique street",
-  "imagePath": "images/colorful_streets/colorful_streets-15.webp",
-  "thumbPath": "thumbs/colorful_streets-15.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#292423",
-  "quality": {
-   "colorfulness": 60.7,
-   "contrast": 0.174,
-   "sharpness": 8.31
-  },
-  "appeal": 74.5,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "blue_hour",
-  "scenePrompt": "A crooked old-town street with antique shops displaying lamps, clocks and pottery in windows (no lettering), hanging plants.",
-  "prompt": "A crooked old-town street with antique shops displaying lamps, clocks and pottery in windows (no lettering), hanging plants.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Clock faces are plain with simple tick marks only, no numerals.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:03+00:00",
-  "attempt": 0,
-  "costUsd": 0.02993,
-  "phash": "985847bf0e53f4e0",
-  "file": "ai/raw/colorful_streets/colorful_streets-15-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-16": {
   "id": "colorful_streets-16",
@@ -490,10 +366,10 @@
   "prompt": "A pastel town square with an ornate fountain, pigeons, flower stalls, café tables, gabled houses, spring morning.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:03+00:00",
   "attempt": 0,
-  "costUsd": 0.02911,
+  "costUsd": 0.03234,
   "phash": "c86837336cf248bd",
   "file": "ai/raw/colorful_streets/colorful_streets-16-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-17": {
   "id": "colorful_streets-17",
@@ -521,10 +397,10 @@
   "prompt": "A canal lined with colourful houseboats covered in plants, bicycles on the quay, trees, bridges.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:04+00:00",
   "attempt": 0,
-  "costUsd": 0.03059,
+  "costUsd": 0.03245,
   "phash": "90de1d536eae6207",
   "file": "ai/raw/colorful_streets/colorful_streets-17-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-18": {
   "id": "colorful_streets-18",
@@ -552,41 +428,10 @@
   "prompt": "A mountain village street with wooden chalets, carved balconies with flowers, a fountain, cows passing, snowy peaks above, summer day.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:04+00:00",
   "attempt": 0,
-  "costUsd": 0.03033,
+  "costUsd": 0.03208,
   "phash": "94baa5a9416f9a69",
   "file": "ai/raw/colorful_streets/colorful_streets-18-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-19": {
-  "id": "colorful_streets-19",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-19",
-  "title": "Painted tiles street",
-  "imagePath": "images/colorful_streets/colorful_streets-19.webp",
-  "thumbPath": "thumbs/colorful_streets-19.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#a39e98",
-  "quality": {
-   "colorfulness": 34.1,
-   "contrast": 0.205,
-   "sharpness": 8.88
-  },
-  "appeal": 60.1,
-  "flatShare": 0.013,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "morning",
-  "scenePrompt": "A street of houses with patterned ceramic tile facades in blue, yellow and green, wrought-iron balconies, a hilly lane.",
-  "prompt": "A street of houses with patterned ceramic tile facades in blue, yellow and green, wrought-iron balconies, a hilly lane.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:04+00:00",
-  "attempt": 0,
-  "costUsd": 0.02881,
-  "phash": "d296ecd8f2ee2418",
-  "file": "ai/raw/colorful_streets/colorful_streets-19-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-20": {
   "id": "colorful_streets-20",
@@ -614,41 +459,10 @@
   "prompt": "A cobblestone street after rain, reflections of warm shop windows and lanterns, colourful umbrellas, flower pots.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:04+00:00",
   "attempt": 0,
-  "costUsd": 0.03205,
+  "costUsd": 0.03498,
   "phash": "917e3f2b610643e6",
   "file": "ai/raw/colorful_streets/colorful_streets-20-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-21": {
-  "id": "colorful_streets-21",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-21",
-  "title": "Pottery market",
-  "imagePath": "images/colorful_streets/colorful_streets-21.webp",
-  "thumbPath": "thumbs/colorful_streets-21.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#a89f92",
-  "quality": {
-   "colorfulness": 38.4,
-   "contrast": 0.214,
-   "sharpness": 8.83
-  },
-  "appeal": 64.5,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "morning",
-  "scenePrompt": "A market of colourful hand-painted pottery, bowls, plates and vases stacked on tables and walls, a narrow old street behind.",
-  "prompt": "A market of colourful hand-painted pottery, bowls, plates and vases stacked on tables and walls, a narrow old street behind.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:04+00:00",
-  "attempt": 0,
-  "costUsd": 0.03061,
-  "phash": "94b4032759bd6ada",
-  "file": "ai/raw/colorful_streets/colorful_streets-21-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-22": {
   "id": "colorful_streets-22",
@@ -676,10 +490,10 @@
   "prompt": "A riverside old town with gabled houses in candy colours, a stone embankment with trees, rowing boats.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:04+00:00",
   "attempt": 0,
-  "costUsd": 0.03049,
+  "costUsd": 0.03253,
   "phash": "c1a64e31397a1ee6",
   "file": "ai/raw/colorful_streets/colorful_streets-22-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-23": {
   "id": "colorful_streets-23",
@@ -707,10 +521,10 @@
   "prompt": "An inner courtyard surrounded by galleries of wooden balconies full of plants and laundry, a well in the centre, cats.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:04+00:00",
   "attempt": 0,
-  "costUsd": 0.02812,
+  "costUsd": 0.03065,
   "phash": "c7ac98f908b95e1a",
   "file": "ai/raw/colorful_streets/colorful_streets-23-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-24": {
   "id": "colorful_streets-24",
@@ -738,72 +552,10 @@
   "prompt": "A night market street with paper lanterns, food stalls with steam, fruit stands, colourful fabrics, small distant figures.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:04+00:00",
   "attempt": 0,
-  "costUsd": 0.02936,
+  "costUsd": 0.03201,
   "phash": "c13d3ce3162d23da",
   "file": "ai/raw/colorful_streets/colorful_streets-24-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-25": {
-  "id": "colorful_streets-25",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-25",
-  "title": "Hill street with tram",
-  "imagePath": "images/colorful_streets/colorful_streets-25.webp",
-  "thumbPath": "thumbs/colorful_streets-25.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#645055",
-  "quality": {
-   "colorfulness": 71.3,
-   "contrast": 0.163,
-   "sharpness": 8.62
-  },
-  "appeal": 79.5,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "blue_hour",
-  "scenePrompt": "A steep street with a vintage yellow tram without numbers or lettering, colourful tiled houses, laundry, the river at the bottom.",
-  "prompt": "A steep street with a vintage yellow tram without numbers or lettering, colourful tiled houses, laundry, the river at the bottom.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:04+00:00",
-  "attempt": 0,
-  "costUsd": 0.03006,
-  "phash": "816e5bdb36ba6805",
-  "file": "ai/raw/colorful_streets/colorful_streets-25-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-27": {
-  "id": "colorful_streets-27",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-27",
-  "title": "Bicycle street",
-  "imagePath": "images/colorful_streets/colorful_streets-27.webp",
-  "thumbPath": "thumbs/colorful_streets-27.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#a59b95",
-  "quality": {
-   "colorfulness": 38.2,
-   "contrast": 0.2,
-   "sharpness": 8.97
-  },
-  "appeal": 62.3,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "morning",
-  "scenePrompt": "A row of colourful bicycles with flower baskets parked along a canal railing, tall narrow houses, blossoming trees, spring morning.",
-  "prompt": "A row of colourful bicycles with flower baskets parked along a canal railing, tall narrow houses, blossoming trees, spring morning.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:04+00:00",
-  "attempt": 0,
-  "costUsd": 0.0299,
-  "phash": "90b0d5ce4af46bd1",
-  "file": "ai/raw/colorful_streets/colorful_streets-27-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-28": {
   "id": "colorful_streets-28",
@@ -831,41 +583,10 @@
   "prompt": "A medieval arcaded street with shops of cheeses, breads and flowers under stone arches, warm lamps, a few distant shoppers.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:04+00:00",
   "attempt": 0,
-  "costUsd": 0.02905,
+  "costUsd": 0.03093,
   "phash": "97b781a049ab2f1b",
   "file": "ai/raw/colorful_streets/colorful_streets-28-2k.jpg",
-  "reviewed": false
- },
- "colorful_streets-29": {
-  "id": "colorful_streets-29",
-  "categoryId": "colorful_streets",
-  "kind": "category",
-  "titleKey": "colorful_streets-29",
-  "title": "Port town at sunset",
-  "imagePath": "images/colorful_streets/colorful_streets-29.webp",
-  "thumbPath": "thumbs/colorful_streets-29.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#a6a099",
-  "quality": {
-   "colorfulness": 34.2,
-   "contrast": 0.19,
-   "sharpness": 9.24
-  },
-  "appeal": 57.9,
-  "flatShare": 0.075,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "morning",
-  "scenePrompt": "A port town with pastel buildings, a clock tower without numbers, quayside cafés, fishing boats and sunset reflections.",
-  "prompt": "A port town with pastel buildings, a clock tower without numbers, quayside cafés, fishing boats and sunset reflections.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Clock faces are plain with simple tick marks only, no numerals. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:04+00:00",
-  "attempt": 0,
-  "costUsd": 0.03046,
-  "phash": "c5dbccf006e3388d",
-  "file": "ai/raw/colorful_streets/colorful_streets-29-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "colorful_streets-30": {
   "id": "colorful_streets-30",
@@ -893,9 +614,9 @@
   "prompt": "A quiet residential street of pastel cottages with front gardens full of roses and hollyhocks, picket fences, a cat on a wall.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:04+00:00",
   "attempt": 0,
-  "costUsd": 0.02917,
+  "costUsd": 0.03108,
   "phash": "c19c21b0ece6ee69",
   "file": "ai/raw/colorful_streets/colorful_streets-30-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  }
 }

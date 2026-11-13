@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "80b095bbbb8d2b1b",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy rooftop balcony garden with potted plants and lemonade at sunset",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00235
  },
- "costUsd": 0.0288,
- "reviewPending": true,
+ "costUsd": 0.03115,
  "problems": [],
  "pass": true
 }

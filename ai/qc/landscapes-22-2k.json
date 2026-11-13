@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "88dc67f8364731a6",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "fantasy night landscape with stone arch bridge, waterfalls, and cliffside cottages",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00165
  },
- "costUsd": 0.02922,
- "reviewPending": true,
+ "costUsd": 0.03087,
  "problems": [
   "low contrast (0.136)"
  ],

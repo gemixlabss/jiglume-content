@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "house number 1 on a plaque next to the central arched doorway",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Charming illustrated street scene with a ceramic shop in an old European town.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00272
+}

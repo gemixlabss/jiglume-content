@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "92958d626d114fed",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Idyllic rural landscape with a stone cottage, sheep, muddy lane, and rainbow.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00213
  },
- "costUsd": 0.02861,
- "reviewPending": true,
+ "costUsd": 0.03074,
  "problems": [],
  "pass": true
 }

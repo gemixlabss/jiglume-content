@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "9dccdb24347249d3",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Spring garden scene with blooming tree, wheelbarrow, cat, and garden beds",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00257
  },
- "costUsd": 0.03098,
- "reviewPending": true,
+ "costUsd": 0.03355,
  "problems": [],
  "pass": true
 }

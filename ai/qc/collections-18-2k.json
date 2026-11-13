@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "8a92c541ab7ab17e",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter illustration of potted houseplants and succulents on shelves in front of a snowy window.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00235
  },
- "costUsd": 0.02965,
- "reviewPending": true,
+ "costUsd": 0.032,
  "problems": [],
  "pass": true
 }

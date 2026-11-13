@@ -56,10 +56,10 @@
   "prompt": "Two lop-eared bunnies nibbling clover in a wildflower meadow with daisies, poppies and buttercups, a wooden fence and a red barn far behind.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02932,
+  "costUsd": 0.03118,
   "phash": "d1cfeeb3a5241618",
   "file": "ai/raw/cute_pets/cute_pets-04-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-05": {
   "id": "cute_pets-05",
@@ -87,41 +87,10 @@
   "prompt": "A sleepy beagle curled on a plaid blanket in front of a stone fireplace, knitted stockings, firewood basket, warm firelight reflecting on wooden floorboards.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.0308,
+  "costUsd": 0.03269,
   "phash": "a1ad352a4ff8882f",
   "file": "ai/raw/cute_pets/cute_pets-05-2k.jpg",
-  "reviewed": false
- },
- "cute_pets-06": {
-  "id": "cute_pets-06",
-  "categoryId": "cute_pets",
-  "kind": "category",
-  "titleKey": "cute_pets-06",
-  "title": "Kitten and flowers",
-  "imagePath": "images/cute_pets/cute_pets-06.webp",
-  "thumbPath": "thumbs/cute_pets-06.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#252428",
-  "quality": {
-   "colorfulness": 67.7,
-   "contrast": 0.227,
-   "sharpness": 8.04
-  },
-  "appeal": 87.4,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "night",
-  "scenePrompt": "A white kitten peeking out of a big pot of pink hydrangeas on a veranda, painted watering cans, lace curtains, a bowl of strawberries on a little table.",
-  "prompt": "A white kitten peeking out of a big pot of pink hydrangeas on a veranda, painted watering cans, lace curtains, a bowl of strawberries on a little table.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:14:23+00:00",
-  "attempt": 0,
-  "costUsd": 0.02901,
-  "phash": "d0f42537576b6a42",
-  "file": "ai/raw/cute_pets/cute_pets-06-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-08": {
   "id": "cute_pets-08",
@@ -149,10 +118,10 @@
   "prompt": "Four cats of different colours lounging on the steps of a narrow staircase lined with potted plants and climbing ivy, terracotta tiles, Mediterranean courtyard.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02965,
+  "costUsd": 0.03215,
   "phash": "d4b452cf7f694007",
   "file": "ai/raw/cute_pets/cute_pets-08-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-11": {
   "id": "cute_pets-11",
@@ -180,10 +149,10 @@
   "prompt": "A grey Maine Coon cat sitting on a library ladder between towering bookshelves of colourful book spines without readable titles, a green banker's lamp glowing, globe and plants.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters. Maps, papers and boards are decorative without any readable writing or numbers.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02945,
+  "costUsd": 0.03136,
   "phash": "9292193c26c3f36f",
   "file": "ai/raw/cute_pets/cute_pets-11-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-12": {
   "id": "cute_pets-12",
@@ -211,10 +180,10 @@
   "prompt": "A happy border collie leaping through a pile of red and golden autumn leaves in a backyard, rake, pumpkins on the porch steps.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.0285,
+  "costUsd": 0.03095,
   "phash": "89ee76592b26a8b8",
   "file": "ai/raw/cute_pets/cute_pets-12-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-13": {
   "id": "cute_pets-13",
@@ -242,10 +211,10 @@
   "prompt": "Two tiny kittens sitting inside oversized floral porcelain teacups on a lace tablecloth, cupcakes, a teapot and roses.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02995,
+  "costUsd": 0.03202,
   "phash": "c9ea6bc9744654d4",
   "file": "ai/raw/cute_pets/cute_pets-13-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-15": {
   "id": "cute_pets-15",
@@ -273,10 +242,10 @@
   "prompt": "A small terrier wearing a red neckerchief sitting at the bow of a wooden rowboat on a calm lake, water lilies, reeds, dragonflies, pine-covered hills.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02904,
+  "costUsd": 0.0307,
   "phash": "c1cd70f0e6b17962",
   "file": "ai/raw/cute_pets/cute_pets-15-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-16": {
   "id": "cute_pets-16",
@@ -304,10 +273,10 @@
   "prompt": "A tuxedo cat sitting among seedlings and flower pots on a greenhouse workbench, hanging ferns, glass panes glowing with sunlight, gardening gloves and seed trays.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02834,
+  "costUsd": 0.03031,
   "phash": "c48c4e73e3c9e0e6",
   "file": "ai/raw/cute_pets/cute_pets-16-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-17": {
   "id": "cute_pets-17",
@@ -335,10 +304,10 @@
   "prompt": "A white rabbit with brown spots sitting in a vegetable garden bed full of carrots, radishes and lettuces, a wheelbarrow, sweet peas climbing a trellis.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02952,
+  "costUsd": 0.03134,
   "phash": "cdc0e4cd3a33dc54",
   "file": "ai/raw/cute_pets/cute_pets-17-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-18": {
   "id": "cute_pets-18",
@@ -366,10 +335,10 @@
   "prompt": "A cat and a puppy sleeping together on a patchwork quilt on a big bed, sunlight through gauzy curtains, patterned pillows, a plush teddy bear, cozy bedroom.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02911,
+  "costUsd": 0.03182,
   "phash": "959333b111ec2e9e",
   "file": "ai/raw/cute_pets/cute_pets-18-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-19": {
   "id": "cute_pets-19",
@@ -397,10 +366,10 @@
   "prompt": "Kittens playing on hay bales in a sunlit wooden barn, dust motes in beams of light, old lanterns, a horse looking over a stall door in the background.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02959,
+  "costUsd": 0.03197,
   "phash": "961236e7666b4e1c",
   "file": "ai/raw/cute_pets/cute_pets-19-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-20": {
   "id": "cute_pets-20",
@@ -428,10 +397,10 @@
   "prompt": "A fluffy white Samoyed sitting beside a small café table on a cobblestone terrace, flower boxes, striped awning without lettering, croissants and coffee cups.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.03059,
+  "costUsd": 0.03285,
   "phash": "dcf263d913b126a4",
   "file": "ai/raw/cute_pets/cute_pets-20-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-21": {
   "id": "cute_pets-21",
@@ -459,10 +428,10 @@
   "prompt": "A curious calico cat watching goldfish in a round glass bowl on a table, potted succulents, seashells, colourful marbles, reflections and light caustics.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.0288,
+  "costUsd": 0.031,
   "phash": "cba737d1509d34a2",
   "file": "ai/raw/cute_pets/cute_pets-21-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-22": {
   "id": "cute_pets-22",
@@ -490,10 +459,10 @@
   "prompt": "Husky puppies playing in fresh snow outside a log cabin with glowing windows, snow-covered pine trees, a wooden sled.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.03067,
+  "costUsd": 0.03338,
   "phash": "9953f43a8ae50a6e",
   "file": "ai/raw/cute_pets/cute_pets-22-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-23": {
   "id": "cute_pets-23",
@@ -521,10 +490,10 @@
   "prompt": "A colourful pet budgerigar perched on a vintage birdcage door while a kitten looks up curiously, potted palms, rattan furniture, patterned wallpaper.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.03106,
+  "costUsd": 0.03318,
   "phash": "d3963aa37c19c163",
   "file": "ai/raw/cute_pets/cute_pets-23-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-25": {
   "id": "cute_pets-25",
@@ -552,10 +521,10 @@
   "prompt": "Two cats sitting on terracotta rooftops of an old town, chimneys, laundry lines, flower pots on balconies, swallows in the warm sky.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02914,
+  "costUsd": 0.03108,
   "phash": "9092376e6c0f2f99",
   "file": "ai/raw/cute_pets/cute_pets-25-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cute_pets-29": {
   "id": "cute_pets-29",
@@ -583,9 +552,319 @@
   "prompt": "A Persian cat curled up on a rocking chair covered with a knitted blanket, knitting needles and colourful yarn, a fireplace, framed botanical prints without text.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:14:23+00:00",
   "attempt": 0,
-  "costUsd": 0.02914,
+  "costUsd": 0.03163,
   "phash": "d9ce37b09ca21e64",
   "file": "ai/raw/cute_pets/cute_pets-29-2k.jpg",
-  "reviewed": false
+  "reviewed": true
+ },
+ "cute_pets-02": {
+  "id": "cute_pets-02",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-02",
+  "title": "Puppy in the garden",
+  "imagePath": "images/cute_pets/cute_pets-02.webp",
+  "thumbPath": "thumbs/cute_pets-02.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#a3a793",
+  "quality": {
+   "colorfulness": 49.0,
+   "contrast": 0.221,
+   "sharpness": 7.76
+  },
+  "appeal": 72.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "A golden retriever puppy sitting among tulips and forget-me-nots in a cottage garden, a watering can and terracotta pots nearby, butterflies.",
+  "prompt": "A golden retriever puppy sitting among tulips and forget-me-nots in a cottage garden, a watering can and terracotta pots nearby, butterflies.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03118,
+  "phash": "c3c659d6cae8c9c8",
+  "file": "ai/raw/cute_pets/cute_pets-02-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-07": {
+  "id": "cute_pets-07",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-07",
+  "title": "Corgi picnic",
+  "imagePath": "images/cute_pets/cute_pets-07.webp",
+  "thumbPath": "thumbs/cute_pets-07.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#222c28",
+  "quality": {
+   "colorfulness": 59.5,
+   "contrast": 0.177,
+   "sharpness": 7.65
+  },
+  "appeal": 72.5,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "blue_hour",
+  "scenePrompt": "A corgi sitting proudly on a checked picnic blanket in a park, a wicker basket with sandwiches and fruit, dandelions, a pond with ducks in the distance, spring day.",
+  "prompt": "A corgi sitting proudly on a checked picnic blanket in a park, a wicker basket with sandwiches and fruit, dandelions, a pond with ducks in the distance, spring day.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03212,
+  "phash": "9d4e728126b435bd",
+  "file": "ai/raw/cute_pets/cute_pets-07-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-09": {
+  "id": "cute_pets-09",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-09",
+  "title": "Guinea pigs' house",
+  "imagePath": "images/cute_pets/cute_pets-09.webp",
+  "thumbPath": "thumbs/cute_pets-09.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#5e562c",
+  "quality": {
+   "colorfulness": 62.3,
+   "contrast": 0.207,
+   "sharpness": 8.09
+  },
+  "appeal": 80.5,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "rainy",
+  "scenePrompt": "Two guinea pigs in a cozy wooden hutch filled with hay, carrots, lettuce and a tiny ceramic food bowl, sunflowers growing around the hutch.",
+  "prompt": "Two guinea pigs in a cozy wooden hutch filled with hay, carrots, lettuce and a tiny ceramic food bowl, sunflowers growing around the hutch.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.0318,
+  "phash": "feba21c4c4a32367",
+  "file": "ai/raw/cute_pets/cute_pets-09-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-10": {
+  "id": "cute_pets-10",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-10",
+  "title": "Puppies in boots",
+  "imagePath": "images/cute_pets/cute_pets-10.webp",
+  "thumbPath": "thumbs/cute_pets-10.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#583022",
+  "quality": {
+   "colorfulness": 69.5,
+   "contrast": 0.175,
+   "sharpness": 7.04
+  },
+  "appeal": 76.6,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "blue_hour",
+  "scenePrompt": "Three spaniel puppies playing among colourful rubber boots and an umbrella stand in a farmhouse mudroom, coats on hooks, autumn leaves blowing in through the open door.",
+  "prompt": "Three spaniel puppies playing among colourful rubber boots and an umbrella stand in a farmhouse mudroom, coats on hooks, autumn leaves blowing in through the open door.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03297,
+  "phash": "89c4ce9d333361f8",
+  "file": "ai/raw/cute_pets/cute_pets-10-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-14": {
+  "id": "cute_pets-14",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-14",
+  "title": "Hamster's pantry",
+  "imagePath": "images/cute_pets/cute_pets-14.webp",
+  "thumbPath": "thumbs/cute_pets-14.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#543021",
+  "quality": {
+   "colorfulness": 53.2,
+   "contrast": 0.212,
+   "sharpness": 7.59
+  },
+  "appeal": 73.0,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "rainy",
+  "scenePrompt": "A chubby hamster stuffing its cheeks in a miniature pantry made of wooden crates full of seeds, nuts, berries and tiny jars, warm candle-like glow.",
+  "prompt": "A chubby hamster stuffing its cheeks in a miniature pantry made of wooden crates full of seeds, nuts, berries and tiny jars, warm candle-like glow.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03084,
+  "phash": "85b5764a4d4b3b16",
+  "file": "ai/raw/cute_pets/cute_pets-14-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-24": {
+  "id": "cute_pets-24",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-24",
+  "title": "Dachshund in the garden",
+  "imagePath": "images/cute_pets/cute_pets-24.webp",
+  "thumbPath": "thumbs/cute_pets-24.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#5f6755",
+  "quality": {
+   "colorfulness": 50.1,
+   "contrast": 0.234,
+   "sharpness": 7.92
+  },
+  "appeal": 75.5,
+  "flatShare": 0.013,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "A dachshund trotting along a brick garden path lined with lavender and roses, a stone birdbath with sparrows, an arched trellis.",
+  "prompt": "A dachshund trotting along a brick garden path lined with lavender and roses, a stone birdbath with sparrows, an arched trellis.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03146,
+  "phash": "c5f9c9e6b80a94d8",
+  "file": "ai/raw/cute_pets/cute_pets-24-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-26": {
+  "id": "cute_pets-26",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-26",
+  "title": "Puppy's bath",
+  "imagePath": "images/cute_pets/cute_pets-26.webp",
+  "thumbPath": "thumbs/cute_pets-26.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#626956",
+  "quality": {
+   "colorfulness": 45.7,
+   "contrast": 0.231,
+   "sharpness": 8.13
+  },
+  "appeal": 72.3,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "A wet cocker spaniel puppy in a vintage tin bathtub full of soap bubbles in a garden, colourful towels on a line, rubber duck, daisies in the grass.",
+  "prompt": "A wet cocker spaniel puppy in a vintage tin bathtub full of soap bubbles in a garden, colourful towels on a line, rubber duck, daisies in the grass.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03175,
+  "phash": "959918bf721bd232",
+  "file": "ai/raw/cute_pets/cute_pets-26-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-27": {
+  "id": "cute_pets-27",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-27",
+  "title": "Kitten in the toy box",
+  "imagePath": "images/cute_pets/cute_pets-27.webp",
+  "thumbPath": "thumbs/cute_pets-27.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#57281b",
+  "quality": {
+   "colorfulness": 65.8,
+   "contrast": 0.22,
+   "sharpness": 7.05
+  },
+  "appeal": 80.8,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "A ginger kitten hiding in a wooden toy box among plush animals, building blocks without letters, a spinning top and a toy train, warm nursery lamp light.",
+  "prompt": "A ginger kitten hiding in a wooden toy box among plush animals, building blocks without letters, a spinning top and a toy train, warm nursery lamp light.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Toy blocks and toys show pictures or plain colours only, no letters or numbers. Vehicles carry no numbers, plates, names or badges. Maps, papers and boards are decorative without any readable writing or numbers.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03143,
+  "phash": "d0d07173f37252f0",
+  "file": "ai/raw/cute_pets/cute_pets-27-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-28": {
+  "id": "cute_pets-28",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-28",
+  "title": "Ducklings and puppy",
+  "imagePath": "images/cute_pets/cute_pets-28.webp",
+  "thumbPath": "thumbs/cute_pets-28.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#5b5c27",
+  "quality": {
+   "colorfulness": 72.2,
+   "contrast": 0.221,
+   "sharpness": 8.16
+  },
+  "appeal": 88.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "midday",
+  "scenePrompt": "A curious puppy meeting a line of fluffy yellow ducklings by a farm pond, cattails, a wooden footbridge, wildflowers.",
+  "prompt": "A curious puppy meeting a line of fluffy yellow ducklings by a farm pond, cattails, a wooden footbridge, wildflowers.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03268,
+  "phash": "c9c4069fcfc26b31",
+  "file": "ai/raw/cute_pets/cute_pets-28-2k.jpg",
+  "reviewed": true
+ },
+ "cute_pets-30": {
+  "id": "cute_pets-30",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-30",
+  "title": "Puppies in the flower cart",
+  "imagePath": "images/cute_pets/cute_pets-30.webp",
+  "thumbPath": "thumbs/cute_pets-30.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#543121",
+  "quality": {
+   "colorfulness": 66.4,
+   "contrast": 0.232,
+   "sharpness": 7.83
+  },
+  "appeal": 86.5,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "Three puppies peeking out of a wooden flower cart full of sunflowers, roses and daisies at a village market square, bunting flags.",
+  "prompt": "Three puppies peeking out of a wooden flower cart full of sunflowers, roses and daisies at a village market square, bunting flags.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:14:23+00:00",
+  "attempt": 0,
+  "costUsd": 0.03219,
+  "phash": "d9815a5e456ed629",
+  "file": "ai/raw/cute_pets/cute_pets-30-2k.jpg",
+  "reviewed": true
  }
 }

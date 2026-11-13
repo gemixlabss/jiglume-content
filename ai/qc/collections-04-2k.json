@@ -32,10 +32,20 @@
  "faces": [],
  "phash": "de9b56f810643f14",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "numbers on the measuring tape in the bottom right corner",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Wooden cantilever sewing box filled with threads, buttons, pincushions, and ribbons in an outdoor garden setting.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0025
  },
- "costUsd": 0.03023,
- "reviewPending": true,
- "problems": [],
- "pass": true
+ "costUsd": 0.03273,
+ "problems": [
+  "letters/text (numbers on the measuring tape in the bottom right corner)"
+ ],
+ "pass": false
 }

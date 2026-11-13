@@ -38,10 +38,18 @@
  ],
  "phash": "9c827ba1666e61cd",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Nighttime fantasy canal city with glowing lanterns and boats under a starry sky.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00192
  },
- "costUsd": 0.03116,
- "reviewPending": true,
+ "costUsd": 0.03308,
  "problems": [],
  "pass": true
 }

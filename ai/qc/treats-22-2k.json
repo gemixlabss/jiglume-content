@@ -38,10 +38,18 @@
  ],
  "phash": "f3f13b1648b9062e",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy kitchen scene with jam-making supplies, jars, fruit, and a sleeping cat.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00285
  },
- "costUsd": 0.02822,
- "reviewPending": true,
+ "costUsd": 0.03107,
  "problems": [],
  "pass": true
 }

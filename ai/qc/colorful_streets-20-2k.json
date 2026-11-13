@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "917e3f2b610643e6",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy rainy nighttime cobblestone street illustration with glowing lanterns and flowerpots.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00293
  },
- "costUsd": 0.03205,
- "reviewPending": true,
+ "costUsd": 0.03498,
  "problems": [],
  "pass": true
 }

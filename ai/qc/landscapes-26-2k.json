@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "80e353b9313e2dce",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy nighttime stilt village with boats and starry mountain sky",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00197
  },
- "costUsd": 0.02808,
- "reviewPending": true,
+ "costUsd": 0.03005,
  "problems": [],
  "pass": true
 }

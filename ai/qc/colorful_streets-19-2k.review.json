@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "house number plaque above the pink door on the lower left",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Charming pastel-colored European street scene with azulejo tiles and a sleeping cat.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00257
+}

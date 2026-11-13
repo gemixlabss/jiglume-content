@@ -1,35 +1,4 @@
 {
- "fairytale-01": {
-  "id": "fairytale-01",
-  "categoryId": "fairytale",
-  "kind": "category",
-  "titleKey": "fairytale-01",
-  "title": "Castle on the hill",
-  "imagePath": "images/fairytale/fairytale-01.webp",
-  "thumbPath": "thumbs/fairytale-01.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#5e6456",
-  "quality": {
-   "colorfulness": 45.7,
-   "contrast": 0.222,
-   "sharpness": 8.29
-  },
-  "appeal": 70.9,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "rainy",
-  "scenePrompt": "A fairytale castle with many turrets on a green hill above a village and a river, flower meadows, a rainbow.",
-  "prompt": "A fairytale castle with many turrets on a green hill above a village and a river, flower meadows, a rainbow.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:17:24+00:00",
-  "attempt": 0,
-  "costUsd": 0.02986,
-  "phash": "84a79b5a71b16e1a",
-  "file": "ai/raw/fairytale/fairytale-01-2k.jpg",
-  "reviewed": false
- },
  "fairytale-03": {
   "id": "fairytale-03",
   "categoryId": "fairytale",
@@ -56,10 +25,10 @@
   "prompt": "A fairy house in the roots of an old tree with a round door, tiny windows, flowers, acorn lanterns and butterflies.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.0287,
+  "costUsd": 0.03062,
   "phash": "b1b1431f67c06c9e",
   "file": "ai/raw/fairytale/fairytale-03-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-04": {
   "id": "fairytale-04",
@@ -87,10 +56,10 @@
   "prompt": "Floating islands with waterfalls, little cottages and trees drifting among clouds, hot air balloons.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03032,
+  "costUsd": 0.03219,
   "phash": "bbf3847e8d4831a1",
   "file": "ai/raw/fairytale/fairytale-04-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-05": {
   "id": "fairytale-05",
@@ -118,10 +87,10 @@
   "prompt": "An enchanted forest with glowing flowers, giant ferns, a sparkling stream, deer and rabbits.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.0287,
+  "costUsd": 0.03138,
   "phash": "99047fc972d96037",
   "file": "ai/raw/fairytale/fairytale-05-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-06": {
   "id": "fairytale-06",
@@ -149,10 +118,10 @@
   "prompt": "A gingerbread house decorated with candies and icing in a snowy candy forest, lollipop trees, warm glowing windows.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02975,
+  "costUsd": 0.03143,
   "phash": "91be966732d3610e",
   "file": "ai/raw/fairytale/fairytale-06-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-07": {
   "id": "fairytale-07",
@@ -180,10 +149,10 @@
   "prompt": "A whimsical library tower with floating books, potion bottles, a telescope, candles and a star-filled window, no text.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02952,
+  "costUsd": 0.03198,
   "phash": "c41c706f4db04bcf",
   "file": "ai/raw/fairytale/fairytale-07-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-09": {
   "id": "fairytale-09",
@@ -211,10 +180,10 @@
   "prompt": "A village of treehouses connected by rope bridges in giant trees, lanterns, ladders, flowers and birds.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03075,
+  "costUsd": 0.0326,
   "phash": "90997b264cae366e",
   "file": "ai/raw/fairytale/fairytale-09-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-10": {
   "id": "fairytale-10",
@@ -242,10 +211,10 @@
   "prompt": "A cave filled with glowing colourful crystals, an underground lake reflecting them, tiny boats.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03084,
+  "costUsd": 0.03263,
   "phash": "996f27526699392c",
   "file": "ai/raw/fairytale/fairytale-10-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-11": {
   "id": "fairytale-11",
@@ -273,10 +242,10 @@
   "prompt": "A white castle on a cloud island with waterfalls pouring into the sky, rainbows and flying birds.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03005,
+  "costUsd": 0.03198,
   "phash": "e194127b256b5a67",
   "file": "ai/raw/fairytale/fairytale-11-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-13": {
   "id": "fairytale-13",
@@ -304,10 +273,10 @@
   "prompt": "An underwater fairy lagoon with seashell houses, coral gardens, glowing pearls, colourful fish and a small distant mermaid seen from behind.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02994,
+  "costUsd": 0.03193,
   "phash": "811f4cda5d951ec9",
   "file": "ai/raw/fairytale/fairytale-13-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-14": {
   "id": "fairytale-14",
@@ -335,10 +304,10 @@
   "prompt": "A friendly crooked cottage with a herb garden, pumpkins, a cauldron of flowers, black cat and lanterns, not scary.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02909,
+  "costUsd": 0.03084,
   "phash": "91911b1f6c3e3578",
   "file": "ai/raw/fairytale/fairytale-14-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-15": {
   "id": "fairytale-15",
@@ -366,10 +335,10 @@
   "prompt": "A glittering palace of ice and snow with frosted gardens, crystal trees and glowing windows under a pastel aurora sky.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02787,
+  "costUsd": 0.02986,
   "phash": "c1ff14551ae51c35",
   "file": "ai/raw/fairytale/fairytale-15-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-16": {
   "id": "fairytale-16",
@@ -397,10 +366,10 @@
   "prompt": "A tiny kingdom built inside a flower garden with daisy towers, tulip houses and bumblebees carrying baskets.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03014,
+  "costUsd": 0.03211,
   "phash": "9185c767571e4297",
   "file": "ai/raw/fairytale/fairytale-16-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-17": {
   "id": "fairytale-17",
@@ -428,10 +397,10 @@
   "prompt": "A whimsical bakery on a crescent moon baking star-shaped cookies, clouds like cotton candy, warm glowing ovens, starry sky.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03064,
+  "costUsd": 0.03276,
   "phash": "e273151f103c67f8",
   "file": "ai/raw/fairytale/fairytale-17-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-18": {
   "id": "fairytale-18",
@@ -459,10 +428,10 @@
   "prompt": "A house shaped like a giant floral teapot in a garden with teacup flower beds, a spoon bridge and roses.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02978,
+  "costUsd": 0.03184,
   "phash": "dd4f323660969d31",
   "file": "ai/raw/fairytale/fairytale-18-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-20": {
   "id": "fairytale-20",
@@ -490,41 +459,10 @@
   "prompt": "A forest path hung with hundreds of glowing paper lanterns, a little wooden bridge over a stream, fireflies.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02968,
+  "costUsd": 0.03165,
   "phash": "959b666f19914974",
   "file": "ai/raw/fairytale/fairytale-20-2k.jpg",
-  "reviewed": false
- },
- "fairytale-21": {
-  "id": "fairytale-21",
-  "categoryId": "fairytale",
-  "kind": "category",
-  "titleKey": "fairytale-21",
-  "title": "Book world",
-  "imagePath": "images/fairytale/fairytale-21.webp",
-  "thumbPath": "thumbs/fairytale-21.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#995d27",
-  "quality": {
-   "colorfulness": 64.9,
-   "contrast": 0.241,
-   "sharpness": 7.82
-  },
-  "appeal": 86.7,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "golden",
-  "scenePrompt": "An open giant book from which a miniature landscape rises — hills, castle, river, trees — on a desk lit by a warm lamp, no text on pages.",
-  "prompt": "An open giant book from which a miniature landscape rises — hills, castle, river, trees — on a desk lit by a warm lamp, no text on pages.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:17:24+00:00",
-  "attempt": 0,
-  "costUsd": 0.02892,
-  "phash": "a1a82a8f3d2e339e",
-  "file": "ai/raw/fairytale/fairytale-21-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-23": {
   "id": "fairytale-23",
@@ -552,10 +490,10 @@
   "prompt": "A village of rabbits with burrow doors in a grassy hillside, tiny gardens, washing lines and lanterns.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02908,
+  "costUsd": 0.03249,
   "phash": "91895b374f366c38",
   "file": "ai/raw/fairytale/fairytale-23-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-24": {
   "id": "fairytale-24",
@@ -583,10 +521,10 @@
   "prompt": "Wooden sailing ships with balloons floating at a cloud harbour with towers and bridges.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03012,
+  "costUsd": 0.03254,
   "phash": "d4f61b2371c63499",
   "file": "ai/raw/fairytale/fairytale-24-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-25": {
   "id": "fairytale-25",
@@ -614,10 +552,10 @@
   "prompt": "A castle covered with climbing roses in a quiet forest, overgrown gardens, butterflies.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02942,
+  "costUsd": 0.03109,
   "phash": "84951e18796b6776",
   "file": "ai/raw/fairytale/fairytale-25-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-26": {
   "id": "fairytale-26",
@@ -645,10 +583,10 @@
   "prompt": "A golden pumpkin carriage in a moonlit castle garden with fountains, rose bushes and sparkling lights.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02748,
+  "costUsd": 0.02939,
   "phash": "814e67cd5ef13099",
   "file": "ai/raw/fairytale/fairytale-26-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-27": {
   "id": "fairytale-27",
@@ -676,10 +614,10 @@
   "prompt": "A magical pond with glowing water lilies, frogs on lily pads, a small stone bridge, fireflies and a crescent moon.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.02718,
+  "costUsd": 0.02933,
   "phash": "954d2dc672a74d31",
   "file": "ai/raw/fairytale/fairytale-27-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-28": {
   "id": "fairytale-28",
@@ -707,10 +645,10 @@
   "prompt": "A tiny cottage dwarfed by giant flowers, huge strawberries and dewdrops in a garden, ladybugs and snails.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03056,
+  "costUsd": 0.03243,
   "phash": "959637487147393b",
   "file": "ai/raw/fairytale/fairytale-28-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-29": {
   "id": "fairytale-29",
@@ -738,10 +676,10 @@
   "prompt": "A whimsical stone tower with many round windows where owls deliver small parcels, autumn trees.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03001,
+  "costUsd": 0.03179,
   "phash": "c4c61e391e781e79",
   "file": "ai/raw/fairytale/fairytale-29-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "fairytale-30": {
   "id": "fairytale-30",
@@ -769,9 +707,412 @@
   "prompt": "An enchanted carousel with carved animals in a moonlit meadow, twinkling lights, flowers and fireflies, warm magical glow, no text.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:24+00:00",
   "attempt": 0,
-  "costUsd": 0.03048,
+  "costUsd": 0.03258,
   "phash": "969239364c696f6c",
   "file": "ai/raw/fairytale/fairytale-30-2k.jpg",
-  "reviewed": false
+  "reviewed": true
+ },
+ "fairytale-02": {
+  "id": "fairytale-02",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-02",
+  "title": "Mushroom village",
+  "imagePath": "images/fairytale/fairytale-02.webp",
+  "thumbPath": "thumbs/fairytale-02.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#625223",
+  "quality": {
+   "colorfulness": 60.0,
+   "contrast": 0.201,
+   "sharpness": 7.98
+  },
+  "appeal": 77.9,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "A tiny village of mushroom houses with round doors and windows in a mossy forest, lanterns, little bridges, fireflies.",
+  "prompt": "A tiny village of mushroom houses with round doors and windows in a mossy forest, lanterns, little bridges, fireflies.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:17:24+00:00",
+  "attempt": 0,
+  "costUsd": 0.03058,
+  "phash": "919813b36d3e7465",
+  "file": "ai/raw/fairytale/fairytale-02-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-12": {
+  "id": "fairytale-12",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-12",
+  "title": "Toadstool market",
+  "imagePath": "images/fairytale/fairytale-12.webp",
+  "thumbPath": "thumbs/fairytale-12.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#a19568",
+  "quality": {
+   "colorfulness": 51.2,
+   "contrast": 0.212,
+   "sharpness": 9.3
+  },
+  "appeal": 73.4,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "A woodland market where small animals sell berries, honey and acorns from toadstool stalls, lanterns.",
+  "prompt": "A woodland market where small animals sell berries, honey and acorns from toadstool stalls, lanterns.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:17:24+00:00",
+  "attempt": 0,
+  "costUsd": 0.0307,
+  "phash": "91915d366b293f58",
+  "file": "ai/raw/fairytale/fairytale-12-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-22": {
+  "id": "fairytale-22",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-22",
+  "title": "Clockwork town",
+  "imagePath": "images/fairytale/fairytale-22.webp",
+  "thumbPath": "thumbs/fairytale-22.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#9b5c21",
+  "quality": {
+   "colorfulness": 71.0,
+   "contrast": 0.247,
+   "sharpness": 9.04
+  },
+  "appeal": 92.0,
+  "flatShare": 0.013,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "A whimsical town of brass clockwork houses with gears, chimneys and gardens, small airships, no numbers on clocks.",
+  "prompt": "A whimsical town of brass clockwork houses with gears, chimneys and gardens, small airships, no numbers on clocks.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Clock faces are plain with simple tick marks only, no numerals.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:17:24+00:00",
+  "attempt": 0,
+  "costUsd": 0.03142,
+  "phash": "d9d9e7e5a590128a",
+  "file": "ai/raw/fairytale/fairytale-22-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-31": {
+  "id": "fairytale-31",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-31",
+  "title": "Teacup village",
+  "imagePath": "images/fairytale/fairytale-31.webp",
+  "thumbPath": "thumbs/fairytale-31.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#5a532d",
+  "quality": {
+   "colorfulness": 47.1,
+   "contrast": 0.24,
+   "sharpness": 8.4
+  },
+  "appeal": 74.6,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "rainy",
+  "scenePrompt": "A tiny village of houses built inside giant teacups and teapots in a flower meadow.",
+  "prompt": "A tiny village of houses built inside giant teacups and teapots in a flower meadow.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03291,
+  "phash": "94c9f9b636fa0710",
+  "file": "ai/raw/fairytale/fairytale-31-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-32": {
+  "id": "fairytale-32",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-32",
+  "title": "Glowing mushroom forest",
+  "imagePath": "images/fairytale/fairytale-32.webp",
+  "thumbPath": "thumbs/fairytale-32.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#212828",
+  "quality": {
+   "colorfulness": 61.3,
+   "contrast": 0.208,
+   "sharpness": 8.13
+  },
+  "appeal": 80.0,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "blue_hour",
+  "scenePrompt": "A forest of giant glowing mushrooms with tiny doors, lanterns and fireflies.",
+  "prompt": "A forest of giant glowing mushrooms with tiny doors, lanterns and fireflies.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03096,
+  "phash": "94cc79215e5a2d9d",
+  "file": "ai/raw/fairytale/fairytale-32-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-33": {
+  "id": "fairytale-33",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-33",
+  "title": "Castle in the lake",
+  "imagePath": "images/fairytale/fairytale-33.webp",
+  "thumbPath": "thumbs/fairytale-33.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#e5dddb",
+  "quality": {
+   "colorfulness": 41.1,
+   "contrast": 0.189,
+   "sharpness": 8.76
+  },
+  "appeal": 62.7,
+  "flatShare": 0.037,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "A fairytale castle on an island in a lake, swans, a bridge of flowers and mountains.",
+  "prompt": "A fairytale castle on an island in a lake, swans, a bridge of flowers and mountains.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.0319,
+  "phash": "94eedaa469936519",
+  "file": "ai/raw/fairytale/fairytale-33-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-34": {
+  "id": "fairytale-34",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-34",
+  "title": "Hot air balloon kingdom",
+  "imagePath": "images/fairytale/fairytale-34.webp",
+  "thumbPath": "thumbs/fairytale-34.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#625d57",
+  "quality": {
+   "colorfulness": 70.1,
+   "contrast": 0.241,
+   "sharpness": 8.8
+  },
+  "appeal": 91.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "midday",
+  "scenePrompt": "A kingdom of houses carried by colourful hot air balloons drifting over clouds.",
+  "prompt": "A kingdom of houses carried by colourful hot air balloons drifting over clouds.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03276,
+  "phash": "e44f8a3da61344fa",
+  "file": "ai/raw/fairytale/fairytale-34-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-35": {
+  "id": "fairytale-35",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-35",
+  "title": "Cottage in the tree",
+  "imagePath": "images/fairytale/fairytale-35.webp",
+  "thumbPath": "thumbs/fairytale-35.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#a2a595",
+  "quality": {
+   "colorfulness": 35.8,
+   "contrast": 0.213,
+   "sharpness": 9.71
+  },
+  "appeal": 62.5,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "A cottage built in the branches of a giant oak with ladders, lanterns and birdhouses.",
+  "prompt": "A cottage built in the branches of a giant oak with ladders, lanterns and birdhouses.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03259,
+  "phash": "e1f25ae41d2dac2c",
+  "file": "ai/raw/fairytale/fairytale-35-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-36": {
+  "id": "fairytale-36",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-36",
+  "title": "Sweet candy land",
+  "imagePath": "images/fairytale/fairytale-36.webp",
+  "thumbPath": "thumbs/fairytale-36.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#e09fa0",
+  "quality": {
+   "colorfulness": 114.1,
+   "contrast": 0.219,
+   "sharpness": 7.6
+  },
+  "appeal": 86.1,
+  "flatShare": 0.013,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "midday",
+  "scenePrompt": "A landscape of candy hills, lollipop trees, chocolate river and gingerbread cottages.",
+  "prompt": "A landscape of candy hills, lollipop trees, chocolate river and gingerbread cottages.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03033,
+  "phash": "b3c6346b307145fc",
+  "file": "ai/raw/fairytale/fairytale-36-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-37": {
+  "id": "fairytale-37",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-37",
+  "title": "Magic library",
+  "imagePath": "images/fairytale/fairytale-37.webp",
+  "thumbPath": "thumbs/fairytale-37.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#555a65",
+  "quality": {
+   "colorfulness": 30.9,
+   "contrast": 0.227,
+   "sharpness": 9.3
+  },
+  "appeal": 61.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "snowy",
+  "scenePrompt": "A round magic library with floating lanterns, blank-spined books flying and star charts without text.",
+  "prompt": "A round magic library with floating lanterns, blank-spined books flying and star charts without text.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03178,
+  "phash": "98de470e5c65d8c5",
+  "file": "ai/raw/fairytale/fairytale-37-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-38": {
+  "id": "fairytale-38",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-38",
+  "title": "Fox and owl tea party",
+  "imagePath": "images/fairytale/fairytale-38.webp",
+  "thumbPath": "thumbs/fairytale-38.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#2c2511",
+  "quality": {
+   "colorfulness": 63.6,
+   "contrast": 0.204,
+   "sharpness": 7.97
+  },
+  "appeal": 80.9,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "A fox, an owl and rabbits having a tea party on a mossy stump in the woods.",
+  "prompt": "A fox, an owl and rabbits having a tea party on a mossy stump in the woods.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03322,
+  "phash": "95952f6e49685ad2",
+  "file": "ai/raw/fairytale/fairytale-38-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-39": {
+  "id": "fairytale-39",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-39",
+  "title": "Crystal waterfall",
+  "imagePath": "images/fairytale/fairytale-39.webp",
+  "thumbPath": "thumbs/fairytale-39.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#626756",
+  "quality": {
+   "colorfulness": 38.1,
+   "contrast": 0.241,
+   "sharpness": 8.35
+  },
+  "appeal": 68.4,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "A waterfall of sparkling crystals pouring into a pond of glowing lilies in a magical valley.",
+  "prompt": "A waterfall of sparkling crystals pouring into a pond of glowing lilies in a magical valley.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03053,
+  "phash": "9492e3ce34b32da9",
+  "file": "ai/raw/fairytale/fairytale-39-2k.jpg",
+  "reviewed": true
+ },
+ "fairytale-40": {
+  "id": "fairytale-40",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-40",
+  "title": "Moonlit fairy garden",
+  "imagePath": "images/fairytale/fairytale-40.webp",
+  "thumbPath": "thumbs/fairytale-40.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#21272b",
+  "quality": {
+   "colorfulness": 53.9,
+   "contrast": 0.218,
+   "sharpness": 8.72
+  },
+  "appeal": 76.2,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "night",
+  "scenePrompt": "A fairy garden of glowing flowers and tiny houses under a big moon, fireflies everywhere.",
+  "prompt": "A fairy garden of glowing flowers and tiny houses under a big moon, fireflies everywhere.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03153,
+  "phash": "939b1b1b64e46c65",
+  "file": "ai/raw/fairytale/fairytale-40-2k.jpg",
+  "reviewed": true
  }
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "821917b273af2cd6",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustrated night library with sleeping cat, globes, and spiral staircase.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00207
  },
- "costUsd": 0.02998,
- "reviewPending": true,
+ "costUsd": 0.03205,
  "problems": [],
  "pass": true
 }

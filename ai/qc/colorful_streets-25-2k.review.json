@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "house number tile above the lower left door",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy illustration of a yellow Lisbon tram descending a cobblestone street at dusk towards the water.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0032
+}

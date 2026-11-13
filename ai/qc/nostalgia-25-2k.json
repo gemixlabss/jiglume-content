@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "c5e89e99171e6986",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Vintage classroom interior with school desks, chalkboard, and a globe",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00263
  },
- "costUsd": 0.0301,
- "reviewPending": true,
+ "costUsd": 0.03273,
  "problems": [],
  "pass": true
 }

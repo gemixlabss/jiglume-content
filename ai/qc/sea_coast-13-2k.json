@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "90b3cee96a5c136c",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming pastel harbor market with fishing boats and fruit/fish stalls.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0028
  },
- "costUsd": 0.02983,
- "reviewPending": true,
+ "costUsd": 0.03263,
  "problems": [],
  "pass": true
 }

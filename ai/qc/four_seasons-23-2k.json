@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "8491fb86b16e5e45",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter village landscape with skaters and snow-covered cottages",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00171
  },
- "costUsd": 0.03053,
- "reviewPending": true,
+ "costUsd": 0.03224,
  "problems": [],
  "pass": true
 }

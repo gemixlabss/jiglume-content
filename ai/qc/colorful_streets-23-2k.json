@@ -38,10 +38,18 @@
  ],
  "phash": "c7ac98f908b95e1a",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustrated courtyard with a well, balconies, hanging laundry, and cats",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00253
  },
- "costUsd": 0.02812,
- "reviewPending": true,
+ "costUsd": 0.03065,
  "problems": [],
  "pass": true
 }

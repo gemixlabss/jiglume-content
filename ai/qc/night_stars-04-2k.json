@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "946b58307b17c99e",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter cabin under the northern lights",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00209
  },
- "costUsd": 0.02911,
- "reviewPending": true,
+ "costUsd": 0.0312,
  "problems": [],
  "pass": true
 }

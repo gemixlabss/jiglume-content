@@ -25,10 +25,10 @@
   "prompt": "Spring: a path under blossoming cherry trees with petals falling, tulip beds, a bench and a pond.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02896,
+  "costUsd": 0.03093,
   "phash": "95b16e6259c193ec",
   "file": "ai/raw/four_seasons/four_seasons-01-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-02": {
   "id": "four_seasons-02",
@@ -56,10 +56,10 @@
   "prompt": "Spring: an orchard in full blossom with lambs in the grass, daffodils, a farmhouse and a blue sky with puffy clouds.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02813,
+  "costUsd": 0.03011,
   "phash": "d3bab1f07a123487",
   "file": "ai/raw/four_seasons/four_seasons-02-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-03": {
   "id": "four_seasons-03",
@@ -87,10 +87,10 @@
   "prompt": "Spring: a garden after rain with tulips, puddles reflecting blossoms, colourful rubber boots and an umbrella.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02982,
+  "costUsd": 0.03158,
   "phash": "95c38d9acb0f3493",
   "file": "ai/raw/four_seasons/four_seasons-03-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-04": {
   "id": "four_seasons-04",
@@ -118,72 +118,10 @@
   "prompt": "Spring: a meadow with bluebells, primroses and violets under young birch trees, rabbits, birds building nests.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02851,
+  "costUsd": 0.03076,
   "phash": "d1936615b7665368",
   "file": "ai/raw/four_seasons/four_seasons-04-2k.jpg",
-  "reviewed": false
- },
- "four_seasons-05": {
-  "id": "four_seasons-05",
-  "categoryId": "four_seasons",
-  "kind": "category",
-  "titleKey": "four_seasons-05",
-  "title": "Spring market",
-  "imagePath": "images/four_seasons/four_seasons-05.webp",
-  "thumbPath": "thumbs/four_seasons-05.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#66502f",
-  "quality": {
-   "colorfulness": 57.8,
-   "contrast": 0.23,
-   "sharpness": 8.61
-  },
-  "appeal": 80.8,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "golden",
-  "scenePrompt": "Spring: a village market with seedlings, potted flowers, baskets of eggs and fresh greens, blossoming trees.",
-  "prompt": "Spring: a village market with seedlings, potted flowers, baskets of eggs and fresh greens, blossoming trees.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:17:59+00:00",
-  "attempt": 0,
-  "costUsd": 0.03076,
-  "phash": "949ec9e14ae96c5a",
-  "file": "ai/raw/four_seasons/four_seasons-05-2k.jpg",
-  "reviewed": false
- },
- "four_seasons-06": {
-  "id": "four_seasons-06",
-  "categoryId": "four_seasons",
-  "kind": "category",
-  "titleKey": "four_seasons-06",
-  "title": "Spring canal",
-  "imagePath": "images/four_seasons/four_seasons-06.webp",
-  "thumbPath": "thumbs/four_seasons-06.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#625361",
-  "quality": {
-   "colorfulness": 62.2,
-   "contrast": 0.192,
-   "sharpness": 8.8
-  },
-  "appeal": 78.2,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "blue_hour",
-  "scenePrompt": "Spring: a canal lined with blooming magnolias and tulips, boats and bicycles, pastel houses.",
-  "prompt": "Spring: a canal lined with blooming magnolias and tulips, boats and bicycles, pastel houses.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:17:59+00:00",
-  "attempt": 0,
-  "costUsd": 0.03043,
-  "phash": "d4961b29669f8732",
-  "file": "ai/raw/four_seasons/four_seasons-06-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-07": {
   "id": "four_seasons-07",
@@ -211,10 +149,10 @@
   "prompt": "Spring: a vegetable garden being planted with seedlings, seed trays, a wheelbarrow, tools, a blossoming tree and a cat.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.03098,
+  "costUsd": 0.03355,
   "phash": "9dccdb24347249d3",
   "file": "ai/raw/four_seasons/four_seasons-07-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-08": {
   "id": "four_seasons-08",
@@ -242,10 +180,10 @@
   "prompt": "Summer: a busy-but-peaceful beach with colourful umbrellas, sandcastles, kites, ice-cream colours, small distant people, sparkling sea.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.03213,
+  "costUsd": 0.03389,
   "phash": "cdce0db22758166b",
   "file": "ai/raw/four_seasons/four_seasons-08-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-09": {
   "id": "four_seasons-09",
@@ -273,10 +211,10 @@
   "prompt": "Summer: a meadow of tall grasses and wildflowers with butterflies, a hammock between trees and a lemonade jug.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.03014,
+  "costUsd": 0.0323,
   "phash": "95dd3a382d6a3287",
   "file": "ai/raw/four_seasons/four_seasons-09-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-10": {
   "id": "four_seasons-10",
@@ -304,10 +242,10 @@
   "prompt": "Summer: a lake with a wooden diving pier, rowboats, swimming float, reeds and water lilies.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.03013,
+  "costUsd": 0.03225,
   "phash": "c48633f34e2e3b19",
   "file": "ai/raw/four_seasons/four_seasons-10-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-12": {
   "id": "four_seasons-12",
@@ -335,10 +273,10 @@
   "prompt": "Summer: a village festival with bunting, flower garlands, long tables with food and lanterns, small distant people.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02904,
+  "costUsd": 0.03098,
   "phash": "907a13937a665b66",
   "file": "ai/raw/four_seasons/four_seasons-12-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-13": {
   "id": "four_seasons-13",
@@ -366,10 +304,10 @@
   "prompt": "Summer: a road through sunflower fields with a farmhouse and a lone tree.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.0292,
+  "costUsd": 0.03102,
   "phash": "99b0c749675c3237",
   "file": "ai/raw/four_seasons/four_seasons-13-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-14": {
   "id": "four_seasons-14",
@@ -397,10 +335,10 @@
   "prompt": "Summer: a garden with a small pool, floating flowers, deckchairs, lemon trees in pots and bougainvillea.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02984,
+  "costUsd": 0.03195,
   "phash": "853b56c63a255b4b",
   "file": "ai/raw/four_seasons/four_seasons-14-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-15": {
   "id": "four_seasons-15",
@@ -428,10 +366,10 @@
   "prompt": "Autumn: a forest path covered with red and golden leaves, mushrooms, a squirrel.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02907,
+  "costUsd": 0.03092,
   "phash": "c597367638c9e584",
   "file": "ai/raw/four_seasons/four_seasons-15-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-17": {
   "id": "four_seasons-17",
@@ -459,10 +397,10 @@
   "prompt": "Autumn: a village street with colourful trees, apple crates, pumpkins on steps, chimney smoke.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02951,
+  "costUsd": 0.03141,
   "phash": "903216f223e97b4f",
   "file": "ai/raw/four_seasons/four_seasons-17-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-18": {
   "id": "four_seasons-18",
@@ -490,10 +428,10 @@
   "prompt": "Autumn: a lake reflecting red, orange and yellow forests, a wooden canoe.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02937,
+  "costUsd": 0.03106,
   "phash": "919b4b8d6a643c5b",
   "file": "ai/raw/four_seasons/four_seasons-18-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-19": {
   "id": "four_seasons-19",
@@ -521,10 +459,10 @@
   "prompt": "Autumn: harvest fields with haystacks, a horse cart of pumpkins, an orchard with apples.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02798,
+  "costUsd": 0.02986,
   "phash": "87d8e52bb06d4837",
   "file": "ai/raw/four_seasons/four_seasons-19-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-20": {
   "id": "four_seasons-20",
@@ -552,10 +490,10 @@
   "prompt": "Autumn: a café window seat with pumpkin pie and tea, falling leaves outside on a cobblestone street.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02902,
+  "costUsd": 0.03119,
   "phash": "c6c7391b31783b94",
   "file": "ai/raw/four_seasons/four_seasons-20-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-21": {
   "id": "four_seasons-21",
@@ -583,10 +521,10 @@
   "prompt": "Autumn: vineyards in red and gold on rolling hills, grape baskets, a stone farmhouse.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.03013,
+  "costUsd": 0.03204,
   "phash": "84eac9b26a974c79",
   "file": "ai/raw/four_seasons/four_seasons-21-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-22": {
   "id": "four_seasons-22",
@@ -614,10 +552,10 @@
   "prompt": "Autumn: a city park with a pond, a gazebo, benches, trees in fiery colours and leaves floating on the water.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02936,
+  "costUsd": 0.03132,
   "phash": "85daf0ee79603319",
   "file": "ai/raw/four_seasons/four_seasons-22-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-23": {
   "id": "four_seasons-23",
@@ -645,10 +583,10 @@
   "prompt": "Winter: a snowy village with warm glowing windows, smoking chimneys, snowy pines and a frozen pond with skaters far away.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.03053,
+  "costUsd": 0.03224,
   "phash": "8491fb86b16e5e45",
   "file": "ai/raw/four_seasons/four_seasons-23-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-24": {
   "id": "four_seasons-24",
@@ -676,10 +614,10 @@
   "prompt": "Winter: a cabin in a snowy forest with smoke from the chimney, firewood stacks, a sled, deer tracks.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02979,
+  "costUsd": 0.03175,
   "phash": "c4579462359f6936",
   "file": "ai/raw/four_seasons/four_seasons-24-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-25": {
   "id": "four_seasons-25",
@@ -707,10 +645,10 @@
   "prompt": "Winter: a frozen lake with small distant skaters, a wooden hut selling hot drinks, snowy hills and warm lanterns.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02901,
+  "costUsd": 0.03155,
   "phash": "c4d9bbea27bc024a",
   "file": "ai/raw/four_seasons/four_seasons-25-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-26": {
   "id": "four_seasons-26",
@@ -738,10 +676,10 @@
   "prompt": "Winter: a snowy garden with birds at feeders, red berries, a birdbath with ice and a cottage window glowing warmly.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02848,
+  "costUsd": 0.0302,
   "phash": "85a49735966e9936",
   "file": "ai/raw/four_seasons/four_seasons-26-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-27": {
   "id": "four_seasons-27",
@@ -769,10 +707,10 @@
   "prompt": "Winter: a red train crossing a snowy valley with frosted trees, a small station with lanterns, mountains.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.03092,
+  "costUsd": 0.03373,
   "phash": "84f34c576c071f74",
   "file": "ai/raw/four_seasons/four_seasons-27-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-28": {
   "id": "four_seasons-28",
@@ -800,41 +738,10 @@
   "prompt": "Winter: a mountain village under deep snow with chalets, lanterns, a horse sleigh.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02985,
+  "costUsd": 0.03213,
   "phash": "80b9875679665b59",
   "file": "ai/raw/four_seasons/four_seasons-28-2k.jpg",
-  "reviewed": false
- },
- "four_seasons-29": {
-  "id": "four_seasons-29",
-  "categoryId": "four_seasons",
-  "kind": "category",
-  "titleKey": "four_seasons-29",
-  "title": "Winter window",
-  "imagePath": "images/four_seasons/four_seasons-29.webp",
-  "thumbPath": "thumbs/four_seasons-29.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#60679d",
-  "quality": {
-   "colorfulness": 52.9,
-   "contrast": 0.226,
-   "sharpness": 8.33
-  },
-  "appeal": 76.7,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "blue_hour",
-  "scenePrompt": "Winter: a frosted window with icy patterns, a cat on the sill, candles and a snowy garden outside.",
-  "prompt": "Winter: a frosted window with icy patterns, a cat on the sill, candles and a snowy garden outside.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:17:59+00:00",
-  "attempt": 0,
-  "costUsd": 0.03113,
-  "phash": "81966bc936672d72",
-  "file": "ai/raw/four_seasons/four_seasons-29-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "four_seasons-30": {
   "id": "four_seasons-30",
@@ -862,9 +769,257 @@
   "prompt": "Winter: a snowy meadow with a cheerful snowman with a scarf, sleds, pine trees, a farmhouse.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:17:59+00:00",
   "attempt": 0,
-  "costUsd": 0.02888,
+  "costUsd": 0.03118,
   "phash": "c4375f611a0e7987",
   "file": "ai/raw/four_seasons/four_seasons-30-2k.jpg",
-  "reviewed": false
+  "reviewed": true
+ },
+ "four_seasons-31": {
+  "id": "four_seasons-31",
+  "categoryId": "four_seasons",
+  "kind": "category",
+  "titleKey": "four_seasons-31",
+  "title": "Spring blossom village",
+  "imagePath": "images/four_seasons/four_seasons-31.webp",
+  "thumbPath": "thumbs/four_seasons-31.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#655c53",
+  "quality": {
+   "colorfulness": 53.3,
+   "contrast": 0.23,
+   "sharpness": 9.8
+  },
+  "appeal": 77.6,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "midday",
+  "scenePrompt": "Spring: a village street lined with blossoming cherry trees and window boxes of tulips.",
+  "prompt": "Spring: a village street lined with blossoming cherry trees and window boxes of tulips.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03289,
+  "phash": "99fcd463e0c868cb",
+  "file": "ai/raw/four_seasons/four_seasons-31-2k.jpg",
+  "reviewed": true
+ },
+ "four_seasons-32": {
+  "id": "four_seasons-32",
+  "categoryId": "four_seasons",
+  "kind": "category",
+  "titleKey": "four_seasons-32",
+  "title": "Spring lambs",
+  "imagePath": "images/four_seasons/four_seasons-32.webp",
+  "thumbPath": "thumbs/four_seasons-32.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#5e5a29",
+  "quality": {
+   "colorfulness": 56.6,
+   "contrast": 0.235,
+   "sharpness": 8.7
+  },
+  "appeal": 80.7,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "Spring: lambs playing in a green meadow with daisies and a stone farmhouse.",
+  "prompt": "Spring: lambs playing in a green meadow with daisies and a stone farmhouse.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03228,
+  "phash": "c4cdb9b2329e4d62",
+  "file": "ai/raw/four_seasons/four_seasons-32-2k.jpg",
+  "reviewed": true
+ },
+ "four_seasons-33": {
+  "id": "four_seasons-33",
+  "categoryId": "four_seasons",
+  "kind": "category",
+  "titleKey": "four_seasons-33",
+  "title": "Summer lavender",
+  "imagePath": "images/four_seasons/four_seasons-33.webp",
+  "thumbPath": "thumbs/four_seasons-33.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#4e3424",
+  "quality": {
+   "colorfulness": 58.7,
+   "contrast": 0.251,
+   "sharpness": 8.57
+  },
+  "appeal": 84.6,
+  "flatShare": 0.013,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "Summer: rows of lavender with bees and a farmhouse among olive trees.",
+  "prompt": "Summer: rows of lavender with bees and a farmhouse among olive trees.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03176,
+  "phash": "c1c89bbee5653d01",
+  "file": "ai/raw/four_seasons/four_seasons-33-2k.jpg",
+  "reviewed": true
+ },
+ "four_seasons-35": {
+  "id": "four_seasons-35",
+  "categoryId": "four_seasons",
+  "kind": "category",
+  "titleKey": "four_seasons-35",
+  "title": "Summer rowing boats",
+  "imagePath": "images/four_seasons/four_seasons-35.webp",
+  "thumbPath": "thumbs/four_seasons-35.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#1c2a2d",
+  "quality": {
+   "colorfulness": 55.7,
+   "contrast": 0.19,
+   "sharpness": 8.34
+  },
+  "appeal": 73.3,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "night",
+  "scenePrompt": "Summer: colourful rowing boats on a lake with water lilies and willows.",
+  "prompt": "Summer: colourful rowing boats on a lake with water lilies and willows.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.02969,
+  "phash": "cc8c1b7c0f1f3343",
+  "file": "ai/raw/four_seasons/four_seasons-35-2k.jpg",
+  "reviewed": true
+ },
+ "four_seasons-36": {
+  "id": "four_seasons-36",
+  "categoryId": "four_seasons",
+  "kind": "category",
+  "titleKey": "four_seasons-36",
+  "title": "Autumn mushrooms",
+  "imagePath": "images/four_seasons/four_seasons-36.webp",
+  "thumbPath": "thumbs/four_seasons-36.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#585331",
+  "quality": {
+   "colorfulness": 51.7,
+   "contrast": 0.254,
+   "sharpness": 8.01
+  },
+  "appeal": 80.0,
+  "flatShare": 0.025,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "Autumn: a forest floor of mushrooms, acorns, red leaves and moss.",
+  "prompt": "Autumn: a forest floor of mushrooms, acorns, red leaves and moss.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03124,
+  "phash": "989a9092ee2f63e9",
+  "file": "ai/raw/four_seasons/four_seasons-36-2k.jpg",
+  "reviewed": true
+ },
+ "four_seasons-37": {
+  "id": "four_seasons-37",
+  "categoryId": "four_seasons",
+  "kind": "category",
+  "titleKey": "four_seasons-37",
+  "title": "Autumn harvest table",
+  "imagePath": "images/four_seasons/four_seasons-37.webp",
+  "thumbPath": "thumbs/four_seasons-37.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#aca393",
+  "quality": {
+   "colorfulness": 41.8,
+   "contrast": 0.181,
+   "sharpness": 9.21
+  },
+  "appeal": 62.0,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "Autumn: an outdoor harvest table with pumpkins, apples, bread and autumn flowers.",
+  "prompt": "Autumn: an outdoor harvest table with pumpkins, apples, bread and autumn flowers.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03223,
+  "phash": "959a6ff132111b35",
+  "file": "ai/raw/four_seasons/four_seasons-37-2k.jpg",
+  "reviewed": true
+ },
+ "four_seasons-39": {
+  "id": "four_seasons-39",
+  "categoryId": "four_seasons",
+  "kind": "category",
+  "titleKey": "four_seasons-39",
+  "title": "Winter cabin lights",
+  "imagePath": "images/four_seasons/four_seasons-39.webp",
+  "thumbPath": "thumbs/four_seasons-39.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#dcdbe3",
+  "quality": {
+   "colorfulness": 32.8,
+   "contrast": 0.235,
+   "sharpness": 8.49
+  },
+  "appeal": 63.7,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "snowy",
+  "scenePrompt": "Winter: a log cabin among snowy pines with glowing windows and a frozen pond.",
+  "prompt": "Winter: a log cabin among snowy pines with glowing windows and a frozen pond.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.0308,
+  "phash": "811fa3a26b48ef72",
+  "file": "ai/raw/four_seasons/four_seasons-39-2k.jpg",
+  "reviewed": true
+ },
+ "four_seasons-40": {
+  "id": "four_seasons-40",
+  "categoryId": "four_seasons",
+  "kind": "category",
+  "titleKey": "four_seasons-40",
+  "title": "Winter market square",
+  "imagePath": "images/four_seasons/four_seasons-40.webp",
+  "thumbPath": "thumbs/four_seasons-40.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#e5eaef",
+  "quality": {
+   "colorfulness": 71.7,
+   "contrast": 0.271,
+   "sharpness": 8.7
+  },
+  "appeal": 95.6,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "midday",
+  "scenePrompt": "Winter: a snowy town square with a skating rink, stalls and a decorated tree.",
+  "prompt": "Winter: a snowy town square with a skating rink, stalls and a decorated tree.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03262,
+  "phash": "cb3588b2130af75e",
+  "file": "ai/raw/four_seasons/four_seasons-40-2k.jpg",
+  "reviewed": true
  }
 }

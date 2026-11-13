@@ -48,13 +48,20 @@
  ],
  "phash": "c896ccebc64f3c14",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Mother polar bear with two cubs resting on ice floes",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00201
  },
- "costUsd": 0.03004,
- "reviewPending": true,
+ "costUsd": 0.03205,
  "problems": [
-  "low contrast (0.153)",
-  "close-up face"
+  "low contrast (0.153)"
  ],
  "pass": false
 }

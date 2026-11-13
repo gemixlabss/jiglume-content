@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "94bc0fe938674b62",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Scenic mountain house built on stilts beside a waterfall and terraced tea fields at dusk.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0022
  },
- "costUsd": 0.0289,
- "reviewPending": true,
+ "costUsd": 0.0311,
  "problems": [],
  "pass": true
 }

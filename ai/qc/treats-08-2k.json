@@ -38,10 +38,20 @@
  ],
  "phash": "82122937799b55db",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "faint lettering on the blue tin can label on the upper shelf",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy, charming illustration of an artisan gelato and coffee shop on a rainy day.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00351
  },
- "costUsd": 0.02937,
- "reviewPending": true,
- "problems": [],
- "pass": true
+ "costUsd": 0.03288,
+ "problems": [
+  "letters/text (faint lettering on the blue tin can label on the upper shelf)"
+ ],
+ "pass": false
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "d0ec754e9a729c07",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy living room illustration with a cat sleeping on a footstool and knitting supplies.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00263
  },
- "costUsd": 0.03039,
- "reviewPending": true,
+ "costUsd": 0.03302,
  "problems": [],
  "pass": true
 }

@@ -20,6 +20,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "ai" / "titles_i18n.json"
 MODEL = "gemini-3.8-flash"
+BATCH = 10  # titles per request (long answers time out at the gateway)
 LANGS = ["en", "tr", "de", "fr", "es", "pt-BR", "it", "ru", "ar", "ja", "ko", "zh-Hans", "hi", "id", "nl", "pl",
          "uk", "vi", "th", "sv"]
 NAMES = {"tr": "Turkish", "de": "German", "fr": "French", "es": "Spanish", "pt-BR": "Brazilian Portuguese",
@@ -36,7 +37,7 @@ def ask(batch: dict[str, str]) -> dict:
         ". Return JSON: an object mapping each id to an object mapping each language code to its title.\n\n" +
         json.dumps(batch, ensure_ascii=False, indent=0))
     body = {"contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"responseMimeType": "application/json"}}
+            "generationConfig": {"responseMimeType": "application/json", "thinkingConfig": {"thinkingLevel": "low"}}}
     req = urllib.request.Request(
         f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent",
         data=json.dumps(body).encode(), method="POST",
@@ -65,8 +66,8 @@ def main() -> int:
     done = json.loads(OUT.read_text()) if OUT.exists() else {}
     todo = {k: v for k, v in titles.items() if k not in done or any(l not in done[k] for l in LANGS)}
     keys = list(todo)
-    for i in range(0, len(keys), 40):
-        batch = {k: todo[k] for k in keys[i:i + 40]}
+    for i in range(0, len(keys), BATCH):
+        batch = {k: todo[k] for k in keys[i:i + BATCH]}
         result = ask(batch)
         for k, en in batch.items():
             tr = result.get(k) or {}
@@ -74,7 +75,7 @@ def main() -> int:
             if all(entry.values()):
                 done[k] = entry
         OUT.write_text(json.dumps(done, ensure_ascii=False, indent=1))
-        print(f"{min(i + 40, len(keys))}/{len(keys)}", file=sys.stderr)
+        print(f"{min(i + BATCH, len(keys))}/{len(keys)}", file=sys.stderr)
     missing = [k for k in titles if k not in done]
     print(json.dumps({"titles": len(done), "missing": missing}))
     return 0 if not missing else 1

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "909a75e861ef4f82",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy vintage English tea room illustration with no human figures or text.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00223
  },
- "costUsd": 0.02827,
- "reviewPending": true,
+ "costUsd": 0.0305,
  "problems": [],
  "pass": true
 }

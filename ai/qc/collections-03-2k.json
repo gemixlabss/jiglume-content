@@ -68,10 +68,18 @@
  ],
  "phash": "acb1435b53b4549e",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Vintage toy shop interior filled with classic wooden toys, teddy bears, and tin robots.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00295
  },
- "costUsd": 0.03029,
- "reviewPending": true,
+ "costUsd": 0.03324,
  "problems": [],
  "pass": true
 }

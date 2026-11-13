@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-38-2k.jpg",
+ "id": "nostalgia-38",
+ "category": "nostalgia",
+ "title": "Old railway platform",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 68.0,
+  "contrast": 0.226,
+  "sharpness": 8.73
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c6c6673232d921e7",
+ "review": {
+  "text": true,
+  "text_where": "markings on the station clock face",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Vintage steam train arriving at a picturesque countryside station with luggage and flowers on the platform.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00247
+ },
+ "costUsd": 0.03324,
+ "problems": [
+  "letters/text (markings on the station clock face)"
+ ],
+ "pass": false
+}

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "85c23b3d68f8945e",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter kitchen scene with gingerbread baking.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0025
  },
- "costUsd": 0.03017,
- "reviewPending": true,
+ "costUsd": 0.03267,
  "problems": [],
  "pass": true
 }

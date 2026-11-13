@@ -38,10 +38,18 @@
  ],
  "phash": "c13d3ce3162d23da",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustrated night market scene with lanterns and market stalls.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00265
  },
- "costUsd": 0.02936,
- "reviewPending": true,
+ "costUsd": 0.03201,
  "problems": [],
  "pass": true
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "999746593b683761",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Lush tropical rainforest river village with stilt houses, bridges, and parrots.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00164
  },
- "costUsd": 0.03074,
- "reviewPending": true,
+ "costUsd": 0.03238,
  "problems": [],
  "pass": true
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "91af625a59ad295a",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Barn swallows flying over a sunflower field beside a barn at dusk",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00184
  },
- "costUsd": 0.03028,
- "reviewPending": true,
+ "costUsd": 0.03212,
  "problems": [
   "low contrast (0.14)"
  ],

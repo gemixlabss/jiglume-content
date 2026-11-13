@@ -43,10 +43,18 @@
  ],
  "phash": "e273151f103c67f8",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Whimsical illustration of miniature bakers in a bakery atop a crescent moon.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00212
  },
- "costUsd": 0.03064,
- "reviewPending": true,
+ "costUsd": 0.03276,
  "problems": [],
  "pass": true
 }

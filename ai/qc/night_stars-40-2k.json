@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/night_stars/night_stars-40-2k.jpg",
+ "id": "night_stars-40",
+ "category": "night_stars",
+ "title": "Snowy night village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.0,
+  "contrast": 0.253,
+  "sharpness": 9.04
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "816f730e730e79a4",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter village scene with snowy cottages, a Christmas tree, and starry sky.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00198
+ },
+ "costUsd": 0.03105,
+ "problems": [],
+ "pass": true
+}

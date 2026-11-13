@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "c7b893ec6110537e",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Idyllic countryside landscape illustration",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00237
  },
- "costUsd": 0.02898,
- "reviewPending": true,
+ "costUsd": 0.03135,
  "problems": [],
  "pass": true
 }

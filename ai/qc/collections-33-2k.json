@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/collections/collections-33-2k.jpg",
+ "id": "collections-33",
+ "category": "collections",
+ "title": "Yarn cubbies",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 67.6,
+  "contrast": 0.199,
+  "sharpness": 8.16
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "822b5665f14f15e5",
+ "review": {
+  "text": true,
+  "text_where": "scribbled text and symbols on hanging shelf tags and yarn label band on the floor",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy yarn store with shelves of colorful yarn balls and a sleeping cat.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00413
+ },
+ "costUsd": 0.03288,
+ "problems": [
+  "letters/text (scribbled text and symbols on hanging shelf tags and yarn label band on the floor)"
+ ],
+ "pass": false
+}

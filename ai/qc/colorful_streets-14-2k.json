@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "c4c1cfce21f093f1",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fairytale medieval town with buildings atop a stone arch bridge and small boats below.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00244
  },
- "costUsd": 0.02902,
- "reviewPending": true,
+ "costUsd": 0.03146,
  "problems": [],
  "pass": true
 }

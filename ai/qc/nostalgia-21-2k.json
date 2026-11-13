@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "91c5192f5d49659b",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy magical apothecary filled with potion bottles, herbs, books, and ornate wooden cabinetry under a night sky skylight.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00255
  },
- "costUsd": 0.03026,
- "reviewPending": true,
+ "costUsd": 0.03281,
  "problems": [
   "low contrast (0.155)"
  ],

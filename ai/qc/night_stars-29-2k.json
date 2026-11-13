@@ -38,10 +38,18 @@
  ],
  "phash": "95360e351d686add",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy rainy European street cafe at night with cobblestones, warm glowing lights, and potted flowers.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00354
  },
- "costUsd": 0.02912,
- "reviewPending": true,
+ "costUsd": 0.03266,
  "problems": [],
  "pass": true
 }

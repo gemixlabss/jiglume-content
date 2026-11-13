@@ -1,0 +1,12 @@
+{
+ "text": false,
+ "text_where": "",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy autumn village street at night with glowing windows, pumpkins, and a sleeping cat.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0019
+}

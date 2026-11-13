@@ -1,0 +1,110 @@
+{
+ "file": "ai/raw/collections/collections-34-2k.jpg",
+ "id": "collections-34",
+ "category": "collections",
+ "title": "Toy shop shelves",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.2,
+  "contrast": 0.223,
+  "sharpness": 7.91
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.042,
+   "score": 0.89,
+   "closeUp": false
+  },
+  {
+   "height": 0.02,
+   "score": 0.89,
+   "closeUp": false
+  },
+  {
+   "height": 0.027,
+   "score": 0.88,
+   "closeUp": false
+  },
+  {
+   "height": 0.028,
+   "score": 0.88,
+   "closeUp": false
+  },
+  {
+   "height": 0.024,
+   "score": 0.87,
+   "closeUp": false
+  },
+  {
+   "height": 0.034,
+   "score": 0.84,
+   "closeUp": false
+  },
+  {
+   "height": 0.03,
+   "score": 0.84,
+   "closeUp": false
+  },
+  {
+   "height": 0.015,
+   "score": 0.82,
+   "closeUp": false
+  },
+  {
+   "height": 0.035,
+   "score": 0.82,
+   "closeUp": false
+  },
+  {
+   "height": 0.039,
+   "score": 0.82,
+   "closeUp": false
+  },
+  {
+   "height": 0.022,
+   "score": 0.81,
+   "closeUp": false
+  },
+  {
+   "height": 0.032,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "94966b68c7191f9c",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy vintage toy shop illustration filled with various traditional toys, puppets, and decorations.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00294
+ },
+ "costUsd": 0.03212,
+ "problems": [],
+ "pass": true
+}

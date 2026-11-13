@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "c4dc6f61311b319e",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy fantasy scene with a resting green dragon, fairy tale village, and a castle.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0019
  },
- "costUsd": 0.02972,
- "reviewPending": true,
+ "costUsd": 0.03162,
  "problems": [
   "low contrast (0.153)"
  ],

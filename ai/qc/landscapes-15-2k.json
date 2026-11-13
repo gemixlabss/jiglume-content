@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "99e5c59336cc3a4c",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Idyllic cartoon illustration of a bamboo forest river with a person on a raft.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00195
  },
- "costUsd": 0.02965,
- "reviewPending": true,
+ "costUsd": 0.0316,
  "problems": [],
  "pass": true
 }

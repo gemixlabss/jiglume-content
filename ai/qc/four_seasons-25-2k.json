@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "c4d9bbea27bc024a",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter illustration with people ice skating and visiting a warm cabin stall.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00254
  },
- "costUsd": 0.02901,
- "reviewPending": true,
+ "costUsd": 0.03155,
  "problems": [],
  "pass": true
 }

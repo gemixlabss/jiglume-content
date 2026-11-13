@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "95b03c67754b46d4",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Nighttime carnival/amusement park illustration by a lake under a starry sky.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00203
  },
- "costUsd": 0.03064,
- "reviewPending": true,
+ "costUsd": 0.03267,
  "problems": [],
  "pass": true
 }

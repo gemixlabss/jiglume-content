@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "clock face on the castle tower above the entrance",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Fairytale castle landscape heavily inspired by Disney's Cinderella Castle with a village, river, and double rainbow.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0033
+}

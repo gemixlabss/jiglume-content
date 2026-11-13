@@ -43,12 +43,18 @@
  ],
  "phash": "c483db35c6192dad",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cute cartoon woodland animals riding a wooden sled in a snowy landscape.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00287
  },
- "costUsd": 0.03134,
- "reviewPending": true,
- "problems": [
-  "close-up face"
- ],
- "pass": false
+ "costUsd": 0.03421,
+ "problems": [],
+ "pass": true
 }

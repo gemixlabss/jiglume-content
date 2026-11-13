@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "d8e624f2f83f0781",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Victorian winter conservatory filled with orchids, ferns, spiral staircase, and tea table.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00288
  },
- "costUsd": 0.02623,
- "reviewPending": true,
+ "costUsd": 0.02911,
  "problems": [
   "dull colours (27.3)"
  ],

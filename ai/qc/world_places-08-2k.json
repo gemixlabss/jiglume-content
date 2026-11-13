@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "d107cdd84b570e69",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Courtyard riad with central fountain, orange trees, and pastel rugs.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00203
  },
- "costUsd": 0.029,
- "reviewPending": true,
+ "costUsd": 0.03103,
  "problems": [],
  "pass": true
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "85daf0ee79603319",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "autumn park scene with gazebo and pond",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00196
  },
- "costUsd": 0.02936,
- "reviewPending": true,
+ "costUsd": 0.03132,
  "problems": [],
  "pass": true
 }

@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "bottom left corner on the wooden floor",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy winter yarn/knitting shop with a cat sleeping on an armchair.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0027
+}

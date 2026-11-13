@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-39-2k.jpg",
+ "id": "nostalgia-39",
+ "category": "nostalgia",
+ "title": "Retro diner booth",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 59.2,
+  "contrast": 0.237,
+  "sharpness": 8.56
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "e4d62dc8313c9d3c",
+ "review": {
+  "text": true,
+  "text_where": "storefront sign across the street and display panel on the jukebox",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy retro diner scene with jukebox, milkshakes, and pie during a rainy day.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00295
+ },
+ "costUsd": 0.03445,
+ "problems": [
+  "letters/text (storefront sign across the street and display panel on the jukebox)"
+ ],
+ "pass": false
+}

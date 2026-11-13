@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "97e43087b83b7346",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "winter alpine meadow with butterflies and flowers",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00198
  },
- "costUsd": 0.0303,
- "reviewPending": true,
+ "costUsd": 0.03228,
  "problems": [],
  "pass": true
 }

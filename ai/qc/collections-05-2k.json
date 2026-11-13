@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "c1c13e7f36cc4709",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy detailed illustration of a traditional spice merchant shop with sacks, jars, spices, and a sleeping cat.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0021
  },
- "costUsd": 0.03075,
- "reviewPending": true,
+ "costUsd": 0.03285,
  "problems": [],
  "pass": true
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "9c94a6c9f2e32a33",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "desert canyon landscape at sunset",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00161
  },
- "costUsd": 0.02797,
- "reviewPending": true,
+ "costUsd": 0.02958,
  "problems": [],
  "pass": true
 }

@@ -32,10 +32,20 @@
  "faces": [],
  "phash": "d4961b29669f8732",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "faint lettering on the bow of the small boat in the lower right",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming Amsterdam canal scene with blossoming trees and boats at twilight.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00305
  },
- "costUsd": 0.03043,
- "reviewPending": true,
- "problems": [],
- "pass": true
+ "costUsd": 0.03348,
+ "problems": [
+  "letters/text (faint lettering on the bow of the small boat in the lower right)"
+ ],
+ "pass": false
 }

@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "919918dadcb51bc3",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "crystals and geodes displayed in a wooden tray",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00191
  },
- "costUsd": 0.02904,
- "reviewPending": true,
+ "costUsd": 0.03095,
  "problems": [],
  "pass": true
 }

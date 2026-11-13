@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "958543d3ce2e35c9",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy rainy day scene with a jigsaw puzzle, cat sleeping on a chair, tea and cookies.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00233
  },
- "costUsd": 0.02875,
- "reviewPending": true,
+ "costUsd": 0.03108,
  "problems": [],
  "pass": true
 }

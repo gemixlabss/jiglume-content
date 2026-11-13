@@ -32,10 +32,20 @@
  "faces": [],
  "phash": "859d6ee519c23738",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "simulated cursive handwriting on the letters and envelopes on the desk, faux text on the book spines",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy vintage study scene with a typewriter, stained-glass lamp, and letters on a wooden desk.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0024
  },
- "costUsd": 0.02944,
- "reviewPending": true,
- "problems": [],
- "pass": true
+ "costUsd": 0.03184,
+ "problems": [
+  "letters/text (simulated cursive handwriting on the letters and envelopes on the desk, faux text on the book spines)"
+ ],
+ "pass": false
 }

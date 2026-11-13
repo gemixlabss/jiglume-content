@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "letters on the weather vane above the cottage near the lighthouse",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Nighttime harbour scene with a lighthouse, boats, and full moon in an illustrated style.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00222
+}

@@ -32,10 +32,20 @@
  "faces": [],
  "phash": "81966bc936672d72",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "spines of the books on the right windowsill",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter window scene with candles and a cat",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00293
  },
- "costUsd": 0.03113,
- "reviewPending": true,
- "problems": [],
- "pass": true
+ "costUsd": 0.03406,
+ "problems": [
+  "letters/text (spines of the books on the right windowsill)"
+ ],
+ "pass": false
 }

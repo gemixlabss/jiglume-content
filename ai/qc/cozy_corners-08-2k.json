@@ -38,12 +38,20 @@
  ],
  "phash": "9c9e5a2c90a76e66",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "numbers on the yellow measuring tape draped over the dress form and stylized vintage script on the sewing machine",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy sewing room during rain with vintage sewing machine, quilts, and sleeping cat.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00314
  },
- "costUsd": 0.02926,
- "reviewPending": true,
+ "costUsd": 0.0324,
  "problems": [
-  "close-up face"
+  "letters/text (numbers on the yellow measuring tape draped over the dress form and stylized vintage script on the sewing machine)"
  ],
  "pass": false
 }

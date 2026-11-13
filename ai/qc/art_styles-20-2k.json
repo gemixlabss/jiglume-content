@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "9bc8e4c66e25361b",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Persian or Mughal paradise garden illustration with central fountain, peacocks, and ornamental border",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00203
  },
- "costUsd": 0.03001,
- "reviewPending": true,
+ "costUsd": 0.03204,
  "problems": [],
  "pass": true
 }

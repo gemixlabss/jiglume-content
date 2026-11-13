@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "cba737d1509d34a2",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustration of a cat watching goldfish in a bowl.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0022
  },
- "costUsd": 0.0288,
- "reviewPending": true,
+ "costUsd": 0.031,
  "problems": [],
  "pass": true
 }

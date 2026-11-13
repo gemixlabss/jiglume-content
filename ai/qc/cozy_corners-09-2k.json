@@ -32,10 +32,20 @@
  "faces": [],
  "phash": "d4250b78cf1b05f9",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "labels on the jars on the left wooden shelves",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter cabin interior with a wood-burning stove and sleeping cat.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00298
  },
- "costUsd": 0.0291,
- "reviewPending": true,
- "problems": [],
- "pass": true
+ "costUsd": 0.03208,
+ "problems": [
+  "letters/text (labels on the jars on the left wooden shelves)"
+ ],
+ "pass": false
 }

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-33-2k.jpg",
+ "id": "four_seasons-33",
+ "category": "four_seasons",
+ "title": "Summer lavender",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.7,
+  "contrast": 0.251,
+  "sharpness": 8.57
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "c1c89bbee5653d01",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0018
+ },
+ "costUsd": 0.03176,
+ "problems": [],
+ "pass": true
+}

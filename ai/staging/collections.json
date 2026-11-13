@@ -1,35 +1,4 @@
 {
- "collections-01": {
-  "id": "collections-01",
-  "categoryId": "collections",
-  "kind": "category",
-  "titleKey": "collections-01",
-  "title": "Book shelves",
-  "imagePath": "images/collections/collections-01.webp",
-  "thumbPath": "thumbs/collections-01.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#615c58",
-  "quality": {
-   "colorfulness": 36.6,
-   "contrast": 0.25,
-   "sharpness": 8.52
-  },
-  "appeal": 68.6,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "snowy",
-  "scenePrompt": "Floor-to-ceiling bookshelves crammed with colourful book spines without any readable titles, small plants, curios and a ladder.",
-  "prompt": "Floor-to-ceiling bookshelves crammed with colourful book spines without any readable titles, small plants, curios and a ladder.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:18:36+00:00",
-  "attempt": 0,
-  "costUsd": 0.02973,
-  "phash": "adad518a355aae13",
-  "file": "ai/raw/collections/collections-01-2k.jpg",
-  "reviewed": false
- },
  "collections-02": {
   "id": "collections-02",
   "categoryId": "collections",
@@ -56,10 +25,10 @@
   "prompt": "Rows of glass jars filled with colourful candies, gumballs, jelly beans, lollipops and ribbons, no labels, bright cheerful light.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02994,
+  "costUsd": 0.03212,
   "phash": "84a55a6d2b581d7b",
   "file": "ai/raw/collections/collections-02-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-03": {
   "id": "collections-03",
@@ -87,41 +56,10 @@
   "prompt": "Shelves packed with vintage toys: tin robots, wooden trains, teddy bears, dolls' furniture, spinning tops and kites, no text.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Toy blocks and toys show pictures or plain colours only, no letters or numbers.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03029,
+  "costUsd": 0.03324,
   "phash": "acb1435b53b4549e",
   "file": "ai/raw/collections/collections-03-2k.jpg",
-  "reviewed": false
- },
- "collections-04": {
-  "id": "collections-04",
-  "categoryId": "collections",
-  "kind": "category",
-  "titleKey": "collections-04",
-  "title": "Button box",
-  "imagePath": "images/collections/collections-04.webp",
-  "thumbPath": "thumbs/collections-04.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#5e5830",
-  "quality": {
-   "colorfulness": 74.3,
-   "contrast": 0.224,
-   "sharpness": 8.4
-  },
-  "appeal": 88.6,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "midday",
-  "scenePrompt": "An open sewing box overflowing with hundreds of colourful buttons, spools of thread, ribbons, thimbles and pins.",
-  "prompt": "An open sewing box overflowing with hundreds of colourful buttons, spools of thread, ribbons, thimbles and pins.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:18:36+00:00",
-  "attempt": 0,
-  "costUsd": 0.03023,
-  "phash": "de9b56f810643f14",
-  "file": "ai/raw/collections/collections-04-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-05": {
   "id": "collections-05",
@@ -149,10 +87,10 @@
   "prompt": "A spice shop with sacks, bowls and jars of colourful spices, dried chilies, herbs and teas, brass scales, no labels.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03075,
+  "costUsd": 0.03285,
   "phash": "c1c13e7f36cc4709",
   "file": "ai/raw/collections/collections-05-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-06": {
   "id": "collections-06",
@@ -180,10 +118,10 @@
   "prompt": "A wooden display case with compartments full of seashells, starfish, sea urchins, corals and sea glass.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03187,
+  "costUsd": 0.03543,
   "phash": "95e876874a962b99",
   "file": "ai/raw/collections/collections-06-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-07": {
   "id": "collections-07",
@@ -211,41 +149,10 @@
   "prompt": "A dresser full of mismatched floral teacups, saucers and teapots of every pattern and colour.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02876,
+  "costUsd": 0.03067,
   "phash": "808a4b61747fc9d7",
   "file": "ai/raw/collections/collections-07-2k.jpg",
-  "reviewed": false
- },
- "collections-08": {
-  "id": "collections-08",
-  "categoryId": "collections",
-  "kind": "category",
-  "titleKey": "collections-08",
-  "title": "Yarn shop",
-  "imagePath": "images/collections/collections-08.webp",
-  "thumbPath": "thumbs/collections-08.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#6a5e57",
-  "quality": {
-   "colorfulness": 41.5,
-   "contrast": 0.224,
-   "sharpness": 9.04
-  },
-  "appeal": 68.2,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "snowy",
-  "scenePrompt": "A yarn shop with walls of cubbies filled with skeins of wool in every colour, knitting needles, baskets, no text.",
-  "prompt": "A yarn shop with walls of cubbies filled with skeins of wool in every colour, knitting needles, baskets, no text.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:18:36+00:00",
-  "attempt": 0,
-  "costUsd": 0.03027,
-  "phash": "8a3b463669a77447",
-  "file": "ai/raw/collections/collections-08-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-09": {
   "id": "collections-09",
@@ -273,10 +180,10 @@
   "prompt": "Shelves of hand-painted pottery bowls, jugs and vases with many different patterns, plants between them.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03006,
+  "costUsd": 0.03209,
   "phash": "c4c4323c3e3d7933",
   "file": "ai/raw/collections/collections-09-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-10": {
   "id": "collections-10",
@@ -304,10 +211,10 @@
   "prompt": "Antique drawers of a cabinet of curiosities with colourful (illustrated, non-gory) butterflies, beetles, shells and minerals, no labels.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02933,
+  "costUsd": 0.03176,
   "phash": "d0bdfa06fc110ef0",
   "file": "ai/raw/collections/collections-10-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-11": {
   "id": "collections-11",
@@ -335,10 +242,10 @@
   "prompt": "A craft table covered with paints, brushes, coloured pencils, washi tape rolls without text, scissors, beads and paper.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.0287,
+  "costUsd": 0.03101,
   "phash": "93c233cf031749be",
   "file": "ai/raw/collections/collections-11-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-12": {
   "id": "collections-12",
@@ -366,10 +273,10 @@
   "prompt": "A window ledge crowded with colourful glass bottles and vases of many shapes catching sunlight, coloured reflections.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03021,
+  "costUsd": 0.03243,
   "phash": "d4c60793216d7f68",
   "file": "ai/raw/collections/collections-12-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-13": {
   "id": "collections-13",
@@ -397,10 +304,10 @@
   "prompt": "Stacked crates of fruits — apples, oranges, lemons, pears, plums, grapes and berries — seen from above, colourful and dense.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02877,
+  "costUsd": 0.03028,
   "phash": "f9f9258ac8c10b5e",
   "file": "ai/raw/collections/collections-13-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-14": {
   "id": "collections-14",
@@ -428,10 +335,10 @@
   "prompt": "A shop corner with stacks of patterned hat boxes, ribbon spools, lace, feathers and flowers.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03016,
+  "costUsd": 0.03208,
   "phash": "85ea4e645e385579",
   "file": "ai/raw/collections/collections-14-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-15": {
   "id": "collections-15",
@@ -459,10 +366,10 @@
   "prompt": "A collection of colourful crystals, geodes, agates and polished stones arranged in a wooden tray, sparkling.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02904,
+  "costUsd": 0.03095,
   "phash": "919918dadcb51bc3",
   "file": "ai/raw/collections/collections-15-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-16": {
   "id": "collections-16",
@@ -490,41 +397,10 @@
   "prompt": "Dozens of small jars filled with colourful glass beads and sequins on a craft table, light glinting, no labels.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02974,
+  "costUsd": 0.03228,
   "phash": "904e4fcd36976691",
   "file": "ai/raw/collections/collections-16-2k.jpg",
-  "reviewed": false
- },
- "collections-17": {
-  "id": "collections-17",
-  "categoryId": "collections",
-  "kind": "category",
-  "titleKey": "collections-17",
-  "title": "Kitchen utensils wall",
-  "imagePath": "images/collections/collections-17.webp",
-  "thumbPath": "thumbs/collections-17.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#21252e",
-  "quality": {
-   "colorfulness": 50.2,
-   "contrast": 0.171,
-   "sharpness": 8.47
-  },
-  "appeal": 66.5,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "night",
-  "scenePrompt": "A kitchen wall with copper pans, colourful enamel pots, wooden spoons, whisks, jars and hanging herbs.",
-  "prompt": "A kitchen wall with copper pans, colourful enamel pots, wooden spoons, whisks, jars and hanging herbs.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:18:36+00:00",
-  "attempt": 0,
-  "costUsd": 0.02973,
-  "phash": "99126769642e75da",
-  "file": "ai/raw/collections/collections-17-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-18": {
   "id": "collections-18",
@@ -552,10 +428,10 @@
   "prompt": "A plant shelf with dozens of potted succulents, cacti, ferns and trailing plants in colourful ceramic pots.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02965,
+  "costUsd": 0.032,
   "phash": "8a92c541ab7ab17e",
   "file": "ai/raw/collections/collections-18-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-20": {
   "id": "collections-20",
@@ -583,10 +459,10 @@
   "prompt": "An artist's paint box with colourful paint tubes without labels, mixed paints on a palette, many brushes and rags.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03139,
+  "costUsd": 0.03369,
   "phash": "c08395dd109d6f76",
   "file": "ai/raw/collections/collections-20-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-21": {
   "id": "collections-21",
@@ -614,10 +490,10 @@
   "prompt": "A box full of colourful glass baubles, beads, feathers and sparkly ornaments of many shapes.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02926,
+  "costUsd": 0.03114,
   "phash": "c38353c9153d3e36",
   "file": "ai/raw/collections/collections-21-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-22": {
   "id": "collections-22",
@@ -645,41 +521,10 @@
   "prompt": "A sweets market stall with rows of colourful Turkish-delight-like cubes, nougats, candied fruits and nuts in trays, no labels.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02978,
+  "costUsd": 0.03147,
   "phash": "85b52dccad28a7c3",
   "file": "ai/raw/collections/collections-22-2k.jpg",
-  "reviewed": false
- },
- "collections-23": {
-  "id": "collections-23",
-  "categoryId": "collections",
-  "kind": "category",
-  "titleKey": "collections-23",
-  "title": "Ribbon spools",
-  "imagePath": "images/collections/collections-23.webp",
-  "thumbPath": "thumbs/collections-23.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#563027",
-  "quality": {
-   "colorfulness": 61.2,
-   "contrast": 0.195,
-   "sharpness": 8.57
-  },
-  "appeal": 78.0,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "blue_hour",
-  "scenePrompt": "Shelves of colourful ribbon spools, lace and trims in a haberdashery, scissors and measuring tape without numbers.",
-  "prompt": "Shelves of colourful ribbon spools, lace and trims in a haberdashery, scissors and measuring tape without numbers.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:18:36+00:00",
-  "attempt": 0,
-  "costUsd": 0.0307,
-  "phash": "91f23a4b638939ce",
-  "file": "ai/raw/collections/collections-23-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-25": {
   "id": "collections-25",
@@ -707,10 +552,10 @@
   "prompt": "Trays and towers of macarons in every pastel colour, arranged in rows, with flowers and berries.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03028,
+  "costUsd": 0.03214,
   "phash": "80d5734edb384ee4",
   "file": "ai/raw/collections/collections-25-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-26": {
   "id": "collections-26",
@@ -738,10 +583,10 @@
   "prompt": "Hundreds of coloured pencils and crayons arranged in a rainbow in cups and boxes, shavings and drawings of flowers.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.03007,
+  "costUsd": 0.03344,
   "phash": "c1eb6cd66cc29d0a",
   "file": "ai/raw/collections/collections-26-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-27": {
   "id": "collections-27",
@@ -769,10 +614,10 @@
   "prompt": "A wooden box of glass marbles, dominoes without numbers, wooden game pieces and spinning tops.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02981,
+  "costUsd": 0.03181,
   "phash": "82b2d38bc1331fb6",
   "file": "ai/raw/collections/collections-27-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-28": {
   "id": "collections-28",
@@ -800,10 +645,10 @@
   "prompt": "A shop ceiling hung with dozens of colourful mosaic and paper lanterns glowing, cushions and rugs below.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02615,
+  "costUsd": 0.02856,
   "phash": "d7751c8062f23717",
   "file": "ai/raw/collections/collections-28-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-29": {
   "id": "collections-29",
@@ -831,10 +676,10 @@
   "prompt": "A fabric shop with bolts of patterned cloth — florals, stripes, checks, paisleys — stacked to the ceiling.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.0295,
+  "costUsd": 0.03234,
   "phash": "959c636a66b49993",
   "file": "ai/raw/collections/collections-29-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "collections-30": {
   "id": "collections-30",
@@ -862,9 +707,257 @@
   "prompt": "A potting bench with seed trays, bulbs, small pots, garden tools, twine, gloves and flower seeds in open paper envelopes without text.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:18:36+00:00",
   "attempt": 0,
-  "costUsd": 0.02919,
+  "costUsd": 0.03101,
   "phash": "c0c03a5b393f9b1b",
   "file": "ai/raw/collections/collections-30-2k.jpg",
-  "reviewed": false
+  "reviewed": true
+ },
+ "collections-24": {
+  "id": "collections-24",
+  "categoryId": "collections",
+  "kind": "category",
+  "titleKey": "collections-24",
+  "title": "Tin toy robots",
+  "imagePath": "images/collections/collections-24.webp",
+  "thumbPath": "thumbs/collections-24.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#261f21",
+  "quality": {
+   "colorfulness": 76.5,
+   "contrast": 0.194,
+   "sharpness": 8.44
+  },
+  "appeal": 84.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "night",
+  "scenePrompt": "A crowd of colourful tin toy robots, rockets and wind-up animals on a shelf, no lettering.",
+  "prompt": "A crowd of colourful tin toy robots, rockets and wind-up animals on a shelf, no lettering.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Toy blocks and toys show pictures or plain colours only, no letters or numbers.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-12T00:18:36+00:00",
+  "attempt": 0,
+  "costUsd": 0.03394,
+  "phash": "80f273391e4c6de5",
+  "file": "ai/raw/collections/collections-24-2k.jpg",
+  "reviewed": true
+ },
+ "collections-31": {
+  "id": "collections-31",
+  "categoryId": "collections",
+  "kind": "category",
+  "titleKey": "collections-31",
+  "title": "Teapot collection",
+  "imagePath": "images/collections/collections-31.webp",
+  "thumbPath": "thumbs/collections-31.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#281e1d",
+  "quality": {
+   "colorfulness": 58.9,
+   "contrast": 0.188,
+   "sharpness": 8.41
+  },
+  "appeal": 75.3,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "night",
+  "scenePrompt": "Shelves of colourful teapots of every shape and pattern in a kitchen.",
+  "prompt": "Shelves of colourful teapots of every shape and pattern in a kitchen.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03201,
+  "phash": "c11a6ea75edea106",
+  "file": "ai/raw/collections/collections-31-2k.jpg",
+  "reviewed": true
+ },
+ "collections-32": {
+  "id": "collections-32",
+  "categoryId": "collections",
+  "kind": "category",
+  "titleKey": "collections-32",
+  "title": "Seashell jars",
+  "imagePath": "images/collections/collections-32.webp",
+  "thumbPath": "thumbs/collections-32.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#dbe1e6",
+  "quality": {
+   "colorfulness": 31.2,
+   "contrast": 0.239,
+   "sharpness": 8.75
+  },
+  "appeal": 63.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "snowy",
+  "scenePrompt": "Glass jars and boxes full of seashells, starfish and sea glass on a window sill.",
+  "prompt": "Glass jars and boxes full of seashells, starfish and sea glass on a window sill.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03107,
+  "phash": "9696764905e368fa",
+  "file": "ai/raw/collections/collections-32-2k.jpg",
+  "reviewed": true
+ },
+ "collections-34": {
+  "id": "collections-34",
+  "categoryId": "collections",
+  "kind": "category",
+  "titleKey": "collections-34",
+  "title": "Toy shop shelves",
+  "imagePath": "images/collections/collections-34.webp",
+  "thumbPath": "thumbs/collections-34.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#572e19",
+  "quality": {
+   "colorfulness": 64.2,
+   "contrast": 0.223,
+   "sharpness": 7.91
+  },
+  "appeal": 83.9,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "Shelves of plush animals, wooden toys, spinning tops and kites in a toy shop, no lettering.",
+  "prompt": "Shelves of plush animals, wooden toys, spinning tops and kites in a toy shop, no lettering.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Toy blocks and toys show pictures or plain colours only, no letters or numbers. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03212,
+  "phash": "94966b68c7191f9c",
+  "file": "ai/raw/collections/collections-34-2k.jpg",
+  "reviewed": true
+ },
+ "collections-36": {
+  "id": "collections-36",
+  "categoryId": "collections",
+  "kind": "category",
+  "titleKey": "collections-36",
+  "title": "Button jars",
+  "imagePath": "images/collections/collections-36.webp",
+  "thumbPath": "thumbs/collections-36.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#542e23",
+  "quality": {
+   "colorfulness": 57.0,
+   "contrast": 0.242,
+   "sharpness": 8.67
+  },
+  "appeal": 82.0,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "rainy",
+  "scenePrompt": "Jars of buttons of every colour poured onto a wooden sewing table with thread spools.",
+  "prompt": "Jars of buttons of every colour poured onto a wooden sewing table with thread spools.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03209,
+  "phash": "c9c96ccc22c73d27",
+  "file": "ai/raw/collections/collections-36-2k.jpg",
+  "reviewed": true
+ },
+ "collections-37": {
+  "id": "collections-37",
+  "categoryId": "collections",
+  "kind": "category",
+  "titleKey": "collections-37",
+  "title": "Pottery market stall",
+  "imagePath": "images/collections/collections-37.webp",
+  "thumbPath": "thumbs/collections-37.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#5d5b5f",
+  "quality": {
+   "colorfulness": 34.9,
+   "contrast": 0.249,
+   "sharpness": 8.88
+  },
+  "appeal": 67.3,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "snowy",
+  "scenePrompt": "A stall stacked with hand-painted bowls, plates and jugs of many patterns.",
+  "prompt": "A stall stacked with hand-painted bowls, plates and jugs of many patterns.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03284,
+  "phash": "f58966aec089cd39",
+  "file": "ai/raw/collections/collections-37-2k.jpg",
+  "reviewed": true
+ },
+ "collections-38": {
+  "id": "collections-38",
+  "categoryId": "collections",
+  "kind": "category",
+  "titleKey": "collections-38",
+  "title": "Candle shop",
+  "imagePath": "images/collections/collections-38.webp",
+  "thumbPath": "thumbs/collections-38.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#2b1c16",
+  "quality": {
+   "colorfulness": 51.7,
+   "contrast": 0.227,
+   "sharpness": 8.05
+  },
+  "appeal": 76.0,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "rainy",
+  "scenePrompt": "A shop of colourful candles of many shapes on wooden shelves.",
+  "prompt": "A shop of colourful candles of many shapes on wooden shelves.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.0328,
+  "phash": "f2f33d6958381a1a",
+  "file": "ai/raw/collections/collections-38-2k.jpg",
+  "reviewed": true
+ },
+ "collections-40": {
+  "id": "collections-40",
+  "categoryId": "collections",
+  "kind": "category",
+  "titleKey": "collections-40",
+  "title": "Glass ornament shelf",
+  "imagePath": "images/collections/collections-40.webp",
+  "thumbPath": "thumbs/collections-40.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#302a21",
+  "quality": {
+   "colorfulness": 64.9,
+   "contrast": 0.228,
+   "sharpness": 9.32
+  },
+  "appeal": 85.6,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "midday",
+  "scenePrompt": "Shelves of colourful glass ornaments, beads and suncatchers catching the light, no text.",
+  "prompt": "Shelves of colourful glass ornaments, beads and suncatchers catching the light, no text.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:39+00:00",
+  "attempt": 0,
+  "costUsd": 0.03142,
+  "phash": "85914f629b366c3e",
+  "file": "ai/raw/collections/collections-40-2k.jpg",
+  "reviewed": true
  }
 }

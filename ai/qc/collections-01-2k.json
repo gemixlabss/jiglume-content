@@ -32,10 +32,20 @@
  "faces": [],
  "phash": "adad518a355aae13",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "clock face numbers on the bookshelf",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy bookshelf interior next to a snowy window with clocks, candles, and plants.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00262
  },
- "costUsd": 0.02973,
- "reviewPending": true,
- "problems": [],
- "pass": true
+ "costUsd": 0.03235,
+ "problems": [
+  "letters/text (clock face numbers on the bookshelf)"
+ ],
+ "pass": false
 }

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-34-2k.jpg",
+ "id": "cozy_corners-34",
+ "category": "cozy_corners",
+ "title": "Reading armchair",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 53.3,
+  "contrast": 0.175,
+  "sharpness": 8.54
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5b718386c6333e9",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "cozy library reading nook at night with a sleeping dog",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0024
+ },
+ "costUsd": 0.03327,
+ "problems": [],
+ "pass": true
+}

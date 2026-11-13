@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "e194127b256b5a67",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "fantasy fairytale castle floating on clouds with rainbows",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00193
  },
- "costUsd": 0.03005,
- "reviewPending": true,
+ "costUsd": 0.03198,
  "problems": [],
  "pass": true
 }

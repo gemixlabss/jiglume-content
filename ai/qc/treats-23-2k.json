@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "d1333bf02b0f4af0",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Mid-Autumn Festival feast with mooncakes and lanterns under a starry sky",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00187
  },
- "costUsd": 0.03002,
- "reviewPending": true,
+ "costUsd": 0.03189,
  "problems": [],
  "pass": true
 }

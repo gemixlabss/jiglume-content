@@ -32,10 +32,20 @@
  "faces": [],
  "phash": "c51f4933324e349f",
  "review": {
-  "pending": true
+  "text": true,
+  "text_where": "weather vane on the cottage roof with a directional letter",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy stone lighthouse and cottage on a rocky coast at night.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00289
  },
- "costUsd": 0.0299,
- "reviewPending": true,
- "problems": [],
- "pass": true
+ "costUsd": 0.03279,
+ "problems": [
+  "letters/text (weather vane on the cottage roof with a directional letter)"
+ ],
+ "pass": false
 }

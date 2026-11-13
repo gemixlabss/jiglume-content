@@ -38,12 +38,18 @@
  ],
  "phash": "929f2b1b6372344d",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Illustration of a lynx walking on a mossy log in a forest.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00193
  },
- "costUsd": 0.02926,
- "reviewPending": true,
- "problems": [
-  "close-up face"
- ],
- "pass": false
+ "costUsd": 0.03119,
+ "problems": [],
+ "pass": true
 }

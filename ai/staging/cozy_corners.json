@@ -25,41 +25,10 @@
   "prompt": "A window seat reading nook with cushions, knitted blankets, stacks of books without readable titles, a teapot, plants, rain outside.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02913,
+  "costUsd": 0.03141,
   "phash": "959c1474ed3ad227",
   "file": "ai/raw/cozy_corners/cozy_corners-01-2k.jpg",
-  "reviewed": false
- },
- "cozy_corners-02": {
-  "id": "cozy_corners-02",
-  "categoryId": "cozy_corners",
-  "kind": "category",
-  "titleKey": "cozy_corners-02",
-  "title": "Old library",
-  "imagePath": "images/cozy_corners/cozy_corners-02.webp",
-  "thumbPath": "thumbs/cozy_corners-02.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#572e1a",
-  "quality": {
-   "colorfulness": 72.7,
-   "contrast": 0.207,
-   "sharpness": 8.97
-  },
-  "appeal": 86.1,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "midday",
-  "scenePrompt": "A grand old library with towering wooden shelves, ladders, a spiral staircase, green lamps and a fireplace, no readable text.",
-  "prompt": "A grand old library with towering wooden shelves, ladders, a spiral staircase, green lamps and a fireplace, no readable text.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:52+00:00",
-  "attempt": 0,
-  "costUsd": 0.02932,
-  "phash": "a1a1542b5ed72be2",
-  "file": "ai/raw/cozy_corners/cozy_corners-02-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-03": {
   "id": "cozy_corners-03",
@@ -87,10 +56,10 @@
   "prompt": "A cozy café corner with a window table, steaming cups, cake slices, hanging plants and fairy lights, a rainy street outside.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03211,
+  "costUsd": 0.03474,
   "phash": "939b6c216c2ed21f",
   "file": "ai/raw/cozy_corners/cozy_corners-03-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-04": {
   "id": "cozy_corners-04",
@@ -118,10 +87,10 @@
   "prompt": "A velvet armchair beside a crackling fireplace with a sleeping cat, knitted throw, cocoa mug, books, candles on the mantel.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03067,
+  "costUsd": 0.03292,
   "phash": "f0f67f084e174983",
   "file": "ai/raw/cozy_corners/cozy_corners-04-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-05": {
   "id": "cozy_corners-05",
@@ -149,10 +118,10 @@
   "prompt": "An attic room under sloping wooden beams with a painter's easel, canvases, a skylight, plants, rugs and a small bed.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02694,
+  "costUsd": 0.02903,
   "phash": "c5466a8d1c7e29dc",
   "file": "ai/raw/cozy_corners/cozy_corners-05-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-06": {
   "id": "cozy_corners-06",
@@ -180,10 +149,10 @@
   "prompt": "A cluttered little bookshop with crooked shelves, armchairs, a spiral staircase, a cat on the counter and warm lamps, no readable text.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02998,
+  "costUsd": 0.03205,
   "phash": "821917b273af2cd6",
   "file": "ai/raw/cozy_corners/cozy_corners-06-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-07": {
   "id": "cozy_corners-07",
@@ -211,41 +180,10 @@
   "prompt": "A café inside a greenhouse with plants everywhere, wicker chairs, pastries, string lights and sunlight through glass.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02914,
+  "costUsd": 0.03153,
   "phash": "c19e4b21ece73c4c",
   "file": "ai/raw/cozy_corners/cozy_corners-07-2k.jpg",
-  "reviewed": false
- },
- "cozy_corners-09": {
-  "id": "cozy_corners-09",
-  "categoryId": "cozy_corners",
-  "kind": "category",
-  "titleKey": "cozy_corners-09",
-  "title": "Cabin interior",
-  "imagePath": "images/cozy_corners/cozy_corners-09.webp",
-  "thumbPath": "thumbs/cozy_corners-09.webp",
-  "width": 2240,
-  "height": 3000,
-  "dominantColor": "#552f21",
-  "quality": {
-   "colorfulness": 60.9,
-   "contrast": 0.162,
-   "sharpness": 8.17
-  },
-  "appeal": 72.8,
-  "flatShare": 0.0,
-  "source": "ai-generated",
-  "model": "gemini-nano-banana-2.1",
-  "imageSize": "2K",
-  "palette": "night",
-  "scenePrompt": "A log cabin interior with a wood stove, plaid blankets, a rocking chair, snowshoes, a kettle and frosted windows showing snowy pines.",
-  "prompt": "A log cabin interior with a wood stove, plaid blankets, a rocking chair, snowshoes, a kettle and frosted windows showing snowy pines.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
-  "generatedAt": "2026-11-12T00:16:52+00:00",
-  "attempt": 0,
-  "costUsd": 0.0291,
-  "phash": "d4250b78cf1b05f9",
-  "file": "ai/raw/cozy_corners/cozy_corners-09-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-10": {
   "id": "cozy_corners-10",
@@ -273,10 +211,10 @@
   "prompt": "A vintage tea room with floral wallpaper, lace tablecloths, teapots, cakes on stands, plants.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02827,
+  "costUsd": 0.0305,
   "phash": "909a75e861ef4f82",
   "file": "ai/raw/cozy_corners/cozy_corners-10-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-11": {
   "id": "cozy_corners-11",
@@ -304,10 +242,10 @@
   "prompt": "A music corner with an upright piano, a violin, sheet music without readable notes, record player, plants.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Maps, papers and boards are decorative without any readable writing or numbers.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.0296,
+  "costUsd": 0.03216,
   "phash": "d3f1942e0be6a887",
   "file": "ai/raw/cozy_corners/cozy_corners-11-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-12": {
   "id": "cozy_corners-12",
@@ -335,10 +273,10 @@
   "prompt": "A cottage kitchen corner with copper pots, hanging herbs, a farmhouse table with bread and fruit, checked curtains and morning sun.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02935,
+  "costUsd": 0.03237,
   "phash": "c0621f1dce6ed0d3",
   "file": "ai/raw/cozy_corners/cozy_corners-12-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-13": {
   "id": "cozy_corners-13",
@@ -366,10 +304,10 @@
   "prompt": "A rainy window with droplets, a cushioned sill, a cat watching the garden, candles, a tea set and a stack of books.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02996,
+  "costUsd": 0.03191,
   "phash": "80cf57b4273a7895",
   "file": "ai/raw/cozy_corners/cozy_corners-13-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-14": {
   "id": "cozy_corners-14",
@@ -397,10 +335,10 @@
   "prompt": "A bedroom under the eaves with a quilted bed, fairy lights, a round window with a starry sky, plants, books and slippers.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03061,
+  "costUsd": 0.03257,
   "phash": "803e7e6d433a3ec1",
   "file": "ai/raw/cozy_corners/cozy_corners-14-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-15": {
   "id": "cozy_corners-15",
@@ -428,10 +366,10 @@
   "prompt": "A potter's workshop with a wheel, shelves of colourful glazed bowls and vases, tools and plants, warm sunlight through dusty windows.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02897,
+  "costUsd": 0.0307,
   "phash": "81a3657a1e3e1e2d",
   "file": "ai/raw/cozy_corners/cozy_corners-15-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-16": {
   "id": "cozy_corners-16",
@@ -459,10 +397,10 @@
   "prompt": "A wood-panelled study with a big desk, globe, brass telescope, maps without text, books, candles and a fireplace.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters. Maps, papers and boards are decorative without any readable writing or numbers.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02866,
+  "costUsd": 0.0309,
   "phash": "90964a4897f6d1e7",
   "file": "ai/raw/cozy_corners/cozy_corners-16-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-17": {
   "id": "cozy_corners-17",
@@ -490,10 +428,10 @@
   "prompt": "The cozy cabin of a wooden houseboat with a bunk bed, round portholes, plants, a little stove, lanterns and a river view.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03,
+  "costUsd": 0.03232,
   "phash": "9b984c0564bf7366",
   "file": "ai/raw/cozy_corners/cozy_corners-17-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-18": {
   "id": "cozy_corners-18",
@@ -521,10 +459,10 @@
   "prompt": "A corner with an armchair, a basket overflowing with colourful yarn balls, half-finished knitting, a cat, a floor lamp and a rug.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03039,
+  "costUsd": 0.03302,
   "phash": "d0ec754e9a729c07",
   "file": "ai/raw/cozy_corners/cozy_corners-18-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-19": {
   "id": "cozy_corners-19",
@@ -552,10 +490,10 @@
   "prompt": "Inside a treehouse room with wooden walls, cushions, lanterns, books, a telescope and leafy branches outside the windows.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02817,
+  "costUsd": 0.03051,
   "phash": "c5a72725d8d93a4a",
   "file": "ai/raw/cozy_corners/cozy_corners-19-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-20": {
   "id": "cozy_corners-20",
@@ -583,10 +521,10 @@
   "prompt": "A breakfast nook with a bench seat, gingham cushions, plants, a table with coffee and pastries, morning sun on a garden view.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03018,
+  "costUsd": 0.03201,
   "phash": "90906f6e6e63847b",
   "file": "ai/raw/cozy_corners/cozy_corners-20-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-21": {
   "id": "cozy_corners-21",
@@ -614,10 +552,10 @@
   "prompt": "An artist's desk with watercolour paints, brushes in jars, sketchbooks with flower paintings, pressed flowers and a window to a garden.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03149,
+  "costUsd": 0.03384,
   "phash": "d0c3468525e82ff7",
   "file": "ai/raw/cozy_corners/cozy_corners-21-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-22": {
   "id": "cozy_corners-22",
@@ -645,10 +583,10 @@
   "prompt": "A glass conservatory in winter with plants, cushions, a hot drink and a book, snow falling outside, warm lamps inside.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02989,
+  "costUsd": 0.03211,
   "phash": "85f92628e7f35924",
   "file": "ai/raw/cozy_corners/cozy_corners-22-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-23": {
   "id": "cozy_corners-23",
@@ -676,10 +614,10 @@
   "prompt": "A small bakery's back kitchen at dawn, flour on the table, bread rising in baskets, a glowing oven, copper scales and jars.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03022,
+  "costUsd": 0.03278,
   "phash": "e0c07f1f0fe140db",
   "file": "ai/raw/cozy_corners/cozy_corners-23-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-24": {
   "id": "cozy_corners-24",
@@ -707,10 +645,10 @@
   "prompt": "The round living room inside a lighthouse with curved bookshelves, a spiral staircase, a telescope and sea views.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters. Any weather vane is a simple arrow without letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03143,
+  "costUsd": 0.03368,
   "phash": "95b14a6841f3c5e7",
   "file": "ai/raw/cozy_corners/cozy_corners-24-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-25": {
   "id": "cozy_corners-25",
@@ -738,10 +676,10 @@
   "prompt": "A garden shed turned into a reading hideaway with cushions, fairy lights, flower pots, books and a view of a blooming garden.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.0287,
+  "costUsd": 0.03127,
   "phash": "a0b2acecd4a793e4",
   "file": "ai/raw/cozy_corners/cozy_corners-25-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-26": {
   "id": "cozy_corners-26",
@@ -769,10 +707,10 @@
   "prompt": "A apartment living room filled with plants, rattan furniture, patterned rugs, books, ceramics and a cat in a sunbeam.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02965,
+  "costUsd": 0.03167,
   "phash": "95b44b6b3691346d",
   "file": "ai/raw/cozy_corners/cozy_corners-26-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-27": {
   "id": "cozy_corners-27",
@@ -800,10 +738,10 @@
   "prompt": "A vintage train compartment with velvet seats, a little table with tea and pastries, luggage racks, a window showing mountains.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Vehicles carry no numbers, plates, names or badges.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02841,
+  "costUsd": 0.03056,
   "phash": "94b34ace936ad887",
   "file": "ai/raw/cozy_corners/cozy_corners-27-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-29": {
   "id": "cozy_corners-29",
@@ -831,10 +769,10 @@
   "prompt": "A rustic bathroom with a claw-foot tub, candles, plants, towels, soaps and a window to a snowy forest.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.03043,
+  "costUsd": 0.03269,
   "phash": "d29f0528d17dd5a2",
   "file": "ai/raw/cozy_corners/cozy_corners-29-2k.jpg",
-  "reviewed": false
+  "reviewed": true
  },
  "cozy_corners-30": {
   "id": "cozy_corners-30",
@@ -862,9 +800,226 @@
   "prompt": "A cozy living room table with a half-finished jigsaw of a flower meadow, loose pieces, tea, cookies, a cat and a rainy window.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
   "generatedAt": "2026-11-12T00:16:52+00:00",
   "attempt": 0,
-  "costUsd": 0.02875,
+  "costUsd": 0.03108,
   "phash": "958543d3ce2e35c9",
   "file": "ai/raw/cozy_corners/cozy_corners-30-2k.jpg",
-  "reviewed": false
+  "reviewed": true
+ },
+ "cozy_corners-31": {
+  "id": "cozy_corners-31",
+  "categoryId": "cozy_corners",
+  "kind": "category",
+  "titleKey": "cozy_corners-31",
+  "title": "Window seat in the rain",
+  "imagePath": "images/cozy_corners/cozy_corners-31.webp",
+  "thumbPath": "thumbs/cozy_corners-31.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#55301c",
+  "quality": {
+   "colorfulness": 53.8,
+   "contrast": 0.226,
+   "sharpness": 8.01
+  },
+  "appeal": 77.3,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "A window seat with cushions and blankets, rain on the glass, a cat, a teapot and a stack of blank-spined books.",
+  "prompt": "A window seat with cushions and blankets, rain on the glass, a cat, a teapot and a stack of blank-spined books.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.02958,
+  "phash": "909c0f437e4a675b",
+  "file": "ai/raw/cozy_corners/cozy_corners-31-2k.jpg",
+  "reviewed": true
+ },
+ "cozy_corners-32": {
+  "id": "cozy_corners-32",
+  "categoryId": "cozy_corners",
+  "kind": "category",
+  "titleKey": "cozy_corners-32",
+  "title": "Cozy cabin loft",
+  "imagePath": "images/cozy_corners/cozy_corners-32.webp",
+  "thumbPath": "thumbs/cozy_corners-32.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#582e1c",
+  "quality": {
+   "colorfulness": 61.2,
+   "contrast": 0.184,
+   "sharpness": 8.5
+  },
+  "appeal": 76.3,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "golden",
+  "scenePrompt": "A loft bedroom in a wooden cabin with a quilted bed, lanterns, books and a round window to the forest.",
+  "prompt": "A loft bedroom in a wooden cabin with a quilted bed, lanterns, books and a round window to the forest.\n\nLight and palette: Golden hour: low warm sun, honeyed amber light, long shadows and glowing rim light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03286,
+  "phash": "994b46247ad91f9a",
+  "file": "ai/raw/cozy_corners/cozy_corners-32-2k.jpg",
+  "reviewed": true
+ },
+ "cozy_corners-34": {
+  "id": "cozy_corners-34",
+  "categoryId": "cozy_corners",
+  "kind": "category",
+  "titleKey": "cozy_corners-34",
+  "title": "Reading armchair",
+  "imagePath": "images/cozy_corners/cozy_corners-34.webp",
+  "thumbPath": "thumbs/cozy_corners-34.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#222122",
+  "quality": {
+   "colorfulness": 53.3,
+   "contrast": 0.175,
+   "sharpness": 8.54
+  },
+  "appeal": 69.3,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "night",
+  "scenePrompt": "A wingback armchair with a blanket and footstool by a bookshelf, a sleeping dog.",
+  "prompt": "A wingback armchair with a blanket and footstool by a bookshelf, a sleeping dog.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03327,
+  "phash": "c5b718386c6333e9",
+  "file": "ai/raw/cozy_corners/cozy_corners-34-2k.jpg",
+  "reviewed": true
+ },
+ "cozy_corners-35": {
+  "id": "cozy_corners-35",
+  "categoryId": "cozy_corners",
+  "kind": "category",
+  "titleKey": "cozy_corners-35",
+  "title": "Craft room",
+  "imagePath": "images/cozy_corners/cozy_corners-35.webp",
+  "thumbPath": "thumbs/cozy_corners-35.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#5f5e61",
+  "quality": {
+   "colorfulness": 30.3,
+   "contrast": 0.248,
+   "sharpness": 8.99
+  },
+  "appeal": 63.8,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "snowy",
+  "scenePrompt": "A craft room with jars of buttons, ribbons, paper, paints and a half-made quilt.",
+  "prompt": "A craft room with jars of buttons, ribbons, paper, paints and a half-made quilt.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03308,
+  "phash": "de962c694227cce6",
+  "file": "ai/raw/cozy_corners/cozy_corners-35-2k.jpg",
+  "reviewed": true
+ },
+ "cozy_corners-37": {
+  "id": "cozy_corners-37",
+  "categoryId": "cozy_corners",
+  "kind": "category",
+  "titleKey": "cozy_corners-37",
+  "title": "Kitchen with herbs",
+  "imagePath": "images/cozy_corners/cozy_corners-37.webp",
+  "thumbPath": "thumbs/cozy_corners-37.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#615b5a",
+  "quality": {
+   "colorfulness": 30.4,
+   "contrast": 0.238,
+   "sharpness": 8.5
+  },
+  "appeal": 62.4,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "snowy",
+  "scenePrompt": "A farmhouse kitchen with hanging herbs, copper pans, a bread board and a bowl of lemons.",
+  "prompt": "A farmhouse kitchen with hanging herbs, copper pans, a bread board and a bowl of lemons.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03245,
+  "phash": "b3ab78491faa12e8",
+  "file": "ai/raw/cozy_corners/cozy_corners-37-2k.jpg",
+  "reviewed": true
+ },
+ "cozy_corners-39": {
+  "id": "cozy_corners-39",
+  "categoryId": "cozy_corners",
+  "kind": "category",
+  "titleKey": "cozy_corners-39",
+  "title": "Attic bedroom",
+  "imagePath": "images/cozy_corners/cozy_corners-39.webp",
+  "thumbPath": "thumbs/cozy_corners-39.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#aca08f",
+  "quality": {
+   "colorfulness": 36.9,
+   "contrast": 0.204,
+   "sharpness": 8.73
+  },
+  "appeal": 62.0,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "morning",
+  "scenePrompt": "An attic bedroom under the eaves with string lights, a patchwork quilt, plants and a skylight.",
+  "prompt": "An attic bedroom under the eaves with string lights, a patchwork quilt, plants and a skylight.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03228,
+  "phash": "9733207a526a6b8f",
+  "file": "ai/raw/cozy_corners/cozy_corners-39-2k.jpg",
+  "reviewed": true
+ },
+ "cozy_corners-40": {
+  "id": "cozy_corners-40",
+  "categoryId": "cozy_corners",
+  "kind": "category",
+  "titleKey": "cozy_corners-40",
+  "title": "Tea corner",
+  "imagePath": "images/cozy_corners/cozy_corners-40.webp",
+  "thumbPath": "thumbs/cozy_corners-40.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#52301b",
+  "quality": {
+   "colorfulness": 65.3,
+   "contrast": 0.237,
+   "sharpness": 8.65
+  },
+  "appeal": 87.2,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "midday",
+  "scenePrompt": "A corner with a tea cart, teapots, cups, a cushioned bench, plants and a framed landscape painting.",
+  "prompt": "A corner with a tea cart, teapots, cups, a cushioned bench, plants and a framed landscape painting.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T19:42:38+00:00",
+  "attempt": 0,
+  "costUsd": 0.03216,
+  "phash": "91b94b66e62ae866",
+  "file": "ai/raw/cozy_corners/cozy_corners-40-2k.jpg",
+  "reviewed": true
  }
 }

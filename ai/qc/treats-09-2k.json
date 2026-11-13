@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "81675c6e190c7b3b",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00154
  },
- "costUsd": 0.03089,
- "reviewPending": true,
+ "costUsd": 0.03243,
  "problems": [],
  "pass": true
 }

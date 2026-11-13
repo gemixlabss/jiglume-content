@@ -32,10 +32,18 @@
  "faces": [],
  "phash": "a9e0e2949ed21e8f",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Russian Zhostovo style painted tray on a rustic wooden table in a garden",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00199
  },
- "costUsd": 0.03101,
- "reviewPending": true,
+ "costUsd": 0.033,
  "problems": [],
  "pass": true
 }

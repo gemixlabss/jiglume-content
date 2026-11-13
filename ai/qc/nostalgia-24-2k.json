@@ -63,10 +63,18 @@
  ],
  "phash": "d9cdc67a64e828d2",
  "review": {
-  "pending": true
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy autumn street scene with a vintage tram and a flower stall.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00234
  },
- "costUsd": 0.03114,
- "reviewPending": true,
+ "costUsd": 0.03348,
  "problems": [],
  "pass": true
 }

@@ -1,0 +1,12 @@
+{
+ "text": false,
+ "text_where": "",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy kitchen scene with jam-making supplies, jars, fruit, and a sleeping cat.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00285
+}
