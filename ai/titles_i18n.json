@@ -177,7 +177,7 @@
  },
  "cute_pets-09": {
   "en": "Guinea pigs' house",
-  "tr": "Ginepiglerin evi",
+  "tr": "Kobayların evi",
   "de": "Meerschweinchen-Haus",
   "fr": "Maison des cochons d'Inde",
   "es": "Casa de cobayas",
@@ -199,7 +199,7 @@
  },
  "cute_pets-10": {
   "en": "Puppies in boots",
-  "tr": "Çizmedeki yavru köpekler",
+  "tr": "Çizmelerdeki yavru köpekler",
   "de": "Welpen in Stiefeln",
   "fr": "Chiots dans des bottes",
   "es": "Cachorros en botas",
@@ -2113,7 +2113,7 @@
  },
  "birds_butterflies-17": {
   "en": "Moths and moonflowers",
-  "tr": "Güveler ve ayçiçekleri",
+  "tr": "Güveler ve gece çiçekleri",
   "de": "Motten und Mondblumen",
   "fr": "Papillons de nuit fleuris",
   "es": "Polillas y flores lunares",
@@ -2201,7 +2201,7 @@
  },
  "birds_butterflies-21": {
   "en": "Puffins on the cliff",
-  "tr": "Uçurumdaki martılar",
+  "tr": "Uçurumdaki deniz papağanları",
   "de": "Papageitaucher an den Klippen",
   "fr": "Macareux sur la falaise",
   "es": "Frailecillos en el acantilado",
@@ -2509,7 +2509,7 @@
  },
  "birds_butterflies-35": {
   "en": "Bullfinches in winter",
-  "tr": "Kışın şakayık kuşları",
+  "tr": "Kışın şakrak kuşları",
   "de": "Gimpel im Winter",
   "fr": "Bouvreuils en hiver",
   "es": "Camachuelos en invierno",
@@ -2619,7 +2619,7 @@
  },
  "birds_butterflies-40": {
   "en": "Macaws in flight",
-  "tr": "Uçan aralar",
+  "tr": "Uçan ara papağanları",
   "de": "Aras im Flug",
   "fr": "Aras en plein vol",
   "es": "Guacamayos en vuelo",
@@ -6491,7 +6491,7 @@
  },
  "world_places-16": {
   "en": "Overwater bungalows",
-  "tr": "Su üstü bungolavları",
+  "tr": "Su üstü bungalovları",
   "de": "Wasserbungalows",
   "fr": "Bungalows sur pilotis",
   "es": "Búngalos sobre el agua",
@@ -8251,7 +8251,7 @@
  },
  "cozy_corners-16": {
   "en": "Study with globe",
-  "tr": "Küre olan çalışma odası",
+  "tr": "Küreli çalışma odası",
   "de": "Arbeitszimmer mit Globus",
   "fr": "Bureau avec globe",
   "es": "Estudio con globo",
@@ -8713,7 +8713,7 @@
  },
  "cozy_corners-37": {
   "en": "Kitchen with herbs",
-  "tr": "Otlu taze mutfak",
+  "tr": "Otlarla dolu mutfak",
   "de": "Kräuterküche",
   "fr": "Cuisine aux herbes aromatiques",
   "es": "Cocina con hierbas",
@@ -8801,7 +8801,7 @@
  },
  "nostalgia-01": {
   "en": "Fifties diner",
-  "tr": "Elliye ait lokanta",
+  "tr": "Ellilerin lokantası",
   "de": "Diner der Fünfziger",
   "fr": "Diner des années 50",
   "es": "Cafetería de los cincuenta",
@@ -9439,7 +9439,7 @@
  },
  "nostalgia-30": {
   "en": "Jukebox corner",
-  "tr": "Müzik kutusu köşesi",
+  "tr": "Jukebox köşesi",
   "de": "Jukebox-Ecke",
   "fr": "Le coin du juke-box",
   "es": "Rincón de la rocola",
@@ -14675,7 +14675,7 @@
  },
  "valentine-08": {
   "en": "Heart balloons",
-  "tr": "Kalp balonlar",
+  "tr": "Kalpli balonlar",
   "de": "Herzballons",
   "fr": "Ballons en cœur",
   "es": "Globos de corazón",
