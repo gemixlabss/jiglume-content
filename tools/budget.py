@@ -30,13 +30,25 @@ def _load() -> dict:
     return {"round": None, "limitUsd": 0.0, "entries": []}
 
 
-def _update(fn):
+def _locked(exclusive: bool):
     LEDGER.parent.mkdir(parents=True, exist_ok=True)
-    with open(str(LEDGER) + ".lock", "w") as lock:
-        fcntl.flock(lock, fcntl.LOCK_EX)
+    lock = open(str(LEDGER) + ".lock", "w")
+    fcntl.flock(lock, fcntl.LOCK_EX if exclusive else fcntl.LOCK_SH)
+    return lock
+
+
+def _read() -> dict:
+    with _locked(False):
+        return _load()
+
+
+def _update(fn):
+    with _locked(True):
         data = _load()
         out = fn(data)
-        LEDGER.write_text(json.dumps(data, indent=1))
+        tmp = LEDGER.with_suffix(".tmp")
+        tmp.write_text(json.dumps(data, indent=1))
+        os.replace(tmp, LEDGER)  # atomic: readers never see a half-written file
         return out
 
 
@@ -50,12 +62,12 @@ def start_round(name: str, limit_usd: float) -> None:
 
 
 def spent() -> float:
-    d = _load()
+    d = _read()
     return round(sum(e["usd"] for e in d["entries"]), 5)
 
 
 def remaining() -> float:
-    d = _load()
+    d = _read()
     return round(d["limitUsd"] - sum(e["usd"] for e in d["entries"]), 5)
 
 

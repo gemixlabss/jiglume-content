@@ -13,3 +13,5 @@ tools/models/
 ai/**/raw/**/*.png
 ai/**/raw/**/*.jpg
 ai/**/raw/**/*.webp
+ai/budget.json.lock
+ai/budget.tmp

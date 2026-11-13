@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Builds catalog v5 from the processed AI illustrations (ai/staging/*.json).
 
-* categories: tools/common.py CATEGORIES (20 languages); winter_tale is an
-  event category, listed by the app only between `start` and `end`
-  (`alwaysVisible` makes it show all year — on for testing);
+* categories: tools/common.py CATEGORIES (20 languages); event categories
+  (winter_tale, valentine, spring_festival) are listed by the app only
+  between `start` and `end`;
 * display titles: ai/titles_i18n.json (20 languages) as the shared `titles`
   table, `titleKey` = scene id;
 * tiers: per category ~60 % free / ~40 % premium — the most striking (appeal)
@@ -38,8 +38,11 @@ STARTER_COUNT = 12
 LEGACY_REF = "052b840bdae36bbb94e99d2cddb2aebc3da9a682"  # content v4.1
 LEGACY_BASES = [f"https://cdn.jsdelivr.net/gh/gemixlabss/jiglume-content@{LEGACY_REF}/",
                 f"https://raw.githubusercontent.com/gemixlabss/jiglume-content/{LEGACY_REF}/"]
-EVENTS = [{"id": "winter_tale", "categoryId": "winter_tale", "start": "12-01", "end": "01-15",
-           "alwaysVisible": True}]
+# Listed by the app only between start and end (month-day, may wrap New Year);
+# testers can show them all with the hidden settings option.
+EVENTS = [{"id": "winter_tale", "categoryId": "winter_tale", "start": "12-01", "end": "01-15"},
+          {"id": "valentine", "categoryId": "valentine", "start": "02-01", "end": "02-15"},
+          {"id": "spring_festival", "categoryId": "spring_festival", "start": "04-01", "end": "04-30"}]
 PROMPTS_URL = "https://github.com/gemixlabss/jiglume-content/blob/main/ai/prompts.yaml"
 
 
