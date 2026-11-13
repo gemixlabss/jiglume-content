@@ -1,3 +1,36 @@
+# Licences
+
+## Jiglume illustrations (catalog v5+)
+
+All 632 pictures in the current catalog are original illustrations generated for Jiglume with Google's Gemini image model (gemini-nano-banana-2.1) from Jiglume's own prompts ([ai/prompts.yaml](ai/prompts.yaml)). They belong to Jiglume; every picture carries Google's invisible SynthID watermark. They contain no third-party photographs, artworks, brands or characters.
+
+| Category | Pictures |
+|---|---|
+| Cute Pets | 38 |
+| Wildlife | 35 |
+| Birds & Butterflies | 38 |
+| Flowers & Gardens | 36 |
+| Landscapes | 36 |
+| Sea & Coast | 35 |
+| Colourful Streets | 36 |
+| Around the World | 36 |
+| Sweet Treats | 37 |
+| Cozy Corners | 35 |
+| Nostalgia | 32 |
+| Fairy Tales | 37 |
+| Night & Stars | 37 |
+| Four Seasons | 35 |
+| Art Styles | 36 |
+| Collections | 34 |
+| Winter Tale | 19 |
+| Valentine's Day | 20 |
+| Spring Festival | 20 |
+
+---
+
+# Archive (photo catalog v1–v4.1)
+
+These images are no longer in the catalog. They remain in the repository history and at commit `052b840bdae36bbb94e99d2cddb2aebc3da9a682` (CDN) so that saved games keep working. Their original licences and credits:
 # Image licences
 
 Every image in this repository is under one of these licences, all of which allow
