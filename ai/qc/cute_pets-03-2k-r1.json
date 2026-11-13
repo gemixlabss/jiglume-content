@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-03-2k-r1.jpg",
+ "id": "cute_pets-03",
+ "category": "cute_pets",
+ "title": "Cat on the windowsill",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 90.7,
+  "contrast": 0.248,
+  "sharpness": 8.0
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "969e7656302c791d",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00188
+ },
+ "costUsd": 0.03208,
+ "problems": [],
+ "pass": true
+}

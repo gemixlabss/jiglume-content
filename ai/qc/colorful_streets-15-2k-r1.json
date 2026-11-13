@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-15-2k-r1.jpg",
+ "id": "colorful_streets-15",
+ "category": "colorful_streets",
+ "title": "Antique street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.4,
+  "contrast": 0.18,
+  "sharpness": 8.61
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "894c56fb8f8ba0c6",
+ "review": {
+  "text": true,
+  "text_where": "clock faces inside shop window and on hanging clock sign",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy medieval/Victorian cobblestone alley with antique shops and lanterns.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00223
+ },
+ "costUsd": 0.03197,
+ "problems": [
+  "letters/text (clock faces inside shop window and on hanging clock sign)"
+ ],
+ "pass": false
+}

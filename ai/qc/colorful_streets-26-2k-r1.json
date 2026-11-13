@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-26-2k-r1.jpg",
+ "id": "colorful_streets-26",
+ "category": "colorful_streets",
+ "title": "Spice street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.8,
+  "contrast": 0.185,
+  "sharpness": 8.78
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91660ea7665d1f85",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Detailed night bazaar with spices, lanterns, and ceramics.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00214
+ },
+ "costUsd": 0.03006,
+ "problems": [],
+ "pass": true
+}

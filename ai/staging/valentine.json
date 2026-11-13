@@ -587,5 +587,36 @@
   "phash": "80985b873c3a9ef5",
   "file": "ai/raw/valentine/valentine-20-2k.jpg",
   "reviewed": true
+ },
+ "valentine-09": {
+  "id": "valentine-09",
+  "categoryId": "valentine",
+  "kind": "event",
+  "titleKey": "valentine-09",
+  "title": "Bakery of hearts",
+  "imagePath": "images/valentine/valentine-09.webp",
+  "thumbPath": "thumbs/valentine-09.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#282125",
+  "quality": {
+   "colorfulness": 70.5,
+   "contrast": 0.201,
+   "sharpness": 8.27
+  },
+  "appeal": 85.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "blue_hour",
+  "scenePrompt": "A bakery window full of heart-shaped cakes, cookies and macarons, no lettering.",
+  "prompt": "A bakery window full of heart-shaped cakes, cookies and macarons, no lettering.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T20:15:49+00:00",
+  "attempt": 1,
+  "costUsd": 0.03129,
+  "phash": "d682705866af87ec",
+  "file": "ai/raw/valentine/valentine-09-2k-r1.jpg",
+  "reviewed": true
  }
 }

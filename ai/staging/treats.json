@@ -1114,5 +1114,36 @@
   "phash": "9463c9c372656e3a",
   "file": "ai/raw/treats/treats-40-2k.jpg",
   "reviewed": true
+ },
+ "treats-08": {
+  "id": "treats-08",
+  "categoryId": "treats",
+  "kind": "category",
+  "titleKey": "treats-08",
+  "title": "Ice-cream parlour",
+  "imagePath": "images/treats/treats-08.webp",
+  "thumbPath": "thumbs/treats-08.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#9ea19a",
+  "quality": {
+   "colorfulness": 52.3,
+   "contrast": 0.207,
+   "sharpness": 8.65
+  },
+  "appeal": 73.4,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "rainy",
+  "scenePrompt": "An ice-cream parlour counter with tubs of colourful gelato decorated with fruit, cones, waffle bowls and toppings, pastel tiles, no signs.",
+  "prompt": "An ice-cream parlour counter with tubs of colourful gelato decorated with fruit, cones, waffle bowls and toppings, pastel tiles, no signs.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T20:15:49+00:00",
+  "attempt": 1,
+  "costUsd": 0.03174,
+  "phash": "9414495169d74f9f",
+  "file": "ai/raw/treats/treats-08-2k-r1.jpg",
+  "reviewed": true
  }
 }

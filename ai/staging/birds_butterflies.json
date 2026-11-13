@@ -1145,5 +1145,36 @@
   "phash": "9c86434c7b48b7b5",
   "file": "ai/raw/birds_butterflies/birds_butterflies-40-2k.jpg",
   "reviewed": true
+ },
+ "birds_butterflies-11": {
+  "id": "birds_butterflies-11",
+  "categoryId": "birds_butterflies",
+  "kind": "category",
+  "titleKey": "birds_butterflies-11",
+  "title": "Swallows over the barn",
+  "imagePath": "images/birds_butterflies/birds_butterflies-11.webp",
+  "thumbPath": "thumbs/birds_butterflies-11.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#572d2a",
+  "quality": {
+   "colorfulness": 70.3,
+   "contrast": 0.164,
+   "sharpness": 7.9
+  },
+  "appeal": 79.2,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "blue_hour",
+  "scenePrompt": "Barn swallows swooping around an old red barn with nests under the eaves, a field of sunflowers.",
+  "prompt": "Barn swallows swooping around an old red barn with nests under the eaves, a field of sunflowers.\n\nThe birds or butterflies are the clear heroes: large and close in the frame, with bright eyes and finely detailed feathers or wing patterns; flowers and branches frame them without crowding them out.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T20:15:48+00:00",
+  "attempt": 1,
+  "costUsd": 0.03244,
+  "phash": "919b1de84e2ac2d7",
+  "file": "ai/raw/birds_butterflies/birds_butterflies-11-2k-r1.jpg",
+  "reviewed": true
  }
 }

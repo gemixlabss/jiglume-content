@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/wildlife/wildlife-24-2k-r1.jpg",
+ "id": "wildlife-24",
+ "category": "wildlife",
+ "title": "Red pandas in the trees",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.8,
+  "contrast": 0.175,
+  "sharpness": 7.6
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9191727c4d876d1b",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "two red pandas playing on a mossy branch in an enchanted forest",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00203
+ },
+ "costUsd": 0.03214,
+ "problems": [],
+ "pass": true
+}

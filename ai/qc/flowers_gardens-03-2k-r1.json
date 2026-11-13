@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-03-2k-r1.jpg",
+ "id": "flowers_gardens-03",
+ "category": "flowers_gardens",
+ "title": "Victorian greenhouse",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 29.1,
+  "contrast": 0.244,
+  "sharpness": 9.02
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.014,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "88d374a1ad7a72d4",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Ornate Victorian greenhouse with plants and fountain during winter",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00178
+ },
+ "costUsd": 0.02978,
+ "problems": [],
+ "pass": true
+}

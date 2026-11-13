@@ -1114,5 +1114,36 @@
   "phash": "939b1b1b64e46c65",
   "file": "ai/raw/fairytale/fairytale-40-2k.jpg",
   "reviewed": true
+ },
+ "fairytale-01": {
+  "id": "fairytale-01",
+  "categoryId": "fairytale",
+  "kind": "category",
+  "titleKey": "fairytale-01",
+  "title": "Castle on the hill",
+  "imagePath": "images/fairytale/fairytale-01.webp",
+  "thumbPath": "thumbs/fairytale-01.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#656457",
+  "quality": {
+   "colorfulness": 42.5,
+   "contrast": 0.213,
+   "sharpness": 7.95
+  },
+  "appeal": 67.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "rainy",
+  "scenePrompt": "A fairytale castle with many turrets on a green hill above a village and a river, flower meadows, a rainbow.",
+  "prompt": "A fairytale castle with many turrets on a green hill above a village and a river, flower meadows, a rainbow.\n\nLight and palette: Rainy day: rain on the windows and wet, glistening reflections, soft grey-blue daylight outside contrasted with warm lamp light inside (or the fresh, shiny moment just after rain outdoors).\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T20:15:49+00:00",
+  "attempt": 1,
+  "costUsd": 0.03246,
+  "phash": "84e79a1269f16e78",
+  "file": "ai/raw/fairytale/fairytale-01-2k-r1.jpg",
+  "reviewed": true
  }
 }

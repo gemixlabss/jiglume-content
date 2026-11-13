@@ -1,0 +1,52 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-12-2k-r1.jpg",
+ "id": "nostalgia-12",
+ "category": "nostalgia",
+ "title": "Grandmother's sewing table",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.2,
+  "contrast": 0.252,
+  "sharpness": 8.51
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "f1f1ac70456bd03a",
+ "review": {
+  "text": true,
+  "text_where": "on the sewing machine iron base ('SINGER') and the radio dial",
+  "logos": true,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": null,
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00221
+ },
+ "costUsd": 0.03191,
+ "problems": [
+  "letters/text (on the sewing machine iron base ('SINGER') and the radio dial)",
+  "logo"
+ ],
+ "pass": false
+}

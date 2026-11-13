@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "Roman numerals and clock digits on the faces of the clocks and pocket watches",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": null,
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00178
+}

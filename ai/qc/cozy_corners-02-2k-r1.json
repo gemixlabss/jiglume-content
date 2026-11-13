@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-02-2k-r1.jpg",
+ "id": "cozy_corners-02",
+ "category": "cozy_corners",
+ "title": "Old library",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.0,
+  "contrast": 0.218,
+  "sharpness": 9.1
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "b5740a173597615b",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy detailed library with tall bookshelves, a spiral staircase, and study tables.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00259
+ },
+ "costUsd": 0.03178,
+ "problems": [],
+ "pass": true
+}

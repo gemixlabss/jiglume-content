@@ -1083,5 +1083,36 @@
   "phash": "90c6a5a45f397a0f",
   "file": "ai/raw/world_places/world_places-40-2k.jpg",
   "reviewed": true
+ },
+ "world_places-03": {
+  "id": "world_places-03",
+  "categoryId": "world_places",
+  "kind": "category",
+  "titleKey": "world_places-03",
+  "title": "Desert caravan",
+  "imagePath": "images/world_places/world_places-03.webp",
+  "thumbPath": "thumbs/world_places-03.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#9c6456",
+  "quality": {
+   "colorfulness": 69.3,
+   "contrast": 0.174,
+   "sharpness": 7.67
+  },
+  "appeal": 79.1,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "blue_hour",
+  "scenePrompt": "A camel caravan crossing golden sand dunes, long shadows, a distant oasis with palms, warm orange and purple sky.",
+  "prompt": "A camel caravan crossing golden sand dunes, long shadows, a distant oasis with palms, warm orange and purple sky.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T20:15:49+00:00",
+  "attempt": 1,
+  "costUsd": 0.03142,
+  "phash": "86153a6e73426dba",
+  "file": "ai/raw/world_places/world_places-03-2k-r1.jpg",
+  "reviewed": true
  }
 }

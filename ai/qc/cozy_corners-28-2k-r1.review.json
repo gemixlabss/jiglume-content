@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "numerals on various clock faces",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy clockmaker's workshop interior with clocks, desk, books, and sleeping cat",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00312
+}

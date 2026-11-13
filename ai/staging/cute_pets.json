@@ -1145,5 +1145,36 @@
   "phash": "b4a0b33e0e66c3b5",
   "file": "ai/raw/cute_pets/cute_pets-40-2k.jpg",
   "reviewed": true
+ },
+ "cute_pets-03": {
+  "id": "cute_pets-03",
+  "categoryId": "cute_pets",
+  "kind": "category",
+  "titleKey": "cute_pets-03",
+  "title": "Cat on the windowsill",
+  "imagePath": "images/cute_pets/cute_pets-03.webp",
+  "thumbPath": "thumbs/cute_pets-03.webp",
+  "width": 2240,
+  "height": 3000,
+  "dominantColor": "#5b2a1d",
+  "quality": {
+   "colorfulness": 90.7,
+   "contrast": 0.248,
+   "sharpness": 8.0
+  },
+  "appeal": 92.2,
+  "flatShare": 0.0,
+  "source": "ai-generated",
+  "model": "gemini-nano-banana-2.1",
+  "imageSize": "2K",
+  "palette": "midday",
+  "scenePrompt": "A plump orange cat napping on a deep windowsill full of cushions, rain-speckled window, potted geraniums, stacked books and a steaming teacup, soft lamp light inside.",
+  "prompt": "A plump orange cat napping on a deep windowsill full of cushions, rain-speckled window, potted geraniums, stacked books and a steaming teacup, soft lamp light inside.\n\nThe pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image), facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting is detailed but calmer and less busy than the animals.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
+  "generatedAt": "2026-11-13T20:15:48+00:00",
+  "attempt": 1,
+  "costUsd": 0.03208,
+  "phash": "969e7656302c791d",
+  "file": "ai/raw/cute_pets/cute_pets-03-2k-r1.jpg",
+  "reviewed": true
  }
 }

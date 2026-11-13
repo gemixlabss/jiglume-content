@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/landscapes/landscapes-06-2k-r1.jpg",
+ "id": "landscapes-06",
+ "category": "landscapes",
+ "title": "Misty fjord",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 44.6,
+  "contrast": 0.122,
+  "sharpness": 7.73
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "958c2733337268fc",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "scenic fjord landscape with cabins and boats at dusk",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00166
+ },
+ "costUsd": 0.03095,
+ "problems": [
+  "low contrast (0.122)"
+ ],
+ "pass": false
+}

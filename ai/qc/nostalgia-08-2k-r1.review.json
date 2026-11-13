@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "numbers on the gas pump gauge dials",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "vintage garage with an old truck and gas pumps at twilight",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00258
+}

@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/landscapes/landscapes-03-2k-r1.jpg",
+ "id": "landscapes-03",
+ "category": "landscapes",
+ "title": "Autumn valley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 63.5,
+  "contrast": 0.157,
+  "sharpness": 7.57
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1c246b1373c3d7a",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy autumn village landscape at twilight with a winding river and stone bridges.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00205
+ },
+ "costUsd": 0.03154,
+ "problems": [
+  "low contrast (0.157)"
+ ],
+ "pass": false
+}
