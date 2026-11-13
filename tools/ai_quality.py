@@ -128,7 +128,8 @@ REVIEW_PROMPT = (
     "text (bool: any letters, digits, words or symbols that read as characters anywhere, even single "
     "letters on toys, books, signs, clocks or packaging), text_where (string), logos (bool), "
     "malformed (bool: distorted hands or faces, extra or missing limbs, broken animal anatomy, melted or "
-    "nonsensical objects), close_up_people (bool: a human face larger than about 6% of the image height), "
+    "nonsensical objects), close_up_people (bool: a realistic HUMAN face larger than about 6% of the image "
+    "height; animal faces, toys, dolls and small stylised figures do not count), "
     "copyrighted_character (bool: resembles a known film, game or cartoon character or brand mascot), "
     "scary (bool), notes (short string).")
 # USD per 1M tokens (pricing page, through 2026-12-31).
@@ -149,6 +150,8 @@ def vision_review(path: Path, img: Image.Image) -> dict:
         return json.loads(cache.read_text())
     if os.environ.get("JIGLUME_NO_REVIEW"):
         return {"pending": True}
+    from budget import guard, record
+    guard(0.004)
     small = img.convert("RGB")
     small.thumbnail((1536, 1536))
     buf = io.BytesIO()
@@ -178,6 +181,7 @@ def vision_review(path: Path, img: Image.Image) -> dict:
     out_tokens = u.get("candidatesTokenCount", 0) + u.get("thoughtsTokenCount", 0)
     review["model"] = REVIEW_MODEL
     review["costUsd"] = round((u.get("promptTokenCount", 0) * REVIEW_PRICE["in"] + out_tokens * REVIEW_PRICE["out"]) / 1e6, 5)
+    record(review["costUsd"], f"review {path.stem}")
     cache.write_text(json.dumps(review, ensure_ascii=False, indent=1))
     return review
 

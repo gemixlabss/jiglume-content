@@ -186,11 +186,13 @@ def _allowed(scene: dict, category: str, text: str, indoor: bool) -> list[str]:
 
 
 def assign(scenes: list[dict], category: str) -> list[str]:
+    """Palettes for scenes without one; scenes that already have a palette
+    (already generated) keep it and count towards the 30 % cap."""
     cap = max(1, math.floor(len(scenes) * MAX_SHARE))
     opts = [allowed(s, category) for s in scenes]
-    order = sorted(range(len(scenes)), key=lambda i: len(opts[i]))  # most constrained first
-    counts: Counter = Counter()
-    out = [None] * len(scenes)
+    counts: Counter = Counter(s["palette"] for s in scenes if s.get("palette"))
+    out = [s.get("palette") for s in scenes]
+    order = sorted((i for i in range(len(scenes)) if not out[i]), key=lambda i: len(opts[i]))  # most constrained first
     rotation = list(PALETTES)
     for k, i in enumerate(order):
         choices = sorted(opts[i], key=lambda p: (counts[p] >= cap, counts[p], (rotation.index(p) - k) % 7))
@@ -219,6 +221,8 @@ def main() -> int:
             group["directive"] = HERO[cat]
         scenes = group["scenes"]
         for s in scenes:
+            if s.get("palette"):
+                continue  # already generated: keep its exact prompt
             s.setdefault("basePrompt", s["prompt"])
             text = f"{s['title']} {s['basePrompt']}"
             keep = bool(NIGHT_RE.search(s["title"]) or DUSK_RE.search(s["title"]) or SUN_RE.search(s["title"]))

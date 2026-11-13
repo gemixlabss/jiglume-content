@@ -267,6 +267,86 @@ categories:
     guards:
     - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
     palette: golden
+  - id: cute_pets-31
+    title: Kittens on the piano
+    prompt: Two kittens playing on the keys of an old upright piano, a music stand holding a vase of tulips, a cushioned
+      stool, patterned rug.
+    basePrompt: Two kittens playing on the keys of an old upright piano, a music stand holding a vase of tulips,
+      a cushioned stool, patterned rug.
+    guards: []
+    palette: golden
+  - id: cute_pets-32
+    title: Puppy in a wheelbarrow
+    prompt: A fluffy puppy sitting in a wooden wheelbarrow full of pumpkins and apples in a farmyard, hay bales,
+      chickens nearby.
+    basePrompt: A fluffy puppy sitting in a wooden wheelbarrow full of pumpkins and apples in a farmyard, hay bales,
+      chickens nearby.
+    guards: []
+    palette: night
+  - id: cute_pets-33
+    title: Cat in the herb garden
+    prompt: A tabby cat stretching among pots of basil, rosemary and lavender on a garden table, a watering can
+      and seed trays.
+    basePrompt: A tabby cat stretching among pots of basil, rosemary and lavender on a garden table, a watering
+      can and seed trays.
+    guards: []
+    palette: blue_hour
+  - id: cute_pets-34
+    title: Rabbits under the blanket
+    prompt: Three baby rabbits peeking out from under a knitted blanket in a woven basket on a cottage porch, daisies
+      around.
+    basePrompt: Three baby rabbits peeking out from under a knitted blanket in a woven basket on a cottage porch,
+      daisies around.
+    guards: []
+    palette: blue_hour
+  - id: cute_pets-35
+    title: Dogs on the sofa
+    prompt: A pug and a beagle sharing a big patterned sofa with cushions and a throw, a coffee table with treats,
+      plants and framed paintings.
+    basePrompt: A pug and a beagle sharing a big patterned sofa with cushions and a throw, a coffee table with treats,
+      plants and framed paintings.
+    guards: []
+    palette: night
+  - id: cute_pets-36
+    title: Kitten and yarn ball tower
+    prompt: A curious kitten climbing a tower of colourful yarn balls in a craft room, knitting needles, a basket
+      of wool, buttons.
+    basePrompt: A curious kitten climbing a tower of colourful yarn balls in a craft room, knitting needles, a basket
+      of wool, buttons.
+    guards: []
+    palette: rainy
+  - id: cute_pets-37
+    title: Puppy at the beach
+    prompt: A happy Labrador puppy digging in the sand next to a sandcastle, seashells, a bucket and spade, gentle
+      waves.
+    basePrompt: A happy Labrador puppy digging in the sand next to a sandcastle, seashells, a bucket and spade,
+      gentle waves.
+    guards: []
+    palette: morning
+  - id: cute_pets-38
+    title: Cats in the bookshop window
+    prompt: Two cats sitting among stacks of blank-spined books in a bookshop window, a potted fern, a reading lamp.
+    basePrompt: Two cats sitting among stacks of blank-spined books in a bookshop window, a potted fern, a reading
+      lamp.
+    guards:
+    - Book spines are plain colour blocks with simple ornaments, never titles or letters.
+    palette: snowy
+  - id: cute_pets-39
+    title: Hedgehog pet in slippers
+    prompt: A pet hedgehog curled inside a fuzzy slipper on a cozy rug, a mug of cocoa, a plush toy and a stack
+      of cushions.
+    basePrompt: A pet hedgehog curled inside a fuzzy slipper on a cozy rug, a mug of cocoa, a plush toy and a stack
+      of cushions.
+    guards:
+    - Toy blocks and toys show pictures or plain colours only, no letters or numbers.
+    palette: midday
+  - id: cute_pets-40
+    title: Puppies in the laundry
+    prompt: Two puppies tumbling in a basket of colourful clean laundry in a utility room, socks and towels everywhere.
+    basePrompt: Two puppies tumbling in a basket of colourful clean laundry in a sunny utility room, socks and towels
+      everywhere.
+    guards: []
+    palette: golden
   directive: 'The pet(s) are the clear hero of the picture: large in the frame (roughly a third to half of the image),
     facing the viewer with big expressive friendly eyes and adorable faces, fur rendered in fine detail; the setting
     is detailed but calmer and less busy than the animals.'
@@ -501,6 +581,70 @@ categories:
       turquoise water, sea anemones.
     guards: []
     palette: morning
+  - id: wildlife-31
+    title: Fox cubs at the den
+    prompt: Three red fox cubs playing outside their den among bluebells and ferns, their mother watching nearby.
+    basePrompt: Three red fox cubs playing outside their den among bluebells and ferns, their mother watching nearby.
+    guards: []
+    palette: golden
+  - id: wildlife-32
+    title: Orangutan with baby
+    prompt: A mother orangutan holding her baby high in a rainforest tree, orchids, hanging vines, misty canopy.
+    basePrompt: A mother orangutan holding her baby high in a rainforest tree, orchids, hanging vines, misty canopy.
+    guards: []
+    palette: rainy
+  - id: wildlife-33
+    title: Bison on the prairie
+    prompt: A bison family grazing in a prairie of tall grasses and wildflowers, rolling hills and a winding creek.
+    basePrompt: A bison family grazing in a prairie of tall grasses and wildflowers, rolling hills and a winding
+      creek.
+    guards: []
+    palette: midday
+  - id: wildlife-34
+    title: Sea otter
+    prompt: A sea otter floating on its back among kelp holding a shell, a rocky coast with tide pools nearby.
+    basePrompt: A sea otter floating on its back among kelp holding a shell, a rocky coast with tide pools nearby.
+    guards: []
+    palette: blue_hour
+  - id: wildlife-35
+    title: Rhino family
+    prompt: A mother rhino and calf walking along a muddy riverbank, oxpecker birds on their backs, reeds and acacias.
+    basePrompt: A mother rhino and calf walking along a muddy riverbank, oxpecker birds on their backs, reeds and
+      acacias.
+    guards: []
+    palette: night
+  - id: wildlife-36
+    title: Snow leopard
+    prompt: A snow leopard resting on a rocky ledge high in the mountains, rocky slopes, alpine flowers.
+    basePrompt: A snow leopard resting on a rocky ledge high in the mountains, rocky slopes, alpine flowers.
+    guards: []
+    palette: snowy
+  - id: wildlife-37
+    title: Hippos in the river
+    prompt: Hippos lounging in a calm river with only their eyes and backs showing, water lilies, egrets and palms.
+    basePrompt: Hippos lounging in a calm river with only their eyes and backs showing, water lilies, egrets and
+      palms.
+    guards: []
+    palette: morning
+  - id: wildlife-38
+    title: Panda cub in the tree
+    prompt: A giant panda cub hugging a branch in a bamboo forest, its mother eating bamboo below, mossy rocks.
+    basePrompt: A giant panda cub hugging a branch in a bamboo forest, its mother eating bamboo below, mossy rocks.
+    guards: []
+    palette: midday
+  - id: wildlife-39
+    title: Deer in the snowy forest
+    prompt: A roe deer family in a snowy beech forest, red berries on bushes, a frozen stream.
+    basePrompt: A roe deer family in a snowy beech forest, red berries on bushes, a frozen stream.
+    guards: []
+    palette: snowy
+  - id: wildlife-40
+    title: Capybaras at the pond
+    prompt: A group of capybaras relaxing at a pond edge, ducks and small birds sitting on them, lily pads and reeds.
+    basePrompt: A group of capybaras relaxing at a pond edge, ducks and small birds sitting on them, lily pads and
+      reeds.
+    guards: []
+    palette: golden
   directive: 'The animal(s) are the clear hero of the picture: large in the frame (roughly a third to half of the
     image), with appealing expressive eyes and faces, fur or skin rendered in fine detail; the habitat is detailed
     but calmer and less busy than the animals.'
@@ -734,6 +878,68 @@ categories:
       wooden hay hut, snowy peaks at golden hour.
     guards: []
     palette: snowy
+  - id: birds_butterflies-31
+    title: Blue tits in the blossom
+    prompt: Two blue tits on a branch of pink apple blossom, a small birdhouse behind, bees among the flowers.
+    basePrompt: Two blue tits on a branch of pink apple blossom, a small birdhouse behind, bees among the flowers.
+    guards: []
+    palette: morning
+  - id: birds_butterflies-32
+    title: Monarch migration
+    prompt: Thousands of monarch butterflies resting on fir branches and fluttering in a forest clearing.
+    basePrompt: Thousands of monarch butterflies resting on fir branches and fluttering in a forest clearing.
+    guards: []
+    palette: golden
+  - id: birds_butterflies-33
+    title: Kookaburras
+    prompt: Two kookaburras perched on a gum tree branch, eucalyptus leaves and blossoms around them.
+    basePrompt: Two kookaburras perched on a gum tree branch, eucalyptus leaves and blossoms around them.
+    guards: []
+    palette: blue_hour
+  - id: birds_butterflies-34
+    title: Hummingbird and feeder
+    prompt: Hummingbirds visiting a glass feeder hanging among red salvia and trumpet vine flowers in a garden.
+    basePrompt: Hummingbirds visiting a glass feeder hanging among red salvia and trumpet vine flowers in a garden.
+    guards: []
+    palette: golden
+  - id: birds_butterflies-35
+    title: Bullfinches in winter
+    prompt: Rosy bullfinches on snowy rowan branches heavy with red berries.
+    basePrompt: Rosy bullfinches on snowy rowan branches heavy with red berries.
+    guards: []
+    palette: snowy
+  - id: birds_butterflies-36
+    title: Parakeets in the palm
+    prompt: A flock of green parakeets in a fruiting palm tree, papayas and hibiscus below.
+    basePrompt: A flock of green parakeets in a fruiting palm tree, papayas and hibiscus below.
+    guards: []
+    palette: midday
+  - id: birds_butterflies-37
+    title: Butterflies on the buddleia
+    prompt: Painted ladies and red admirals feeding on purple buddleia spikes in a cottage garden.
+    basePrompt: Painted ladies and red admirals feeding on purple buddleia spikes in a cottage garden.
+    guards: []
+    palette: morning
+  - id: birds_butterflies-38
+    title: Robin's nest
+    prompt: A robin feeding chicks in a nest tucked in an ivy-covered garden wall, a watering can and flower pots
+      nearby.
+    basePrompt: A robin feeding chicks in a nest tucked in an ivy-covered garden wall, a watering can and flower
+      pots nearby.
+    guards: []
+    palette: blue_hour
+  - id: birds_butterflies-39
+    title: Swan family on the river
+    prompt: A pair of swans with fluffy grey cygnets gliding past a willow and a little wooden boathouse.
+    basePrompt: A pair of swans with fluffy grey cygnets gliding past a willow and a little wooden boathouse.
+    guards: []
+    palette: night
+  - id: birds_butterflies-40
+    title: Macaws in flight
+    prompt: Scarlet and blue-gold macaws flying over a rainforest river, palm crowns and flowering trees below.
+    basePrompt: Scarlet and blue-gold macaws flying over a rainforest river, palm crowns and flowering trees below.
+    guards: []
+    palette: rainy
   directive: 'The birds or butterflies are the clear heroes: large and close in the frame, with bright eyes and
     finely detailed feathers or wing patterns; flowers and branches frame them without crowding them out.'
 - id: flowers_gardens
@@ -974,6 +1180,75 @@ categories:
       bunting, flower beds all around, sunny afternoon.
     guards: []
     palette: golden
+  - id: flowers_gardens-31
+    title: Rose arch path
+    prompt: A gravel path through a series of rose-covered arches, catmint and foxgloves on both sides, a sundial
+      at the end.
+    basePrompt: A gravel path through a series of rose-covered arches, catmint and foxgloves on both sides, a sundial
+      at the end.
+    guards: []
+    palette: golden
+  - id: flowers_gardens-32
+    title: Tulip bouquets
+    prompt: Zinc buckets full of tulip bouquets in every colour on a wooden market cart, ribbons and paper wraps.
+    basePrompt: Zinc buckets full of tulip bouquets in every colour on a wooden market cart, ribbons and paper wraps.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: morning
+  - id: flowers_gardens-33
+    title: Alpine flower meadow
+    prompt: A sloping alpine meadow full of gentians, globeflowers and orchids, a wooden hay hut, peaks behind.
+    basePrompt: A sloping alpine meadow full of gentians, globeflowers and orchids, a wooden hay hut, peaks behind.
+    guards: []
+    palette: blue_hour
+  - id: flowers_gardens-34
+    title: Hanging basket café
+    prompt: A café front with dozens of overflowing hanging flower baskets of petunias and fuchsias, little tables
+      below.
+    basePrompt: A café front with dozens of overflowing hanging flower baskets of petunias and fuchsias, little
+      tables below.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: night
+  - id: flowers_gardens-35
+    title: Iris garden
+    prompt: A garden of tall bearded irises in purple, yellow and bronze along a stream with stepping stones.
+    basePrompt: A garden of tall bearded irises in purple, yellow and bronze along a stream with stepping stones.
+    guards: []
+    palette: morning
+  - id: flowers_gardens-36
+    title: Succulent garden
+    prompt: A rock garden of colourful succulents and flowering cacti in terracotta pots and gravel beds.
+    basePrompt: A sunny rock garden of colourful succulents and flowering cacti in terracotta pots and gravel beds.
+    guards: []
+    palette: midday
+  - id: flowers_gardens-37
+    title: Sweet pea trellis
+    prompt: A vegetable garden trellis covered in pastel sweet peas, with lettuces, a wooden bench and a basket
+      of cut flowers.
+    basePrompt: A vegetable garden trellis covered in pastel sweet peas, with lettuces, a wooden bench and a basket
+      of cut flowers.
+    guards: []
+    palette: golden
+  - id: flowers_gardens-38
+    title: Magnolia courtyard
+    prompt: A stone courtyard under a big blooming magnolia tree, petals on the paving, potted tulips and a fountain.
+    basePrompt: A stone courtyard under a big blooming magnolia tree, petals on the paving, potted tulips and a
+      fountain.
+    guards: []
+    palette: midday
+  - id: flowers_gardens-39
+    title: Rose petal table
+    prompt: A garden table covered with baskets of rose petals, vases, scissors and twine for making bouquets.
+    basePrompt: A garden table covered with baskets of rose petals, vases, scissors and twine for making bouquets.
+    guards: []
+    palette: blue_hour
+  - id: flowers_gardens-40
+    title: Water garden
+    prompt: A formal water garden with lily ponds, papyrus, flowering lotus and a small stone pavilion.
+    basePrompt: A formal water garden with lily ponds, papyrus, flowering lotus and a small stone pavilion.
+    guards: []
+    palette: golden
 - id: landscapes
   scenes:
   - id: landscapes-01
@@ -1205,6 +1480,66 @@ categories:
     prompt: Green mountains meeting a turquoise bay with a sandy cove, a small fishing hut, wildflowers on the cliffs.
     basePrompt: Green mountains meeting a turquoise bay with a sandy cove, a small fishing hut, wildflowers on the
       cliffs, golden light.
+    guards: []
+    palette: golden
+  - id: landscapes-31
+    title: Waterfall staircase
+    prompt: A river tumbling down many small waterfalls between mossy boulders and ferns in a lush forest.
+    basePrompt: A river tumbling down many small waterfalls between mossy boulders and ferns in a lush forest.
+    guards: []
+    palette: midday
+  - id: landscapes-32
+    title: Poppy valley
+    prompt: A wide valley covered in red poppies and blue cornflowers with a winding river and distant hills.
+    basePrompt: A wide valley covered in red poppies and blue cornflowers with a winding river and distant hills.
+    guards: []
+    palette: morning
+  - id: landscapes-33
+    title: Mountain lake reflections
+    prompt: A perfectly still lake mirroring jagged peaks, pine forests and a small red boathouse.
+    basePrompt: A perfectly still lake mirroring jagged peaks, pine forests and a small red boathouse.
+    guards: []
+    palette: golden
+  - id: landscapes-34
+    title: Autumn birch valley
+    prompt: A valley of golden birches and red rowans along a stream, mountains with a dusting of snow.
+    basePrompt: A valley of golden birches and red rowans along a stream, mountains with a dusting of snow.
+    guards: []
+    palette: snowy
+  - id: landscapes-35
+    title: Island of pines
+    prompt: Small rocky islands with pine trees scattered across a calm northern lake.
+    basePrompt: Small rocky islands with pine trees scattered across a calm northern lake.
+    guards: []
+    palette: night
+  - id: landscapes-36
+    title: Flower terraces
+    prompt: Hillside terraces planted with stripes of colourful flowers and vines, a farmhouse and cypress trees.
+    basePrompt: Hillside terraces planted with stripes of colourful flowers and vines, a farmhouse and cypress trees.
+    guards: []
+    palette: blue_hour
+  - id: landscapes-37
+    title: Glacier valley
+    prompt: A green glacial valley with braided turquoise rivers, waterfalls on the cliffs and a glacier tongue.
+    basePrompt: A green glacial valley with braided turquoise rivers, waterfalls on the cliffs and a glacier tongue.
+    guards: []
+    palette: morning
+  - id: landscapes-38
+    title: Lakeside meadow
+    prompt: A meadow full of lupins on the shore of a mountain lake, a wooden jetty and snowy peaks.
+    basePrompt: A meadow full of lupins on the shore of a mountain lake, a wooden jetty and snowy peaks.
+    guards: []
+    palette: snowy
+  - id: landscapes-39
+    title: Red rock arches
+    prompt: Natural red sandstone arches and hoodoos in a desert valley with sage and flowering cacti.
+    basePrompt: Natural red sandstone arches and hoodoos in a desert valley with sage and flowering cacti.
+    guards: []
+    palette: midday
+  - id: landscapes-40
+    title: Misty forest valley
+    prompt: Layers of forested hills with mist in the valleys and a small village with a stone tower.
+    basePrompt: Layers of forested hills with mist in the valleys and a small village with a stone tower.
     guards: []
     palette: golden
 - id: sea_coast
@@ -1459,6 +1794,70 @@ categories:
       pools, glowing orange sky.
     guards: []
     palette: morning
+  - id: sea_coast-31
+    title: Lighthouse on the cliffs
+    prompt: A white lighthouse on green cliffs above a turquoise cove, sea pinks and gorse, sailboats below.
+    basePrompt: A white lighthouse on green cliffs above a turquoise cove, sea pinks and gorse, sailboats below.
+    guards:
+    - Any weather vane is a simple arrow without letters.
+    palette: morning
+  - id: sea_coast-32
+    title: Harbour with nets
+    prompt: Fishing boats with colourful nets and buoys moored along a stone quay, stacked crates and ropes.
+    basePrompt: Fishing boats with colourful nets and buoys moored along a stone quay, stacked crates and ropes.
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: midday
+  - id: sea_coast-33
+    title: Sand dunes and sea
+    prompt: Wavy sand dunes with grasses meeting a wide blue sea, a boardwalk path winding through.
+    basePrompt: Wavy sand dunes with grasses meeting a wide blue sea, a boardwalk path winding through.
+    guards: []
+    palette: golden
+  - id: sea_coast-34
+    title: Kayaks in the bay
+    prompt: Colourful kayaks on a clear turquoise bay with rocky islets and pine-covered shores.
+    basePrompt: Colourful kayaks on a clear turquoise bay with rocky islets and pine-covered shores.
+    guards: []
+    palette: blue_hour
+  - id: sea_coast-35
+    title: Seaside cottages
+    prompt: Whitewashed cottages with blue shutters along a sea wall, flower pots and fishing gear.
+    basePrompt: Whitewashed cottages with blue shutters along a sea wall, flower pots and fishing gear.
+    guards: []
+    palette: night
+  - id: sea_coast-36
+    title: Tide pool treasures
+    prompt: Rock pools full of starfish, anemones, crabs and shells along a rocky shore.
+    basePrompt: Rock pools full of starfish, anemones, crabs and shells along a rocky shore.
+    guards: []
+    palette: morning
+  - id: sea_coast-37
+    title: Pier with cafés
+    prompt: A wooden pier with little cafés and benches, seagulls and boats, the sea glittering.
+    basePrompt: A wooden pier with little cafés and benches, seagulls and boats, the sea glittering.
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: midday
+  - id: sea_coast-38
+    title: Coral garden
+    prompt: An underwater coral garden with sea fans, turtles, angelfish and a sandy floor.
+    basePrompt: An underwater coral garden with sea fans, turtles, angelfish and a sandy floor.
+    guards: []
+    palette: golden
+  - id: sea_coast-39
+    title: Sailing regatta
+    prompt: A regatta of sailboats with colourful sails crossing a bay, a seaside town on the hill.
+    basePrompt: A regatta of sailboats with colourful sails crossing a bay, a seaside town on the hill.
+    guards: []
+    palette: blue_hour
+  - id: sea_coast-40
+    title: Island harbour
+    prompt: A tiny island harbour with pastel houses, fishing boats, and a small bell tower.
+    basePrompt: A tiny island harbour with pastel houses, fishing boats, and a small bell tower.
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: night
 - id: colorful_streets
   scenes:
   - id: colorful_streets-01
@@ -1715,6 +2114,71 @@ categories:
       fences, a cat on a wall, summer afternoon.
     guards: []
     palette: midday
+  - id: colorful_streets-31
+    title: Umbrella sky street
+    prompt: A shopping lane with hundreds of colourful umbrellas floating overhead, potted plants and cafés.
+    basePrompt: A shopping lane with hundreds of colourful umbrellas floating overhead, potted plants and cafés.
+    guards: []
+    palette: golden
+  - id: colorful_streets-32
+    title: Flower stairs
+    prompt: Wide stone stairs painted in rainbow colours and lined with flower pots between pastel houses.
+    basePrompt: Wide stone stairs painted in rainbow colours and lined with flower pots between pastel houses.
+    guards: []
+    palette: rainy
+  - id: colorful_streets-33
+    title: Canal market
+    prompt: A canal-side market with fruit, flower and cheese stalls, boats moored alongside.
+    basePrompt: A canal-side market with fruit, flower and cheese stalls, boats moored alongside.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: blue_hour
+  - id: colorful_streets-34
+    title: Painted doors
+    prompt: A row of brightly painted front doors with brass knockers and potted plants on a cobbled street.
+    basePrompt: A row of brightly painted front doors with brass knockers and potted plants on a cobbled street.
+    guards: []
+    palette: night
+  - id: colorful_streets-35
+    title: Bougainvillea alley
+    prompt: A narrow whitewashed alley under arches of magenta bougainvillea, blue doors and a sleeping cat.
+    basePrompt: A narrow whitewashed alley under arches of magenta bougainvillea, blue doors and a sleeping cat.
+    guards: []
+    palette: blue_hour
+  - id: colorful_streets-36
+    title: Lantern street
+    prompt: A street hung with rows of colourful paper lanterns between old wooden shophouses.
+    basePrompt: A street hung with rows of colourful paper lanterns between old wooden shophouses.
+    guards: []
+    palette: night
+  - id: colorful_streets-37
+    title: Hillside houses
+    prompt: Colourful houses stacked up a steep hillside with winding stairs, gardens and laundry lines.
+    basePrompt: Colourful houses stacked up a steep hillside with winding stairs, gardens and laundry lines.
+    guards: []
+    palette: morning
+  - id: colorful_streets-38
+    title: Bakery corner
+    prompt: A corner bakery with bread and pastries in the window, bicycles outside and flower boxes.
+    basePrompt: A corner bakery with bread and pastries in the window, bicycles outside and flower boxes.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: midday
+  - id: colorful_streets-39
+    title: Riverside balconies
+    prompt: Old houses with wooden balconies full of geraniums leaning over a river with little boats.
+    basePrompt: Old houses with wooden balconies full of geraniums leaning over a river with little boats.
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: golden
+  - id: colorful_streets-40
+    title: Mosaic street
+    prompt: A pedestrian street with a colourful mosaic pavement, fountains, palms and tiled shop fronts.
+    basePrompt: A pedestrian street with a colourful mosaic pavement, fountains, palms and tiled shop fronts.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: midday
 - id: world_places
   scenes:
   - id: world_places-01
@@ -1955,6 +2419,69 @@ categories:
       misty morning light.
     guards: []
     palette: rainy
+  - id: world_places-31
+    title: Lotus pavilion garden
+    prompt: An imaginary lakeside garden with wooden pavilions and lotus ponds under a willow.
+    basePrompt: An imaginary lakeside garden with wooden pavilions and lotus ponds under a willow.
+    guards: []
+    palette: morning
+  - id: world_places-32
+    title: Spice market street
+    prompt: An imaginary market street with pyramids of colourful spices, brass lamps and woven baskets.
+    basePrompt: An imaginary market street with pyramids of colourful spices, brass lamps and woven baskets.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: midday
+  - id: world_places-33
+    title: Tropical waterfall village
+    prompt: A village of thatched houses beside a tropical waterfall, palm trees, hibiscus and canoes.
+    basePrompt: A village of thatched houses beside a tropical waterfall, palm trees, hibiscus and canoes.
+    guards: []
+    palette: golden
+  - id: world_places-34
+    title: Desert palace garden
+    prompt: An imaginary desert palace garden with tiled pools, fountains, orange trees and arches.
+    basePrompt: An imaginary desert palace garden with tiled pools, fountains, orange trees and arches.
+    guards: []
+    palette: blue_hour
+  - id: world_places-35
+    title: Mountain tea village
+    prompt: A village of wooden houses among tea terraces on a misty mountainside.
+    basePrompt: A village of wooden houses among tea terraces on a misty mountainside.
+    guards: []
+    palette: night
+  - id: world_places-36
+    title: Nordic wooden town
+    prompt: A harbour town of red, ochre and white wooden houses with boats and mountains behind.
+    basePrompt: A harbour town of red, ochre and white wooden houses with boats and mountains behind.
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: morning
+  - id: world_places-37
+    title: Savanna village
+    prompt: A savanna village of round huts with painted patterns, baobab trees and giraffes far away.
+    basePrompt: A savanna village of round huts with painted patterns, baobab trees and giraffes far away.
+    guards: []
+    palette: midday
+  - id: world_places-38
+    title: Canal city boats
+    prompt: An imaginary canal city with painted boats, arched bridges and flower-filled balconies.
+    basePrompt: An imaginary canal city with painted boats, arched bridges and flower-filled balconies.
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: golden
+  - id: world_places-39
+    title: Cliffside village
+    prompt: A whitewashed village clinging to sea cliffs with blue domes, stairways and bougainvillea.
+    basePrompt: A whitewashed village clinging to sea cliffs with blue domes, stairways and bougainvillea.
+    guards: []
+    palette: blue_hour
+  - id: world_places-40
+    title: Alpine lake village
+    prompt: A lakeside alpine village with chalets, a wooden pier, flower meadows and peaks.
+    basePrompt: A lakeside alpine village with chalets, a wooden pier, flower meadows and peaks.
+    guards: []
+    palette: night
 - id: treats
   scenes:
   - id: treats-01
@@ -2200,6 +2727,69 @@ categories:
       warm afternoon light.
     guards: []
     palette: blue_hour
+  - id: treats-31
+    title: Macaron tower
+    prompt: A tall tower of pastel macarons on a cake stand among flowers, teacups and berries.
+    basePrompt: A tall tower of pastel macarons on a cake stand among flowers, teacups and berries.
+    guards: []
+    palette: golden
+  - id: treats-32
+    title: Fruit tart table
+    prompt: A table of glossy fruit tarts with berries, kiwi and peaches, jugs of cream and mint leaves.
+    basePrompt: A table of glossy fruit tarts with berries, kiwi and peaches, jugs of cream and mint leaves.
+    guards: []
+    palette: blue_hour
+  - id: treats-33
+    title: Cookie jar shelf
+    prompt: A kitchen shelf of glass cookie jars filled with many kinds of cookies, no labels.
+    basePrompt: A kitchen shelf of glass cookie jars filled with many kinds of cookies, no labels.
+    guards: []
+    palette: snowy
+  - id: treats-34
+    title: Ice-cream sundaes
+    prompt: Colourful ice-cream sundaes with cherries, wafers and sprinkles on a café counter.
+    basePrompt: Colourful ice-cream sundaes with cherries, wafers and sprinkles on a café counter.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: rainy
+  - id: treats-35
+    title: Bread basket
+    prompt: Baskets of rustic breads, pretzels and rolls on a wooden table with butter, honey and wheat stalks.
+    basePrompt: Baskets of rustic breads, pretzels and rolls on a wooden table with butter, honey and wheat stalks.
+    guards: []
+    palette: night
+  - id: treats-36
+    title: Chocolate box
+    prompt: An open box of assorted chocolates and pralines with ribbons, cocoa beans and flowers.
+    basePrompt: An open box of assorted chocolates and pralines with ribbons, cocoa beans and flowers.
+    guards: []
+    palette: morning
+  - id: treats-37
+    title: Breakfast in bed
+    prompt: A breakfast tray on a bed with pancakes, berries, orange juice, a croissant and a flower vase.
+    basePrompt: A breakfast tray on a bed with pancakes, berries, orange juice, a croissant and a flower vase.
+    guards: []
+    palette: golden
+  - id: treats-38
+    title: Cake shop counter
+    prompt: A cake shop counter with layer cakes, cupcakes and cheesecakes under glass domes.
+    basePrompt: A cake shop counter with layer cakes, cupcakes and cheesecakes under glass domes.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: night
+  - id: treats-39
+    title: Berry market
+    prompt: A market table piled with strawberries, blueberries, raspberries and cherries in wooden punnets.
+    basePrompt: A market table piled with strawberries, blueberries, raspberries and cherries in wooden punnets.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: blue_hour
+  - id: treats-40
+    title: Tea and cake
+    prompt: A slice of layered cake and a teapot on a floral tablecloth in a garden, roses around.
+    basePrompt: A slice of layered cake and a teapot on a floral tablecloth in a garden, roses around.
+    guards: []
+    palette: midday
 - id: cozy_corners
   scenes:
   - id: cozy_corners-01
@@ -2460,6 +3050,72 @@ categories:
       a lamp, a cat and a rainy window.
     guards: []
     palette: rainy
+  - id: cozy_corners-31
+    title: Window seat in the rain
+    prompt: A window seat with cushions and blankets, rain on the glass, a cat, a teapot and a stack of blank-spined
+      books.
+    basePrompt: A window seat with cushions and blankets, rain on the glass, a cat, a teapot and a stack of blank-spined
+      books.
+    guards:
+    - Book spines are plain colour blocks with simple ornaments, never titles or letters.
+    palette: golden
+  - id: cozy_corners-32
+    title: Cozy cabin loft
+    prompt: A loft bedroom in a wooden cabin with a quilted bed, lanterns, books and a round window to the forest.
+    basePrompt: A loft bedroom in a wooden cabin with a quilted bed, lanterns, books and a round window to the forest.
+    guards:
+    - Book spines are plain colour blocks with simple ornaments, never titles or letters.
+    palette: golden
+  - id: cozy_corners-33
+    title: Little bakery café
+    prompt: A tiny café corner with mismatched chairs, cakes on stands, plants and a vintage coffee machine.
+    basePrompt: A tiny café corner with mismatched chairs, cakes on stands, plants and a vintage coffee machine.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: blue_hour
+  - id: cozy_corners-34
+    title: Reading armchair
+    prompt: A wingback armchair with a blanket and footstool by a bookshelf, a sleeping dog.
+    basePrompt: A wingback armchair with a blanket and footstool by a bookshelf, a lamp, a sleeping dog.
+    guards:
+    - Book spines are plain colour blocks with simple ornaments, never titles or letters.
+    palette: night
+  - id: cozy_corners-35
+    title: Craft room
+    prompt: A craft room with jars of buttons, ribbons, paper, paints and a half-made quilt.
+    basePrompt: A sunny craft room with jars of buttons, ribbons, paper, paints and a half-made quilt.
+    guards: []
+    palette: snowy
+  - id: cozy_corners-36
+    title: Greenhouse reading nook
+    prompt: A reading nook inside a greenhouse with ferns, hanging plants, a rattan chair and cushions.
+    basePrompt: A reading nook inside a greenhouse with ferns, hanging plants, a rattan chair and cushions.
+    guards: []
+    palette: rainy
+  - id: cozy_corners-37
+    title: Kitchen with herbs
+    prompt: A farmhouse kitchen with hanging herbs, copper pans, a bread board and a bowl of lemons.
+    basePrompt: A farmhouse kitchen with hanging herbs, copper pans, a bread board and a bowl of lemons.
+    guards: []
+    palette: snowy
+  - id: cozy_corners-38
+    title: Fireside chess
+    prompt: Two armchairs by a fireplace with a chess board on a little table, tea cups and a cat.
+    basePrompt: Two armchairs by a fireplace with a chess board on a little table, tea cups and a cat.
+    guards: []
+    palette: rainy
+  - id: cozy_corners-39
+    title: Attic bedroom
+    prompt: An attic bedroom under the eaves with string lights, a patchwork quilt, plants and a skylight.
+    basePrompt: An attic bedroom under the eaves with string lights, a patchwork quilt, plants and a skylight.
+    guards: []
+    palette: morning
+  - id: cozy_corners-40
+    title: Tea corner
+    prompt: A corner with a tea cart, teapots, cups, a cushioned bench, plants and a framed landscape painting.
+    basePrompt: A corner with a tea cart, teapots, cups, a cushioned bench, plants and a framed landscape painting.
+    guards: []
+    palette: midday
 - id: nostalgia
   scenes:
   - id: nostalgia-01
@@ -2729,6 +3385,74 @@ categories:
     guards:
     - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
     palette: night
+  - id: nostalgia-31
+    title: Vintage ice-cream parlour
+    prompt: A pastel ice-cream parlour with round stools, sundae glasses and checkered floor, no lettering.
+    basePrompt: A pastel ice-cream parlour with round stools, sundae glasses and checkered floor, no lettering.
+    guards: []
+    palette: rainy
+  - id: nostalgia-32
+    title: Old toy train set
+    prompt: A vintage toy train circling a miniature village and pine trees on a living-room floor.
+    basePrompt: A vintage toy train circling a miniature village and pine trees on a living-room floor.
+    guards:
+    - Toy blocks and toys show pictures or plain colours only, no letters or numbers.
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: rainy
+  - id: nostalgia-33
+    title: Vintage bicycle with flowers
+    prompt: A vintage bicycle with a basket of flowers leaning against a café wall with potted plants.
+    basePrompt: A vintage bicycle with a basket of flowers leaning against a café wall with potted plants.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: golden
+  - id: nostalgia-34
+    title: Retro living room
+    prompt: A 1960s living room with a patterned sofa, a wooden radio, a record player and plants.
+    basePrompt: A 1960s living room with a patterned sofa, a wooden radio, a record player and plants.
+    guards: []
+    palette: snowy
+  - id: nostalgia-35
+    title: Classic car by the sea
+    prompt: A pastel classic convertible without badges parked by a seaside promenade with palm trees.
+    basePrompt: A pastel classic convertible without badges parked by a seaside promenade with palm trees.
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: blue_hour
+  - id: nostalgia-36
+    title: Old sweet shop
+    prompt: An old sweet shop with rows of glass candy jars without labels, scales and paper bags.
+    basePrompt: An old sweet shop with rows of glass candy jars without labels, scales and paper bags.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: night
+  - id: nostalgia-37
+    title: Vintage kitchen dresser
+    prompt: A vintage kitchen dresser full of patterned plates, enamel pots and jars without labels.
+    basePrompt: A vintage kitchen dresser full of patterned plates, enamel pots and jars without labels.
+    guards: []
+    palette: snowy
+  - id: nostalgia-38
+    title: Old railway platform
+    prompt: An old railway platform with a steam train without numbers, luggage trunks and flower baskets.
+    basePrompt: An old railway platform with a steam train without numbers, luggage trunks and flower baskets.
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: midday
+  - id: nostalgia-39
+    title: Retro diner booth
+    prompt: A diner booth with milkshakes, pie slices and a colourful glowing jukebox without lettering.
+    basePrompt: A diner booth with milkshakes, pie slices and a colourful glowing jukebox without lettering.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: rainy
+  - id: nostalgia-40
+    title: Vintage camping
+    prompt: A vintage caravan with a striped awning, folding chairs and a picnic by a lake.
+    basePrompt: A vintage caravan with a striped awning, folding chairs and a picnic by a lake.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: morning
 - id: fairytale
   scenes:
   - id: fairytale-01
@@ -2962,6 +3686,68 @@ categories:
       warm magical glow, no text.
     basePrompt: An enchanted carousel with carved animals in a moonlit meadow, twinkling lights, flowers and fireflies,
       warm magical glow, no text.
+    guards: []
+    palette: night
+  - id: fairytale-31
+    title: Teacup village
+    prompt: A tiny village of houses built inside giant teacups and teapots in a flower meadow.
+    basePrompt: A tiny village of houses built inside giant teacups and teapots in a flower meadow.
+    guards: []
+    palette: rainy
+  - id: fairytale-32
+    title: Glowing mushroom forest
+    prompt: A forest of giant glowing mushrooms with tiny doors, lanterns and fireflies.
+    basePrompt: A forest of giant glowing mushrooms with tiny doors, lanterns and fireflies.
+    guards: []
+    palette: blue_hour
+  - id: fairytale-33
+    title: Castle in the lake
+    prompt: A fairytale castle on an island in a lake, swans, a bridge of flowers and mountains.
+    basePrompt: A fairytale castle on an island in a lake, swans, a bridge of flowers and mountains.
+    guards: []
+    palette: morning
+  - id: fairytale-34
+    title: Hot air balloon kingdom
+    prompt: A kingdom of houses carried by colourful hot air balloons drifting over clouds.
+    basePrompt: A kingdom of houses carried by colourful hot air balloons drifting over clouds.
+    guards: []
+    palette: midday
+  - id: fairytale-35
+    title: Cottage in the tree
+    prompt: A cottage built in the branches of a giant oak with ladders, lanterns and birdhouses.
+    basePrompt: A cottage built in the branches of a giant oak with ladders, lanterns and birdhouses.
+    guards: []
+    palette: morning
+  - id: fairytale-36
+    title: Sweet candy land
+    prompt: A landscape of candy hills, lollipop trees, chocolate river and gingerbread cottages.
+    basePrompt: A landscape of candy hills, lollipop trees, chocolate river and gingerbread cottages.
+    guards: []
+    palette: midday
+  - id: fairytale-37
+    title: Magic library
+    prompt: A round magic library with floating lanterns, blank-spined books flying and star charts without text.
+    basePrompt: A round magic library with floating lanterns, blank-spined books flying and star charts without
+      text.
+    guards:
+    - Book spines are plain colour blocks with simple ornaments, never titles or letters.
+    palette: snowy
+  - id: fairytale-38
+    title: Fox and owl tea party
+    prompt: A fox, an owl and rabbits having a tea party on a mossy stump in the woods.
+    basePrompt: A fox, an owl and rabbits having a tea party on a mossy stump in the woods.
+    guards: []
+    palette: golden
+  - id: fairytale-39
+    title: Crystal waterfall
+    prompt: A waterfall of sparkling crystals pouring into a pond of glowing lilies in a magical valley.
+    basePrompt: A waterfall of sparkling crystals pouring into a pond of glowing lilies in a magical valley.
+    guards: []
+    palette: morning
+  - id: fairytale-40
+    title: Moonlit fairy garden
+    prompt: A fairy garden of glowing flowers and tiny houses under a big moon, fireflies everywhere.
+    basePrompt: A fairy garden of glowing flowers and tiny houses under a big moon, fireflies everywhere.
     guards: []
     palette: night
 - id: night_stars
@@ -3203,6 +3989,69 @@ categories:
       the trees.
     guards: []
     palette: night
+  - id: night_stars-31
+    title: Night ferry
+    prompt: A ferry with glowing windows crossing a calm harbour at night under stars, lights on the shore.
+    basePrompt: A ferry with glowing windows crossing a calm harbour at night under stars, lights on the shore.
+    guards: []
+    palette: golden
+  - id: night_stars-32
+    title: Lantern-lit garden
+    prompt: A garden at night lit by lanterns hanging from trees, a pond and flowers glowing softly.
+    basePrompt: A garden at night lit by lanterns hanging from trees, a pond and flowers glowing softly.
+    guards: []
+    palette: blue_hour
+  - id: night_stars-33
+    title: Milky Way desert
+    prompt: The Milky Way over red desert rock arches and a small campfire.
+    basePrompt: The Milky Way over red desert rock arches and a small campfire.
+    guards: []
+    palette: night
+  - id: night_stars-34
+    title: Fireflies by the river
+    prompt: Fireflies dancing over a slow river at night with a wooden bridge and reeds.
+    basePrompt: Fireflies dancing over a slow river at night with a wooden bridge and reeds.
+    guards: []
+    palette: rainy
+  - id: night_stars-35
+    title: Aurora over the fjord
+    prompt: Green and purple aurora over a fjord with red cabins and their warm lights reflected.
+    basePrompt: Green and purple aurora over a fjord with red cabins and their warm lights reflected.
+    guards: []
+    palette: blue_hour
+  - id: night_stars-36
+    title: Night bakery street
+    prompt: A narrow street at night with a glowing bakery window, lamp posts and cobblestones wet from rain.
+    basePrompt: A narrow street at night with a glowing bakery window, lamp posts and cobblestones wet from rain.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: rainy
+  - id: night_stars-37
+    title: Starry vineyard
+    prompt: A vineyard on rolling hills at night under a sky full of stars, a farmhouse with lit windows.
+    basePrompt: A vineyard on rolling hills at night under a sky full of stars, a farmhouse with lit windows.
+    guards: []
+    palette: night
+  - id: night_stars-38
+    title: Moonlit lighthouse cove
+    prompt: A cove under a full moon with a lighthouse, boats and silver waves.
+    basePrompt: A cove under a full moon with a lighthouse, boats and silver waves.
+    guards:
+    - Any weather vane is a simple arrow without letters.
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: night
+  - id: night_stars-39
+    title: City rooftop garden
+    prompt: A rooftop garden with string lights and plants overlooking city lights at night.
+    basePrompt: A rooftop garden with string lights and plants overlooking city lights at night.
+    guards: []
+    palette: blue_hour
+  - id: night_stars-40
+    title: Snowy night village
+    prompt: A snowy village at night with glowing windows, lamp posts and stars above the pines.
+    basePrompt: A snowy village at night with glowing windows, lamp posts and stars above the pines.
+    guards: []
+    palette: snowy
 - id: four_seasons
   scenes:
   - id: four_seasons-01
@@ -3432,6 +4281,69 @@ categories:
       soft golden sunshine.'
     guards: []
     palette: night
+  - id: four_seasons-31
+    title: Spring blossom village
+    prompt: 'Spring: a village street lined with blossoming cherry trees and window boxes of tulips.'
+    basePrompt: 'Spring: a village street lined with blossoming cherry trees and window boxes of tulips.'
+    guards: []
+    palette: midday
+  - id: four_seasons-32
+    title: Spring lambs
+    prompt: 'Spring: lambs playing in a green meadow with daisies and a stone farmhouse.'
+    basePrompt: 'Spring: lambs playing in a green meadow with daisies and a stone farmhouse.'
+    guards: []
+    palette: golden
+  - id: four_seasons-33
+    title: Summer lavender
+    prompt: 'Summer: rows of lavender with bees and a farmhouse among olive trees.'
+    basePrompt: 'Summer: rows of lavender with bees and a farmhouse among olive trees.'
+    guards: []
+    palette: golden
+  - id: four_seasons-34
+    title: Summer market
+    prompt: 'Summer: a village market with stalls of tomatoes, peaches and sunflowers.'
+    basePrompt: 'Summer: a village market with stalls of tomatoes, peaches and sunflowers.'
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: blue_hour
+  - id: four_seasons-35
+    title: Summer rowing boats
+    prompt: 'Summer: colourful rowing boats on a lake with water lilies and willows.'
+    basePrompt: 'Summer: colourful rowing boats on a lake with water lilies and willows.'
+    guards:
+    - Vehicles carry no numbers, plates, names or badges.
+    palette: night
+  - id: four_seasons-36
+    title: Autumn mushrooms
+    prompt: 'Autumn: a forest floor of mushrooms, acorns, red leaves and moss.'
+    basePrompt: 'Autumn: a forest floor of mushrooms, acorns, red leaves and moss.'
+    guards: []
+    palette: morning
+  - id: four_seasons-37
+    title: Autumn harvest table
+    prompt: 'Autumn: an outdoor harvest table with pumpkins, apples, bread and autumn flowers.'
+    basePrompt: 'Autumn: an outdoor harvest table with pumpkins, apples, bread and autumn flowers.'
+    guards: []
+    palette: morning
+  - id: four_seasons-38
+    title: Autumn rain street
+    prompt: 'Autumn: a cobbled street with colourful umbrellas and fallen leaves after rain.'
+    basePrompt: 'Autumn: a cobbled street with colourful umbrellas and fallen leaves after rain.'
+    guards: []
+    palette: rainy
+  - id: four_seasons-39
+    title: Winter cabin lights
+    prompt: 'Winter: a log cabin among snowy pines with glowing windows and a frozen pond.'
+    basePrompt: 'Winter: a log cabin among snowy pines with glowing windows and a frozen pond.'
+    guards: []
+    palette: snowy
+  - id: four_seasons-40
+    title: Winter market square
+    prompt: 'Winter: a snowy town square with a skating rink, stalls and a decorated tree.'
+    basePrompt: 'Winter: a snowy town square with a skating rink, stalls and a decorated tree.'
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: midday
 - id: art_styles
   scenes:
   - id: art_styles-01
@@ -3673,6 +4585,68 @@ categories:
     guards:
     - Vehicles carry no numbers, plates, names or badges.
     palette: golden
+  - id: art_styles-31
+    title: Stained glass garden
+    prompt: A stained-glass window of a flower garden with birds and a fountain, jewel colours and lead lines, no
+      text.
+    basePrompt: A stained-glass window of a flower garden with birds and a fountain, jewel colours and lead lines,
+      no text.
+    guards: []
+    palette: golden
+  - id: art_styles-32
+    title: Mosaic peacock
+    prompt: A detailed tile mosaic of a peacock among vines and flowers in teal, gold and violet.
+    basePrompt: A detailed tile mosaic of a peacock among vines and flowers in teal, gold and violet.
+    guards: []
+    palette: blue_hour
+  - id: art_styles-33
+    title: Mandala of flowers
+    prompt: A symmetrical floral mandala with petals, leaves and berries in warm and cool colours.
+    basePrompt: A symmetrical floral mandala with petals, leaves and berries in warm and cool colours.
+    guards: []
+    palette: blue_hour
+  - id: art_styles-34
+    title: Impressionist poppy field
+    prompt: An impressionist-style painting of a poppy field with a parasol and a distant village, original.
+    basePrompt: An impressionist-style painting of a poppy field with a parasol and a distant village, original.
+    guards: []
+    palette: midday
+  - id: art_styles-35
+    title: Folk embroidery
+    prompt: Colourful folk embroidery of birds, hearts and flowers on dark linen, visible stitches.
+    basePrompt: Colourful folk embroidery of birds, hearts and flowers on dark linen, visible stitches.
+    guards: []
+    palette: night
+  - id: art_styles-36
+    title: Art nouveau peacocks
+    prompt: An art nouveau panel of peacocks, irises and swirling vines with gold outlines, no text.
+    basePrompt: An art nouveau panel of peacocks, irises and swirling vines with gold outlines, no text.
+    guards: []
+    palette: morning
+  - id: art_styles-37
+    title: Tile pattern wall
+    prompt: A wall of hand-painted ceramic tiles with blue, yellow and green flower patterns.
+    basePrompt: A wall of hand-painted ceramic tiles with blue, yellow and green flower patterns.
+    guards: []
+    palette: morning
+  - id: art_styles-38
+    title: Pointillist garden
+    prompt: A pointillist-style garden with a pond and flowers made of tiny dots of colour, original.
+    basePrompt: A pointillist-style garden with a pond and flowers made of tiny dots of colour, original.
+    guards: []
+    palette: midday
+  - id: art_styles-39
+    title: Paper quilling flowers
+    prompt: Colourful paper quilling art of flowers and swirls with fine curled paper strips.
+    basePrompt: Colourful paper quilling art of flowers and swirls with fine curled paper strips.
+    guards: []
+    palette: golden
+  - id: art_styles-40
+    title: Woven tapestry birds
+    prompt: A woven tapestry with birds, trees and flowers in rich reds, blues and golds, woven texture.
+    basePrompt: A woven tapestry with birds, trees and flowers in rich reds, blues and golds, woven texture.
+    guards: []
+    palette: blue_hour
 - id: collections
   scenes:
   - id: collections-01
@@ -3911,6 +4885,71 @@ categories:
       in open paper envelopes without text.
     guards: []
     palette: rainy
+  - id: collections-31
+    title: Teapot collection
+    prompt: Shelves of colourful teapots of every shape and pattern in a kitchen.
+    basePrompt: Shelves of colourful teapots of every shape and pattern in a sunny kitchen.
+    guards: []
+    palette: night
+  - id: collections-32
+    title: Seashell jars
+    prompt: Glass jars and boxes full of seashells, starfish and sea glass on a window sill.
+    basePrompt: Glass jars and boxes full of seashells, starfish and sea glass on a window sill.
+    guards: []
+    palette: snowy
+  - id: collections-33
+    title: Yarn cubbies
+    prompt: A wall of wooden cubbies stuffed with skeins of yarn in a rainbow of colours.
+    basePrompt: A wall of wooden cubbies stuffed with skeins of yarn in a rainbow of colours.
+    guards: []
+    palette: golden
+  - id: collections-34
+    title: Toy shop shelves
+    prompt: Shelves of plush animals, wooden toys, spinning tops and kites in a toy shop, no lettering.
+    basePrompt: Shelves of plush animals, wooden toys, spinning tops and kites in a toy shop, no lettering.
+    guards:
+    - Toy blocks and toys show pictures or plain colours only, no letters or numbers.
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: golden
+  - id: collections-35
+    title: Spice drawers
+    prompt: An open apothecary chest of small drawers full of colourful spices and dried flowers, no labels.
+    basePrompt: An open apothecary chest of small drawers full of colourful spices and dried flowers, no labels.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: blue_hour
+  - id: collections-36
+    title: Button jars
+    prompt: Jars of buttons of every colour poured onto a wooden sewing table with thread spools.
+    basePrompt: Jars of buttons of every colour poured onto a wooden sewing table with thread spools.
+    guards: []
+    palette: rainy
+  - id: collections-37
+    title: Pottery market stall
+    prompt: A stall stacked with hand-painted bowls, plates and jugs of many patterns.
+    basePrompt: A stall stacked with hand-painted bowls, plates and jugs of many patterns.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: snowy
+  - id: collections-38
+    title: Candle shop
+    prompt: A shop of colourful candles of many shapes on wooden shelves.
+    basePrompt: A shop of colourful candles of many shapes on wooden shelves, warm glow.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: rainy
+  - id: collections-39
+    title: Mineral cabinet
+    prompt: A cabinet of polished stones, crystals and geodes arranged in trays.
+    basePrompt: A cabinet of polished stones, crystals and geodes arranged in trays.
+    guards: []
+    palette: morning
+  - id: collections-40
+    title: Glass ornament shelf
+    prompt: Shelves of colourful glass ornaments, beads and suncatchers catching the light, no text.
+    basePrompt: Shelves of colourful glass ornaments, beads and suncatchers catching the light, no text.
+    guards: []
+    palette: midday
 events:
 - id: winter_tale
   starts: 12-01
@@ -4083,6 +5122,261 @@ events:
     guards:
     - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
     palette: midday
+- id: valentine
+  starts: 02-01
+  ends: 02-15
+  scenes:
+  - id: valentine-01
+    title: Heart garden
+    prompt: A garden with heart-shaped flower beds of red and pink roses, a white bench and a fountain.
+    basePrompt: A garden with heart-shaped flower beds of red and pink roses, a white bench and a fountain.
+    guards: []
+    palette: night
+  - id: valentine-02
+    title: Lovebirds on a branch
+    prompt: Two lovebirds cuddling on a blossoming cherry branch with pink petals falling.
+    basePrompt: Two lovebirds cuddling on a blossoming cherry branch with pink petals falling.
+    guards: []
+    palette: morning
+  - id: valentine-03
+    title: Romantic café
+    prompt: A romantic café corner with a table for two, roses in a vase, heart-shaped cookies and candles, no text.
+    basePrompt: A romantic café corner with a table for two, roses in a vase, heart-shaped cookies and candles,
+      no text.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: morning
+  - id: valentine-04
+    title: Kittens in love
+    prompt: Two kittens sharing a heart-shaped cushion among rose petals and ribbons.
+    basePrompt: Two kittens sharing a heart-shaped cushion among rose petals and ribbons.
+    guards: []
+    palette: midday
+  - id: valentine-05
+    title: Letters and roses
+    prompt: A wooden desk with sealed envelopes without writing, wax seals, roses and a quill, no text.
+    basePrompt: A wooden desk with sealed envelopes without writing, wax seals, roses and a quill, no text.
+    guards:
+    - Maps, papers and boards are decorative without any readable writing or numbers.
+    palette: golden
+  - id: valentine-06
+    title: Gift boxes with hearts
+    prompt: A pile of gift boxes with heart patterns and ribbons, chocolates and tulips around.
+    basePrompt: A pile of gift boxes with heart patterns and ribbons, chocolates and tulips around.
+    guards: []
+    palette: midday
+  - id: valentine-07
+    title: Swans forming a heart
+    prompt: Two white swans on a lake whose necks form a heart, water lilies and a willow.
+    basePrompt: Two white swans on a lake whose necks form a heart, water lilies and a willow.
+    guards: []
+    palette: blue_hour
+  - id: valentine-08
+    title: Heart balloons
+    prompt: Red and pink heart-shaped balloons floating above a flower-filled town square.
+    basePrompt: Red and pink heart-shaped balloons floating above a flower-filled town square.
+    guards: []
+    palette: night
+  - id: valentine-09
+    title: Bakery of hearts
+    prompt: A bakery window full of heart-shaped cakes, cookies and macarons, no lettering.
+    basePrompt: A bakery window full of heart-shaped cakes, cookies and macarons, no lettering.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: blue_hour
+  - id: valentine-10
+    title: Puppy love
+    prompt: Two puppies sitting together on a red blanket with a basket of roses.
+    basePrompt: Two puppies sitting together on a red blanket with a basket of roses.
+    guards: []
+    palette: night
+  - id: valentine-11
+    title: Rose bouquet
+    prompt: A lavish bouquet of red, pink and white roses in a crystal vase with ribbons and petals.
+    basePrompt: A lavish bouquet of red, pink and white roses in a crystal vase with ribbons and petals.
+    guards: []
+    palette: morning
+  - id: valentine-12
+    title: Heart lanterns bridge
+    prompt: A small bridge over a canal decorated with heart-shaped lanterns and flower garlands.
+    basePrompt: A small bridge over a canal decorated with heart-shaped lanterns and flower garlands.
+    guards: []
+    palette: midday
+  - id: valentine-13
+    title: Chocolate box hearts
+    prompt: An open heart-shaped box of chocolates and truffles with strawberries and roses.
+    basePrompt: An open heart-shaped box of chocolates and truffles with strawberries and roses.
+    guards: []
+    palette: golden
+  - id: valentine-14
+    title: Bunnies with a heart
+    prompt: Two rabbits sitting in a meadow of pink flowers holding a heart-shaped leaf.
+    basePrompt: Two rabbits sitting in a meadow of pink flowers holding a heart-shaped leaf.
+    guards: []
+    palette: midday
+  - id: valentine-15
+    title: Picnic for two
+    prompt: A picnic blanket with a basket, strawberries, cake, two cups and roses under a blossoming tree.
+    basePrompt: A picnic blanket with a basket, strawberries, cake, two cups and roses under a blossoming tree.
+    guards: []
+    palette: golden
+  - id: valentine-16
+    title: Otters holding paws
+    prompt: Two sea otters floating together holding paws among kelp, a heart-shaped cloud above.
+    basePrompt: Two sea otters floating together holding paws among kelp, a heart-shaped cloud above.
+    guards: []
+    palette: golden
+  - id: valentine-17
+    title: Flower shop of roses
+    prompt: A flower shop filled with roses, tulips and peonies in buckets, ribbons and wrapping paper.
+    basePrompt: A flower shop filled with roses, tulips and peonies in buckets, ribbons and wrapping paper.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: blue_hour
+  - id: valentine-18
+    title: Heart wreath door
+    prompt: A front door decorated with a heart-shaped wreath of roses, candles and petals on the steps.
+    basePrompt: A front door decorated with a heart-shaped wreath of roses, candles and petals on the steps.
+    guards: []
+    palette: blue_hour
+  - id: valentine-19
+    title: Foxes in the snow
+    prompt: Two red foxes curled together in the snow forming a heart shape, pine trees around.
+    basePrompt: Two red foxes curled together in the snow forming a heart shape, pine trees around.
+    guards: []
+    palette: snowy
+  - id: valentine-20
+    title: Tea for two
+    prompt: A tea table for two with a heart-patterned teapot, cupcakes, roses and lace.
+    basePrompt: A tea table for two with a heart-patterned teapot, cupcakes, roses and lace.
+    guards: []
+    palette: morning
+- id: spring_festival
+  starts: 04-01
+  ends: 04-30
+  scenes:
+  - id: spring_festival-01
+    title: Blooming garden
+    prompt: A spring garden bursting with tulips, daffodils, hyacinths and blossoming trees around a gazebo.
+    basePrompt: A spring garden bursting with tulips, daffodils, hyacinths and blossoming trees around a gazebo.
+    guards: []
+    palette: golden
+  - id: spring_festival-02
+    title: Egg painting table
+    prompt: A table of hand-painted eggs in patterns, paint brushes, pots of colour and spring flowers.
+    basePrompt: A table of hand-painted eggs in patterns, paint brushes, pots of colour and spring flowers.
+    guards: []
+    palette: blue_hour
+  - id: spring_festival-03
+    title: Lambs and bunnies
+    prompt: Lambs and bunnies playing together in a daisy meadow with a farmhouse.
+    basePrompt: Lambs and bunnies playing together in a daisy meadow with a farmhouse.
+    guards: []
+    palette: night
+  - id: spring_festival-04
+    title: Spring picnic
+    prompt: A picnic on a blanket under blossoming cherry trees with sandwiches, lemonade and cakes.
+    basePrompt: A picnic on a blanket under blossoming cherry trees with sandwiches, lemonade and cakes.
+    guards: []
+    palette: morning
+  - id: spring_festival-05
+    title: Kites over the hills
+    prompt: Colourful kites flying over green hills dotted with flowers and small distant people.
+    basePrompt: Colourful kites flying over green hills dotted with flowers and small distant people.
+    guards: []
+    palette: midday
+  - id: spring_festival-06
+    title: Tulip fields
+    prompt: Stripes of red, yellow and pink tulip fields with a windmill and a canal.
+    basePrompt: Stripes of red, yellow and pink tulip fields with a windmill and a canal.
+    guards: []
+    palette: golden
+  - id: spring_festival-07
+    title: Egg hunt garden
+    prompt: Colourful painted eggs hidden among tulips and grass in a garden with a wooden fence.
+    basePrompt: Colourful painted eggs hidden among tulips and grass in a garden with a wooden fence.
+    guards: []
+    palette: blue_hour
+  - id: spring_festival-08
+    title: Chicks in the basket
+    prompt: Fluffy yellow chicks in a wicker basket with painted eggs and spring flowers.
+    basePrompt: Fluffy yellow chicks in a wicker basket with painted eggs and spring flowers.
+    guards: []
+    palette: midday
+  - id: spring_festival-09
+    title: Blossom village festival
+    prompt: A village square with blossom garlands, ribbons and stalls of flowers and pastries.
+    basePrompt: A village square with blossom garlands, ribbons and stalls of flowers and pastries.
+    guards: []
+    palette: golden
+  - id: spring_festival-10
+    title: Spring bakery
+    prompt: A bakery window with braided sweet breads, flower-shaped cookies and pastel cupcakes, no text.
+    basePrompt: A bakery window with braided sweet breads, flower-shaped cookies and pastel cupcakes, no text.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: blue_hour
+  - id: spring_festival-11
+    title: Ducklings in the pond
+    prompt: Ducklings following their mother on a pond edged with daffodils and willows.
+    basePrompt: Ducklings following their mother on a pond edged with daffodils and willows.
+    guards: []
+    palette: night
+  - id: spring_festival-12
+    title: Flower crown table
+    prompt: A table of fresh flowers, ribbons and half-made flower crowns in a garden.
+    basePrompt: A table of fresh flowers, ribbons and half-made flower crowns in a sunny garden.
+    guards: []
+    palette: night
+  - id: spring_festival-13
+    title: Bunny garden
+    prompt: Rabbits among vegetable beds of young carrots and lettuces with tulips around.
+    basePrompt: Rabbits among vegetable beds of young carrots and lettuces with tulips around.
+    guards: []
+    palette: morning
+  - id: spring_festival-14
+    title: Maypole meadow
+    prompt: A maypole with colourful ribbons in a flower meadow, small distant dancers.
+    basePrompt: A maypole with colourful ribbons in a flower meadow, small distant dancers.
+    guards: []
+    palette: night
+  - id: spring_festival-15
+    title: Blossom orchard
+    prompt: An orchard in full white and pink blossom with beehives and a wooden ladder.
+    basePrompt: An orchard in full white and pink blossom with beehives and a wooden ladder.
+    guards: []
+    palette: morning
+  - id: spring_festival-16
+    title: Painted eggs in a nest
+    prompt: A bird's nest of painted eggs among blossom branches and moss.
+    basePrompt: A bird's nest of painted eggs among blossom branches and moss.
+    guards: []
+    palette: morning
+  - id: spring_festival-17
+    title: Spring market
+    prompt: A market with crates of seedlings, potted flowers and baskets of eggs.
+    basePrompt: A market with crates of seedlings, potted flowers and baskets of eggs.
+    guards:
+    - Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.
+    palette: midday
+  - id: spring_festival-18
+    title: Garden swing
+    prompt: A wooden swing hanging from a blossoming tree over a garden of tulips.
+    basePrompt: A wooden swing hanging from a blossoming tree over a garden of tulips.
+    guards: []
+    palette: golden
+  - id: spring_festival-19
+    title: Butterflies and blossoms
+    prompt: Butterflies over spring blossoms and bluebells in a woodland.
+    basePrompt: Butterflies over spring blossoms and bluebells in a sunny woodland.
+    guards: []
+    palette: midday
+  - id: spring_festival-20
+    title: Spring tea party
+    prompt: A garden tea party with pastel cakes, painted eggs, tulips and floral teacups.
+    basePrompt: A garden tea party with pastel cakes, painted eggs, tulips and floral teacups.
+    guards: []
+    palette: blue_hour
 palettes:
   morning: 'Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little
     morning mist, long gentle shadows.'

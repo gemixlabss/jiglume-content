@@ -223,14 +223,22 @@ def cmd_run(args) -> int:
             log(f"  = {s['id']} ({args.size}) exists")
             continue
         log(f"[{s['id']}] {args.size}")
+        from budget import BudgetExceeded, guard, record
+        try:
+            guard(PER_IMAGE["standard"][args.size] * 1.25)
+        except BudgetExceeded as e:
+            log(f"  stopped: {e}")
+            break
         try:
             body, _ = http("POST", url, json.dumps(request_body(doc, s, args.size)).encode())
         except RuntimeError as e:
             log(f"  failed: {e}")
             continue
-        path = save_result(doc, s, args.size, json.loads(body), "standard", args.attempt)
-        if path:
-            spent += json.loads(path.with_suffix(".json").read_text())["cost"]["usd"]
+        response = json.loads(body)
+        path = save_result(doc, s, args.size, response, "standard", args.attempt)
+        cost = cost_of(response.get("usageMetadata", {}), args.size, "standard")["usd"]
+        record(cost, f"generate {s['id']} {args.size} r{args.attempt}")
+        spent += cost
     print(f"spent this run: ${spent:.4f}")
     return 0
 
@@ -262,6 +270,13 @@ def cmd_batch_submit(args) -> int:
     if not todo:
         print("nothing to submit")
         return 0
+    from budget import BudgetExceeded, guard, record
+    estimate = len(todo) * PER_IMAGE["batch"][args.size] * 1.25  # + thinking tokens
+    try:
+        guard(estimate)
+    except BudgetExceeded as e:
+        print(f"not submitted: {e}")
+        return 2
     jsonl = ROOT / "ai" / "batch-input" / f"batch-{datetime.now():%Y%m%d-%H%M%S}.jsonl"
     jsonl.parent.mkdir(parents=True, exist_ok=True)
     keys = []
@@ -279,7 +294,8 @@ def cmd_batch_submit(args) -> int:
                  "size": args.size, "state": "SUBMITTED",
                  "submittedAt": datetime.now(timezone.utc).isoformat(timespec="seconds")})
     BATCHES.write_text(json.dumps(jobs, indent=1))
-    print(f"submitted {name}: {len(keys)} requests")
+    record(estimate, f"batch {name}", kind="reserved")
+    print(f"submitted {name}: {len(keys)} requests (reserved ${estimate:.2f})")
     return 0
 
 
@@ -306,6 +322,7 @@ def cmd_batch_poll(args) -> int:
             lines = [json.loads(line) for line in data.decode().splitlines() if line.strip()]
         else:
             lines = (resp.get("inlinedResponses") or {}).get("inlinedResponses", [])
+        batch_cost = 0.0
         for line in lines:
             key = line.get("key") or (line.get("metadata") or {}).get("key")
             sid, size, attempt = key.split("|")
@@ -314,6 +331,9 @@ def cmd_batch_poll(args) -> int:
                 continue
             save_result(doc, by_id[sid], size, line.get("response", {}), "batch", int(attempt),
                         {"batchJob": j["name"]})
+            batch_cost += cost_of(line.get("response", {}).get("usageMetadata", {}), size, "batch")["usd"]
+        from budget import settle
+        settle(f"batch {j['name']}", batch_cost)
         j["state"] = "DONE"
         BATCHES.write_text(json.dumps(jobs, indent=1))
     BATCHES.write_text(json.dumps(jobs, indent=1))

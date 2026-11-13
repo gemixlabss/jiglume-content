@@ -42,10 +42,15 @@ def ask(batch: dict[str, str]) -> dict:
         data=json.dumps(body).encode(), method="POST",
         headers={"x-goog-api-key": os.environ.get("GEMINI_API_KEY", "proxy-injected"),
                  "Content-Type": "application/json"})
+    from budget import guard, record
+    guard(0.05)
     for attempt in range(4):
         try:
             with urllib.request.urlopen(req, timeout=300) as r:
                 d = json.load(r)
+            u = d.get("usageMetadata", {})
+            record((u.get("promptTokenCount", 0) * 0.75 + (u.get("candidatesTokenCount", 0)
+                    + u.get("thoughtsTokenCount", 0)) * 3.75) / 1e6, "translate titles")
             text = next(p["text"] for p in reversed(d["candidates"][0]["content"]["parts"]) if "text" in p)
             return json.loads(text)
         except Exception as e:  # noqa: BLE001

@@ -1,0 +1,493 @@
+{
+ "round": "2026-11-13 round 2",
+ "limitUsd": 10.5,
+ "entries": [
+  {
+   "usd": 0.00196,
+   "what": "review wildlife-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:46+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review birds_butterflies-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:46+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review cute_pets-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:47+00:00"
+  },
+  {
+   "usd": 0.00219,
+   "what": "review flowers_gardens-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:47+00:00"
+  },
+  {
+   "usd": 0.00216,
+   "what": "review wildlife-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:54+00:00"
+  },
+  {
+   "usd": 0.00186,
+   "what": "review cute_pets-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:55+00:00"
+  },
+  {
+   "usd": 0.00219,
+   "what": "review birds_butterflies-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:55+00:00"
+  },
+  {
+   "usd": 0.00236,
+   "what": "review flowers_gardens-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:56+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review wildlife-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:03+00:00"
+  },
+  {
+   "usd": 0.00189,
+   "what": "review cute_pets-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:03+00:00"
+  },
+  {
+   "usd": 0.00153,
+   "what": "review birds_butterflies-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:03+00:00"
+  },
+  {
+   "usd": 0.00288,
+   "what": "review flowers_gardens-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:07+00:00"
+  },
+  {
+   "usd": 0.00164,
+   "what": "review flowers_gardens-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:12+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review wildlife-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:12+00:00"
+  },
+  {
+   "usd": 0.00242,
+   "what": "review birds_butterflies-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:12+00:00"
+  },
+  {
+   "usd": 0.0027,
+   "what": "review cute_pets-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:14+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review birds_butterflies-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:20+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review cute_pets-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:22+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review flowers_gardens-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:22+00:00"
+  },
+  {
+   "usd": 0.00236,
+   "what": "review wildlife-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:22+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review birds_butterflies-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:28+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review wildlife-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:31+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review flowers_gardens-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:32+00:00"
+  },
+  {
+   "usd": 0.0025,
+   "what": "review cute_pets-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:33+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review birds_butterflies-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:36+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review flowers_gardens-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:39+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review wildlife-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:41+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review cute_pets-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:41+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review birds_butterflies-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:45+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review flowers_gardens-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:46+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review wildlife-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:49+00:00"
+  },
+  {
+   "usd": 0.00249,
+   "what": "review cute_pets-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:50+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review birds_butterflies-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:52+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review flowers_gardens-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:54+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review cute_pets-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:57+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review wildlife-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:58+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review birds_butterflies-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:59+00:00"
+  },
+  {
+   "usd": 0.00158,
+   "what": "review flowers_gardens-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:01+00:00"
+  },
+  {
+   "usd": 0.00184,
+   "what": "review birds_butterflies-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:06+00:00"
+  },
+  {
+   "usd": 0.00229,
+   "what": "review wildlife-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:07+00:00"
+  },
+  {
+   "usd": 0.00245,
+   "what": "review cute_pets-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:08+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review flowers_gardens-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:10+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review birds_butterflies-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:11+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review cute_pets-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:16+00:00"
+  },
+  {
+   "usd": 0.00227,
+   "what": "review wildlife-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:16+00:00"
+  },
+  {
+   "usd": 0.00173,
+   "what": "review birds_butterflies-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:18+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review flowers_gardens-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:18+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review cute_pets-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:24+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review wildlife-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:24+00:00"
+  },
+  {
+   "usd": 0.00156,
+   "what": "review flowers_gardens-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:26+00:00"
+  },
+  {
+   "usd": 0.00218,
+   "what": "review birds_butterflies-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:27+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review cute_pets-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:31+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review wildlife-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:31+00:00"
+  },
+  {
+   "usd": 0.00171,
+   "what": "review birds_butterflies-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:34+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review flowers_gardens-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:36+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review cute_pets-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:39+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review wildlife-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:40+00:00"
+  },
+  {
+   "usd": 0.00153,
+   "what": "review flowers_gardens-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:44+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review birds_butterflies-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:44+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review wildlife-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:49+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review cute_pets-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:49+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review flowers_gardens-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:50+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review birds_butterflies-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:51+00:00"
+  },
+  {
+   "usd": 0.00201,
+   "what": "review wildlife-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:58+00:00"
+  },
+  {
+   "usd": 0.00271,
+   "what": "review cute_pets-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:59+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review flowers_gardens-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:59+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review birds_butterflies-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:01+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review wildlife-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:05+00:00"
+  },
+  {
+   "usd": 0.00238,
+   "what": "review cute_pets-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:07+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review flowers_gardens-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:08+00:00"
+  },
+  {
+   "usd": 0.00189,
+   "what": "review birds_butterflies-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:09+00:00"
+  },
+  {
+   "usd": 0.00214,
+   "what": "review wildlife-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:14+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review flowers_gardens-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:16+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review cute_pets-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:16+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review birds_butterflies-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:17+00:00"
+  },
+  {
+   "usd": 6.3,
+   "what": "batch batches/hp7mryrzyobwb57fzsnmne8oofybp5oqdff2",
+   "kind": "reserved",
+   "at": "2026-11-13T19:33:19+00:00"
+  },
+  {
+   "usd": 0.0027,
+   "what": "review wildlife-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:22+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review cute_pets-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:25+00:00"
+  },
+  {
+   "usd": 0.00245,
+   "what": "review flowers_gardens-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:25+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review birds_butterflies-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:25+00:00"
+  }
+ ],
+ "history": [
+  {
+   "round": "2026-11-13 round 2",
+   "limitUsd": 10.5,
+   "startedAt": "2026-11-13T19:30:29+00:00"
+  }
+ ]
+}
