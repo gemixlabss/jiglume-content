@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/night_stars/night_stars-22-2k.jpg",
+ "id": "night_stars-22",
+ "category": "night_stars",
+ "title": "Camping under the stars",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.6,
+  "contrast": 0.18,
+  "sharpness": 8.25
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "943a49cd76b9c546",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy campsite illustration with tent, campfire, guitar, and starry sky",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00196
+ },
+ "costUsd": 0.03051,
+ "problems": [],
+ "pass": true
+}

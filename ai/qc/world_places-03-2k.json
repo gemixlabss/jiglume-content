@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/world_places/world_places-03-2k.jpg",
+ "id": "world_places-03",
+ "category": "world_places",
+ "title": "Desert caravan",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.7,
+  "contrast": 0.122,
+  "sharpness": 7.42
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "8197f2e11b7d5036",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00241
+ },
+ "costUsd": 0.03198,
+ "problems": [
+  "low contrast (0.122)"
+ ],
+ "pass": false
+}

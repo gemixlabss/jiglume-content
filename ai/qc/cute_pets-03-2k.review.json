@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "bottom right corner faint artist signature",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "An orange cat resting on a cozy windowsill with potted geraniums, books, and a teacup.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0026
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/wildlife/wildlife-01-2k.jpg",
+ "id": "wildlife-01",
+ "category": "wildlife",
+ "title": "Fox in the autumn forest",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.7,
+  "contrast": 0.198,
+  "sharpness": 8.49
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "909b0f6dcec65c25",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fantasy illustration of a fox standing on a mossy fallen tree under a moonlit night sky with lanterns.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00196
+ },
+ "costUsd": 0.03077,
+ "problems": [],
+ "pass": true
+}

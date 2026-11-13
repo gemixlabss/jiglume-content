@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-05-2k.jpg",
+ "id": "colorful_streets-05",
+ "category": "colorful_streets",
+ "title": "Rainbow houses on the river",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 46.5,
+  "contrast": 0.233,
+  "sharpness": 9.03
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "938d9ba68f8f2492",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy canal village illustration in the rain",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00203
+ },
+ "costUsd": 0.0299,
+ "problems": [],
+ "pass": true
+}

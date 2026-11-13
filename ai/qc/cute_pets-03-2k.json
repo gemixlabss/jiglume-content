@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-03-2k.jpg",
+ "id": "cute_pets-03",
+ "category": "cute_pets",
+ "title": "Cat on the windowsill",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 93.1,
+  "contrast": 0.247,
+  "sharpness": 8.13
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5c161d1531fcbc9",
+ "review": {
+  "text": true,
+  "text_where": "bottom right corner faint artist signature",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "An orange cat resting on a cozy windowsill with potted geraniums, books, and a teacup.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0026
+ },
+ "costUsd": 0.03041,
+ "problems": [
+  "letters/text (bottom right corner faint artist signature)"
+ ],
+ "pass": false
+}

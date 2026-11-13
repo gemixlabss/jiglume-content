@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-22-2k.jpg",
+ "id": "colorful_streets-22",
+ "category": "colorful_streets",
+ "title": "Riverside town",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 72.3,
+  "contrast": 0.202,
+  "sharpness": 9.62
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1a64e31397a1ee6",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming, colorful storybook illustration of a waterside village with boats.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00204
+ },
+ "costUsd": 0.03253,
+ "problems": [],
+ "pass": true
+}

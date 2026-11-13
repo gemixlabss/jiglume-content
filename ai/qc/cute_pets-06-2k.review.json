@@ -1,0 +1,12 @@
+{
+ "text": false,
+ "text_where": "",
+ "logos": false,
+ "malformed": true,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "The kitten has an extra front paw visible among the flowers on the right.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0027
+}

@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/fairytale/fairytale-19-2k.jpg",
+ "id": "fairytale-19",
+ "category": "fairytale",
+ "title": "Hidden valley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 27.3,
+  "contrast": 0.264,
+  "sharpness": 7.51
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91966e387b726463",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "fantasy landscape with castle, waterfalls, double rainbow, and deer",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00187
+ },
+ "costUsd": 0.03203,
+ "problems": [
+  "dull colours (27.3)"
+ ],
+ "pass": false
+}

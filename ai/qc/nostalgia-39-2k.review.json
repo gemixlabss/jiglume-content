@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "storefront sign across the street and display panel on the jukebox",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy retro diner scene with jukebox, milkshakes, and pie during a rainy day.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00295
+}

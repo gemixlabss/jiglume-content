@@ -1,0 +1,45 @@
+{
+ "id": "birds_butterflies-35",
+ "category": "birds_butterflies",
+ "kind": "category",
+ "title": "Bullfinches in winter",
+ "scenePrompt": "Rosy bullfinches on snowy rowan branches heavy with red berries.",
+ "palette": "snowy",
+ "prompt": "Rosy bullfinches on snowy rowan branches heavy with red berries.\n\nThe birds or butterflies are the clear heroes: large and close in the frame, with bright eyes and finely detailed feathers or wing patterns; flowers and branches frame them without crowding them out.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-13T19:42:37+00:00",
+ "usage": {
+  "promptTokenCount": 325,
+  "candidatesTokenCount": 2063,
+  "totalTokenCount": 3135,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 325
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 747,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.02824,
+  "mode": "batch",
+  "promptTokens": 325,
+  "imageTokens": 1680,
+  "textTokens": 747
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/hp7mryrzyobwb57fzsnmne8oofybp5oqdff2"
+}

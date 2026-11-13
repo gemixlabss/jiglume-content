@@ -1,0 +1,45 @@
+{
+ "id": "landscapes-14",
+ "category": "landscapes",
+ "kind": "category",
+ "title": "Glacier lagoon",
+ "scenePrompt": "Floating icebergs in a glacier lagoon with turquoise and white ice, black sand shores, mountains, pink and gold midnight-sun light.",
+ "palette": "blue_hour",
+ "prompt": "Floating icebergs in a glacier lagoon with turquoise and white ice, black sand shores, mountains, pink and gold midnight-sun light.\n\nLight and palette: Blue hour / twilight: deep blue and violet sky, the first warm lights in windows and lamps, a cool-and-warm colour contrast.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-12T00:15:29+00:00",
+ "usage": {
+  "promptTokenCount": 300,
+  "candidatesTokenCount": 2181,
+  "totalTokenCount": 3493,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 300
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 1012,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.02922,
+  "mode": "batch",
+  "promptTokens": 300,
+  "imageTokens": 1680,
+  "textTokens": 1012
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/201g8f5ktp4fo8cnm1f0oxzf4z23njp063md"
+}

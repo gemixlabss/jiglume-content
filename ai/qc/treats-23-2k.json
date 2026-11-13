@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/treats/treats-23-2k.jpg",
+ "id": "treats-23",
+ "category": "treats",
+ "title": "Festive pastries",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 67.2,
+  "contrast": 0.19,
+  "sharpness": 8.79
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d1333bf02b0f4af0",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Mid-Autumn Festival feast with mooncakes and lanterns under a starry sky",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00187
+ },
+ "costUsd": 0.03189,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-12-2k.jpg",
+ "id": "sea_coast-12",
+ "category": "sea_coast",
+ "title": "Cliffside path",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 60.0,
+  "contrast": 0.203,
+  "sharpness": 8.93
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "94276eb06b663a4b",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy seaside cottage cliff landscape at night with starry sky and boats.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00187
+ },
+ "costUsd": 0.03049,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,65 @@
+{
+ "file": "ai/raw/collections/collections-24-2k.jpg",
+ "id": "collections-24",
+ "category": "collections",
+ "title": "Tin toy robots",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 76.5,
+  "contrast": 0.194,
+  "sharpness": 8.44
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.043,
+   "score": 0.89,
+   "closeUp": false
+  },
+  {
+   "height": 0.057,
+   "score": 0.85,
+   "closeUp": false
+  },
+  {
+   "height": 0.061,
+   "score": 0.84,
+   "closeUp": true
+  }
+ ],
+ "phash": "80f273391e4c6de5",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy shelves filled with vintage tin robots, rockets, wooden bears, and retro toys against a starry night window.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00337
+ },
+ "costUsd": 0.03394,
+ "problems": [],
+ "pass": true
+}

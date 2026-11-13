@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/world_places/world_places-05-2k.jpg",
+ "id": "world_places-05",
+ "category": "world_places",
+ "title": "Balloon valley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 67.2,
+  "contrast": 0.147,
+  "sharpness": 7.52
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1f3333445933e1b",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fantasy Cappadocia landscape with fairy chimneys and glowing hot air balloons at twilight.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00206
+ },
+ "costUsd": 0.03096,
+ "problems": [
+  "low contrast (0.147)"
+ ],
+ "pass": false
+}

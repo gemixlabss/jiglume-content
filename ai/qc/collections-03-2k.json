@@ -1,0 +1,85 @@
+{
+ "file": "ai/raw/collections/collections-03-2k.jpg",
+ "id": "collections-03",
+ "category": "collections",
+ "title": "Toy shelves",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.3,
+  "contrast": 0.222,
+  "sharpness": 7.91
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.043,
+   "score": 0.88,
+   "closeUp": false
+  },
+  {
+   "height": 0.036,
+   "score": 0.87,
+   "closeUp": false
+  },
+  {
+   "height": 0.029,
+   "score": 0.86,
+   "closeUp": false
+  },
+  {
+   "height": 0.022,
+   "score": 0.85,
+   "closeUp": false
+  },
+  {
+   "height": 0.032,
+   "score": 0.84,
+   "closeUp": false
+  },
+  {
+   "height": 0.026,
+   "score": 0.84,
+   "closeUp": false
+  },
+  {
+   "height": 0.027,
+   "score": 0.8,
+   "closeUp": false
+  }
+ ],
+ "phash": "acb1435b53b4549e",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Vintage toy shop interior filled with classic wooden toys, teddy bears, and tin robots.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00295
+ },
+ "costUsd": 0.03324,
+ "problems": [],
+ "pass": true
+}

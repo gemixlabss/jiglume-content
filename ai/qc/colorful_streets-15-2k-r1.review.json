@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "clock faces inside shop window and on hanging clock sign",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy medieval/Victorian cobblestone alley with antique shops and lanterns.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00223
+}

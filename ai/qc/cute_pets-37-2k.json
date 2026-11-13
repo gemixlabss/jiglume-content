@@ -1,0 +1,57 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-37-2k.jpg",
+ "id": "cute_pets-37",
+ "category": "cute_pets",
+ "title": "Puppy at the beach",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.6,
+  "contrast": 0.156,
+  "sharpness": 7.31
+ },
+ "flatShare": 0.05,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.178,
+   "score": 0.9,
+   "closeUp": true
+  }
+ ],
+ "phash": "aad4cb39f44b9b04",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cute puppy playing on a sandy beach next to a sandcastle.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00182
+ },
+ "costUsd": 0.03117,
+ "problems": [
+  "low contrast (0.156)"
+ ],
+ "pass": false
+}

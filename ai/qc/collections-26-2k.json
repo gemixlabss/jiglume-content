@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/collections/collections-26-2k.jpg",
+ "id": "collections-26",
+ "category": "collections",
+ "title": "Pencils and crayons",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.3,
+  "contrast": 0.241,
+  "sharpness": 8.77
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1eb6cd66cc29d0a",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustration of an artist's wooden desk with colored pencils, botanical sketchbooks, and a rainy window view.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00337
+ },
+ "costUsd": 0.03344,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-37-2k.jpg",
+ "id": "birds_butterflies-37",
+ "category": "birds_butterflies",
+ "title": "Butterflies on the buddleia",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 53.2,
+  "contrast": 0.228,
+  "sharpness": 8.36
+ },
+ "flatShare": 0.025,
+ "text": [],
+ "faces": [],
+ "phash": "989887f338cce671",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00155
+ },
+ "costUsd": 0.03028,
+ "problems": [],
+ "pass": true
+}

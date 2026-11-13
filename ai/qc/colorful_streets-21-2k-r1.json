@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-21-2k-r1.jpg",
+ "id": "colorful_streets-21",
+ "category": "colorful_streets",
+ "title": "Pottery market",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 34.5,
+  "contrast": 0.226,
+  "sharpness": 9.23
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "cd8d41e28e70c7e6",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00197
+ },
+ "costUsd": 0.03054,
+ "problems": [],
+ "pass": true
+}

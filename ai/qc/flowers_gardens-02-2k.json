@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-02-2k.jpg",
+ "id": "flowers_gardens-02",
+ "category": "flowers_gardens",
+ "title": "Flowery window",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.8,
+  "contrast": 0.168,
+  "sharpness": 8.29
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "90d0696896b35b6f",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustration of a sleeping cat on a rustic stone cottage window sill with flowers and a lantern at night.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00236
+ },
+ "costUsd": 0.03216,
+ "problems": [],
+ "pass": true
+}

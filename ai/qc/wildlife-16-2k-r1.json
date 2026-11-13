@@ -1,0 +1,63 @@
+{
+ "file": "ai/raw/wildlife/wildlife-16-2k-r1.jpg",
+ "id": "wildlife-16",
+ "category": "wildlife",
+ "title": "Polar bears on the ice",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 52.3,
+  "contrast": 0.145,
+  "sharpness": 6.73
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.11,
+   "score": 0.84,
+   "closeUp": true
+  },
+  {
+   "height": 0.07,
+   "score": 0.82,
+   "closeUp": true
+  }
+ ],
+ "phash": "aa9940987d52877f",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": true,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "The cub on the right has an extra toe pad on its upturned paw (6 toe beans).",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00314
+ },
+ "costUsd": 0.03266,
+ "problems": [
+  "low contrast (0.145)",
+  "malformed anatomy/objects"
+ ],
+ "pass": false
+}

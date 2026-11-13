@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-10-2k.jpg",
+ "id": "cozy_corners-10",
+ "category": "cozy_corners",
+ "title": "Tea room",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 37.6,
+  "contrast": 0.2,
+  "sharpness": 8.72
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "909a75e861ef4f82",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy vintage English tea room illustration with no human figures or text.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00223
+ },
+ "costUsd": 0.0305,
+ "problems": [],
+ "pass": true
+}

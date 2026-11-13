@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "numerals on clock faces",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy clockmaker's workshop filled with various clocks, pocket watches, and tools during winter.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00252
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/landscapes/landscapes-19-2k.jpg",
+ "id": "landscapes-19",
+ "category": "landscapes",
+ "title": "Lake islands",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.2,
+  "contrast": 0.186,
+  "sharpness": 8.49
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "96e5414b49363eda",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy nocturnal cabin illustration with lake and starry sky.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00158
+ },
+ "costUsd": 0.03205,
+ "problems": [],
+ "pass": true
+}

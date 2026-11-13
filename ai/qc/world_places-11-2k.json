@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/world_places/world_places-11-2k.jpg",
+ "id": "world_places-11",
+ "category": "world_places",
+ "title": "Venetian-style canal",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.4,
+  "contrast": 0.223,
+  "sharpness": 9.24
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "99969ce186e4a1eb",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.002
+ },
+ "costUsd": 0.03067,
+ "problems": [],
+ "pass": true
+}

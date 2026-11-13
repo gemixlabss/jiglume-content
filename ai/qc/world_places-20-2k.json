@@ -1,0 +1,90 @@
+{
+ "file": "ai/raw/world_places/world_places-20-2k.jpg",
+ "id": "world_places-20",
+ "category": "world_places",
+ "title": "Bazaar of lamps",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.3,
+  "contrast": 0.185,
+  "sharpness": 8.93
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.03,
+   "score": 0.83,
+   "closeUp": false
+  },
+  {
+   "height": 0.033,
+   "score": 0.81,
+   "closeUp": false
+  },
+  {
+   "height": 0.03,
+   "score": 0.8,
+   "closeUp": false
+  },
+  {
+   "height": 0.028,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.032,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.028,
+   "score": 0.77,
+   "closeUp": false
+  },
+  {
+   "height": 0.018,
+   "score": 0.75,
+   "closeUp": false
+  },
+  {
+   "height": 0.019,
+   "score": 0.75,
+   "closeUp": false
+  }
+ ],
+ "phash": "c027433b4ed761dc",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00166
+ },
+ "costUsd": 0.03212,
+ "problems": [],
+ "pass": true
+}

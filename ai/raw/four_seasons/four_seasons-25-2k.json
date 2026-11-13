@@ -1,0 +1,45 @@
+{
+ "id": "four_seasons-25",
+ "category": "four_seasons",
+ "kind": "category",
+ "title": "Frozen lake skating",
+ "scenePrompt": "Winter: a frozen lake with small distant skaters, a wooden hut selling hot drinks, snowy hills and warm lanterns.",
+ "palette": "snowy",
+ "prompt": "Winter: a frozen lake with small distant skaters, a wooden hut selling hot drinks, snowy hills and warm lanterns.\n\nLight and palette: Snowy cold palette: crisp whites, icy blues and silvery greys with a few warm accents (red, gold); soft diffused winter light.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-12T00:17:59+00:00",
+ "usage": {
+  "promptTokenCount": 295,
+  "candidatesTokenCount": 2162,
+  "totalTokenCount": 3413,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 295
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 956,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.02901,
+  "mode": "batch",
+  "promptTokens": 295,
+  "imageTokens": 1680,
+  "textTokens": 956
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/0trjjpelosb4sdu8tkeq3x4t03c6os14h54f"
+}

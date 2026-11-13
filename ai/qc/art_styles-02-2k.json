@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/art_styles/art_styles-02-2k.jpg",
+ "id": "art_styles-02",
+ "category": "art_styles",
+ "title": "Stained glass birds",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.9,
+  "contrast": 0.208,
+  "sharpness": 8.91
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9de97695c992894c",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Stained glass illustration featuring birds and flowers",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00254
+ },
+ "costUsd": 0.03253,
+ "problems": [],
+ "pass": true
+}

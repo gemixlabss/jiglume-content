@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/world_places/world_places-14-2k.jpg",
+ "id": "world_places-14",
+ "category": "world_places",
+ "title": "Andean market",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.8,
+  "contrast": 0.276,
+  "sharpness": 8.83
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.016,
+   "score": 0.82,
+   "closeUp": false
+  }
+ ],
+ "phash": "91e1de7a6254172d",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Snowy Andean/Himalayan style mountain village market illustration.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0026
+ },
+ "costUsd": 0.03326,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/collections/collections-07-2k.jpg",
+ "id": "collections-07",
+ "category": "collections",
+ "title": "Teacup collection",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.4,
+  "contrast": 0.22,
+  "sharpness": 8.92
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "808a4b61747fc9d7",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00191
+ },
+ "costUsd": 0.03067,
+ "problems": [],
+ "pass": true
+}

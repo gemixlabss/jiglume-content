@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/art_styles/art_styles-31-2k.jpg",
+ "id": "art_styles-31",
+ "category": "art_styles",
+ "title": "Stained glass garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 81.9,
+  "contrast": 0.255,
+  "sharpness": 8.95
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9b9a64666c3c3969",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Stained glass style garden scene with a fountain and birds",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00235
+ },
+ "costUsd": 0.03091,
+ "problems": [],
+ "pass": true
+}

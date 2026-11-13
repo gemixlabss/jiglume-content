@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/collections/collections-08-2k-r1.jpg",
+ "id": "collections-08",
+ "category": "collections",
+ "title": "Yarn shop",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 49.9,
+  "contrast": 0.236,
+  "sharpness": 8.63
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "84986568796d1eee",
+ "review": {
+  "text": true,
+  "text_where": "headings in the open pattern book on the table",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": null,
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00195
+ },
+ "costUsd": 0.03153,
+ "problems": [
+  "letters/text (headings in the open pattern book on the table)"
+ ],
+ "pass": false
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-39-2k.jpg",
+ "id": "cozy_corners-39",
+ "category": "cozy_corners",
+ "title": "Attic bedroom",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.9,
+  "contrast": 0.204,
+  "sharpness": 8.73
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9733207a526a6b8f",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy attic bedroom illustration with a sleeping cat and lots of plants.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00191
+ },
+ "costUsd": 0.03228,
+ "problems": [],
+ "pass": true
+}

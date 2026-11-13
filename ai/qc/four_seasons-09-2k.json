@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-09-2k.jpg",
+ "id": "four_seasons-09",
+ "category": "four_seasons",
+ "title": "Summer meadow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.3,
+  "contrast": 0.213,
+  "sharpness": 8.78
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "95dd3a382d6a3287",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "hammock in a meadow with flowers, butterflies, bees, and lemonade",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00216
+ },
+ "costUsd": 0.0323,
+ "problems": [],
+ "pass": true
+}

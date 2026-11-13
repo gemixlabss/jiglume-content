@@ -1,0 +1,60 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-09-2k.jpg",
+ "id": "birds_butterflies-09",
+ "category": "birds_butterflies",
+ "title": "Owls in the old tree",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 40.7,
+  "contrast": 0.17,
+  "sharpness": 8.16
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.025,
+   "score": 0.83,
+   "closeUp": false
+  },
+  {
+   "height": 0.028,
+   "score": 0.83,
+   "closeUp": false
+  }
+ ],
+ "phash": "c1c367193978761e",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Nighttime illustration of an owl family nestled in a tree trunk hollow surrounded by moths and foxgloves.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00167
+ },
+ "costUsd": 0.03249,
+ "problems": [],
+ "pass": true
+}

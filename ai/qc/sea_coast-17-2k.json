@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-17-2k.jpg",
+ "id": "sea_coast-17",
+ "category": "sea_coast",
+ "title": "Beach picnic",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 37.1,
+  "contrast": 0.162,
+  "sharpness": 8.74
+ },
+ "flatShare": 0.075,
+ "text": [],
+ "faces": [],
+ "phash": "c5f2aa2c5638877a",
+ "review": {
+  "text": true,
+  "text_where": "cover of the top book on the stack at the bottom right",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming beach picnic illustration with tiny stylized figures in the background.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0031
+ },
+ "costUsd": 0.0319,
+ "problems": [
+  "letters/text (cover of the top book on the stack at the bottom right)"
+ ],
+ "pass": false
+}

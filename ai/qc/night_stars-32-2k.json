@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/night_stars/night_stars-32-2k.jpg",
+ "id": "night_stars-32",
+ "category": "night_stars",
+ "title": "Lantern-lit garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 50.3,
+  "contrast": 0.179,
+  "sharpness": 8.88
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.014,
+   "score": 0.75,
+   "closeUp": false
+  }
+ ],
+ "phash": "9402316f33794cbf",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00224
+ },
+ "costUsd": 0.03195,
+ "problems": [],
+ "pass": true
+}

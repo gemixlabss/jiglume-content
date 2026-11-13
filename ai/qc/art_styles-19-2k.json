@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/art_styles/art_styles-19-2k.jpg",
+ "id": "art_styles-19",
+ "category": "art_styles",
+ "title": "Rose window",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 51.3,
+  "contrast": 0.188,
+  "sharpness": 8.85
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9265313ec561d26f",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Gothic hall with a large rose window and potted ferns.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00199
+ },
+ "costUsd": 0.03074,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-15-2k.jpg",
+ "id": "colorful_streets-15",
+ "category": "colorful_streets",
+ "title": "Antique street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 60.7,
+  "contrast": 0.174,
+  "sharpness": 8.31
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "985847bf0e53f4e0",
+ "review": {
+  "text": true,
+  "text_where": "clock faces inside the shop window on the right",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "quaint cobblestone street lined with glowing antique and clock shops",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00236
+ },
+ "costUsd": 0.03229,
+ "problems": [
+  "letters/text (clock faces inside the shop window on the right)"
+ ],
+ "pass": false
+}

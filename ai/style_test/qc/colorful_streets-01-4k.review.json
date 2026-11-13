@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "faint lettering reading 'ART' on the stone riser beneath the right staircase landing",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Scenic Mediterranean stepped alleyway with cats, flowers, and laundry overlooking the sea.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.003
+}

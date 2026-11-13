@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "neon sign in upper right corner",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "retro diner in winter",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00251
+}

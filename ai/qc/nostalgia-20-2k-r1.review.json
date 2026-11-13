@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "simulated cursive handwriting on the envelopes and letters on the desk",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy desk with a vintage typewriter in front of a window at dusk",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00228
+}

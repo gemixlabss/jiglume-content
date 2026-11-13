@@ -1,0 +1,12 @@
+{
+ "text": false,
+ "text_where": "none",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy nighttime cobblestone street with lit shop windows and a cat on the steps.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00241
+}

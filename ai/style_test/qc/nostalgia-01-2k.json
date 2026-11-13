@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-01-2k.jpg",
+ "id": "nostalgia-01",
+ "category": "nostalgia",
+ "title": "Fifties diner",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 70.4,
+  "contrast": 0.199,
+  "sharpness": 8.64
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.014,
+   "score": 0.77,
+   "closeUp": false
+  }
+ ],
+ "phash": "9097649b5a678d6c",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy retro 1950s American diner illustration with pies, counter stools, jukebox, and booths.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00239
+ },
+ "costUsd": 0.06117,
+ "problems": [],
+ "pass": true
+}

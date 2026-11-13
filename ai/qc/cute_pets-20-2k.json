@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-20-2k.jpg",
+ "id": "cute_pets-20",
+ "category": "cute_pets",
+ "title": "Dog at the café",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 55.5,
+  "contrast": 0.244,
+  "sharpness": 7.43
+ },
+ "flatShare": 0.025,
+ "text": [],
+ "faces": [],
+ "phash": "dcf263d913b126a4",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "A fluffy white Samoyed dog sitting in front of a cozy European cafe terrace.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00226
+ },
+ "costUsd": 0.03285,
+ "problems": [],
+ "pass": true
+}

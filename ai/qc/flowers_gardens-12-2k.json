@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-12-2k.jpg",
+ "id": "flowers_gardens-12",
+ "category": "flowers_gardens",
+ "title": "Potting shed",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 42.2,
+  "contrast": 0.217,
+  "sharpness": 8.8
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c0e6c7929f8c4e1d",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00191
+ },
+ "costUsd": 0.03282,
+ "problems": [],
+ "pass": true
+}

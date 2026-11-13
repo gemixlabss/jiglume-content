@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/art_styles/art_styles-13-2k.jpg",
+ "id": "art_styles-13",
+ "category": "art_styles",
+ "title": "Cubist still life",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.5,
+  "contrast": 0.172,
+  "sharpness": 8.17
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1e21e9f3f616125",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Stylized cubist/stained-glass still life on a patchwork tablecloth by a window.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00217
+ },
+ "costUsd": 0.03095,
+ "problems": [],
+ "pass": true
+}

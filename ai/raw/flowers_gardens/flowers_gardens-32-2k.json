@@ -1,0 +1,45 @@
+{
+ "id": "flowers_gardens-32",
+ "category": "flowers_gardens",
+ "kind": "category",
+ "title": "Tulip bouquets",
+ "scenePrompt": "Zinc buckets full of tulip bouquets in every colour on a wooden market cart, ribbons and paper wraps.",
+ "palette": "morning",
+ "prompt": "Zinc buckets full of tulip bouquets in every colour on a wooden market cart, ribbons and paper wraps.\n\nLight and palette: Fresh early-morning light: airy pastel palette (soft pink, mint, pale blue, butter yellow), a little morning mist, long gentle shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-13T19:42:37+00:00",
+ "usage": {
+  "promptTokenCount": 319,
+  "candidatesTokenCount": 2122,
+  "totalTokenCount": 3554,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 319
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 1113,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.02961,
+  "mode": "batch",
+  "promptTokens": 319,
+  "imageTokens": 1680,
+  "textTokens": 1113
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/hp7mryrzyobwb57fzsnmne8oofybp5oqdff2"
+}

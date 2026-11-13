@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-28-2k.jpg",
+ "id": "nostalgia-28",
+ "category": "nostalgia",
+ "title": "Vintage kitchen pantry",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.8,
+  "contrast": 0.237,
+  "sharpness": 8.54
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1eb170c8d4e13e7",
+ "review": {
+  "text": true,
+  "text_where": "numbers on the dial of the vintage kitchen scale on the middle shelf",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy rustic pantry filled with preserved jars, eggs, flour sacks, and winter vegetables with a snowy window view.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00232
+ },
+ "costUsd": 0.0325,
+ "problems": [
+  "letters/text (numbers on the dial of the vintage kitchen scale on the middle shelf)"
+ ],
+ "pass": false
+}

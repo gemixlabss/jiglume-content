@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-26-2k.jpg",
+ "id": "birds_butterflies-26",
+ "category": "birds_butterflies",
+ "title": "Lovebirds",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.1,
+  "contrast": 0.226,
+  "sharpness": 8.11
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9193807d3e9e574a",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Two lovebirds perched in a blossoming tree above an idyllic garden landscape.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00205
+ },
+ "costUsd": 0.03029,
+ "problems": [],
+ "pass": true
+}

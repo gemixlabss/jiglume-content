@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-14-2k.jpg",
+ "id": "flowers_gardens-14",
+ "category": "flowers_gardens",
+ "title": "Balcony garden",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.5,
+  "contrast": 0.223,
+  "sharpness": 8.92
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "80b095bbbb8d2b1b",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy rooftop balcony garden with potted plants and lemonade at sunset",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00235
+ },
+ "costUsd": 0.03115,
+ "problems": [],
+ "pass": true
+}

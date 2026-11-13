@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/landscapes/landscapes-02-2k.jpg",
+ "id": "landscapes-02",
+ "category": "landscapes",
+ "title": "Waterfall valley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.3,
+  "contrast": 0.251,
+  "sharpness": 7.91
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "81d03cce6e734bc3",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fairytale landscape with waterfall, rainbow, and a cottage",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00171
+ },
+ "costUsd": 0.02875,
+ "problems": [],
+ "pass": true
+}

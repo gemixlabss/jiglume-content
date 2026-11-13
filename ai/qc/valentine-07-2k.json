@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/valentine/valentine-07-2k.jpg",
+ "id": "valentine-07",
+ "category": "valentine",
+ "title": "Swans forming a heart",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 50.9,
+  "contrast": 0.176,
+  "sharpness": 8.33
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1f273d7303d1c0e",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "fairy tale night pond with two swans forming a heart, water lilies, and a weeping willow",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00191
+ },
+ "costUsd": 0.03188,
+ "problems": [],
+ "pass": true
+}

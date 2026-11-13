@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/wildlife/wildlife-17-2k.jpg",
+ "id": "wildlife-17",
+ "category": "wildlife",
+ "title": "Badgers at dusk",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.8,
+  "contrast": 0.197,
+  "sharpness": 8.28
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d99a137764630e6c",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "badger family in burrow under tree roots",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00232
+ },
+ "costUsd": 0.03281,
+ "problems": [],
+ "pass": true
+}

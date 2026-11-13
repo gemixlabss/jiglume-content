@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/valentine/valentine-10-2k.jpg",
+ "id": "valentine-10",
+ "category": "valentine",
+ "title": "Puppy love",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.5,
+  "contrast": 0.179,
+  "sharpness": 8.43
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c50f1fe169353896",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Two cute puppies resting on a blanket in a magical nighttime garden with flowers and lanterns.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0022
+ },
+ "costUsd": 0.03207,
+ "problems": [],
+ "pass": true
+}

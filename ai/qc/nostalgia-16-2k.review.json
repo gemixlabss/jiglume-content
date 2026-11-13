@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "on the grain sack in the lower left foreground",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy rustic general store interior",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0023
+}

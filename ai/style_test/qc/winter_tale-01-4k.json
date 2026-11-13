@@ -1,0 +1,70 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-01-4k.jpg",
+ "id": "winter_tale-01",
+ "category": "winter_tale",
+ "title": "Christmas market",
+ "imageSize": "4K",
+ "native": [
+  3584,
+  4800
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 73.5,
+  "contrast": 0.233,
+  "sharpness": 8.26
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.012,
+   "score": 0.82,
+   "closeUp": false
+  },
+  {
+   "height": 0.012,
+   "score": 0.81,
+   "closeUp": false
+  },
+  {
+   "height": 0.01,
+   "score": 0.81,
+   "closeUp": false
+  },
+  {
+   "height": 0.008,
+   "score": 0.77,
+   "closeUp": false
+  }
+ ],
+ "phash": "cc39173ab649239e",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter Christmas market illustration with traditional stalls and a large Christmas tree.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00307
+ },
+ "costUsd": 0.12537,
+ "problems": [],
+ "pass": true
+}

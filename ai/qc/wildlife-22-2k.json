@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/wildlife/wildlife-22-2k.jpg",
+ "id": "wildlife-22",
+ "category": "wildlife",
+ "title": "Lynx in the forest",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.8,
+  "contrast": 0.217,
+  "sharpness": 8.07
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.109,
+   "score": 0.78,
+   "closeUp": true
+  }
+ ],
+ "phash": "929f2b1b6372344d",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Illustration of a lynx walking on a mossy log in a forest.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00193
+ },
+ "costUsd": 0.03119,
+ "problems": [],
+ "pass": true
+}

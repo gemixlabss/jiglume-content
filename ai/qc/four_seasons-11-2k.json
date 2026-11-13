@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-11-2k.jpg",
+ "id": "four_seasons-11",
+ "category": "four_seasons",
+ "title": "Summer berry picking",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 52.6,
+  "contrast": 0.144,
+  "sharpness": 8.18
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9591699a3c65366b",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00177
+ },
+ "costUsd": 0.03146,
+ "problems": [
+  "low contrast (0.144)"
+ ],
+ "pass": false
+}

@@ -1,0 +1,57 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-28-2k.jpg",
+ "id": "cozy_corners-28",
+ "category": "cozy_corners",
+ "title": "Clockmaker's shop",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 46.0,
+  "contrast": 0.236,
+  "sharpness": 8.62
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.072,
+   "score": 0.78,
+   "closeUp": true
+  }
+ ],
+ "phash": "c1c33d3e32673ac1",
+ "review": {
+  "text": true,
+  "text_where": "numerals on clock faces",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy clockmaker's workshop filled with various clocks, pocket watches, and tools during winter.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00252
+ },
+ "costUsd": 0.03161,
+ "problems": [
+  "letters/text (numerals on clock faces)"
+ ],
+ "pass": false
+}

@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/collections/collections-04-2k.jpg",
+ "id": "collections-04",
+ "category": "collections",
+ "title": "Button box",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 74.3,
+  "contrast": 0.224,
+  "sharpness": 8.4
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "de9b56f810643f14",
+ "review": {
+  "text": true,
+  "text_where": "numbers on the measuring tape in the bottom right corner",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Wooden cantilever sewing box filled with threads, buttons, pincushions, and ribbons in an outdoor garden setting.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0025
+ },
+ "costUsd": 0.03273,
+ "problems": [
+  "letters/text (numbers on the measuring tape in the bottom right corner)"
+ ],
+ "pass": false
+}

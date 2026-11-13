@@ -1,0 +1,12 @@
+{
+ "text": false,
+ "text_where": "",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00173
+}

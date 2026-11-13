@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "numbers on stacked storage boxes beside the counter",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy illustrated record store filled with vinyl, plants, and lanterns.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00244
+}

@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-29-2k.jpg",
+ "id": "colorful_streets-29",
+ "category": "colorful_streets",
+ "title": "Port town at sunset",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 34.2,
+  "contrast": 0.19,
+  "sharpness": 9.24
+ },
+ "flatShare": 0.075,
+ "text": [],
+ "faces": [],
+ "phash": "c5dbccf006e3388d",
+ "review": {
+  "text": true,
+  "text_where": "numerals on the clock face and faint lettering on the side of the boat in the bottom left",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Pleasant harbor town illustration",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0024
+ },
+ "costUsd": 0.03286,
+ "problems": [
+  "letters/text (numerals on the clock face and faint lettering on the side of the boat in the bottom left)"
+ ],
+ "pass": false
+}

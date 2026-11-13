@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-16-2k-r1.jpg",
+ "id": "nostalgia-16",
+ "category": "nostalgia",
+ "title": "Old general store",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.3,
+  "contrast": 0.211,
+  "sharpness": 8.74
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.012,
+   "score": 0.79,
+   "closeUp": false
+  }
+ ],
+ "phash": "c57d3d031c4ec372",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00265
+ },
+ "costUsd": 0.03416,
+ "problems": [],
+ "pass": true
+}

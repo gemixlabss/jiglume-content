@@ -1,0 +1,60 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-30-2k.jpg",
+ "id": "four_seasons-30",
+ "category": "four_seasons",
+ "title": "Snowman meadow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.7,
+  "contrast": 0.261,
+  "sharpness": 8.96
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.01,
+   "score": 0.76,
+   "closeUp": false
+  },
+  {
+   "height": 0.011,
+   "score": 0.75,
+   "closeUp": false
+  }
+ ],
+ "phash": "c4375f611a0e7987",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0023
+ },
+ "costUsd": 0.03118,
+ "problems": [],
+ "pass": true
+}

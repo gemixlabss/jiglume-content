@@ -1,0 +1,45 @@
+{
+ "id": "nostalgia-16",
+ "category": "nostalgia",
+ "kind": "category",
+ "title": "Old general store",
+ "scenePrompt": "An old general store with wooden counters, jars of candy, barrels, scales, tins with pictures only and hanging lanterns.",
+ "palette": "midday",
+ "prompt": "An old general store with wooden counters, jars of candy, barrels, scales, tins with pictures only and hanging lanterns.\n\nLight and palette: Bright midday sun: clear deep-blue sky with a few white clouds wherever sky shows, vivid fresh greens and saturated true colours, crisp clean shadows.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Shop fronts, signboards, menus and awnings carry no writing at all; jars, tins and packaging have no labels.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 1,
+ "generatedAt": "2026-11-13T20:15:49+00:00",
+ "usage": {
+  "promptTokenCount": 323,
+  "candidatesTokenCount": 2743,
+  "totalTokenCount": 4684,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 323
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 1618,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.03151,
+  "mode": "batch",
+  "promptTokens": 323,
+  "imageTokens": 1680,
+  "textTokens": 1618
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/2aimv1lwm0vebwpy3dovfk8q8g0k0u14def5"
+}

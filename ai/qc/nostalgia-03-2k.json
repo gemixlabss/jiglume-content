@@ -1,0 +1,80 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-03-2k.jpg",
+ "id": "nostalgia-03",
+ "category": "nostalgia",
+ "title": "Old toy shop window",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.6,
+  "contrast": 0.198,
+  "sharpness": 8.42
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.039,
+   "score": 0.87,
+   "closeUp": false
+  },
+  {
+   "height": 0.015,
+   "score": 0.86,
+   "closeUp": false
+  },
+  {
+   "height": 0.013,
+   "score": 0.86,
+   "closeUp": false
+  },
+  {
+   "height": 0.043,
+   "score": 0.84,
+   "closeUp": false
+  },
+  {
+   "height": 0.014,
+   "score": 0.83,
+   "closeUp": false
+  },
+  {
+   "height": 0.02,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "d0f8598e9f1a740b",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00263
+ },
+ "costUsd": 0.03188,
+ "problems": [],
+ "pass": true
+}

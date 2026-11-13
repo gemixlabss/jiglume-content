@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-27-2k.jpg",
+ "id": "cute_pets-27",
+ "category": "cute_pets",
+ "title": "Kitten in the toy box",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.8,
+  "contrast": 0.22,
+  "sharpness": 7.05
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.065,
+   "score": 0.86,
+   "closeUp": true
+  }
+ ],
+ "phash": "d0d07173f37252f0",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cute illustration of an orange tabby kitten inside a wooden toy chest with various toys.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00231
+ },
+ "costUsd": 0.03143,
+ "problems": [],
+ "pass": true
+}

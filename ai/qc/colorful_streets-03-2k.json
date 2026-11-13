@@ -1,0 +1,65 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-03-2k.jpg",
+ "id": "colorful_streets-03",
+ "category": "colorful_streets",
+ "title": "Open-air market",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.9,
+  "contrast": 0.165,
+  "sharpness": 8.91
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.011,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.01,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.012,
+   "score": 0.77,
+   "closeUp": false
+  }
+ ],
+ "phash": "88570ce377a4332f",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy medieval marketplace scene at dusk with charming storybook illustration style.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00233
+ },
+ "costUsd": 0.03211,
+ "problems": [],
+ "pass": true
+}

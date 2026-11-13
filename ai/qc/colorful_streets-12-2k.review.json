@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "labels hanging from the blue cloth on the bread stall at the lower right",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Cozy covered market illustration with small handwritten labels on one of the stalls.",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.00292
+}

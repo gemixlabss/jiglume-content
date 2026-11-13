@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/treats/treats-10-2k.jpg",
+ "id": "treats-10",
+ "category": "treats",
+ "title": "Berry pie",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 50.8,
+  "contrast": 0.249,
+  "sharpness": 8.38
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c8e84cdc65a6fa07",
+ "review": {
+  "text": true,
+  "text_where": "labels on tins on the upper shelves",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy kitchen still life with fresh berry pie and rainy window",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00292
+ },
+ "costUsd": 0.03315,
+ "problems": [
+  "letters/text (labels on tins on the upper shelves)"
+ ],
+ "pass": false
+}

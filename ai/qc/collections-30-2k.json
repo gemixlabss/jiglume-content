@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/collections/collections-30-2k.jpg",
+ "id": "collections-30",
+ "category": "collections",
+ "title": "Garden seeds and tools",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 39.1,
+  "contrast": 0.193,
+  "sharpness": 8.35
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c0c03a5b393f9b1b",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy potting shed scene during a rainstorm with plants, gardening tools, and a sleeping kitten.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00182
+ },
+ "costUsd": 0.03101,
+ "problems": [],
+ "pass": true
+}

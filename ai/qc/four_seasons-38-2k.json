@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-38-2k.jpg",
+ "id": "four_seasons-38",
+ "category": "four_seasons",
+ "title": "Autumn rain street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.0,
+  "contrast": 0.233,
+  "sharpness": 8.9
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "99dec7c334c069e1",
+ "review": {
+  "text": true,
+  "text_where": "storefront headers above the shop windows on the left and right",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy autumn street scene with hanging umbrellas and shop signs",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00237
+ },
+ "costUsd": 0.03029,
+ "problems": [
+  "letters/text (storefront headers above the shop windows on the left and right)"
+ ],
+ "pass": false
+}

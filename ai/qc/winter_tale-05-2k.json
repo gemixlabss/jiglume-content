@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-05-2k.jpg",
+ "id": "winter_tale-05",
+ "category": "winter_tale",
+ "title": "Cookie kitchen",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 52.7,
+  "contrast": 0.217,
+  "sharpness": 8.69
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "85c23b3d68f8945e",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter kitchen scene with gingerbread baking.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0025
+ },
+ "costUsd": 0.03267,
+ "problems": [],
+ "pass": true
+}

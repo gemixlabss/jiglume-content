@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-19-2k.jpg",
+ "id": "winter_tale-19",
+ "category": "winter_tale",
+ "title": "Snowy cottage",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 24.8,
+  "contrast": 0.207,
+  "sharpness": 8.32
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "94fdc3637998c42c",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter landscape with a snow-covered cottage, snowman, birds, and sled.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00248
+ },
+ "costUsd": 0.03161,
+ "problems": [
+  "dull colours (24.8)"
+ ],
+ "pass": false
+}

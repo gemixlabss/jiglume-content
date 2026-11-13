@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/art_styles/art_styles-22-2k.jpg",
+ "id": "art_styles-22",
+ "category": "art_styles",
+ "title": "Bead embroidery",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 52.7,
+  "contrast": 0.224,
+  "sharpness": 9.49
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9114611f776c4cdd",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Beaded embroidery illustration inspired by The Starry Night",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.002
+ },
+ "costUsd": 0.03093,
+ "problems": [],
+ "pass": true
+}

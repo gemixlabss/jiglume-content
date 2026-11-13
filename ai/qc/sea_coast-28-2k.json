@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-28-2k.jpg",
+ "id": "sea_coast-28",
+ "category": "sea_coast",
+ "title": "Lighthouse island",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.7,
+  "contrast": 0.228,
+  "sharpness": 8.26
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "e1a3965a08e566bb",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustration of a lighthouse and cottage on a rocky islet with seals and puffins at sunset",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00221
+ },
+ "costUsd": 0.03134,
+ "problems": [],
+ "pass": true
+}

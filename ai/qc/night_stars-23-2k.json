@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/night_stars/night_stars-23-2k.jpg",
+ "id": "night_stars-23",
+ "category": "night_stars",
+ "title": "Snowy aurora village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.0,
+  "contrast": 0.246,
+  "sharpness": 9.04
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9573116937615e65",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter village under aurora borealis.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00248
+ },
+ "costUsd": 0.03278,
+ "problems": [],
+ "pass": true
+}

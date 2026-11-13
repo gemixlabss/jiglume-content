@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-20-2k.jpg",
+ "id": "nostalgia-20",
+ "category": "nostalgia",
+ "title": "Typewriter desk",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.3,
+  "contrast": 0.206,
+  "sharpness": 8.31
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "859d6ee519c23738",
+ "review": {
+  "text": true,
+  "text_where": "simulated cursive handwriting on the letters and envelopes on the desk, faux text on the book spines",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy vintage study scene with a typewriter, stained-glass lamp, and letters on a wooden desk.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0024
+ },
+ "costUsd": 0.03184,
+ "problems": [
+  "letters/text (simulated cursive handwriting on the letters and envelopes on the desk, faux text on the book spines)"
+ ],
+ "pass": false
+}

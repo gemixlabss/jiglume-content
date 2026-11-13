@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-29-2k.jpg",
+ "id": "birds_butterflies-29",
+ "category": "birds_butterflies",
+ "title": "Birds of paradise",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 52.3,
+  "contrast": 0.237,
+  "sharpness": 8.65
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "919b1f3f633860c3",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00173
+ },
+ "costUsd": 0.02969,
+ "problems": [],
+ "pass": true
+}

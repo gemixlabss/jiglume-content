@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-24-2k.jpg",
+ "id": "cozy_corners-24",
+ "category": "cozy_corners",
+ "title": "Lighthouse room",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.6,
+  "contrast": 0.225,
+  "sharpness": 8.44
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "95b14a6841f3c5e7",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy tower library room overlooking an ocean sunset.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00225
+ },
+ "costUsd": 0.03368,
+ "problems": [],
+ "pass": true
+}

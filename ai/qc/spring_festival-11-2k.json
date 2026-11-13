@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/spring_festival/spring_festival-11-2k.jpg",
+ "id": "spring_festival-11",
+ "category": "spring_festival",
+ "title": "Ducklings in the pond",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 55.8,
+  "contrast": 0.202,
+  "sharpness": 8.74
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9107665f3b7266a1",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fairytale nighttime pond scene with a duck family and lanterns",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00233
+ },
+ "costUsd": 0.03227,
+ "problems": [],
+ "pass": true
+}

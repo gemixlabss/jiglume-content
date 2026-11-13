@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/fairytale/fairytale-21-2k.jpg",
+ "id": "fairytale-21",
+ "category": "fairytale",
+ "title": "Book world",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 64.9,
+  "contrast": 0.241,
+  "sharpness": 7.82
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "a1a82a8f3d2e339e",
+ "review": {
+  "text": true,
+  "text_where": "faint handwritten text and diagrams on the parchment pinned to the wall in the upper left",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustration of a miniature fantasy castle landscape emerging from an open book on a wooden desk.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00243
+ },
+ "costUsd": 0.03135,
+ "problems": [
+  "letters/text (faint handwritten text and diagrams on the parchment pinned to the wall in the upper left)"
+ ],
+ "pass": false
+}

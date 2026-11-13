@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/collections/collections-08-2k.jpg",
+ "id": "collections-08",
+ "category": "collections",
+ "title": "Yarn shop",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 41.5,
+  "contrast": 0.224,
+  "sharpness": 9.04
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "8a3b463669a77447",
+ "review": {
+  "text": true,
+  "text_where": "bottom left corner on the wooden floor",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter yarn/knitting shop with a cat sleeping on an armchair.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0027
+ },
+ "costUsd": 0.03297,
+ "problems": [
+  "letters/text (bottom left corner on the wooden floor)"
+ ],
+ "pass": false
+}

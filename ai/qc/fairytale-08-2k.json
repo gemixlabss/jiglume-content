@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/fairytale/fairytale-08-2k.jpg",
+ "id": "fairytale-08",
+ "category": "fairytale",
+ "title": "Dragon's valley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.9,
+  "contrast": 0.153,
+  "sharpness": 7.57
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c4dc6f61311b319e",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy fantasy scene with a resting green dragon, fairy tale village, and a castle.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0019
+ },
+ "costUsd": 0.03162,
+ "problems": [
+  "low contrast (0.153)"
+ ],
+ "pass": false
+}

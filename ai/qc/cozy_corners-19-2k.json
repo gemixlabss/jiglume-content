@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-19-2k.jpg",
+ "id": "cozy_corners-19",
+ "category": "cozy_corners",
+ "title": "Treehouse room",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 65.1,
+  "contrast": 0.211,
+  "sharpness": 8.95
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c5a72725d8d93a4a",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy treehouse attic interior with books, telescope, and open window",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00234
+ },
+ "costUsd": 0.03051,
+ "problems": [],
+ "pass": true
+}

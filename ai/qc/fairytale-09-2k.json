@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/fairytale/fairytale-09-2k.jpg",
+ "id": "fairytale-09",
+ "category": "fairytale",
+ "title": "Treehouse village",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 38.8,
+  "contrast": 0.162,
+  "sharpness": 8.38
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "90997b264cae366e",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "fairy tale treehouse village at night",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00185
+ },
+ "costUsd": 0.0326,
+ "problems": [],
+ "pass": true
+}

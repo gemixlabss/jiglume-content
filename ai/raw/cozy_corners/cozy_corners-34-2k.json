@@ -1,0 +1,45 @@
+{
+ "id": "cozy_corners-34",
+ "category": "cozy_corners",
+ "kind": "category",
+ "title": "Reading armchair",
+ "scenePrompt": "A wingback armchair with a blanket and footstool by a bookshelf, a sleeping dog.",
+ "palette": "night",
+ "prompt": "A wingback armchair with a blanket and footstool by a bookshelf, a sleeping dog.\n\nLight and palette: Night: moonlight and starlight with warm lanterns, candles or windows as light sources; deep navy, indigo and teal with golden accents; still clearly lit and full of readable detail.\n\nStyle: Richly detailed digital painting, storybook illustration quality. Vivid, saturated but easy-on-the-eye colours; luminous, appealing light that follows the light and palette given above; cheerful, peaceful, cozy atmosphere. Jigsaw-friendly composition: fine detail and texture in every region of the picture, no large empty sky or single-colour areas; the main subject is near the centre so the picture also works as a square crop. Original scene, not imitating any existing artwork, film, game or app.\n\nRules: Absolutely no text of any kind: no letters, words, numbers, signs with writing, labels, captions, watermarks, signatures or logos; toy blocks, book spines, jars, clocks, shop fronts and packaging are plain or decorated with pictures only, never letters or numbers. No real brands, real celebrities or copyrighted characters, and nothing resembling Disney, Pixar or Studio Ghibli designs. People, if any, are small and in the distance, never close-up faces. No violence, weapons, blood or scary elements. No famous trademarked building illuminations; use generic or imaginary architecture. Book spines are plain colour blocks with simple ornaments, never titles or letters.\n\nVertical 3:4 composition.",
+ "model": "gemini-nano-banana-2.1",
+ "aspectRatio": "3:4",
+ "imageSize": "2K",
+ "width": 1792,
+ "height": 2400,
+ "mimeType": "image/jpeg",
+ "attempt": 0,
+ "generatedAt": "2026-11-13T19:42:38+00:00",
+ "usage": {
+  "promptTokenCount": 313,
+  "candidatesTokenCount": 2143,
+  "totalTokenCount": 3905,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 313
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "IMAGE",
+    "tokenCount": 1680
+   }
+  ],
+  "thoughtsTokenCount": 1449,
+  "serviceTier": "SERVICE_TIER_STANDARD"
+ },
+ "cost": {
+  "usd": 0.03087,
+  "mode": "batch",
+  "promptTokens": 313,
+  "imageTokens": 1680,
+  "textTokens": 1449
+ },
+ "source": "ai-generated",
+ "batchJob": "batches/hp7mryrzyobwb57fzsnmne8oofybp5oqdff2"
+}

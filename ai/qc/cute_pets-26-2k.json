@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-26-2k.jpg",
+ "id": "cute_pets-26",
+ "category": "cute_pets",
+ "title": "Puppy's bath",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.7,
+  "contrast": 0.231,
+  "sharpness": 8.13
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.179,
+   "score": 0.89,
+   "closeUp": true
+  }
+ ],
+ "phash": "959918bf721bd232",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "cute illustration of a puppy taking a bubble bath in a garden tub",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00226
+ },
+ "costUsd": 0.03175,
+ "problems": [],
+ "pass": true
+}

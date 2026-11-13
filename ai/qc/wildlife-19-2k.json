@@ -1,0 +1,70 @@
+{
+ "file": "ai/raw/wildlife/wildlife-19-2k.jpg",
+ "id": "wildlife-19",
+ "category": "wildlife",
+ "title": "Monkeys in the jungle",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.5,
+  "contrast": 0.234,
+  "sharpness": 8.05
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.079,
+   "score": 0.87,
+   "closeUp": true
+  },
+  {
+   "height": 0.057,
+   "score": 0.87,
+   "closeUp": false
+  },
+  {
+   "height": 0.06,
+   "score": 0.86,
+   "closeUp": false
+  },
+  {
+   "height": 0.054,
+   "score": 0.81,
+   "closeUp": false
+  }
+ ],
+ "phash": "85861c7c493d69dd",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0027
+ },
+ "costUsd": 0.03211,
+ "problems": [],
+ "pass": true
+}

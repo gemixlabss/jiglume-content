@@ -1,0 +1,60 @@
+{
+ "file": "ai/raw/night_stars/night_stars-34-2k.jpg",
+ "id": "night_stars-34",
+ "category": "night_stars",
+ "title": "Fireflies by the river",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 40.3,
+  "contrast": 0.168,
+  "sharpness": 8.46
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.011,
+   "score": 0.79,
+   "closeUp": false
+  },
+  {
+   "height": 0.01,
+   "score": 0.77,
+   "closeUp": false
+  }
+ ],
+ "phash": "95cc327367936c68",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy fairytale cottage by a stream with a wooden bridge and fireflies at night.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00178
+ },
+ "costUsd": 0.03062,
+ "problems": [],
+ "pass": true
+}

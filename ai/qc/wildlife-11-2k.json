@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/wildlife/wildlife-11-2k.jpg",
+ "id": "wildlife-11",
+ "category": "wildlife",
+ "title": "Wolves in the snow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 31.9,
+  "contrast": 0.196,
+  "sharpness": 8.42
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d5d59e2231ce289b",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "A pack of wolves resting together in a snowy winter mountain setting",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00227
+ },
+ "costUsd": 0.03116,
+ "problems": [],
+ "pass": true
+}

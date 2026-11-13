@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-21-2k.jpg",
+ "id": "colorful_streets-21",
+ "category": "colorful_streets",
+ "title": "Pottery market",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 38.4,
+  "contrast": 0.214,
+  "sharpness": 8.83
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "94b4032759bd6ada",
+ "review": {
+  "text": true,
+  "text_where": "house number 1 on a plaque next to the central arched doorway",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming illustrated street scene with a ceramic shop in an old European town.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00272
+ },
+ "costUsd": 0.03333,
+ "problems": [
+  "letters/text (house number 1 on a plaque next to the central arched doorway)"
+ ],
+ "pass": false
+}

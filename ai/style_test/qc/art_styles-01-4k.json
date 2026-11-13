@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/art_styles/art_styles-01-4k.jpg",
+ "id": "art_styles-01",
+ "category": "art_styles",
+ "title": "Impressionist garden",
+ "imageSize": "4K",
+ "native": [
+  3584,
+  4800
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 59.4,
+  "contrast": 0.209,
+  "sharpness": 8.25
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91de1e9b5b0c342d",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00159
+ },
+ "costUsd": 0.11843,
+ "problems": [],
+ "pass": true
+}

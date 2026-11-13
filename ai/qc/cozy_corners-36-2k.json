@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/cozy_corners/cozy_corners-36-2k.jpg",
+ "id": "cozy_corners-36",
+ "category": "cozy_corners",
+ "title": "Greenhouse reading nook",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 53.4,
+  "contrast": 0.227,
+  "sharpness": 9.08
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "90d0e372d4e396cd",
+ "review": {
+  "text": true,
+  "text_where": "faint signature scribble on the side of the bottom-left flowerpot",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy greenhouse interior with plants, armchair, sleeping cat, and rain outside.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00245
+ },
+ "costUsd": 0.03306,
+ "problems": [
+  "letters/text (faint signature scribble on the side of the bottom-left flowerpot)"
+ ],
+ "pass": false
+}

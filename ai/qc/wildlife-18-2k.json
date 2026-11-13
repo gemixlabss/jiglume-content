@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/wildlife/wildlife-18-2k.jpg",
+ "id": "wildlife-18",
+ "category": "wildlife",
+ "title": "Moose by the lake",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 29.3,
+  "contrast": 0.227,
+  "sharpness": 8.51
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d08d89f264cb3b3c",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Moose standing in a forest pond with loons",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00214
+ },
+ "costUsd": 0.03224,
+ "problems": [],
+ "pass": true
+}

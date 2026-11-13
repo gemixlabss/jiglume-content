@@ -1,0 +1,12 @@
+{
+ "text": true,
+ "text_where": "numerals on the clock face and faint lettering on the side of the boat in the bottom left",
+ "logos": false,
+ "malformed": false,
+ "close_up_people": false,
+ "copyrighted_character": false,
+ "scary": false,
+ "notes": "Pleasant harbor town illustration",
+ "model": "gemini-3.8-flash",
+ "costUsd": 0.0024
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/wildlife/wildlife-27-2k.jpg",
+ "id": "wildlife-27",
+ "category": "wildlife",
+ "title": "Cheetah cubs",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.6,
+  "contrast": 0.265,
+  "sharpness": 8.46
+ },
+ "flatShare": 0.087,
+ "text": [],
+ "faces": [],
+ "phash": "f2ca4d2db09397a4",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "cheetah mother and cubs on a termite mound",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00179
+ },
+ "costUsd": 0.03008,
+ "problems": [],
+ "pass": true
+}

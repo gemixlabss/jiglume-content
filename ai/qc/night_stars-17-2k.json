@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/night_stars/night_stars-17-2k.jpg",
+ "id": "night_stars-17",
+ "category": "night_stars",
+ "title": "Garden party at night",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 44.6,
+  "contrast": 0.174,
+  "sharpness": 8.6
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "914e31f916676c99",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy nocturnal garden dinner scene with lanterns and small animals.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00212
+ },
+ "costUsd": 0.03205,
+ "problems": [],
+ "pass": true
+}

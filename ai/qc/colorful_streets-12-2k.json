@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-12-2k.jpg",
+ "id": "colorful_streets-12",
+ "category": "colorful_streets",
+ "title": "Covered market hall",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 67.1,
+  "contrast": 0.226,
+  "sharpness": 8.98
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "99c256c2d7e1785c",
+ "review": {
+  "text": true,
+  "text_where": "labels hanging from the blue cloth on the bread stall at the lower right",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy covered market illustration with small handwritten labels on one of the stalls.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00292
+ },
+ "costUsd": 0.03096,
+ "problems": [
+  "letters/text (labels hanging from the blue cloth on the bread stall at the lower right)"
+ ],
+ "pass": false
+}

@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-19-2k.jpg",
+ "id": "colorful_streets-19",
+ "category": "colorful_streets",
+ "title": "Painted tiles street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 34.1,
+  "contrast": 0.205,
+  "sharpness": 8.88
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "d296ecd8f2ee2418",
+ "review": {
+  "text": true,
+  "text_where": "house number plaque above the pink door on the lower left",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming pastel-colored European street scene with azulejo tiles and a sleeping cat.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00257
+ },
+ "costUsd": 0.03138,
+ "problems": [
+  "letters/text (house number plaque above the pink door on the lower left)"
+ ],
+ "pass": false
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-04-2k.jpg",
+ "id": "flowers_gardens-04",
+ "category": "flowers_gardens",
+ "title": "Tulip fields",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 52.2,
+  "contrast": 0.241,
+  "sharpness": 7.98
+ },
+ "flatShare": 0.075,
+ "text": [],
+ "faces": [],
+ "phash": "c4be1b720ee430af",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00164
+ },
+ "costUsd": 0.0308,
+ "problems": [],
+ "pass": true
+}

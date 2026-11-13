@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-10-2k.jpg",
+ "id": "colorful_streets-10",
+ "category": "colorful_streets",
+ "title": "Toy-like harbour town",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.6,
+  "contrast": 0.212,
+  "sharpness": 8.9
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c4b291e7a8eaea8a",
+ "review": {
+  "text": true,
+  "text_where": "faint sign text above the shop awning on the yellow house in the lower center-left",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Charming illustrated harbor village with mountains in the background.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00251
+ },
+ "costUsd": 0.03141,
+ "problems": [
+  "letters/text (faint sign text above the shop awning on the yellow house in the lower center-left)"
+ ],
+ "pass": false
+}

@@ -1,0 +1,60 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-29-2k-r1.jpg",
+ "id": "nostalgia-29",
+ "category": "nostalgia",
+ "title": "Old harbour tram",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 63.8,
+  "contrast": 0.162,
+  "sharpness": 8.78
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.013,
+   "score": 0.83,
+   "closeUp": false
+  },
+  {
+   "height": 0.01,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "9480534f693b7e9c",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0016
+ },
+ "costUsd": 0.03215,
+ "problems": [],
+ "pass": true
+}

@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/fairytale/fairytale-33-2k.jpg",
+ "id": "fairytale-33",
+ "category": "fairytale",
+ "title": "Castle in the lake",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 41.1,
+  "contrast": 0.189,
+  "sharpness": 8.76
+ },
+ "flatShare": 0.037,
+ "text": [],
+ "faces": [],
+ "phash": "94eedaa469936519",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Fairytale pastel castle on an island with swans and flower-covered bridge",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0032
+ },
+ "costUsd": 0.0319,
+ "problems": [],
+ "pass": true
+}

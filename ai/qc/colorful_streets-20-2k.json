@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-20-2k.jpg",
+ "id": "colorful_streets-20",
+ "category": "colorful_streets",
+ "title": "Rainy evening street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.6,
+  "contrast": 0.195,
+  "sharpness": 9.08
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "917e3f2b610643e6",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy rainy nighttime cobblestone street illustration with glowing lanterns and flowerpots.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00293
+ },
+ "costUsd": 0.03498,
+ "problems": [],
+ "pass": true
+}

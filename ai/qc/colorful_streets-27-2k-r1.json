@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-27-2k-r1.jpg",
+ "id": "colorful_streets-27",
+ "category": "colorful_streets",
+ "title": "Bicycle street",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 44.1,
+  "contrast": 0.217,
+  "sharpness": 9.08
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c6c3989f237157a4",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Amsterdam canal scene with flowering trees and bicycles",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00244
+ },
+ "costUsd": 0.03262,
+ "problems": [],
+ "pass": true
+}

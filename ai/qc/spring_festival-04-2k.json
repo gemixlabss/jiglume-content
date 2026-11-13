@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/spring_festival/spring_festival-04-2k.jpg",
+ "id": "spring_festival-04",
+ "category": "spring_festival",
+ "title": "Spring picnic",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 44.5,
+  "contrast": 0.224,
+  "sharpness": 8.4
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "95cf72b860c10fd5",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Spring picnic scene under blooming cherry blossom trees",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00231
+ },
+ "costUsd": 0.03276,
+ "problems": [],
+ "pass": true
+}

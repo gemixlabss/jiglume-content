@@ -1,0 +1,67 @@
+{
+ "file": "ai/raw/wildlife/wildlife-16-2k.jpg",
+ "id": "wildlife-16",
+ "category": "wildlife",
+ "title": "Polar bears on the ice",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 35.1,
+  "contrast": 0.153,
+  "sharpness": 6.54
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.065,
+   "score": 0.83,
+   "closeUp": true
+  },
+  {
+   "height": 0.145,
+   "score": 0.83,
+   "closeUp": true
+  },
+  {
+   "height": 0.063,
+   "score": 0.83,
+   "closeUp": true
+  }
+ ],
+ "phash": "c896ccebc64f3c14",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Mother polar bear with two cubs resting on ice floes",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00201
+ },
+ "costUsd": 0.03205,
+ "problems": [
+  "low contrast (0.153)"
+ ],
+ "pass": false
+}

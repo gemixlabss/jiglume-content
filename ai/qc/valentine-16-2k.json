@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/valentine/valentine-16-2k.jpg",
+ "id": "valentine-16",
+ "category": "valentine",
+ "title": "Otters holding paws",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 59.0,
+  "contrast": 0.254,
+  "sharpness": 7.75
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "90de872e749d0d99",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Two cute sea otters holding hands floating on kelp at sunset with a heart-shaped cloud.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00243
+ },
+ "costUsd": 0.0306,
+ "problems": [],
+ "pass": true
+}

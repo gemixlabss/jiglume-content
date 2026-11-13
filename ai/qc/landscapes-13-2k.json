@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/landscapes/landscapes-13-2k.jpg",
+ "id": "landscapes-13",
+ "category": "landscapes",
+ "title": "Vineyard valley",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.5,
+  "contrast": 0.205,
+  "sharpness": 9.17
+ },
+ "flatShare": 0.025,
+ "text": [],
+ "faces": [],
+ "phash": "c1cebe983343798a",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Scenic Tuscan hillside village with terraced vineyards and olive trees.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00235
+ },
+ "costUsd": 0.03249,
+ "problems": [],
+ "pass": true
+}

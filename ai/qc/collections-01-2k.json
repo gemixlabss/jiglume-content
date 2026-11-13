@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/collections/collections-01-2k.jpg",
+ "id": "collections-01",
+ "category": "collections",
+ "title": "Book shelves",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 36.6,
+  "contrast": 0.25,
+  "sharpness": 8.52
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "adad518a355aae13",
+ "review": {
+  "text": true,
+  "text_where": "clock face numbers on the bookshelf",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy bookshelf interior next to a snowy window with clocks, candles, and plants.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00262
+ },
+ "costUsd": 0.03235,
+ "problems": [
+  "letters/text (clock face numbers on the bookshelf)"
+ ],
+ "pass": false
+}

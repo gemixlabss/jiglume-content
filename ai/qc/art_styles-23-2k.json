@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/art_styles/art_styles-23-2k.jpg",
+ "id": "art_styles-23",
+ "category": "art_styles",
+ "title": "Op-art waves",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 41.7,
+  "contrast": 0.185,
+  "sharpness": 8.88
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91d5246769396b5a",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "abstract decorative ornate spiral patterns",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00163
+ },
+ "costUsd": 0.03012,
+ "problems": [],
+ "pass": true
+}

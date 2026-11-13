@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/art_styles/art_styles-18-2k.jpg",
+ "id": "art_styles-18",
+ "category": "art_styles",
+ "title": "Expressionist sunset",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 77.3,
+  "contrast": 0.228,
+  "sharpness": 8.34
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "9994456f3117bbe0",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Post-impressionist landscape illustration inspired by Van Gogh's style.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.002
+ },
+ "costUsd": 0.03176,
+ "problems": [],
+ "pass": true
+}

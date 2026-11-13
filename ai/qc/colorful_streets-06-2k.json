@@ -1,0 +1,57 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-06-2k.jpg",
+ "id": "colorful_streets-06",
+ "category": "colorful_streets",
+ "title": "Café corner",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.8,
+  "contrast": 0.174,
+  "sharpness": 8.88
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.041,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "959942727233cbf4",
+ "review": {
+  "text": true,
+  "text_where": "scribbled text on the chalkboard menu beside the cafe entrance",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustrated evening cafe street scene",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00226
+ },
+ "costUsd": 0.03166,
+ "problems": [
+  "letters/text (scribbled text on the chalkboard menu beside the cafe entrance)"
+ ],
+ "pass": false
+}

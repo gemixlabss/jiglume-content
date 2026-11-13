@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/birds_butterflies/birds_butterflies-36-2k.jpg",
+ "id": "birds_butterflies-36",
+ "category": "birds_butterflies",
+ "title": "Parakeets in the palm",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 95.1,
+  "contrast": 0.196,
+  "sharpness": 8.66
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c17a069d3fc5d0a6",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Vibrant illustration of green parakeets in a tropical setting with palm trees, papayas, and hibiscus flowers.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00213
+ },
+ "costUsd": 0.03278,
+ "problems": [],
+ "pass": true
+}

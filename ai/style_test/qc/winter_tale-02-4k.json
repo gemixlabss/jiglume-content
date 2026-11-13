@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-02-4k.jpg",
+ "id": "winter_tale-02",
+ "category": "winter_tale",
+ "title": "Cat by the fireplace",
+ "imageSize": "4K",
+ "native": [
+  3584,
+  4800
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 66.6,
+  "contrast": 0.182,
+  "sharpness": 7.75
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.06,
+   "score": 0.78,
+   "closeUp": false
+  }
+ ],
+ "phash": "85f76280d9e7226d",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "cozy Christmas scene with a sleeping ginger cat in front of a fireplace",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0022
+ },
+ "costUsd": 0.12391,
+ "problems": [],
+ "pass": true
+}

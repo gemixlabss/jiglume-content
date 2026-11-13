@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/valentine/valentine-11-2k.jpg",
+ "id": "valentine-11",
+ "category": "valentine",
+ "title": "Rose bouquet",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 46.6,
+  "contrast": 0.224,
+  "sharpness": 8.63
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "c6e253946ee87c83",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00239
+ },
+ "costUsd": 0.03197,
+ "problems": [],
+ "pass": true
+}

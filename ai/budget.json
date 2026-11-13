@@ -1,0 +1,5065 @@
+{
+ "round": "2026-11-13 round 2",
+ "limitUsd": 10.5,
+ "entries": [
+  {
+   "usd": 0.00196,
+   "what": "review wildlife-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:46+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review birds_butterflies-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:46+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review cute_pets-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:47+00:00"
+  },
+  {
+   "usd": 0.00219,
+   "what": "review flowers_gardens-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:47+00:00"
+  },
+  {
+   "usd": 0.00216,
+   "what": "review wildlife-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:54+00:00"
+  },
+  {
+   "usd": 0.00186,
+   "what": "review cute_pets-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:55+00:00"
+  },
+  {
+   "usd": 0.00219,
+   "what": "review birds_butterflies-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:55+00:00"
+  },
+  {
+   "usd": 0.00236,
+   "what": "review flowers_gardens-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:30:56+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review wildlife-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:03+00:00"
+  },
+  {
+   "usd": 0.00189,
+   "what": "review cute_pets-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:03+00:00"
+  },
+  {
+   "usd": 0.00153,
+   "what": "review birds_butterflies-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:03+00:00"
+  },
+  {
+   "usd": 0.00288,
+   "what": "review flowers_gardens-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:07+00:00"
+  },
+  {
+   "usd": 0.00164,
+   "what": "review flowers_gardens-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:12+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review wildlife-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:12+00:00"
+  },
+  {
+   "usd": 0.00242,
+   "what": "review birds_butterflies-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:12+00:00"
+  },
+  {
+   "usd": 0.0027,
+   "what": "review cute_pets-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:14+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review birds_butterflies-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:20+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review cute_pets-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:22+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review flowers_gardens-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:22+00:00"
+  },
+  {
+   "usd": 0.00236,
+   "what": "review wildlife-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:22+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review birds_butterflies-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:28+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review wildlife-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:31+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review flowers_gardens-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:32+00:00"
+  },
+  {
+   "usd": 0.0025,
+   "what": "review cute_pets-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:33+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review birds_butterflies-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:36+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review flowers_gardens-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:39+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review wildlife-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:41+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review cute_pets-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:41+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review birds_butterflies-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:45+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review flowers_gardens-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:46+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review wildlife-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:49+00:00"
+  },
+  {
+   "usd": 0.00249,
+   "what": "review cute_pets-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:50+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review birds_butterflies-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:52+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review flowers_gardens-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:54+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review cute_pets-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:57+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review wildlife-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:58+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review birds_butterflies-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:31:59+00:00"
+  },
+  {
+   "usd": 0.00158,
+   "what": "review flowers_gardens-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:01+00:00"
+  },
+  {
+   "usd": 0.00184,
+   "what": "review birds_butterflies-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:06+00:00"
+  },
+  {
+   "usd": 0.00229,
+   "what": "review wildlife-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:07+00:00"
+  },
+  {
+   "usd": 0.00245,
+   "what": "review cute_pets-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:08+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review flowers_gardens-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:10+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review birds_butterflies-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:11+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review cute_pets-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:16+00:00"
+  },
+  {
+   "usd": 0.00227,
+   "what": "review wildlife-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:16+00:00"
+  },
+  {
+   "usd": 0.00173,
+   "what": "review birds_butterflies-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:18+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review flowers_gardens-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:18+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review cute_pets-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:24+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review wildlife-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:24+00:00"
+  },
+  {
+   "usd": 0.00156,
+   "what": "review flowers_gardens-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:26+00:00"
+  },
+  {
+   "usd": 0.00218,
+   "what": "review birds_butterflies-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:27+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review cute_pets-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:31+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review wildlife-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:31+00:00"
+  },
+  {
+   "usd": 0.00171,
+   "what": "review birds_butterflies-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:34+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review flowers_gardens-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:36+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review cute_pets-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:39+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review wildlife-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:40+00:00"
+  },
+  {
+   "usd": 0.00153,
+   "what": "review flowers_gardens-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:44+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review birds_butterflies-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:44+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review wildlife-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:49+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review cute_pets-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:49+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review flowers_gardens-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:50+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review birds_butterflies-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:51+00:00"
+  },
+  {
+   "usd": 0.00201,
+   "what": "review wildlife-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:58+00:00"
+  },
+  {
+   "usd": 0.00271,
+   "what": "review cute_pets-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:59+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review flowers_gardens-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:32:59+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review birds_butterflies-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:01+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review wildlife-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:05+00:00"
+  },
+  {
+   "usd": 0.00238,
+   "what": "review cute_pets-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:07+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review flowers_gardens-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:08+00:00"
+  },
+  {
+   "usd": 0.00189,
+   "what": "review birds_butterflies-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:09+00:00"
+  },
+  {
+   "usd": 0.00214,
+   "what": "review wildlife-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:14+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review flowers_gardens-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:16+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review cute_pets-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:16+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review birds_butterflies-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:17+00:00"
+  },
+  {
+   "usd": 0.0027,
+   "what": "review wildlife-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:22+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review cute_pets-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:25+00:00"
+  },
+  {
+   "usd": 0.00245,
+   "what": "review flowers_gardens-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:25+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review birds_butterflies-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:25+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review wildlife-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:30+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review birds_butterflies-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:34+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review flowers_gardens-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:34+00:00"
+  },
+  {
+   "usd": 0.00271,
+   "what": "review cute_pets-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:34+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review wildlife-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:37+00:00"
+  },
+  {
+   "usd": 0.00154,
+   "what": "review flowers_gardens-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:42+00:00"
+  },
+  {
+   "usd": 0.00204,
+   "what": "review birds_butterflies-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:42+00:00"
+  },
+  {
+   "usd": 0.00212,
+   "what": "review cute_pets-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:43+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review wildlife-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:45+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review flowers_gardens-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:50+00:00"
+  },
+  {
+   "usd": 0.00262,
+   "what": "review birds_butterflies-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:51+00:00"
+  },
+  {
+   "usd": 0.00216,
+   "what": "review cute_pets-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:51+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review flowers_gardens-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:58+00:00"
+  },
+  {
+   "usd": 0.00163,
+   "what": "review birds_butterflies-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:33:59+00:00"
+  },
+  {
+   "usd": 0.00194,
+   "what": "review cute_pets-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:00+00:00"
+  },
+  {
+   "usd": 0.00495,
+   "what": "review wildlife-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:00+00:00"
+  },
+  {
+   "usd": 0.00231,
+   "what": "review flowers_gardens-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:07+00:00"
+  },
+  {
+   "usd": 0.00205,
+   "what": "review birds_butterflies-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:07+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review cute_pets-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:08+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review wildlife-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:11+00:00"
+  },
+  {
+   "usd": 0.0019,
+   "what": "review birds_butterflies-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:16+00:00"
+  },
+  {
+   "usd": 0.00248,
+   "what": "review flowers_gardens-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:17+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review wildlife-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:18+00:00"
+  },
+  {
+   "usd": 0.00231,
+   "what": "review cute_pets-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:19+00:00"
+  },
+  {
+   "usd": 0.00195,
+   "what": "review wildlife-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:25+00:00"
+  },
+  {
+   "usd": 0.00171,
+   "what": "review flowers_gardens-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:26+00:00"
+  },
+  {
+   "usd": 0.00264,
+   "what": "review birds_butterflies-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:28+00:00"
+  },
+  {
+   "usd": 0.00304,
+   "what": "review cute_pets-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:32+00:00"
+  },
+  {
+   "usd": 0.00179,
+   "what": "review wildlife-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:35+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review flowers_gardens-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:36+00:00"
+  },
+  {
+   "usd": 0.00173,
+   "what": "review birds_butterflies-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:37+00:00"
+  },
+  {
+   "usd": 0.00249,
+   "what": "review cute_pets-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:43+00:00"
+  },
+  {
+   "usd": 0.00184,
+   "what": "review flowers_gardens-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:45+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review wildlife-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:47+00:00"
+  },
+  {
+   "usd": 0.00198,
+   "what": "review birds_butterflies-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:49+00:00"
+  },
+  {
+   "usd": 0.00214,
+   "what": "review cute_pets-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:52+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review flowers_gardens-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:52+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review wildlife-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:56+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review landscapes-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:34:59+00:00"
+  },
+  {
+   "usd": 0.0019,
+   "what": "review sea_coast-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:02+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review colorful_streets-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:04+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review wildlife-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:05+00:00"
+  },
+  {
+   "usd": 0.00171,
+   "what": "review landscapes-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:07+00:00"
+  },
+  {
+   "usd": 0.00238,
+   "what": "review sea_coast-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:10+00:00"
+  },
+  {
+   "usd": 0.00247,
+   "what": "review colorful_streets-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:13+00:00"
+  },
+  {
+   "usd": 0.00157,
+   "what": "review world_places-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:15+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review landscapes-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:16+00:00"
+  },
+  {
+   "usd": 0.00189,
+   "what": "review sea_coast-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:17+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review colorful_streets-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:23+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review world_places-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:23+00:00"
+  },
+  {
+   "usd": 0.00237,
+   "what": "review landscapes-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:24+00:00"
+  },
+  {
+   "usd": 0.00181,
+   "what": "review sea_coast-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:26+00:00"
+  },
+  {
+   "usd": 0.00206,
+   "what": "review colorful_streets-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:34+00:00"
+  },
+  {
+   "usd": 0.00241,
+   "what": "review world_places-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:34+00:00"
+  },
+  {
+   "usd": 0.00229,
+   "what": "review landscapes-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:36+00:00"
+  },
+  {
+   "usd": 0.00298,
+   "what": "review sea_coast-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:39+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review colorful_streets-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:42+00:00"
+  },
+  {
+   "usd": 0.00206,
+   "what": "review world_places-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:44+00:00"
+  },
+  {
+   "usd": 0.00227,
+   "what": "review landscapes-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:47+00:00"
+  },
+  {
+   "usd": 0.00291,
+   "what": "review sea_coast-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:49+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review colorful_streets-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:51+00:00"
+  },
+  {
+   "usd": 0.00206,
+   "what": "review world_places-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:52+00:00"
+  },
+  {
+   "usd": 0.00161,
+   "what": "review landscapes-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:53+00:00"
+  },
+  {
+   "usd": 0.00171,
+   "what": "review sea_coast-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:57+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review world_places-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:57+00:00"
+  },
+  {
+   "usd": 0.0024,
+   "what": "review colorful_streets-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:35:58+00:00"
+  },
+  {
+   "usd": 0.00251,
+   "what": "review landscapes-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:03+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review sea_coast-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:05+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review colorful_streets-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:08+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review world_places-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:08+00:00"
+  },
+  {
+   "usd": 0.00204,
+   "what": "review landscapes-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:11+00:00"
+  },
+  {
+   "usd": 0.00252,
+   "what": "review sea_coast-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:15+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review colorful_streets-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:16+00:00"
+  },
+  {
+   "usd": 0.0016,
+   "what": "review landscapes-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:18+00:00"
+  },
+  {
+   "usd": 0.00195,
+   "what": "review treats-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:19+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review sea_coast-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:23+00:00"
+  },
+  {
+   "usd": 0.00251,
+   "what": "review colorful_streets-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:26+00:00"
+  },
+  {
+   "usd": 0.00178,
+   "what": "review landscapes-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:26+00:00"
+  },
+  {
+   "usd": 0.0019,
+   "what": "review treats-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:27+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review sea_coast-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:31+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review colorful_streets-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:33+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review landscapes-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:34+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review treats-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:36+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review sea_coast-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:39+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review landscapes-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:44+00:00"
+  },
+  {
+   "usd": 0.00292,
+   "what": "review colorful_streets-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:44+00:00"
+  },
+  {
+   "usd": 0.00181,
+   "what": "review treats-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:44+00:00"
+  },
+  {
+   "usd": 0.0028,
+   "what": "review sea_coast-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:50+00:00"
+  },
+  {
+   "usd": 0.00242,
+   "what": "review colorful_streets-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:52+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review landscapes-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:36:52+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review world_places-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:00+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review sea_coast-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:07+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review colorful_streets-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:08+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review world_places-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:10+00:00"
+  },
+  {
+   "usd": 0.00195,
+   "what": "review landscapes-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:10+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review sea_coast-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:15+00:00"
+  },
+  {
+   "usd": 0.00236,
+   "what": "review colorful_streets-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:18+00:00"
+  },
+  {
+   "usd": 0.00194,
+   "what": "review world_places-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:19+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review landscapes-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:19+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review sea_coast-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:23+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review world_places-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:28+00:00"
+  },
+  {
+   "usd": 0.00213,
+   "what": "review landscapes-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:28+00:00"
+  },
+  {
+   "usd": 0.00323,
+   "what": "review colorful_streets-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:28+00:00"
+  },
+  {
+   "usd": 0.0031,
+   "what": "review sea_coast-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:34+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review world_places-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:36+00:00"
+  },
+  {
+   "usd": 0.00229,
+   "what": "review landscapes-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:38+00:00"
+  },
+  {
+   "usd": 0.00186,
+   "what": "review colorful_streets-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:38+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review sea_coast-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:40+00:00"
+  },
+  {
+   "usd": 0.00214,
+   "what": "review world_places-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:43+00:00"
+  },
+  {
+   "usd": 0.00158,
+   "what": "review landscapes-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:45+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review colorful_streets-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:46+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review sea_coast-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:49+00:00"
+  },
+  {
+   "usd": 0.00173,
+   "what": "review landscapes-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:53+00:00"
+  },
+  {
+   "usd": 0.0026,
+   "what": "review world_places-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:54+00:00"
+  },
+  {
+   "usd": 0.00257,
+   "what": "review colorful_streets-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:56+00:00"
+  },
+  {
+   "usd": 0.00198,
+   "what": "review sea_coast-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:38:57+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review landscapes-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:00+00:00"
+  },
+  {
+   "usd": 0.00158,
+   "what": "review world_places-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:01+00:00"
+  },
+  {
+   "usd": 0.00293,
+   "what": "review colorful_streets-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:04+00:00"
+  },
+  {
+   "usd": 0.00202,
+   "what": "review sea_coast-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:04+00:00"
+  },
+  {
+   "usd": 0.00165,
+   "what": "review landscapes-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:08+00:00"
+  },
+  {
+   "usd": 0.00181,
+   "what": "review world_places-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:09+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review sea_coast-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:12+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review landscapes-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:15+00:00"
+  },
+  {
+   "usd": 0.00272,
+   "what": "review colorful_streets-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:15+00:00"
+  },
+  {
+   "usd": 0.00216,
+   "what": "review world_places-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:17+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review sea_coast-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:21+00:00"
+  },
+  {
+   "usd": 0.00204,
+   "what": "review colorful_streets-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:23+00:00"
+  },
+  {
+   "usd": 0.00181,
+   "what": "review landscapes-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:24+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review world_places-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:25+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review sea_coast-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:29+00:00"
+  },
+  {
+   "usd": 0.00198,
+   "what": "review landscapes-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:32+00:00"
+  },
+  {
+   "usd": 0.00253,
+   "what": "review colorful_streets-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:33+00:00"
+  },
+  {
+   "usd": 0.00215,
+   "what": "review world_places-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:34+00:00"
+  },
+  {
+   "usd": 0.00218,
+   "what": "review sea_coast-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:36+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review landscapes-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:40+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review world_places-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:43+00:00"
+  },
+  {
+   "usd": 0.00265,
+   "what": "review colorful_streets-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:43+00:00"
+  },
+  {
+   "usd": 0.00194,
+   "what": "review sea_coast-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:45+00:00"
+  },
+  {
+   "usd": 0.00156,
+   "what": "review landscapes-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:47+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review sea_coast-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:53+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review world_places-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:53+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review landscapes-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:55+00:00"
+  },
+  {
+   "usd": 0.0032,
+   "what": "review colorful_streets-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:39:56+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review sea_coast-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:02+00:00"
+  },
+  {
+   "usd": 0.00201,
+   "what": "review world_places-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:03+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review colorful_streets-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:03+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review landscapes-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:05+00:00"
+  },
+  {
+   "usd": 0.00157,
+   "what": "review world_places-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:10+00:00"
+  },
+  {
+   "usd": 0.00288,
+   "what": "review colorful_streets-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:11+00:00"
+  },
+  {
+   "usd": 0.00267,
+   "what": "review sea_coast-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:13+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review landscapes-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:13+00:00"
+  },
+  {
+   "usd": 0.0017,
+   "what": "review world_places-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:16+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review colorful_streets-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:18+00:00"
+  },
+  {
+   "usd": 0.00179,
+   "what": "review sea_coast-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:19+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review world_places-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:23+00:00"
+  },
+  {
+   "usd": 0.0024,
+   "what": "review colorful_streets-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:28+00:00"
+  },
+  {
+   "usd": 0.0016,
+   "what": "review treats-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:29+00:00"
+  },
+  {
+   "usd": 0.00228,
+   "what": "review cozy_corners-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:30+00:00"
+  },
+  {
+   "usd": 0.00254,
+   "what": "review world_places-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:33+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review colorful_streets-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:34+00:00"
+  },
+  {
+   "usd": 0.00163,
+   "what": "review treats-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:37+00:00"
+  },
+  {
+   "usd": 0.00237,
+   "what": "review cozy_corners-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:39+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review world_places-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:42+00:00"
+  },
+  {
+   "usd": 0.00189,
+   "what": "review treats-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:46+00:00"
+  },
+  {
+   "usd": 0.00251,
+   "what": "review nostalgia-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:47+00:00"
+  },
+  {
+   "usd": 0.00263,
+   "what": "review cozy_corners-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:49+00:00"
+  },
+  {
+   "usd": 0.00176,
+   "what": "review world_places-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:51+00:00"
+  },
+  {
+   "usd": 0.00237,
+   "what": "review nostalgia-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:56+00:00"
+  },
+  {
+   "usd": 0.00351,
+   "what": "review treats-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:59+00:00"
+  },
+  {
+   "usd": 0.00225,
+   "what": "review cozy_corners-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:40:59+00:00"
+  },
+  {
+   "usd": 0.00289,
+   "what": "review world_places-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:01+00:00"
+  },
+  {
+   "usd": 0.00154,
+   "what": "review treats-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:04+00:00"
+  },
+  {
+   "usd": 0.00263,
+   "what": "review nostalgia-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:06+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review cozy_corners-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:07+00:00"
+  },
+  {
+   "usd": 0.00164,
+   "what": "review world_places-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:09+00:00"
+  },
+  {
+   "usd": 0.00292,
+   "what": "review treats-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:15+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review nostalgia-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:15+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review cozy_corners-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:16+00:00"
+  },
+  {
+   "usd": 0.00204,
+   "what": "review treats-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:21+00:00"
+  },
+  {
+   "usd": 0.0033,
+   "what": "review fairytale-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:22+00:00"
+  },
+  {
+   "usd": 0.00239,
+   "what": "review cozy_corners-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:25+00:00"
+  },
+  {
+   "usd": 0.00308,
+   "what": "review nostalgia-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:25+00:00"
+  },
+  {
+   "usd": 0.00168,
+   "what": "review fairytale-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:28+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review treats-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:29+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review nostalgia-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:32+00:00"
+  },
+  {
+   "usd": 0.00314,
+   "what": "review cozy_corners-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:36+00:00"
+  },
+  {
+   "usd": 0.00192,
+   "what": "review fairytale-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:37+00:00"
+  },
+  {
+   "usd": 0.00205,
+   "what": "review treats-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:37+00:00"
+  },
+  {
+   "usd": 0.00227,
+   "what": "review nostalgia-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:41+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review treats-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:44+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review fairytale-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:45+00:00"
+  },
+  {
+   "usd": 0.00298,
+   "what": "review cozy_corners-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:45+00:00"
+  },
+  {
+   "usd": 0.00285,
+   "what": "review nostalgia-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:50+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review treats-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:52+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review cozy_corners-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:53+00:00"
+  },
+  {
+   "usd": 0.00268,
+   "what": "review fairytale-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:56+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review nostalgia-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:56+00:00"
+  },
+  {
+   "usd": 0.00165,
+   "what": "review treats-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:41:59+00:00"
+  },
+  {
+   "usd": 0.00256,
+   "what": "review cozy_corners-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:01+00:00"
+  },
+  {
+   "usd": 0.00168,
+   "what": "review fairytale-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:04+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review nostalgia-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:06+00:00"
+  },
+  {
+   "usd": 0.00174,
+   "what": "review treats-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:06+00:00"
+  },
+  {
+   "usd": 0.00302,
+   "what": "review cozy_corners-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:12+00:00"
+  },
+  {
+   "usd": 0.00184,
+   "what": "review treats-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:13+00:00"
+  },
+  {
+   "usd": 0.00246,
+   "what": "review fairytale-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:14+00:00"
+  },
+  {
+   "usd": 0.00266,
+   "what": "review nostalgia-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:14+00:00"
+  },
+  {
+   "usd": 0.00195,
+   "what": "review cozy_corners-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:19+00:00"
+  },
+  {
+   "usd": 0.0019,
+   "what": "review fairytale-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:23+00:00"
+  },
+  {
+   "usd": 0.00238,
+   "what": "review treats-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:24+00:00"
+  },
+  {
+   "usd": 0.00319,
+   "what": "review nostalgia-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:26+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review cozy_corners-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:28+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review fairytale-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:31+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review treats-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:33+00:00"
+  },
+  {
+   "usd": 0.00173,
+   "what": "review cozy_corners-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:36+00:00"
+  },
+  {
+   "usd": 0.00179,
+   "what": "review fairytale-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:39+00:00"
+  },
+  {
+   "usd": 5.89751,
+   "what": "batch batches/hp7mryrzyobwb57fzsnmne8oofybp5oqdff2",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:39+00:00"
+  },
+  {
+   "usd": 0.00248,
+   "what": "review treats-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:43+00:00"
+  },
+  {
+   "usd": 0.00224,
+   "what": "review cozy_corners-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:46+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review fairytale-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:48+00:00"
+  },
+  {
+   "usd": 0.00285,
+   "what": "review treats-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:52+00:00"
+  },
+  {
+   "usd": 0.00256,
+   "what": "review nostalgia-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:53+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review cozy_corners-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:55+00:00"
+  },
+  {
+   "usd": 0.00225,
+   "what": "review fairytale-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:57+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review treats-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:42:59+00:00"
+  },
+  {
+   "usd": 0.00204,
+   "what": "review nostalgia-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:01+00:00"
+  },
+  {
+   "usd": 0.00263,
+   "what": "review cozy_corners-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:05+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review fairytale-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:06+00:00"
+  },
+  {
+   "usd": 0.00189,
+   "what": "review treats-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:07+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review nostalgia-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:08+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review fairytale-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:12+00:00"
+  },
+  {
+   "usd": 0.00234,
+   "what": "review cozy_corners-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:14+00:00"
+  },
+  {
+   "usd": 0.00239,
+   "what": "review treats-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:16+00:00"
+  },
+  {
+   "usd": 0.0023,
+   "what": "review nostalgia-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:17+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review fairytale-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:21+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review cozy_corners-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:23+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review nostalgia-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:25+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review treats-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:26+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review fairytale-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:28+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review cozy_corners-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:32+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review treats-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:34+00:00"
+  },
+  {
+   "usd": 0.00275,
+   "what": "review nostalgia-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:34+00:00"
+  },
+  {
+   "usd": 0.00212,
+   "what": "review fairytale-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:36+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review treats-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:41+00:00"
+  },
+  {
+   "usd": 0.00184,
+   "what": "review nostalgia-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:42+00:00"
+  },
+  {
+   "usd": 0.00222,
+   "what": "review cozy_corners-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:43+00:00"
+  },
+  {
+   "usd": 0.00206,
+   "what": "review fairytale-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:44+00:00"
+  },
+  {
+   "usd": 0.0024,
+   "what": "review nostalgia-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:50+00:00"
+  },
+  {
+   "usd": 0.00218,
+   "what": "review treats-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:51+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review fairytale-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:52+00:00"
+  },
+  {
+   "usd": 0.00256,
+   "what": "review cozy_corners-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:53+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review fairytale-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:58+00:00"
+  },
+  {
+   "usd": 0.00255,
+   "what": "review nostalgia-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:58+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review treats-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:43:59+00:00"
+  },
+  {
+   "usd": 0.00225,
+   "what": "review cozy_corners-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:02+00:00"
+  },
+  {
+   "usd": 0.00164,
+   "what": "review treats-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:06+00:00"
+  },
+  {
+   "usd": 0.00243,
+   "what": "review fairytale-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:06+00:00"
+  },
+  {
+   "usd": 0.00288,
+   "what": "review nostalgia-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:07+00:00"
+  },
+  {
+   "usd": 0.00257,
+   "what": "review cozy_corners-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:11+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review treats-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:13+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review nostalgia-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:15+00:00"
+  },
+  {
+   "usd": 0.00202,
+   "what": "review cozy_corners-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:18+00:00"
+  },
+  {
+   "usd": 0.00228,
+   "what": "review fairytale-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:19+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review treats-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:21+00:00"
+  },
+  {
+   "usd": 0.00234,
+   "what": "review nostalgia-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:25+00:00"
+  },
+  {
+   "usd": 0.00215,
+   "what": "review cozy_corners-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:28+00:00"
+  },
+  {
+   "usd": 0.00293,
+   "what": "review treats-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:30+00:00"
+  },
+  {
+   "usd": 0.00341,
+   "what": "review fairytale-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:31+00:00"
+  },
+  {
+   "usd": 0.00263,
+   "what": "review nostalgia-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:34+00:00"
+  },
+  {
+   "usd": 0.00149,
+   "what": "review treats-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:35+00:00"
+  },
+  {
+   "usd": 0.00252,
+   "what": "review cozy_corners-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:39+00:00"
+  },
+  {
+   "usd": 0.00242,
+   "what": "review fairytale-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:41+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review nostalgia-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:42+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review treats-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:42+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review cozy_corners-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:47+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review fairytale-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:49+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review treats-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:50+00:00"
+  },
+  {
+   "usd": 0.00283,
+   "what": "review nostalgia-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:52+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review cozy_corners-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:55+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review fairytale-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:57+00:00"
+  },
+  {
+   "usd": 0.00222,
+   "what": "review treats-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:44:58+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review nostalgia-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:00+00:00"
+  },
+  {
+   "usd": 0.00212,
+   "what": "review cozy_corners-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:03+00:00"
+  },
+  {
+   "usd": 0.00215,
+   "what": "review fairytale-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:05+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review treats-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:06+00:00"
+  },
+  {
+   "usd": 0.00328,
+   "what": "review nostalgia-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:10+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review fairytale-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:13+00:00"
+  },
+  {
+   "usd": 0.00329,
+   "what": "review cozy_corners-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:14+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review treats-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:14+00:00"
+  },
+  {
+   "usd": 0.00214,
+   "what": "review nostalgia-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:16+00:00"
+  },
+  {
+   "usd": 0.00178,
+   "what": "review fairytale-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:20+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review nostalgia-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:23+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review cozy_corners-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:24+00:00"
+  },
+  {
+   "usd": 0.00192,
+   "what": "review night_stars-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:24+00:00"
+  },
+  {
+   "usd": 0.0021,
+   "what": "review fairytale-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:28+00:00"
+  },
+  {
+   "usd": 0.0024,
+   "what": "review cozy_corners-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:30+00:00"
+  },
+  {
+   "usd": 0.00241,
+   "what": "review night_stars-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:33+00:00"
+  },
+  {
+   "usd": 0.00368,
+   "what": "review nostalgia-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:35+00:00"
+  },
+  {
+   "usd": 0.00213,
+   "what": "review fairytale-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:36+00:00"
+  },
+  {
+   "usd": 0.00158,
+   "what": "review night_stars-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:40+00:00"
+  },
+  {
+   "usd": 0.00281,
+   "what": "review cozy_corners-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:40+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review nostalgia-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:42+00:00"
+  },
+  {
+   "usd": 0.00174,
+   "what": "review fairytale-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:43+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review night_stars-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:49+00:00"
+  },
+  {
+   "usd": 0.00245,
+   "what": "review cozy_corners-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:50+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review night_stars-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:56+00:00"
+  },
+  {
+   "usd": 0.0032,
+   "what": "review fairytale-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:56+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review cozy_corners-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:45:57+00:00"
+  },
+  {
+   "usd": 0.00205,
+   "what": "review fairytale-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:05+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review cozy_corners-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:06+00:00"
+  },
+  {
+   "usd": 0.00338,
+   "what": "review night_stars-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:08+00:00"
+  },
+  {
+   "usd": 0.00212,
+   "what": "review fairytale-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:13+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review cozy_corners-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:13+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review night_stars-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:15+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review fairytale-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:21+00:00"
+  },
+  {
+   "usd": 0.00205,
+   "what": "review cozy_corners-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:22+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review night_stars-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:23+00:00"
+  },
+  {
+   "usd": 0.00322,
+   "what": "review nostalgia-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:28+00:00"
+  },
+  {
+   "usd": 0.00227,
+   "what": "review fairytale-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:29+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review four_seasons-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:31+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review night_stars-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:32+00:00"
+  },
+  {
+   "usd": 0.00228,
+   "what": "review nostalgia-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:37+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review fairytale-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:37+00:00"
+  },
+  {
+   "usd": 0.00198,
+   "what": "review four_seasons-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:39+00:00"
+  },
+  {
+   "usd": 0.0017,
+   "what": "review night_stars-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:40+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review nostalgia-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:43+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review fairytale-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:45+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review night_stars-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:47+00:00"
+  },
+  {
+   "usd": 0.00176,
+   "what": "review four_seasons-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:48+00:00"
+  },
+  {
+   "usd": 0.0017,
+   "what": "review nostalgia-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:51+00:00"
+  },
+  {
+   "usd": 0.00186,
+   "what": "review fairytale-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:53+00:00"
+  },
+  {
+   "usd": 0.00254,
+   "what": "review night_stars-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:57+00:00"
+  },
+  {
+   "usd": 0.00225,
+   "what": "review four_seasons-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:46:57+00:00"
+  },
+  {
+   "usd": 0.00247,
+   "what": "review nostalgia-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:01+00:00"
+  },
+  {
+   "usd": 0.00195,
+   "what": "review art_styles-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:04+00:00"
+  },
+  {
+   "usd": 0.00215,
+   "what": "review night_stars-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:05+00:00"
+  },
+  {
+   "usd": 0.00252,
+   "what": "review four_seasons-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:08+00:00"
+  },
+  {
+   "usd": 0.00295,
+   "what": "review nostalgia-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:09+00:00"
+  },
+  {
+   "usd": 0.00254,
+   "what": "review art_styles-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:12+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review night_stars-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:13+00:00"
+  },
+  {
+   "usd": 0.00172,
+   "what": "review nostalgia-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:15+00:00"
+  },
+  {
+   "usd": 0.00305,
+   "what": "review four_seasons-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:18+00:00"
+  },
+  {
+   "usd": 0.00165,
+   "what": "review art_styles-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:21+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review night_stars-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:21+00:00"
+  },
+  {
+   "usd": 0.00257,
+   "what": "review four_seasons-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:26+00:00"
+  },
+  {
+   "usd": 0.00262,
+   "what": "review collections-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:27+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review art_styles-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:29+00:00"
+  },
+  {
+   "usd": 0.0019,
+   "what": "review night_stars-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:30+00:00"
+  },
+  {
+   "usd": 0.00218,
+   "what": "review collections-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:34+00:00"
+  },
+  {
+   "usd": 0.00176,
+   "what": "review four_seasons-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:34+00:00"
+  },
+  {
+   "usd": 0.00225,
+   "what": "review art_styles-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:36+00:00"
+  },
+  {
+   "usd": 0.00212,
+   "what": "review night_stars-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:38+00:00"
+  },
+  {
+   "usd": 0.00295,
+   "what": "review collections-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:44+00:00"
+  },
+  {
+   "usd": 0.00216,
+   "what": "review four_seasons-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:44+00:00"
+  },
+  {
+   "usd": 0.00227,
+   "what": "review art_styles-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:46+00:00"
+  },
+  {
+   "usd": 0.00305,
+   "what": "review night_stars-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:49+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review art_styles-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:52+00:00"
+  },
+  {
+   "usd": 0.00212,
+   "what": "review four_seasons-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:53+00:00"
+  },
+  {
+   "usd": 0.0025,
+   "what": "review collections-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:54+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review night_stars-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:47:55+00:00"
+  },
+  {
+   "usd": 0.0021,
+   "what": "review collections-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:00+00:00"
+  },
+  {
+   "usd": 0.00152,
+   "what": "review art_styles-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:00+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review four_seasons-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:02+00:00"
+  },
+  {
+   "usd": 0.00198,
+   "what": "review night_stars-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:03+00:00"
+  },
+  {
+   "usd": 0.00194,
+   "what": "review four_seasons-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:08+00:00"
+  },
+  {
+   "usd": 0.00245,
+   "what": "review art_styles-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:11+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review night_stars-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:12+00:00"
+  },
+  {
+   "usd": 0.00356,
+   "what": "review collections-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:14+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review four_seasons-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:16+00:00"
+  },
+  {
+   "usd": 0.00305,
+   "what": "review art_styles-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:20+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review night_stars-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:20+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review collections-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:21+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review four_seasons-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:25+00:00"
+  },
+  {
+   "usd": 0.00194,
+   "what": "review art_styles-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:26+00:00"
+  },
+  {
+   "usd": 0.00248,
+   "what": "review night_stars-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:29+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review four_seasons-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:33+00:00"
+  },
+  {
+   "usd": 0.0027,
+   "what": "review collections-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:33+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review art_styles-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:36+00:00"
+  },
+  {
+   "usd": 0.00184,
+   "what": "review night_stars-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:36+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review collections-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:40+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review four_seasons-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:40+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review night_stars-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:46+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review art_styles-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:46+00:00"
+  },
+  {
+   "usd": 0.0019,
+   "what": "review four_seasons-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:46+00:00"
+  },
+  {
+   "usd": 0.00243,
+   "what": "review collections-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:49+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review four_seasons-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:54+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review art_styles-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:55+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review night_stars-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:48:55+00:00"
+  },
+  {
+   "usd": 0.00231,
+   "what": "review collections-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:00+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review four_seasons-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:01+00:00"
+  },
+  {
+   "usd": 0.00179,
+   "what": "review art_styles-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:03+00:00"
+  },
+  {
+   "usd": 0.00219,
+   "what": "review night_stars-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:04+00:00"
+  },
+  {
+   "usd": 0.010174,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:06+00:00"
+  },
+  {
+   "usd": 0.00222,
+   "what": "review collections-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:08+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review art_styles-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:10+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review four_seasons-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:10+00:00"
+  },
+  {
+   "usd": 0.00151,
+   "what": "review collections-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:15+00:00"
+  },
+  {
+   "usd": 0.00289,
+   "what": "review night_stars-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:15+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review four_seasons-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:18+00:00"
+  },
+  {
+   "usd": 0.00239,
+   "what": "review art_styles-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:19+00:00"
+  },
+  {
+   "usd": 0.00192,
+   "what": "review collections-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:22+00:00"
+  },
+  {
+   "usd": 0.00354,
+   "what": "review night_stars-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:24+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review art_styles-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:25+00:00"
+  },
+  {
+   "usd": 0.010147,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:25+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review four_seasons-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:26+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review collections-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:30+00:00"
+  },
+  {
+   "usd": 0.00171,
+   "what": "review four_seasons-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:33+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review art_styles-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:33+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review night_stars-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:33+00:00"
+  },
+  {
+   "usd": 0.00254,
+   "what": "review collections-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:38+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review art_styles-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:41+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review four_seasons-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:41+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review night_stars-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:42+00:00"
+  },
+  {
+   "usd": 0.010408,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:43+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review collections-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:46+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review art_styles-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:50+00:00"
+  },
+  {
+   "usd": 0.00224,
+   "what": "review night_stars-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:51+00:00"
+  },
+  {
+   "usd": 0.00254,
+   "what": "review four_seasons-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:51+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review collections-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:52+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review art_styles-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:58+00:00"
+  },
+  {
+   "usd": 0.00172,
+   "what": "review four_seasons-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:49:59+00:00"
+  },
+  {
+   "usd": 0.0025,
+   "what": "review night_stars-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:01+00:00"
+  },
+  {
+   "usd": 0.00225,
+   "what": "review collections-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:01+00:00"
+  },
+  {
+   "usd": 0.010616,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:02+00:00"
+  },
+  {
+   "usd": 0.00163,
+   "what": "review art_styles-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:05+00:00"
+  },
+  {
+   "usd": 0.0023,
+   "what": "review collections-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:09+00:00"
+  },
+  {
+   "usd": 0.00281,
+   "what": "review four_seasons-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:09+00:00"
+  },
+  {
+   "usd": 0.00178,
+   "what": "review night_stars-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:09+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review art_styles-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:13+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review collections-21-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:17+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review night_stars-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:18+00:00"
+  },
+  {
+   "usd": 0.00228,
+   "what": "review four_seasons-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:18+00:00"
+  },
+  {
+   "usd": 0.010303,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:20+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review art_styles-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:21+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review collections-22-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:24+00:00"
+  },
+  {
+   "usd": 0.00257,
+   "what": "review night_stars-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:28+00:00"
+  },
+  {
+   "usd": 0.00293,
+   "what": "review four_seasons-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:29+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review art_styles-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:29+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review collections-23-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:33+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review night_stars-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:34+00:00"
+  },
+  {
+   "usd": 0.0023,
+   "what": "review four_seasons-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:35+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review art_styles-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:37+00:00"
+  },
+  {
+   "usd": 0.010474,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:40+00:00"
+  },
+  {
+   "usd": 0.00222,
+   "what": "review night_stars-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:42+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review four_seasons-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:43+00:00"
+  },
+  {
+   "usd": 0.00337,
+   "what": "review collections-24-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:43+00:00"
+  },
+  {
+   "usd": 0.00246,
+   "what": "review art_styles-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:45+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review night_stars-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:48+00:00"
+  },
+  {
+   "usd": 0.00238,
+   "what": "review four_seasons-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:51+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review art_styles-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:52+00:00"
+  },
+  {
+   "usd": 0.00186,
+   "what": "review collections-25-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:53+00:00"
+  },
+  {
+   "usd": 0.00198,
+   "what": "review night_stars-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:54+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review four_seasons-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:59+00:00"
+  },
+  {
+   "usd": 0.009894,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:50:59+00:00"
+  },
+  {
+   "usd": 0.00215,
+   "what": "review art_styles-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:01+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review winter_tale-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:04+00:00"
+  },
+  {
+   "usd": 0.00337,
+   "what": "review collections-26-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:05+00:00"
+  },
+  {
+   "usd": 0.00265,
+   "what": "review four_seasons-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:09+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review art_styles-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:09+00:00"
+  },
+  {
+   "usd": 0.010245,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:11+00:00"
+  },
+  {
+   "usd": 0.00181,
+   "what": "review winter_tale-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:12+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review collections-27-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:13+00:00"
+  },
+  {
+   "usd": 0.00212,
+   "what": "review four_seasons-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:15+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review art_styles-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:16+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review four_seasons-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:22+00:00"
+  },
+  {
+   "usd": 0.00257,
+   "what": "review winter_tale-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:22+00:00"
+  },
+  {
+   "usd": 0.00241,
+   "what": "review collections-28-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:23+00:00"
+  },
+  {
+   "usd": 0.00152,
+   "what": "review art_styles-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:24+00:00"
+  },
+  {
+   "usd": 0.009677,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:29+00:00"
+  },
+  {
+   "usd": 0.00173,
+   "what": "review four_seasons-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:30+00:00"
+  },
+  {
+   "usd": 0.00287,
+   "what": "review winter_tale-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:32+00:00"
+  },
+  {
+   "usd": 0.00228,
+   "what": "review art_styles-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:33+00:00"
+  },
+  {
+   "usd": 0.00284,
+   "what": "review collections-29-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:34+00:00"
+  },
+  {
+   "usd": 0.0025,
+   "what": "review winter_tale-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:42+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review collections-30-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:42+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review art_styles-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:43+00:00"
+  },
+  {
+   "usd": 0.00237,
+   "what": "review four_seasons-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:49+00:00"
+  },
+  {
+   "usd": 0.010441,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:49+00:00"
+  },
+  {
+   "usd": 0.0017,
+   "what": "review winter_tale-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:51+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review art_styles-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:52+00:00"
+  },
+  {
+   "usd": 0.00224,
+   "what": "review collections-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:52+00:00"
+  },
+  {
+   "usd": 0.00178,
+   "what": "review four_seasons-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:54+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review winter_tale-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:59+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review collections-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:51:59+00:00"
+  },
+  {
+   "usd": 0.00251,
+   "what": "review art_styles-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:03+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review four_seasons-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:03+00:00"
+  },
+  {
+   "usd": 0.00204,
+   "what": "review winter_tale-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:08+00:00"
+  },
+  {
+   "usd": 0.010126,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:08+00:00"
+  },
+  {
+   "usd": 0.00214,
+   "what": "review art_styles-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:11+00:00"
+  },
+  {
+   "usd": 0.00413,
+   "what": "review collections-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:13+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review winter_tale-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:16+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review art_styles-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:19+00:00"
+  },
+  {
+   "usd": 0.00294,
+   "what": "review collections-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:22+00:00"
+  },
+  {
+   "usd": 0.00179,
+   "what": "review winter_tale-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:24+00:00"
+  },
+  {
+   "usd": 0.00216,
+   "what": "review art_styles-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:27+00:00"
+  },
+  {
+   "usd": 0.010545,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:29+00:00"
+  },
+  {
+   "usd": 0.00218,
+   "what": "review collections-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:30+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review winter_tale-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:33+00:00"
+  },
+  {
+   "usd": 0.00257,
+   "what": "review collections-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:37+00:00"
+  },
+  {
+   "usd": 0.00293,
+   "what": "review winter_tale-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:44+00:00"
+  },
+  {
+   "usd": 0.009515,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:45+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review collections-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:46+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review winter_tale-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:52+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review collections-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:54+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review winter_tale-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:52:59+00:00"
+  },
+  {
+   "usd": 0.00201,
+   "what": "review collections-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:02+00:00"
+  },
+  {
+   "usd": 0.009595,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:03+00:00"
+  },
+  {
+   "usd": 0.00186,
+   "what": "review collections-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:08+00:00"
+  },
+  {
+   "usd": 0.00428,
+   "what": "review winter_tale-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:12+00:00"
+  },
+  {
+   "usd": 0.009606,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:20+00:00"
+  },
+  {
+   "usd": 0.00235,
+   "what": "review winter_tale-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:21+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review winter_tale-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:29+00:00"
+  },
+  {
+   "usd": 0.009764,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:37+00:00"
+  },
+  {
+   "usd": 0.00292,
+   "what": "review winter_tale-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:38+00:00"
+  },
+  {
+   "usd": 0.00248,
+   "what": "review winter_tale-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:46+00:00"
+  },
+  {
+   "usd": 0.00202,
+   "what": "review winter_tale-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:53+00:00"
+  },
+  {
+   "usd": 0.009439,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:53:55+00:00"
+  },
+  {
+   "usd": 0.009588,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:54:13+00:00"
+  },
+  {
+   "usd": 0.009835,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:54:31+00:00"
+  },
+  {
+   "usd": 0.009814,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:54:50+00:00"
+  },
+  {
+   "usd": 0.009666,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:55:07+00:00"
+  },
+  {
+   "usd": 0.009373,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:55:24+00:00"
+  },
+  {
+   "usd": 0.009569,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:55:41+00:00"
+  },
+  {
+   "usd": 0.009653,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:55:59+00:00"
+  },
+  {
+   "usd": 0.010106,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:56:17+00:00"
+  },
+  {
+   "usd": 0.009936,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:56:35+00:00"
+  },
+  {
+   "usd": 0.009659,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:56:52+00:00"
+  },
+  {
+   "usd": 0.009456,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:57:10+00:00"
+  },
+  {
+   "usd": 0.009586,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:57:28+00:00"
+  },
+  {
+   "usd": 0.009709,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:57:45+00:00"
+  },
+  {
+   "usd": 0.009949,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:58:02+00:00"
+  },
+  {
+   "usd": 0.010292,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:58:21+00:00"
+  },
+  {
+   "usd": 0.009343,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:58:38+00:00"
+  },
+  {
+   "usd": 0.009651,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:58:55+00:00"
+  },
+  {
+   "usd": 0.009496,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:59:13+00:00"
+  },
+  {
+   "usd": 0.009596,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:59:29+00:00"
+  },
+  {
+   "usd": 0.009205,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T19:59:45+00:00"
+  },
+  {
+   "usd": 0.009641,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:01+00:00"
+  },
+  {
+   "usd": 0.00159,
+   "what": "review flowers_gardens-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:14+00:00"
+  },
+  {
+   "usd": 0.00163,
+   "what": "review birds_butterflies-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:14+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review wildlife-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:14+00:00"
+  },
+  {
+   "usd": 0.00282,
+   "what": "review cute_pets-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:15+00:00"
+  },
+  {
+   "usd": 0.00173,
+   "what": "review birds_butterflies-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:22+00:00"
+  },
+  {
+   "usd": 0.009747,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:23+00:00"
+  },
+  {
+   "usd": 0.00218,
+   "what": "review wildlife-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:23+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review cute_pets-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:24+00:00"
+  },
+  {
+   "usd": 0.00321,
+   "what": "review flowers_gardens-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:25+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review wildlife-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:31+00:00"
+  },
+  {
+   "usd": 0.00275,
+   "what": "review birds_butterflies-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:31+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review flowers_gardens-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:32+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review cute_pets-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:33+00:00"
+  },
+  {
+   "usd": 0.00237,
+   "what": "review flowers_gardens-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:38+00:00"
+  },
+  {
+   "usd": 0.00194,
+   "what": "review wildlife-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:39+00:00"
+  },
+  {
+   "usd": 0.010157,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:39+00:00"
+  },
+  {
+   "usd": 0.00204,
+   "what": "review cute_pets-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:41+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review birds_butterflies-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:41+00:00"
+  },
+  {
+   "usd": 0.00154,
+   "what": "review flowers_gardens-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:44+00:00"
+  },
+  {
+   "usd": 0.00275,
+   "what": "review wildlife-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:46+00:00"
+  },
+  {
+   "usd": 0.00176,
+   "what": "review birds_butterflies-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:48+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review cute_pets-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:50+00:00"
+  },
+  {
+   "usd": 0.0017,
+   "what": "review flowers_gardens-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:51+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review wildlife-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:54+00:00"
+  },
+  {
+   "usd": 0.009384,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:56+00:00"
+  },
+  {
+   "usd": 0.00176,
+   "what": "review cute_pets-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:57+00:00"
+  },
+  {
+   "usd": 0.00213,
+   "what": "review birds_butterflies-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:58+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review flowers_gardens-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:00:58+00:00"
+  },
+  {
+   "usd": 0.00258,
+   "what": "review wildlife-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:01+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review cute_pets-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:04+00:00"
+  },
+  {
+   "usd": 0.00155,
+   "what": "review birds_butterflies-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:05+00:00"
+  },
+  {
+   "usd": 0.00268,
+   "what": "review flowers_gardens-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:09+00:00"
+  },
+  {
+   "usd": 0.00216,
+   "what": "review wildlife-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:09+00:00"
+  },
+  {
+   "usd": 0.00263,
+   "what": "review cute_pets-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:11+00:00"
+  },
+  {
+   "usd": 0.00195,
+   "what": "review birds_butterflies-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:13+00:00"
+  },
+  {
+   "usd": 0.010034,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:14+00:00"
+  },
+  {
+   "usd": 0.0021,
+   "what": "review flowers_gardens-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:15+00:00"
+  },
+  {
+   "usd": 0.00222,
+   "what": "review cute_pets-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:19+00:00"
+  },
+  {
+   "usd": 0.00323,
+   "what": "review wildlife-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:20+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review birds_butterflies-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:20+00:00"
+  },
+  {
+   "usd": 0.00187,
+   "what": "review flowers_gardens-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:22+00:00"
+  },
+  {
+   "usd": 0.00174,
+   "what": "review wildlife-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:24+00:00"
+  },
+  {
+   "usd": 0.00228,
+   "what": "review cute_pets-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:27+00:00"
+  },
+  {
+   "usd": 0.00213,
+   "what": "review birds_butterflies-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:28+00:00"
+  },
+  {
+   "usd": 0.009986,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:31+00:00"
+  },
+  {
+   "usd": 0.010046,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:01:48+00:00"
+  },
+  {
+   "usd": 0.009289,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:04+00:00"
+  },
+  {
+   "usd": 0.00247,
+   "what": "review colorful_streets-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:11+00:00"
+  },
+  {
+   "usd": 0.00239,
+   "what": "review sea_coast-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:14+00:00"
+  },
+  {
+   "usd": 0.00159,
+   "what": "review landscapes-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:16+00:00"
+  },
+  {
+   "usd": 0.00164,
+   "what": "review colorful_streets-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:19+00:00"
+  },
+  {
+   "usd": 0.00194,
+   "what": "review sea_coast-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:21+00:00"
+  },
+  {
+   "usd": 0.009522,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:21+00:00"
+  },
+  {
+   "usd": 0.00225,
+   "what": "review world_places-31-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:23+00:00"
+  },
+  {
+   "usd": 0.00179,
+   "what": "review landscapes-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:24+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review colorful_streets-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:27+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review sea_coast-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:28+00:00"
+  },
+  {
+   "usd": 0.00169,
+   "what": "review landscapes-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:30+00:00"
+  },
+  {
+   "usd": 0.00195,
+   "what": "review world_places-32-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:32+00:00"
+  },
+  {
+   "usd": 0.00202,
+   "what": "review colorful_streets-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:32+00:00"
+  },
+  {
+   "usd": 0.00165,
+   "what": "review sea_coast-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:34+00:00"
+  },
+  {
+   "usd": 0.00227,
+   "what": "review landscapes-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:39+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review world_places-33-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:39+00:00"
+  },
+  {
+   "usd": 0.009614,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:39+00:00"
+  },
+  {
+   "usd": 0.00156,
+   "what": "review colorful_streets-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:40+00:00"
+  },
+  {
+   "usd": 0.00254,
+   "what": "review sea_coast-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:43+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review landscapes-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:46+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review world_places-34-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:47+00:00"
+  },
+  {
+   "usd": 0.00319,
+   "what": "review colorful_streets-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:51+00:00"
+  },
+  {
+   "usd": 0.00245,
+   "what": "review sea_coast-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:51+00:00"
+  },
+  {
+   "usd": 0.00199,
+   "what": "review landscapes-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:53+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review world_places-35-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:56+00:00"
+  },
+  {
+   "usd": 0.010126,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:57+00:00"
+  },
+  {
+   "usd": 0.00198,
+   "what": "review colorful_streets-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:59+00:00"
+  },
+  {
+   "usd": 0.00164,
+   "what": "review landscapes-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:02:59+00:00"
+  },
+  {
+   "usd": 0.0024,
+   "what": "review sea_coast-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:01+00:00"
+  },
+  {
+   "usd": 0.00224,
+   "what": "review world_places-36-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:04+00:00"
+  },
+  {
+   "usd": 0.00243,
+   "what": "review colorful_streets-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:08+00:00"
+  },
+  {
+   "usd": 0.00215,
+   "what": "review landscapes-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:08+00:00"
+  },
+  {
+   "usd": 0.00178,
+   "what": "review sea_coast-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:09+00:00"
+  },
+  {
+   "usd": 0.00229,
+   "what": "review world_places-37-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:13+00:00"
+  },
+  {
+   "usd": 0.00224,
+   "what": "review colorful_streets-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:15+00:00"
+  },
+  {
+   "usd": 0.009793,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:16+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review landscapes-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:18+00:00"
+  },
+  {
+   "usd": 0.00256,
+   "what": "review sea_coast-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:18+00:00"
+  },
+  {
+   "usd": 0.00216,
+   "what": "review world_places-38-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:23+00:00"
+  },
+  {
+   "usd": 0.00258,
+   "what": "review colorful_streets-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:25+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review landscapes-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:26+00:00"
+  },
+  {
+   "usd": 0.0027,
+   "what": "review sea_coast-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:28+00:00"
+  },
+  {
+   "usd": 0.00178,
+   "what": "review world_places-39-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:29+00:00"
+  },
+  {
+   "usd": 0.009553,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:33+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review world_places-40-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:36+00:00"
+  },
+  {
+   "usd": 0.010271,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:03:51+00:00"
+  },
+  {
+   "usd": 0.010347,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:04:09+00:00"
+  },
+  {
+   "usd": 0.009479,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:04:25+00:00"
+  },
+  {
+   "usd": 0.009509,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:04:43+00:00"
+  },
+  {
+   "usd": 0.01,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:02+00:00"
+  },
+  {
+   "usd": 0.010171,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:20+00:00"
+  },
+  {
+   "usd": 0.00183,
+   "what": "review valentine-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:21+00:00"
+  },
+  {
+   "usd": 0.00175,
+   "what": "review spring_festival-01-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:30+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review valentine-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:30+00:00"
+  },
+  {
+   "usd": 0.009464,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:38+00:00"
+  },
+  {
+   "usd": 0.00214,
+   "what": "review valentine-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:39+00:00"
+  },
+  {
+   "usd": 0.00242,
+   "what": "review spring_festival-02-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:39+00:00"
+  },
+  {
+   "usd": 0.00241,
+   "what": "review spring_festival-03-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:48+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review valentine-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:48+00:00"
+  },
+  {
+   "usd": 0.00231,
+   "what": "review spring_festival-04-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:56+00:00"
+  },
+  {
+   "usd": 0.010074,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:57+00:00"
+  },
+  {
+   "usd": 0.00229,
+   "what": "review valentine-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:05:57+00:00"
+  },
+  {
+   "usd": 0.00164,
+   "what": "review valentine-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:03+00:00"
+  },
+  {
+   "usd": 0.00237,
+   "what": "review spring_festival-05-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:05+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review valentine-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:10+00:00"
+  },
+  {
+   "usd": 0.00176,
+   "what": "review spring_festival-06-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:12+00:00"
+  },
+  {
+   "usd": 0.009759,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:15+00:00"
+  },
+  {
+   "usd": 0.0019,
+   "what": "review valentine-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:18+00:00"
+  },
+  {
+   "usd": 0.00229,
+   "what": "review spring_festival-07-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:20+00:00"
+  },
+  {
+   "usd": 0.00253,
+   "what": "review valentine-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:27+00:00"
+  },
+  {
+   "usd": 0.00229,
+   "what": "review spring_festival-08-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:28+00:00"
+  },
+  {
+   "usd": 0.009808,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:34+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review valentine-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:34+00:00"
+  },
+  {
+   "usd": 0.00207,
+   "what": "review spring_festival-09-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:37+00:00"
+  },
+  {
+   "usd": 0.00239,
+   "what": "review valentine-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:43+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review spring_festival-10-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:46+00:00"
+  },
+  {
+   "usd": 0.00198,
+   "what": "review valentine-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:50+00:00"
+  },
+  {
+   "usd": 0.009386,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:52+00:00"
+  },
+  {
+   "usd": 0.00233,
+   "what": "review spring_festival-11-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:54+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review valentine-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:06:57+00:00"
+  },
+  {
+   "usd": 0.00174,
+   "what": "review spring_festival-12-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:00+00:00"
+  },
+  {
+   "usd": 0.00242,
+   "what": "review valentine-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:06+00:00"
+  },
+  {
+   "usd": 0.009951,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:10+00:00"
+  },
+  {
+   "usd": 0.00288,
+   "what": "review spring_festival-13-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:12+00:00"
+  },
+  {
+   "usd": 0.00242,
+   "what": "review valentine-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:14+00:00"
+  },
+  {
+   "usd": 0.00222,
+   "what": "review spring_festival-14-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:20+00:00"
+  },
+  {
+   "usd": 0.00243,
+   "what": "review valentine-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:22+00:00"
+  },
+  {
+   "usd": 0.009428,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:27+00:00"
+  },
+  {
+   "usd": 0.00173,
+   "what": "review spring_festival-15-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:27+00:00"
+  },
+  {
+   "usd": 0.00196,
+   "what": "review valentine-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:30+00:00"
+  },
+  {
+   "usd": 0.00167,
+   "what": "review spring_festival-16-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:34+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review valentine-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:37+00:00"
+  },
+  {
+   "usd": 0.00239,
+   "what": "review spring_festival-17-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:42+00:00"
+  },
+  {
+   "usd": 0.00966,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:44+00:00"
+  },
+  {
+   "usd": 0.00186,
+   "what": "review valentine-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:44+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review spring_festival-18-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:48+00:00"
+  },
+  {
+   "usd": 0.00219,
+   "what": "review valentine-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:52+00:00"
+  },
+  {
+   "usd": 0.00154,
+   "what": "review spring_festival-19-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:07:55+00:00"
+  },
+  {
+   "usd": 0.00181,
+   "what": "review spring_festival-20-2k",
+   "kind": "actual",
+   "at": "2026-11-13T20:08:03+00:00"
+  },
+  {
+   "usd": 0.010449,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:08:06+00:00"
+  },
+  {
+   "usd": 0.009957,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:08:23+00:00"
+  },
+  {
+   "usd": 0.009551,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:08:40+00:00"
+  },
+  {
+   "usd": 0.009793,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:08:58+00:00"
+  },
+  {
+   "usd": 0.009997,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:09:16+00:00"
+  },
+  {
+   "usd": 0.009948,
+   "what": "translate titles",
+   "kind": "actual",
+   "at": "2026-11-13T20:09:36+00:00"
+  },
+  {
+   "usd": 2.06868,
+   "what": "batch batches/2aimv1lwm0vebwpy3dovfk8q8g0k0u14def5",
+   "kind": "actual",
+   "at": "2026-11-13T20:15:49+00:00"
+  },
+  {
+   "usd": 0.00188,
+   "what": "review cute_pets-03-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:16:10+00:00"
+  },
+  {
+   "usd": 0.00178,
+   "what": "review flowers_gardens-03-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:16:10+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review birds_butterflies-11-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:16:23+00:00"
+  },
+  {
+   "usd": 0.00184,
+   "what": "review flowers_gardens-10-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:16:28+00:00"
+  },
+  {
+   "usd": 0.00314,
+   "what": "review wildlife-16-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:16:37+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review wildlife-24-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:16:55+00:00"
+  },
+  {
+   "usd": 0.00222,
+   "what": "review wildlife-25-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:04+00:00"
+  },
+  {
+   "usd": 0.0018,
+   "what": "review flowers_gardens-29-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:05+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review flowers_gardens-32-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:14+00:00"
+  },
+  {
+   "usd": 0.00205,
+   "what": "review landscapes-03-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:20+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review sea_coast-02-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:22+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review wildlife-34-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:24+00:00"
+  },
+  {
+   "usd": 0.00166,
+   "what": "review landscapes-06-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:29+00:00"
+  },
+  {
+   "usd": 0.00258,
+   "what": "review sea_coast-05-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:34+00:00"
+  },
+  {
+   "usd": 0.00211,
+   "what": "review world_places-03-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:45+00:00"
+  },
+  {
+   "usd": 0.00254,
+   "what": "review colorful_streets-06-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:47+00:00"
+  },
+  {
+   "usd": 0.00193,
+   "what": "review world_places-05-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:17:55+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review colorful_streets-10-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:01+00:00"
+  },
+  {
+   "usd": 0.00181,
+   "what": "review sea_coast-17-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:02+00:00"
+  },
+  {
+   "usd": 0.0022,
+   "what": "review landscapes-22-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:03+00:00"
+  },
+  {
+   "usd": 0.00191,
+   "what": "review colorful_streets-12-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:12+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review world_places-12-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:13+00:00"
+  },
+  {
+   "usd": 0.00172,
+   "what": "review sea_coast-24-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:18+00:00"
+  },
+  {
+   "usd": 0.00223,
+   "what": "review colorful_streets-15-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:24+00:00"
+  },
+  {
+   "usd": 0.00248,
+   "what": "review sea_coast-29-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:31+00:00"
+  },
+  {
+   "usd": 0.00267,
+   "what": "review colorful_streets-19-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:37+00:00"
+  },
+  {
+   "usd": 0.00197,
+   "what": "review colorful_streets-21-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:46+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review treats-08-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:18:54+00:00"
+  },
+  {
+   "usd": 0.00212,
+   "what": "review colorful_streets-25-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:01+00:00"
+  },
+  {
+   "usd": 0.00259,
+   "what": "review cozy_corners-02-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:03+00:00"
+  },
+  {
+   "usd": 0.00214,
+   "what": "review colorful_streets-26-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:08+00:00"
+  },
+  {
+   "usd": 0.00286,
+   "what": "review nostalgia-01-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:09+00:00"
+  },
+  {
+   "usd": 0.00244,
+   "what": "review colorful_streets-27-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:17+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review cozy_corners-08-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:19+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review nostalgia-05-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:20+00:00"
+  },
+  {
+   "usd": 0.00231,
+   "what": "review cozy_corners-09-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:26+00:00"
+  },
+  {
+   "usd": 0.00258,
+   "what": "review nostalgia-08-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:33+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review nostalgia-10-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:43+00:00"
+  },
+  {
+   "usd": 0.00298,
+   "what": "review fairytale-01-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:50+00:00"
+  },
+  {
+   "usd": 0.00221,
+   "what": "review nostalgia-12-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:19:53+00:00"
+  },
+  {
+   "usd": 0.00312,
+   "what": "review cozy_corners-28-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:04+00:00"
+  },
+  {
+   "usd": 0.00265,
+   "what": "review nostalgia-16-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:07+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review cozy_corners-33-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:16+00:00"
+  },
+  {
+   "usd": 0.00242,
+   "what": "review nostalgia-19-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:19+00:00"
+  },
+  {
+   "usd": 0.00217,
+   "what": "review night_stars-18-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:24+00:00"
+  },
+  {
+   "usd": 0.00228,
+   "what": "review nostalgia-20-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:27+00:00"
+  },
+  {
+   "usd": 0.00161,
+   "what": "review nostalgia-21-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:33+00:00"
+  },
+  {
+   "usd": 0.00202,
+   "what": "review four_seasons-05-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:45+00:00"
+  },
+  {
+   "usd": 0.00208,
+   "what": "review nostalgia-27-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:48+00:00"
+  },
+  {
+   "usd": 0.00203,
+   "what": "review night_stars-28-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:49+00:00"
+  },
+  {
+   "usd": 0.00181,
+   "what": "review four_seasons-06-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:53+00:00"
+  },
+  {
+   "usd": 0.00215,
+   "what": "review nostalgia-28-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:20:55+00:00"
+  },
+  {
+   "usd": 0.0016,
+   "what": "review nostalgia-29-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:02+00:00"
+  },
+  {
+   "usd": 0.00159,
+   "what": "review art_styles-04-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:06+00:00"
+  },
+  {
+   "usd": 0.00179,
+   "what": "review night_stars-36-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:08+00:00"
+  },
+  {
+   "usd": 0.00238,
+   "what": "review four_seasons-11-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:09+00:00"
+  },
+  {
+   "usd": 0.00157,
+   "what": "review art_styles-06-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:13+00:00"
+  },
+  {
+   "usd": 0.00337,
+   "what": "review nostalgia-32-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:17+00:00"
+  },
+  {
+   "usd": 0.00182,
+   "what": "review four_seasons-16-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:21+00:00"
+  },
+  {
+   "usd": 0.0023,
+   "what": "review collections-01-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:23+00:00"
+  },
+  {
+   "usd": 0.00241,
+   "what": "review art_styles-09-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:25+00:00"
+  },
+  {
+   "usd": 0.00226,
+   "what": "review nostalgia-35-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:29+00:00"
+  },
+  {
+   "usd": 0.00176,
+   "what": "review art_styles-10-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:32+00:00"
+  },
+  {
+   "usd": 0.002,
+   "what": "review collections-04-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:34+00:00"
+  },
+  {
+   "usd": 0.00195,
+   "what": "review collections-08-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:21:48+00:00"
+  },
+  {
+   "usd": 0.00209,
+   "what": "review collections-17-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:22:09+00:00"
+  },
+  {
+   "usd": 0.00177,
+   "what": "review winter_tale-19-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:22:16+00:00"
+  },
+  {
+   "usd": 0.00178,
+   "what": "review collections-19-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:22:18+00:00"
+  },
+  {
+   "usd": 0.00185,
+   "what": "review valentine-09-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:22:21+00:00"
+  },
+  {
+   "usd": 0.00172,
+   "what": "review collections-23-2k-r1",
+   "kind": "actual",
+   "at": "2026-11-13T20:22:29+00:00"
+  },
+  {
+   "usd": 0.06157,
+   "what": "generate winter_tale-19 2K r2",
+   "kind": "actual",
+   "at": "2026-11-13T20:23:38+00:00"
+  },
+  {
+   "usd": 0.00232,
+   "what": "review winter_tale-19-2k-r2",
+   "kind": "actual",
+   "at": "2026-11-13T20:24:16+00:00"
+  }
+ ],
+ "history": [
+  {
+   "round": "2026-11-13 round 2",
+   "limitUsd": 10.5,
+   "startedAt": "2026-11-13T19:30:29+00:00"
+  }
+ ]
+}

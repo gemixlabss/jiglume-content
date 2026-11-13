@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-04-2k.jpg",
+ "id": "cute_pets-04",
+ "category": "cute_pets",
+ "title": "Bunnies in the meadow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.7,
+  "contrast": 0.234,
+  "sharpness": 7.76
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d1cfeeb3a5241618",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Two cute lop-eared bunnies in a flower meadow with a farm in the background.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00186
+ },
+ "costUsd": 0.03118,
+ "problems": [],
+ "pass": true
+}

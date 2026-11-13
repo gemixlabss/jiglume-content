@@ -1,0 +1,60 @@
+{
+ "file": "ai/raw/flowers_gardens/flowers_gardens-17-2k.jpg",
+ "id": "flowers_gardens-17",
+ "category": "flowers_gardens",
+ "title": "Flower shop interior",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 48.6,
+  "contrast": 0.209,
+  "sharpness": 9.02
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.011,
+   "score": 0.8,
+   "closeUp": false
+  },
+  {
+   "height": 0.01,
+   "score": 0.76,
+   "closeUp": false
+  }
+ ],
+ "phash": "d416213947c39ef6",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy flower shop interior illustration",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00191
+ },
+ "costUsd": 0.03118,
+ "problems": [],
+ "pass": true
+}

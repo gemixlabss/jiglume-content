@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/treats/treats-17-2k.jpg",
+ "id": "treats-17",
+ "category": "treats",
+ "title": "Market of cheeses",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 59.2,
+  "contrast": 0.254,
+  "sharpness": 7.84
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "d1c060ffc68bc39a",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Medieval market scene featuring a cheese, honey, and bread stall.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00174
+ },
+ "costUsd": 0.03033,
+ "problems": [],
+ "pass": true
+}

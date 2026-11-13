@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/treats/treats-28-2k.jpg",
+ "id": "treats-28",
+ "category": "treats",
+ "title": "Fruit tarts",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 86.8,
+  "contrast": 0.252,
+  "sharpness": 7.98
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "ad35053c09abbee1",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00211
+ },
+ "costUsd": 0.03304,
+ "problems": [],
+ "pass": true
+}

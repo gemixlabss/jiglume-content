@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/treats/treats-29-2k.jpg",
+ "id": "treats-29",
+ "category": "treats",
+ "title": "Café pastry case",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.6,
+  "contrast": 0.191,
+  "sharpness": 7.93
+ },
+ "flatShare": 0.013,
+ "text": [],
+ "faces": [],
+ "phash": "fdfd3c8702c2720a",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "cozy bakery interior with pastry display case",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00218
+ },
+ "costUsd": 0.03262,
+ "problems": [],
+ "pass": true
+}

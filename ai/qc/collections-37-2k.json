@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/collections/collections-37-2k.jpg",
+ "id": "collections-37",
+ "category": "collections",
+ "title": "Pottery market stall",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 34.9,
+  "contrast": 0.249,
+  "sharpness": 8.88
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.071,
+   "score": 0.77,
+   "closeUp": true
+  }
+ ],
+ "phash": "f58966aec089cd39",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "A cozy winter market stall displaying ceramic pottery and festive decorations in the snow.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00232
+ },
+ "costUsd": 0.03284,
+ "problems": [],
+ "pass": true
+}

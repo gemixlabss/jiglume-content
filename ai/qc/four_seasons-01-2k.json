@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/four_seasons/four_seasons-01-2k.jpg",
+ "id": "four_seasons-01",
+ "category": "four_seasons",
+ "title": "Cherry blossom path",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 56.5,
+  "contrast": 0.186,
+  "sharpness": 8.64
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "95b16e6259c193ec",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00197
+ },
+ "costUsd": 0.03093,
+ "problems": [],
+ "pass": true
+}

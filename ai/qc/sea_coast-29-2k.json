@@ -1,0 +1,52 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-29-2k.jpg",
+ "id": "sea_coast-29",
+ "category": "sea_coast",
+ "title": "Harbour cats",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.6,
+  "contrast": 0.152,
+  "sharpness": 9.03
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "808e799dc9f2b265",
+ "review": {
+  "text": true,
+  "text_where": "faint lettering on the small dome atop the white boat cabin",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "harbor village scene filled with cats on boats and docks",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00267
+ },
+ "costUsd": 0.03284,
+ "problems": [
+  "low contrast (0.152)",
+  "letters/text (faint lettering on the small dome atop the white boat cabin)"
+ ],
+ "pass": false
+}

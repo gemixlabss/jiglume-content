@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/treats/treats-05-2k.jpg",
+ "id": "treats-05",
+ "category": "treats",
+ "title": "Cupcake party",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 37.2,
+  "contrast": 0.177,
+  "sharpness": 8.73
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "91914c6f54744bfc",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0016
+ },
+ "costUsd": 0.03125,
+ "problems": [],
+ "pass": true
+}

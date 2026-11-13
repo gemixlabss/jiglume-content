@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/nostalgia/nostalgia-04-2k.jpg",
+ "id": "nostalgia-04",
+ "category": "nostalgia",
+ "title": "Old train station",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 53.1,
+  "contrast": 0.166,
+  "sharpness": 8.72
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "d40779616b4c3eb4",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Victorian railway station scene at night with a steam train, passengers, and luggage.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0022
+ },
+ "costUsd": 0.03255,
+ "problems": [],
+ "pass": true
+}

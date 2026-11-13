@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/colorful_streets/colorful_streets-11-2k.jpg",
+ "id": "colorful_streets-11",
+ "category": "colorful_streets",
+ "title": "Bakery street at dawn",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 54.3,
+  "contrast": 0.234,
+  "sharpness": 8.6
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "959652cb491bedc2",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustrated cobblestone street with a warm bakery shop front.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00232
+ },
+ "costUsd": 0.03,
+ "problems": [],
+ "pass": true
+}

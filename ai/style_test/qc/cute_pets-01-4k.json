@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-01-4k.jpg",
+ "id": "cute_pets-01",
+ "category": "cute_pets",
+ "title": "Kittens in a basket",
+ "imageSize": "4K",
+ "native": [
+  3584,
+  4800
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 61.2,
+  "contrast": 0.247,
+  "sharpness": 7.74
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c9ccd0692d72ad74",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Three cute kittens playing with colorful yarn balls spilling from a basket in a cozy sunlit kitchen.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00271
+ },
+ "costUsd": 0.12396,
+ "problems": [],
+ "pass": true
+}

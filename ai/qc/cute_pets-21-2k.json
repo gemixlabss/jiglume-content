@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-21-2k.jpg",
+ "id": "cute_pets-21",
+ "category": "cute_pets",
+ "title": "Cat and goldfish",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 72.4,
+  "contrast": 0.211,
+  "sharpness": 7.24
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "cba737d1509d34a2",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy illustration of a cat watching goldfish in a bowl.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0022
+ },
+ "costUsd": 0.031,
+ "problems": [],
+ "pass": true
+}

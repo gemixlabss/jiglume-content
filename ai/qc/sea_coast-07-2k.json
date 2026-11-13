@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/sea_coast/sea_coast-07-2k.jpg",
+ "id": "sea_coast-07",
+ "category": "sea_coast",
+ "title": "Pier at dusk",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 58.1,
+  "contrast": 0.174,
+  "sharpness": 8.53
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c9d3163b33584ce6",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00171
+ },
+ "costUsd": 0.03188,
+ "problems": [],
+ "pass": true
+}

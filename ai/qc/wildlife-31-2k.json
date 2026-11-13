@@ -1,0 +1,55 @@
+{
+ "file": "ai/raw/wildlife/wildlife-31-2k.jpg",
+ "id": "wildlife-31",
+ "category": "wildlife",
+ "title": "Fox cubs at the den",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 57.9,
+  "contrast": 0.197,
+  "sharpness": 7.82
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [
+  {
+   "height": 0.112,
+   "score": 0.79,
+   "closeUp": true
+  }
+ ],
+ "phash": "89ca8b9936737c64",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00221
+ },
+ "costUsd": 0.03138,
+ "problems": [],
+ "pass": true
+}

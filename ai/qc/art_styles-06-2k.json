@@ -1,0 +1,51 @@
+{
+ "file": "ai/raw/art_styles/art_styles-06-2k.jpg",
+ "id": "art_styles-06",
+ "category": "art_styles",
+ "title": "Embroidered flowers",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 34.2,
+  "contrast": 0.138,
+  "sharpness": 8.58
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "88aa1fb134dcf329",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "embroidered pastel floral scene with two birds",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00227
+ },
+ "costUsd": 0.03205,
+ "problems": [
+  "low contrast (0.138)"
+ ],
+ "pass": false
+}

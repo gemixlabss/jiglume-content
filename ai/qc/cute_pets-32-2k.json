@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/cute_pets/cute_pets-32-2k.jpg",
+ "id": "cute_pets-32",
+ "category": "cute_pets",
+ "title": "Puppy in a wheelbarrow",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 63.1,
+  "contrast": 0.178,
+  "sharpness": 7.89
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c096636b5b3d1e94",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy autumn night scene with a puppy in a wheelbarrow filled with apples and pumpkins.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.00217
+ },
+ "costUsd": 0.03315,
+ "problems": [],
+ "pass": true
+}

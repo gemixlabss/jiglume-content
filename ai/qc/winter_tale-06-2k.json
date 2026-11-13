@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/winter_tale/winter_tale-06-2k.jpg",
+ "id": "winter_tale-06",
+ "category": "winter_tale",
+ "title": "Frozen lake cabin",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 45.4,
+  "contrast": 0.229,
+  "sharpness": 8.51
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "8080cae34b7df53e",
+ "review": {
+  "text": false,
+  "text_where": "",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy winter illustration with a snow-covered cabin, frozen lake, lantern, and ice skates.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0017
+ },
+ "costUsd": 0.02857,
+ "problems": [],
+ "pass": true
+}

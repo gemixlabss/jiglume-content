@@ -1,0 +1,49 @@
+{
+ "file": "ai/raw/collections/collections-05-2k.jpg",
+ "id": "collections-05",
+ "category": "collections",
+ "title": "Spice shop",
+ "imageSize": "2K",
+ "native": [
+  1792,
+  2400
+ ],
+ "final": [
+  2240,
+  3000
+ ],
+ "crops": {
+  "3:4": {
+   "shortSide": 2240,
+   "cellPx1000": 81.8
+  },
+  "1:1": {
+   "shortSide": 2240,
+   "cellPx1000": 70.8
+  }
+ },
+ "vivid": {
+  "colorfulness": 59.9,
+  "contrast": 0.198,
+  "sharpness": 8.37
+ },
+ "flatShare": 0.0,
+ "text": [],
+ "faces": [],
+ "phash": "c1c13e7f36cc4709",
+ "review": {
+  "text": false,
+  "text_where": "none",
+  "logos": false,
+  "malformed": false,
+  "close_up_people": false,
+  "copyrighted_character": false,
+  "scary": false,
+  "notes": "Cozy detailed illustration of a traditional spice merchant shop with sacks, jars, spices, and a sleeping cat.",
+  "model": "gemini-3.8-flash",
+  "costUsd": 0.0021
+ },
+ "costUsd": 0.03285,
+ "problems": [],
+ "pass": true
+}
